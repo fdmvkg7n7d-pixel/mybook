@@ -39,7 +39,7 @@
 
 ### BASIC INFORMATION
 
-- **Full Name:** Klara Key
+- **Full Name:** Klara Key (born Klára Drahoslav)
 - **Status:** Foster daughter of Patti Anne Key
 - **Foster Mother:** Patti Anne Key
 - **Foster Siblings:** Gamaliel Galvin (foster brother), Palmer Peter, Salena Sarai

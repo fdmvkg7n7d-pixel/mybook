@@ -1,6 +1,6 @@
 # SCENE OUTLINE: ASHLEY ERIN MEETS GEORGI (RAYA'S BIRTHDAY PARTY)
 
-**Characters:** Ashley Erin Key (13), Georgi Dimitrov (13), Raya (13 — Georgi's cousin, and the actor who plays Ashley Erin's character's *sister* on *This Land*). Background: Raya's parents; Georgi's parents, **Dr. Stoyan Dimitrov** and **Dr. Veska Dimitrova**.
+**Characters:** Ashley Erin Key (13), Georgi Dimitrov (14 — his birthday in April makes him the older of the two by about six months), Raya (— Georgi's cousin, and the actor who plays Ashley Erin's character's *sister* on *This Land*). Background: Raya's parents; Georgi's parents, **Dr. Stoyan Dimitrov** and **Dr. Veska Dimitrova**.
 **Setting:** Raya's family home in Toronto — a warm, modest, lived-in house, not a mansion. A backyard or rec-room birthday party for a thirteen-year-old.
 **Timeframe:** The year **Georgi's family immigrates to Toronto from Bulgaria.** Roughly twenty years before Ashley Erin and Georgi's first adoption (at thirty-three). This is the origin point of their entire love story.
 
@@ -10,7 +10,7 @@ Ashley Erin Key — youngest of the eight Key sisters, transgender girl, already
 
 Importantly, **Ashley Erin's transgender identity is one of the central points of *This Land*** — she plays a trans character, openly and publicly, in a celebrated, affirming, groundbreaking portrayal. By the time of this party she is therefore **publicly out as trans**: a young actor known and praised for representation. This matters for the scene, because it means Georgi is meeting not just a famous, wealthy girl, but a girl the whole country is already *talking about* — and he treats her like none of that is the point.
 
-Raya has a cousin, **Georgi**, whose family is **moving to Toronto from Bulgaria.** Georgi's parents are both doctors back home; they are uprooting an entire professional life to start over in a new country, and Georgi — thirteen years old — is about to land in a brand-new city, a brand-new school (**Upper Canada College**), and a brand-new language-of-belonging, knowing **not a single person in Ontario.**
+Raya has a cousin, **Georgi**, whose family is **moving to Toronto from Bulgaria.** Georgi's parents are both doctors back home; they are uprooting an entire professional life to start over in a new country, and Georgi — fourteen years old, just turned in April — is about to land in a brand-new city, a brand-new school (**Upper Canada College**), and a brand-new language-of-belonging, knowing **not a single person in Ontario.**
 
 So Raya does something small and enormous: for **her own birthday party**, she invites both her cousin and her castmate, with one quiet goal in mind — *Georgi should not arrive in this country knowing no one.* She wants to hand him at least one friend before his first day of school. She is not matchmaking for romance; she is matchmaking for **safety**. The romance is an accident of two good kids in the same kitchen.
 
@@ -34,9 +34,9 @@ Crucially: **Georgi is not an actor and wants nothing to do with show business.*
 *   For Georgi, Ashley Erin is the first person in this entire country to make him feel like less of a stranger. She asks him about Bulgaria. About what he left. About his parents. She doesn't flinch at his accent or his unfamiliarity; she's curious, not condescending.
 
 **The honest, unglamorous details:**
-*   Their conversation is small and real, not cinematic. Georgi tells her his parents are doctors back home — and that here, they're starting over, that it's complicated, that nobody seems to count what they already did. (An early, unguarded admission of the **re-credentialing struggle** — said plainly, without self-pity, the way a thirteen-year-old reports a fact he hasn't yet learned to be ashamed of.)
+*   Their conversation is small and real, not cinematic. Georgi tells her his parents are doctors back home — and that here, they're starting over, that it's complicated, that nobody seems to count what they already did. (An early, unguarded admission of the **re-credentialing struggle** — said plainly, without self-pity, the way a kid reports a fact he hasn't yet learned to be ashamed of.)
 *   He mentions he's starting at UCC and doesn't know a soul. Ashley Erin, without making it a big production, basically appoints herself: *then now you know me.*
-*   It is the kind of conversation where time disappears. Two thirteen-year-olds discovering that the other one is easy to talk to.
+*   It is the kind of conversation where time disappears. Two kids discovering that the other one is easy to talk to.
 
 **The quiet center of the whole saga:**
 *   The emotional core of the scene is this: **Georgi sees Ashley Erin as herself** — not as a Key, not as a celebrity, not as the youngest of eight, and (because none of it has come up and none of it matters to him) not as anything other than the person in front of him. He likes *her.*
@@ -48,7 +48,7 @@ Crucially: **Georgi is not an actor and wants nothing to do with show business.*
 
 **The goodbye — keeping in touch:**
 *   The party winds down. Georgi's parents — Dr. Stoyan and Dr. Veska Dimitrov(a) — come to collect him, tired from the thousand logistics of immigration, gently warm with their son, exchanging a few careful words with Raya's family. (Optional grace note: a brief, kind beat between the exhausted immigrant parents and the room — they are good people carrying a heavy season.)
-*   Before he leaves, Georgi and Ashley Erin make the small, momentous arrangement that thirteen-year-olds make: they'll talk, they'll hang out, she'll show him around, he'll have someone at school events / on weekends.
+*   Before he leaves, Georgi and Ashley Erin make the small, momentous arrangement that kids their age make: they'll talk, they'll hang out, she'll show him around, he'll have someone at school events / on weekends.
 *   Neither of them frames it as anything more than *I made a friend today.* But the saga frames it as the first page of a twenty-year story that ends in marriage and five adopted children.
 
 ## WHY THIS SCENE MATTERS
