@@ -89,7 +89,7 @@ Ashley Erin is one of the Key sisters who swims.
 - **Full Name:** Georgi Dimitrov [Surname tentative — see note below]
 - **Connection:** **Husband** of Ashley Erin Key.
 - **Cultural Background:** **Bulgarian.** Georgi immigrates to Canada **from Bulgaria at thirteen**, when his family relocates to Toronto. He grew up bilingual in Bulgarian and English. [Exact immigration details — TBD.]
-- **Age / Birth Timing:** Close in age to Ashley Erin. [Exact relative age — TBD; for now assume within a year or two of her.]
+- **Age / Birth Timing:** **Born about six months before Ashley Erin** — his birthday is in **April**, hers in **October**, so for part of each year they are the same age. They are essentially the same age / same school year. (At their first date, **both are fifteen**.) [Exact birth years — TBD.]
 - **Family Background:** **Both of Georgi's parents are doctors back in Bulgaria** — an educated, professional family. His father is **Dr. Stoyan Dimitrov** and his mother is **Dr. Veska Dimitrova** (Bulgarian surnames take the feminine "-a" ending for women). **After immigrating to Canada, they face the re-credentialing struggle:** their Bulgarian medical degrees and years of experience do not transfer cleanly, and the path back to a Canadian medical license (exams, residency placements, fees, language and certification hurdles) is long, expensive, and uncertain. For years they work below their training — survival jobs and bridging programs — while trying to qualify. It is a quiet, grinding humiliation borne for their son's future, and it shapes Georgi profoundly: he watches two physicians be told their life's work doesn't count here, and it both deepens his respect for medicine and steers him toward **nursing** as a way into caregiving without repeating their exact heartbreak. They are professionals, not the ultra-wealthy — a deliberate contrast to the Keys' unfathomable fortune. Georgi marries *into* the wealthiest family in the world but does not come from that kind of money and does not chase it. [Siblings — TBD.]
 - **Education:** Attends **Upper Canada College (UCC)** in Toronto after the family immigrates — a stretch his struggling-to-re-credential parents work and sacrifice to afford, determined that their son have every door open in the new country. Later earns a **nursing degree (BScN)**. [University — TBD.]
 - **Religion:** Raised **Bulgarian Orthodox**; the household with Ashley Erin is **Catholic** (consistent with the Key family). Whether Georgi converts, or the family is interfaith in practice, is **[TBD]** — but the children are raised Catholic.
@@ -114,9 +114,11 @@ The shape of it matters: Ashley Erin is at the party as the cousin's castmate, a
 
 > **Age note:** Ashley Erin and Georgi meet at **thirteen**, the year **Georgi's family moves to Toronto**. Their first adoption (the twins) is at **thirty-three** — meaning they have roughly **twenty years** of shared history before they begin building their family. Whether they date continuously from thirteen, break up and find their way back, or are close friends first and a couple later, is **[TBD]** — but they meet at thirteen and end up married.
 
-[Exact ages when they begin dating and when they marry — TBD. They meet at thirteen; first adoption at thirty-three.]
+[Exact age when they marry — TBD. They meet at thirteen; **become a couple about two years later, when both are fifteen** (continuous since thirteen, finally named — see the first-date scene outline); first adoption at thirty-three.]
 
-*See [ashley-erin-meets-georgi-at-rayas-birthday-scene-outline.md](ashley-erin-meets-georgi-at-rayas-birthday-scene-outline.md) for the full scene.*
+*See [ashley-erin-meets-georgi-at-rayas-birthday-scene-outline.md](ashley-erin-meets-georgi-at-rayas-birthday-scene-outline.md) for the full scene where they meet at thirteen.*
+
+*See [ashley-erin-georgi-first-date-movie-scene-outline.md](ashley-erin-georgi-first-date-movie-scene-outline.md) for their first real date — about two years after they meet, when both are fifteen — when the childhood friendship is finally named as a relationship at an ordinary night at the movies (the young actor, for once, in the audience).*
 
 ---
 
@@ -174,8 +176,8 @@ Ashley Erin and Georgi have **five adopted children**:
 - ~~How old are Ashley Erin and Georgi when they meet?~~ **Resolved:** they meet at **thirteen**, at the cousin's birthday party, the year Georgi's family moves to Toronto.
 - ~~Is Georgi an actor?~~ **Resolved: no.** Georgi is not an actor and has no connection to show business; his cousin is the actor.
 - ~~Who is Georgi's cousin, and what's the show?~~ **Resolved:** the cousin is **Raya**, a girl their age, who plays **Ashley Erin's character's sister** on the TV show ***This Land***. Still open: Raya's surname and her later arc.
-- When do Ashley Erin and Georgi start dating, and when do they marry? (They meet at thirteen; first adoption at thirty-three.)
-- Are they together continuously from thirteen, or friends first / on-and-off before marrying?
+- ~~When do Ashley Erin and Georgi start dating?~~ **Resolved:** about **two years after they meet, when both are fifteen** — the friendship is named, not begun, on an ordinary first date at the movies. (See the first-date scene outline.) Still open: **when they marry.** (They meet at thirteen; first adoption at thirty-three.)
+- ~~Are they together continuously from thirteen, or friends first / on-and-off before marrying?~~ **Resolved: continuous since thirteen** — each other's person the whole way through; the first date at fifteen just gives it a name.
 - How does Georgi enter the Key family? (First meeting with Mike and Terri Anne; the sisters; does this happen before or after Mike's death?)
 - What is Georgi's relationship to his parents (Dr. Stoyan Dimitrov and Dr. Veska Dimitrova), and are they part of the children's lives? Do they ever succeed in re-credentialing, or do they never practice medicine in Canada again?
 - What is the household surname — Key, Dimitrov, or Key-Dimitrov?
@@ -208,7 +210,9 @@ Ashley Erin and Georgi have **five adopted children**:
 - [x] Age when they meet: **thirteen** (childhood sweethearts; ~20 years of shared history before the first adoption at thirty-three).
 - [x] Heart of the relationship: **steady, unglamorous devotion** as the antidote to Haden's cruelty; a parenting partnership built through adoption.
 - [ ] Exact calendar date of birth (Ashley Erin, Georgi, and the five children).
-- [ ] When they begin dating and when they marry (continuous from thirteen, or friends-first / on-and-off?).
+- [x] When they begin dating: about **two years after meeting**, when **both are fifteen**. Continuous since thirteen; the friendship simply named on an ordinary first date at the movies (a rare taste of normal for the young actor). *(See the first-date scene outline.)*
+- [x] Georgi is **born about six months before Ashley Erin** — his birthday **April**, hers **October** — so they're essentially the same age / same school year, the same age for part of each year.
+- [ ] When they **marry** (the dating-to-marriage runway between the first date at fifteen and the first adoption at thirty-three).
 - [ ] Georgi's surname (and the household/children's surname): Key, Dimitrov, or Key-Dimitrov.
 - [ ] Georgi's religion in practice (Bulgarian Orthodox raised; household is Catholic — does he convert?).
 - [ ] Whether Dr. Stoyan Dimitrov and Dr. Veska Dimitrova ever succeed in re-credentialing in Canada; their survival jobs/bridging path; siblings; their place in the children's lives.
