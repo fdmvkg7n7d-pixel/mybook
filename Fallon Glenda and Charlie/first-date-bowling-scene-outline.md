@@ -1,6 +1,6 @@
 # SCENE OUTLINE: THE FIRST DATE (AT-HOME BOWLING)
 
-**Characters:** Fallon Glenda (16), Charlie (16), and Mike Key.
+**Characters:** Fallon Glenda (16), Charlie (17), and Mike Key.
 **Setting:** The foyer and private bowling alley of the Key family's Carlisle mansion.
 **Timeframe:** Shortly after Fallon and Charlie first meet in Carlisle Park. 
 
@@ -14,7 +14,7 @@ Because the Key family possesses unfathomable wealth, "staying in" doesn't mean 
 **Charlie's Arrival & The Patriarch:**
 *   Charlie arrives at the massive Carlisle estate. He is naturally intimidated by the sheer scale of the wealth, but he is determined to see Fallon.
 *   He is greeted in the grand foyer not by Fallon, but by Mike Key. 
-*   Mike assesses the sixteen-year-old boy. He knows Charlie didn't run away when he found out Fallon had a three-year-old daughter, which earns Charlie a baseline level of respect. But Mike is still fiercely protective.
+*   Mike assesses the seventeen-year-old boy. He knows Charlie didn't run away when he found out Fallon had a three-year-old daughter, which earns Charlie a baseline level of respect. But Mike is still fiercely protective.
 
 **The Warning (The Foyer):**
 *   While they wait for Fallon, Mike speaks to Charlie man-to-man. 
