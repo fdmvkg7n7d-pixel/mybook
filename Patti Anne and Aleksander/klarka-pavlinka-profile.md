@@ -10,11 +10,14 @@
 - **Position in Family:** **Eldest daughter** of **Gamaliel Galvin Key** and **Klára Key**. First of two children.
 - **Age Gap:** **Fifteen months older** than her younger sister, **Simonka Káta**.
 - **Parents:** Gamaliel Galvin Key (father), Klára Key (mother)
+- **Relationship Status:** In a relationship with **Raphael**.
+- **Partner:** Raphael [surname TBD]
 - **Grandparents (Paternal):** Patti Anne Key (grandmother), Aleksander (step-grandfather)
 - **Grandparents (Maternal):** The Drahoslav family. Klára's biological father (first name TBD) — the man whose abuse she disclosed at age seven or eight, leading to her removal and eventual fostering by Patti Anne. Her biological mother (unknown). Klára was born Klára Drahoslav before taking the Key name.
 - **Great-Grandparents:** Mike Key and Terri Anne Williams-Key
-- **Education:** [TBD — likely begins at her parents' ballet academy in Prague]
-- **Activities:** [TBD — ballet? other?]
+- **Education:** Begins at her parents' ballet academy in Prague and grows up inside the school as both student and family member.
+- **Occupation / Role:** Ballet teacher at **Gamaliel Galvin and Klára's ballet academy** in Prague.
+- **Activities:** Ballet — not only as childhood training, but as adult work. Klárka eventually teaches at the academy her parents built.
 - **Traits:** [TBD]
 
 ---
@@ -45,7 +48,9 @@ Klárka's parents met at Victoria Ballet Academy when they were five years old. 
 Klárka was born into this legacy: a family built on rescue, secrecy, ballet, and a grandmother's twenty-five-million-dollar act of faith.
 
 ### The Prague Academy
-Klárka grows up in Prague, where her parents run their own ballet academy. The first studio in the school is named **Mike Key Studio**, after her great-grandfather. She is likely a student there from a young age — not because she is forced, but because she has grown up in the studios. The barre is as familiar to her as a kitchen table.
+Klárka grows up in Prague, where her parents run their own ballet academy. The first studio in the school is named **Mike Key Studio**, after her great-grandfather. She begins as a child of the academy — not because she is forced, but because she has grown up in the studios. The barre is as familiar to her as a kitchen table.
+
+As an adult, Klárka becomes a **teacher at Gamaliel Galvin and Klára's ballet academy**. This gives her a different relationship to the family legacy: she is not only the daughter who grew up in the school her parents dreamed into existence after Mike's death; she becomes one of the people responsible for carrying that dream forward into the next generation of students.
 
 ### The Dogs
 Klárka grows up with Kleopatra (Willow's daughter) and whatever dogs follow. The household in Prague has at least one Golden Retriever at all times — it is her mother's one non-negotiable.
@@ -54,14 +59,19 @@ Klárka grows up with Kleopatra (Willow's daughter) and whatever dogs follow. Th
 
 ## RELATIONSHIPS
 
+### With Raphael (Partner)
+Klárka Pavlînka is in a relationship with **Raphael**. Further details are TBD: how they meet, whether Raphael is connected to the ballet academy, how he fits into the Prague household, and how he responds to the weight of the Key-Dimitrov family legacy.
+
 ### With Simonka Káta (Younger Sister)
-[Further development needed.]
+Klárka is Simonka's older sister, only fifteen months ahead of her, but she does not automatically know what is happening in Simonka's private life. During Simonka's Holic/GG decision week, Klára asks Klárka whether she knows what is wrong with Simonka. Klárka does **not** know. Simonka has kept that part of her life so secret that even Klárka cannot explain her sister's emotional shift.
+
+This gives their sister relationship a quiet asymmetry: Klárka may be the older sister and a natural witness to many of Simonka's milestones, but Simonka is capable of withholding an entire hidden world from her.
 
 ### With Gamaliel (Father)
-[Further development needed.]
+Klárka eventually works inside the academy her father built with Klára. Her relationship with Gamaliel therefore becomes both familial and artistic: he is her father, but also the founder whose standard, discipline, and tenderness shape the school where she teaches.
 
 ### With Klára (Mother)
-[Further development needed.]
+Klárka teaches at the academy her mother dreamed of long before Prague was real. Because she is named for Klára and later teaches in Klára's school, the echo between mother and daughter becomes visible in public: not as replacement, but as continuation.
 
 ### With the Broader Key Family
 Klárka is a great-grandchild of Mike Key and Terri Anne Williams-Key. She is named after her mother, who was named by a Key family that chose her. The name Klárka connects her to the story of a girl who was saved, fostered, loved, and given a future. She grows up hearing about the mansion in Toronto, the cottage where her mother named her first dog under the stars, and the grandfather who caught two teenagers kissing and told them they would be okay.
@@ -73,11 +83,12 @@ Klárka is a great-grandchild of Mike Key and Terri Anne Williams-Key. She is na
 - [ ] Exact birth date
 - [ ] Surname (Key, Dimitrov, or Key-Dimitrov)
 - [ ] Where she is born (Toronto or Prague?)
-- [ ] Whether she dances, and what her relationship to ballet is
+- [x] Whether she dances, and what her relationship to ballet is — she becomes a ballet teacher at Gamaliel Galvin and Klára's academy.
 - [ ] Personality, traits, and individual arc
-- [ ] Her relationship with her younger sister Simonka
+- [x] Her relationship with her younger sister Simonka — Klárka is close enough to be asked about Simonka, but Simonka is secretive enough that Klárka does not know about the Holic/GG part of her life.
 - [ ] Whether she speaks Czech, Bulgarian, English, or all three
 - [ ] The weight of being named after her mother — does she feel the legacy? Does she embrace it, resist it, or simply live inside it?
+- [ ] Raphael's surname, background, and how his relationship with Klárka begins
 - [ ] Her place in the broader Key family saga
 
 ---

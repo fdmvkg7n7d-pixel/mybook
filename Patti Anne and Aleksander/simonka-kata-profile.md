@@ -10,6 +10,8 @@
 - **Position in Family:** **Youngest daughter** of **Gamaliel Galvin Key** and **Klára Key**. Second of two children.
 - **Age Gap:** **Fifteen months younger** than her older sister, **Klárka Pavlînka**.
 - **Parents:** Gamaliel Galvin Key (father), Klára Key (mother)
+- **Relationship Status:** Simonka Káta is in **three different relationships**.
+- **Partners:** **Alois** [surname TBD], **Ambroz** [surname TBD], and **Holic Bartunek**. Ambroz later becomes her ex when Simonka breaks up with him at age twenty-one because she can no longer tolerate his immaturity. Simonka meets Holic by accident in Prague's Old Town Square when she is twenty-three; he asks her on a first date to Marie B, orders her meal as a private test she does not know is a test, and later asks her to sit on the floor so he can feed her dessert as another private test. Holic is connected to a club with consensual adult human-pet dynamics and an annual human pet show. **Simonka Káta is Holic's pet** within that consensual adult roleplay dynamic.
 - **Grandparents (Paternal):** Patti Anne Key (grandmother), Aleksander (step-grandfather)
 - **Grandparents (Maternal):** The Drahoslav family. Klára's biological father (first name TBD) — the man whose abuse she disclosed at age seven or eight, leading to her removal and eventual fostering by Patti Anne. Her biological mother (unknown). Klára was born Klára Drahoslav before taking the Key name.
 - **Great-Grandparents:** Mike Key and Terri Anne Williams-Key
@@ -68,8 +70,103 @@ Simonka grows up with Golden Retrievers — Willow (Klára's first dog, now elde
 
 ## RELATIONSHIPS
 
+### With Alois (Partner)
+Simonka Káta is in a relationship with **Alois**, who is in his **early twenties**. This relationship is a little different from her relationships with Ambroz and Holic because Alois has a farm, and the barn contains **BDSM equipment**. This detail gives the relationship a more private, adult, and unconventional edge, distinct from Simonka's university and city life in Prague.
+
+For Simonka's **nineteenth birthday**, while she is also in a relationship with **Ambroz**, Alois invites her to his farm for some private adult fun. **Ambroz is not invited** because the farm — and especially the barn's BDSM context — is not his cup of tea. His exclusion is practical, but it still hurts him: Ambroz becomes **very jealous**, creating tension between Simonka's relationships and making Alois's farm a flashpoint rather than a neutral birthday invitation.
+
+Simonka also likes being in a **water tank**. This becomes part of the Alois/farm side of her life: an enclosed, sensory, water-based experience that is explicitly **erotic and pleasurable** for her, distinct from both the discipline of ballet studios and the intellectual atmosphere of Charles University.
+
+The nineteenth-birthday visit is not only Simonka and Alois alone: **other friends are also present to celebrate Simonka Káta's birthday**. This makes the farm gathering a social birthday event as well as a private adult setting, with Alois's farm functioning as the place where celebration, desire, jealousy, and boundaries all intersect.
+
+During the birthday gathering, **Braxton** and Simonka Káta sleep together **in front of their friends**. This is a consensual adult encounter and becomes another charged element of the farm birthday scene: public enough to affect the group dynamic, intimate enough to complicate Simonka's existing relationships, and likely to intensify Ambroz's jealousy if he learns about it.
+
+Afterward, Simonka is also involved with **Drahoslava** and **Bohuslava** in a **group setting**. This is treated as part of the same consensual adult birthday/farm context: another social-sexual moment where the celebration becomes communal, boundary-driven, and emotionally complicated rather than private or conventional.
+
+Further details are TBD: Alois's surname, where the farm is located, how Simonka discovers or is introduced to that side of his life, how the nineteenth-birthday invitation is negotiated, and how consent, privacy, trust, jealousy, and boundaries shape this relationship.
+
+### With Ambroz (Partner)
+Simonka Káta is in a relationship with **Ambroz**, who is **nineteen years old** and **very immature** during the nineteenth-birthday/farm period. During Simonka's nineteenth birthday, Ambroz is already in the picture when Alois invites Simonka to the farm. Ambroz is **not invited**, because Alois's farm and barn scene are not his cup of tea. Even if the exclusion makes sense, Ambroz is **very jealous**, and this jealousy becomes an important pressure point in his relationship with Simonka.
+
+When they are **twenty-one years old**, Simonka Káta cannot take Ambroz's immaturity anymore, so she **breaks up with him**. The breakup marks the point where his jealousy and immaturity are no longer something she can manage alongside the rest of her complicated romantic life. Later, after Simonka meets Holic and has her first date with him at Marie B, Ambroz comes to Simonka's apartment and begs her to take him back. She refuses.
+
+Further details are TBD: Ambroz's surname, background, how they meet, and the specific emotional shape of this relationship compared with Simonka's relationships with Alois and Holic.
+
+### With Holic Bartunek (Partner)
+Simonka Káta meets **Holic Bartunek** by accident in **Prague's Old Town Square** when she is **twenty-three years old**. Holic notices something interesting in Simonka's eyes and asks her out on a date to **Marie B** in Prague's Old Town. The date is not only romantic curiosity for Holic: privately, it is also the beginning of a test to see whether Simonka could become his human pet. **Simonka does not know that Holic is testing her.** He orders Simonka Káta's meal for her as part of that private, undisclosed test.
+
+When dessert comes to the table, Holic asks Simonka to sit down on the floor so he can feed the dessert to her. This becomes another private test that Simonka does not yet recognize as a test — quieter than the club's branding tradition, but socially and psychologically charged because it introduces the human-pet dynamic in a restaurant setting. After the Marie B date, Holic asks Simonka to come over to his **mansion** for another date.
+
+In the middle of the two Holic dates — after Marie B but before the mansion date — **Ambroz comes to Simonka's apartment and begs her to take him back**. Simonka does **not** take Ambroz back. His immaturity, jealousy, and pleading confirm for her that the relationship is over. The encounter also confirms for Simonka that she is doing the right thing by going to **Holic's mansion** for a second date.
+
+During the second date, Holic gives Simonka a **tour of his mansion**. The house is impressive and establishes Holic's wealth, privacy, and control over his environment; however, it is **not the size of Mike and Terri Anne's Carlisle mansion**. This comparison matters because Simonka comes from a family where enormous houses already exist in the background of the saga — Holic's mansion is significant, but it does not eclipse the Key family scale.
+
+One room in Holic's mansion is dedicated to his **dead Wolfdog**. In the middle of the room is an **urn containing the Wolfdog's ashes**. The walls are covered with different photographs of the Wolfdog — working, resting, watching Holic, and standing beside him at different points in his life. Simonka notices the Wolfdog's **electric dog collar** in the room and asks Holic what the collar is for.
+
+Holic's answer: *"It was his training collar. Not punishment — not if it was used correctly. A signal. A boundary. A way to tell him, even at a distance: stop, come back, listen. He was powerful, and he needed rules he could understand immediately. Some people think control is cruelty. It can be. But control can also be care, if the one holding it knows the difference."*
+
+After explaining the collar, Holic asks Simonka if she wants to try it on. Simonka says yes and asks him what he wants her to do. Wearing the dog collar is **Simonka's decision**: Holic asks, but she chooses to wear it. When the moment moves toward undressing, **Simonka is willing to take her clothes off**. She does so by choice. Once she is wearing the collar, Holic asks her to **sit down on the floor as a pet does**. Simonka does not yet know that Holic is treating this as another test in the process of deciding whether she could become his human pet.
+
+Holic then leads Simonka outside to what he calls her **new home for the weekend**: a **doghouse**. The doghouse is prepared for a human pet and includes a **heater** to keep Simonka warm. In this part of the dynamic, Holic gives Simonka a new pet name: **Good Girl**, shortened to **GG**.
+
+Holic puts out **two bowls** for GG. The first bowl is for **GG's water**. The second bowl is for **her food**, which is **dog food**. This makes the weekend doghouse setup more literal and intensifies the human-pet roleplay: GG is not merely wearing the collar or sitting on the floor, but being placed into a full pet routine with designated bowls, water, and food.
+
+GG's training also includes **toilet training** as part of the human-pet routine. This is treated as a consensual adult kink element with strict boundaries, hygiene, and care. Unlike a private bathroom routine, GG's toilet training deliberately does **not** center privacy, because at the annual human pet show the pets are kept together in a **large fenced area**. Holic therefore trains GG to understand that, while she is in pet space, this part of her routine may happen within a managed group environment rather than behind closed doors. Specifically, GG needs toilet training because at the show she is expected to **go on the ground in front of the other human pets** as part of the club's pet-space rules. It becomes another way Holic structures GG's weekend life: where she sleeps, what name she answers to, how she eats and drinks, and how her bodily routines are managed while she is in pet space.
+
+### GG's Training Structure
+Holic's training of Simonka as **GG** becomes structured rather than random. The training is still intense and psychologically charged, but it has recognizable stages:
+
+1. **Name training:** Simonka learns to answer to **Good Girl** or **GG** during pet time. Holic uses the name as both identity and praise.
+2. **Collar training:** The collar marks the beginning of pet space. When the collar is on, she is GG; when it comes off, she returns to being Simonka.
+3. **Position training:** Holic teaches basic positions such as sit, stay, kneel, come, wait, and rest. These are framed as pet behaviors rather than ordinary human instructions.
+4. **Bowl training:** GG learns the routine of her water bowl and food bowl. This connects to the doghouse weekend and reinforces the literal structure of the roleplay.
+5. **Doghouse / den training:** GG learns that the heated doghouse is her weekend den — a place to rest, wait, and sleep while she is in pet space.
+6. **Toilet training:** This remains part of the routine, handled with strict hygiene, consent, and care, but not privacy. Holic prepares GG for the annual human pet show, where pets are kept in a large fenced area and are expected to go on the ground in front of the other human pets as part of the shared pet-space routine.
+7. **Praise and correction:** Holic uses praise, especially the words **Good Girl**, as a reward. Corrections are part of the dynamic, but they are bounded by consent, negotiated limits, and safety.
+8. **Shock-collar boundaries:** If the electric shock collar is used, its use is governed by agreed limits, intensity boundaries, and the ability to stop. This separates Holic's controlled-care philosophy from cruelty.
+9. **Show training:** If Holic intends to bring GG to the annual human pet show, he begins preparing her for presentation: posture, stillness, obedience, endurance, and how to behave around other owners and pets. This includes **human pet show fenced-area preparation**, because pets are kept together in a large fenced area during the event.
+10. **Aftercare and debriefing:** After training sessions, Holic brings Simonka back out of pet space with warmth, water, rest, verbal reassurance, and a conversation about what she liked, what frightened her, and what boundaries need to change.
+
+This training arc gives Simonka's transformation into GG a progression: curiosity, consent, uncertainty, immersion, discipline, and eventually a conscious decision about how far she wants to go in Holic's world.
+
+At the end of the weekend, Holic lets Simonka Káta **stand up** and return home as Simonka rather than GG. He does not require an immediate answer. Instead, he tells her to go home and think carefully about whether she wants to become his pet **permanently**. He gives her **one week** to make her decision. This pause matters: after a weekend of collar, doghouse, bowls, training, and pet-space immersion, Simonka is returned to ordinary life long enough to decide whether GG is only an experience or a life she wants to choose.
+
+On the **Friday** of that decision week, Simonka visits **Gamaliel Galvin and Klára** for a meal with her parents. She is physically present at the table, but emotionally unsettled: still carrying the weekend with Holic, the doghouse, the collar, the name GG, and the question of whether she wants to become his pet permanently. Gamaliel and Klára notice that something is off with Simonka and keep asking her what is wrong. Simonka insists that **nothing is wrong**, but her denial does not fully convince them.
+
+Afterward, **Klára asks Klárka Pavlînka about Simonka Káta**, hoping Simonka's older sister might know what is going on. Klárka does not know anything useful. Simonka has been intensely secretive — not merely private, but genuinely difficult to read, even for her sister. Klárka cannot explain the change in Simonka because Simonka has kept the Holic/GG part of her life completely hidden from the family.
+
+After the Friday meal, **Holic's driver** picks up Simonka Káta. The driver asks her to **get undressed** and get into Holic's **limousine**. This functions as another threshold between Simonka's ordinary life and GG's pet-space life: she is leaving her parents' table, where she denied anything was wrong, and entering Holic's controlled world again. The moment should be framed around Simonka's adult consent and agency — the driver asks, and Simonka chooses whether to comply.
+
+When Simonka arrives back in Holic's world as **GG**, one of **Holic's club members** is waiting with Holic to meet his new pet. The club member has the **branding iron** with him, prepared for GG's branding according to the club's rules. He also has his own **male human pet** with him. The presence of the other owner and his pet makes the moment feel less private and more formal: GG is not only returning to Holic, but being introduced into the club's human-pet culture and its rituals.
+
+The club member's male human pet is **twenty-five years old**. Holic arranges for the male human pet to sleep with Simonka/GG as part of her introduction into the club's wider human-pet culture. Simonka has safewords available at all times: **yellow** means slow down, and **red** means immediate stop. Even with those safeguards, the moment is emotionally complicated because Simonka wants to **impress Holic**. Her desire to please him becomes part of the tension: she has the right to stop, but she is also trying to prove that she can belong in Holic's world.
+
+The club member then leaves his male human pet with **Holic and GG for the weekend**. This makes the weekend more than GG's private return to Holic: she now has another human pet present with her, turning the doghouse/pet-space training into a shared pet environment and a preview of the club's larger human-pet culture.
+
+The club member has secretly given his male human pet **Spark**, a sexual-performance pill similar to Viagra. This is a serious breach of consent and medical safety inside the club's supposed consent culture: the pet has been medicated without open agreement, and neither GG nor Holic initially understands that the male pet's state has been chemically influenced. This detail creates a darker fault line in the weekend, because Holic's world claims to be built on rules and safewords, while another member is violating those principles behind the scenes.
+
+By secretly medicating his pet, the club member has broken **many rules of the club**. He has violated the club's consent rules, medical-disclosure rules, owner responsibility standards, and the trust required for shared scenes between pets and owners. His behavior is not treated as normal club practice; it is a serious misconduct event that threatens GG, the male human pet, Holic's authority, and the club's reputation.
+
+Even when the situation becomes difficult, **GG does not want to stop** because she wants to please Holic. Her yellow/red safewords still exist, but emotionally she resists using them because she wants to prove herself as Holic's pet. This creates an important tension in the scene: GG technically has the power to slow down or stop, but her desire to impress Holic makes her push herself further than she otherwise might.
+
+When the other pet leaves, Holic cleans GG up with a **warm bath**. This becomes an aftercare moment after the shared-pet encounter: Holic brings GG out of the intensity of the scene through warmth, water, attention, and quiet physical care. GG is **very emotional** while getting the bath — overwhelmed by what happened with the other pet, by her desire to please Holic, and by the reality of how far she has already gone into pet space. During this aftercare, GG tells Holic, **"Yellow!"** She uses yellow because of what she did with the other pet — not as a full stop, but as a request to slow down emotionally and be reassured. Holic responds by telling her that she did a **good job** with the other pet.
+
+The moment creates an immediate visual and emotional bridge between Holic's grief for the animal he lost and the electric shock collar he later uses in his consensual human-pet dynamic with Simonka. She later enters a relationship with Holic. Within this consensual adult kink/BDSM roleplay dynamic, **Simonka Káta is Holic's pet**. Holic is connected to a club whose members keep consensual adult **human pets** as part of the community. The club holds an **annual human pet show**, where members show their pets in a structured social event. The club also uses a **very hot branding iron** to brand human pets as part of its permanent marking/body-modification tradition. The required placement for the club's brand is the human pet's **right buttock**. Simonka's brand is **Holic's initials** — **H.B.** for **Holic Bartunek** — placed on her right buttock according to club tradition.
+
+This makes Holic's relationship with Simonka distinct from Alois's farm/barn world and Ambroz's immature jealousy: Holic belongs to a more organized club culture with rituals, members, public-facing private rules, an annual event built around human-pet dynamics, and a serious branding tradition. Because the branding uses a very hot iron and creates a permanent mark, it carries significant physical and emotional weight inside the club's hierarchy and rituals.
+
+Holic uses an **electric shock dog collar** in his human-pet dynamic with Simonka. Within the club culture, this is treated as comparatively restrained: **most pet owners in the club use much worse** methods or equipment. This detail positions Holic as severe by ordinary standards but less extreme than many other owners in the club, and it further emphasizes the importance of consent, limits, trust, and aftercare in Simonka's participation.
+
+Further details are TBD: Holic Bartunek's background; the exact accident that causes them to meet in Old Town Square; the details of their first date at Marie B; Simonka's reaction to Holic ordering her meal without knowing it is a test; Simonka's reaction when Holic asks her to sit on the floor so he can feed her dessert without knowing it is a test; Holic's mansion and the second-date tour there; the ways Holic's mansion differs from Mike and Terri Anne's Carlisle mansion; Holic's dead Wolfdog, the urn of ashes, and the Wolfdog's electric dog collar; Ambroz's apartment visit between the two Holic dates; the weekend doghouse setup with heater; Simonka's pet name Good Girl/GG; GG's water bowl and dog-food bowl; GG's toilet training, lack-of-privacy element, expectation that she goes on the ground in front of other human pets, and hygiene/boundary rules; GG's training structure; the end-of-weekend return home and one-week decision period; the Friday meal with Gamaliel and Klára during the decision week; Klára asking Klárka about Simonka and Klárka not knowing anything because Simonka is so secretive; Holic's driver picking Simonka up and asking her to undress before entering the limousine; the club member waiting with Holic, the branding iron, the club member's twenty-five-year-old male human pet, Holic arranging for the male pet to sleep with GG, the club member leaving his pet with Holic and GG for the weekend, the member secretly giving his pet Spark and breaking many club rules, GG not wanting to stop because she wants to please Holic, Holic cleaning GG up with a warm bath after the other pet leaves, GG being very emotional during the bath, GG using yellow during aftercare because of what she did with the other pet, Holic reassuring her that she did a good job, and Simonka's yellow/red safewords; the exact rules, symbols, electric shock collar use, and boundaries of Simonka being Holic's pet; whether Holic shows Simonka at the annual human pet show; and how this relationship connects to Simonka's broader arc.
+
+### With Braxton
+Braxton is connected to Simonka's nineteenth-birthday gathering at Alois's farm. He is in his **early twenties**. During that celebration, Braxton and Simonka sleep together in front of their friends. Further details are TBD: Braxton's surname, background, whether Braxton is part of Alois's farm circle or Simonka's university/social circle, and how the encounter affects Simonka's relationships with Alois, Ambroz, and Holic.
+
+### With Drahoslava and Bohuslava
+Drahoslava and Bohuslava are connected to the group setting at Simonka's nineteenth-birthday gathering at Alois's farm. They are both in their **early twenties**. After the encounter with Braxton, Simonka is involved with Drahoslava and Bohuslava in a consensual adult group context. Further details are TBD: their surnames, backgrounds, how they know Simonka or Alois, whether they are friends or part of the farm circle, and how their presence affects the emotional aftermath of the birthday.
+
 ### With Klárka Pavlînka (Older Sister)
-[Further development needed.]
+Simonka and Klárka are close in age, but Simonka is far more secretive than her older sister realizes. During the Holic/GG decision week, Klára asks Klárka if she knows what is wrong with Simonka. Klárka does not know anything useful, because Simonka has hidden that part of her life completely. This creates an important sister-dynamic note: Klárka may be Simonka's older sister, but Simonka is capable of keeping an entire emotional and sexual world out of Klárka's sight.
 
 ### With Gamaliel (Father)
 [Further development needed.]
@@ -91,6 +188,40 @@ Simonka is a great-grandchild of Mike Key and Terri Anne Williams-Key. She is a 
 - [ ] Where she is born (Toronto or Prague?)
 - [ ] Specific field within psychology (clinical, developmental, research, child psychology?)
 - [ ] Personality, traits, and individual arc
+- [x] Alois — age: early twenties.
+- [x] Ambroz — age/personality note: nineteen years old and very immature.
+- [x] Ambroz breakup — at twenty-one, Simonka breaks up with him because she cannot take his immaturity anymore.
+- [x] Holic — full name: Holic Bartunek.
+- [x] Holic meeting — Simonka meets Holic by accident in Prague's Old Town Square when she is twenty-three.
+- [x] Holic/Simonka first date location — Holic takes Simonka to Marie B in Prague's Old Town.
+- [x] Marie B first date tests — Holic orders Simonka's meal as a private test, then asks her to sit on the floor so he can feed her dessert as another private test; Simonka does not know these are tests.
+- [x] Holic mansion date setup — after Marie B, Holic asks Simonka to come to his mansion for another date.
+- [x] Ambroz apartment plea — between Simonka's first and second dates with Holic, Ambroz comes to her apartment and begs her to take him back; Simonka refuses and feels confirmed that going to Holic's mansion is the right thing.
+- [x] Holic mansion second date — Holic gives Simonka a tour of his mansion, which is impressive but not the size of Mike and Terri Anne's Carlisle mansion.
+- [x] Holic's Wolfdog room — one room is dedicated to his dead Wolfdog, with an urn of ashes in the middle of the room, different photographs of the Wolfdog on the walls, and the Wolfdog's electric dog collar visible to Simonka. When she asks what the collar is for, Holic explains it as a training signal, boundary, and form of controlled care rather than punishment. He then asks if she wants to try it on; she says yes and asks what he wants her to do. Wearing the collar is Simonka's decision. Simonka is willing to take her clothes off. Once she is wearing the collar, Holic asks her to sit down on the floor as a pet does, and she does not know he is treating this as another test.
+- [x] Simonka's agency in the collar scene — wearing the dog collar is her decision.
+- [x] Weekend doghouse setup — Holic leads Simonka outside to her new home for the weekend: a doghouse prepared for a human pet, with a heater to keep her warm.
+- [x] Simonka's pet name with Holic — Good Girl, shortened to GG.
+- [x] GG's bowls — Holic puts out two bowls: one for GG's water and one for her food, which is dog food.
+- [x] GG's toilet training — included as part of her consensual adult human-pet routine, with strict boundaries, hygiene, and care; it does not center privacy because the annual human pet show keeps pets together in a large fenced area, where she is expected to go on the ground in front of the other human pets.
+- [x] GG's training structure — includes name training, collar training, position training, bowl training, doghouse/den training, toilet training without a privacy focus, praise/correction, shock-collar boundaries, show training, and aftercare/debriefing.
+- [x] End-of-weekend choice — Holic lets Simonka stand up, go home, and think about becoming his pet permanently; he gives her one week to make her decision.
+- [x] Friday family meal during decision week — Simonka visits Gamaliel Galvin and Klára for a meal; they notice something is off and repeatedly ask what is wrong, but Simonka says nothing is wrong.
+- [x] Klára asks Klárka about Simonka — Klárka does not know what is going on because Simonka is extremely secretive and has hidden the Holic/GG part of her life from the family.
+- [x] Holic driver pickup — after the Friday meal, Holic's driver picks up Simonka and asks her to get undressed and enter Holic's limousine; the moment marks a threshold back into GG/pet-space and should preserve Simonka's adult agency.
+- [x] Holic club member branding arrival — one of Holic's club members waits with Holic to meet GG, brings the branding iron for GG's branding, and has his own male human pet with him.
+- [x] Club member's male human pet — he is twenty-five years old.
+- [x] GG/male human pet encounter — Holic arranges for the male human pet to sleep with Simonka/GG; Simonka has safewords, yellow for slow down and red for immediate stop, but she wants to impress Holic.
+- [x] Shared pet weekend — the club member leaves his male human pet with Holic and GG for the weekend, making GG's training environment shared rather than private.
+- [x] Spark violation — the club member secretly gives his male human pet Spark, a Viagra-like sexual-performance pill; this breaks many club rules, including consent rules, medical-disclosure rules, owner responsibility standards, and the trust required for shared scenes between pets and owners.
+- [x] GG's reluctance to stop — even though she has yellow/red safewords, GG does not want to stop because she wants to please and impress Holic.
+- [x] Warm-bath aftercare — when the other pet leaves, Holic cleans GG up with a warm bath as an aftercare moment; GG is very emotional during the bath.
+- [x] Yellow during aftercare — GG tells Holic "Yellow!" because of what she did with the other pet; Holic reassures her that she did a good job.
+- [x] Simonka's brand — Holic's initials, H.B. for Holic Bartunek, placed on her right buttock according to club tradition.
+- [ ] Alois, Ambroz, and Holic — remaining surnames/backgrounds, how each relationship begins, and whether the three relationships are simultaneous or sequential
+- [x] Holic/Simonka dynamic — Simonka Káta is Holic Bartunek's pet within a consensual adult human-pet roleplay dynamic.
+- [ ] Holic club — club name, member structure, consensual human-pet dynamics, annual human pet show, whether Holic shows Simonka, whether/how Simonka participates, the club's very-hot-branding-iron tradition for permanently marking human pets on the right buttock, and the fact that most pet owners use harsher methods/equipment than Holic's electric shock dog collar
+- [ ] Alois's farm — location, daily life, the barn, and the consensual adult BDSM context of the equipment there
 - [ ] Her relationship with her older sister Klárka — rivalry? admiration? best friendship?
 - [ ] Whether she speaks Czech, Bulgarian, English, or all three
 - [ ] The dogs of her childhood
