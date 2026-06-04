@@ -26,6 +26,7 @@
 - **Gymnastics** — Samira Chaka does gymnastics, the way her mother Jessica did, the way so much of the Key family moves. She lives in her body; movement is how she thinks.
 - **Ballet** — Samira Chaka also dances. Ballet ties her directly to her aunt Rachel Darcy (who dances and studies dance at the University of Virginia). Between gymnastics and ballet, the twins carry the family's two physical languages at once — their mother's sport and their aunt's art, concentrated in one small body.
 - **What it means:** Samira and Sahara train and move together, identical bodies with identical gifts. They do not perform for attention; they move because moving is how they are. (See the Vaganova event under Key Events.)
+- During the ~2054 three-week vacation (Moscow, St. Petersburg, Sochi), the twins swim and are comfortable being undressed, embodying the family's "your body is yours" principle.
 
 ---
 
@@ -61,7 +62,7 @@
 
 ### Twin
 
-- **Sahara Hannan Key** — identical twin. Born alongside Samira Chaka. Father unknown. They share a face, a language only they speak, and the same gifts in gymnastics and ballet — moving as one and then deliberately apart. One difference between them: **Sahara has Type 1 diabetes (diagnosed at age four); Samira does not** — a reminder that even identical twins are not identical in everything. [How this asymmetry sits between two sisters who share almost everything else TBD. Samira and Sahara's individual identities, differences, and relationship to each other TBD.]
+- **Sahara Hannan Key** — identical twin. Born alongside Samira Chaka. Father unknown. They share a face, a language only they speak, and the same gifts in gymnastics and ballet — moving as one and then deliberately apart. One difference between them: **Sahara has Type 1 diabetes (diagnosed at age four); Samira does not** — a reminder that even identical twins are not identical in everything. [How this asymmetry sits between two sisters who share almost everything else TBD. Samira and Sahara's individual identities, differences, and relationship to each other TBD. At ~14, during the three-week Russia vacation visiting three cities (Moscow, St. Petersburg, Sochi Winter Olympics) telling of the second child, Samira likes the idea of a sibling from the start (and helps Sahara process during talks about their bond and family heritage) while Sahara initially does not but comes to like it by the end (after family activities across cities, twin talk, diabetes/family history reflection, quiet conversations with mothers, Olympics inspiration; swimming undressed per family "your body is yours" values helps the shift; Jessica and Emma so glad) — a point of temporary divergence that resolves positively, echoing their ballet path split (Bolshoi vs. Vaganova) and Sahara's diabetes vigilance, while highlighting the family's space for feelings to evolve.]
 
 ---
 
@@ -89,6 +90,7 @@ Samira Chaka attends the Sacred Heart School of Halifax, a Catholic independent 
 - **Sacred Heart School of Halifax:** Begins attending alongside Sahara Hannan. [TBD.]
 - **Age ten — The Northern Europe cruise / the Vaganova spotting:** On a family cruise through the fjords and Baltic, a Vaganova teacher sees rare talent in both twins. The door opens here. (See `saga/cruise-northern-europe-key-family.md`.)
 - **Age 12 (~2052) — Samira enters the Bolshoi Ballet Academy (Moscow).** Both twins pursue ballet seriously, but *apart* — and, fittingly, in the two rival capitals of Russian ballet: Sahara at **Vaganova (St. Petersburg)** from age eleven, Samira at the **Bolshoi Academy (Moscow)** from **twelve**, a year later. The first time the two ever take different paths.
+- **Age ~14 (~2054):** Their mothers Jessica and Emma decide they want another child. This is done "separated" (Rachel not involved). Jessica carries identical twin sons Eliot David and Kalvin LaMarcus using donor sperm from the sperm bank. Telling Samira and Sahara happens **before** Jessica gets pregnant, during a three-week family vacation in Russia visiting three cities: Moscow (her Bolshoi), St. Petersburg (Sahara's Vaganova, initial telling), and Sochi (Winter Olympics games city). During the vacation, the twins swim (hotel pools or beaches) and are comfortable being undressed, in line with the family's bodily autonomy ("your body is yours") values. Samira likes the idea of having a sibling from the start (enthusiastic, sees it as family expansion and possible ballet legacy; shares this during vacation activities and talks with Sahara about their twin bond). By the end of the vacation, Sahara also comes to like the idea (after processing across the cities). Jessica and Emma are so glad. The twins are involved in the decision and become big sisters. (See hub file, `another-child-2054-outline.md`, and `telling-the-twins-scene-outline.md`.)
 
 ---
 

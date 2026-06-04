@@ -411,6 +411,7 @@ This is what Jessica guides Emma through. Not a single moment of revelation, but
 - **Age sixteen — Emma learns Patti Anne Key is her paternal half-sister.** Emma and Patti Anne discover they share biological father Randy Fritz.
 - **Emma reaches.** The moment after the twins are born when Emma asks for something for the first time. *I need you.* The beginning of a new way of being.
 - **[TBD — the full Key-family reckoning; whether Emma ever visits Catherine's grave with Jessica or the twins.]**
+- **~2054 (age 30):** Jessica and Emma decide to have another child. This is done "separated" (Rachel Darcy not involved). Jessica carries identical twin sons Eliot David and Kalvin LaMarcus herself (her eggs + donor sperm from the sperm bank, after donation drive). Telling the older twins happens before pregnancy, during a three-week family vacation in Russia visiting three cities: Moscow (Samira's Bolshoi), St. Petersburg (Sahara's Vaganova, initial telling), and Sochi (Winter Olympics games city). New canon: Samira likes the idea of a sibling from the start; Sahara initially does not like it but comes to like the idea by the *end of the vacation* (after activities across cities, twin talks, diabetes reflection, quiet conversations, Olympics inspiration). Jessica and Emma are so glad to hear this good news. Emma becomes a parent again in the same steadfast way. (See `another-child-2054-outline.md`, hub, and `telling-the-twins-scene-outline.md`.)
 
 ---
 

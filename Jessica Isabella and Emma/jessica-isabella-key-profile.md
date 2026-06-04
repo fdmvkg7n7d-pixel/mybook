@@ -93,6 +93,8 @@ This is not a simple gift. It is:
 
 The egg offer is not a resolution. It is the beginning of a very long conversation between two women who began their lives as one.
 
+**Note on the second child arc (~2054):** While the egg offer existed as a standing possibility (Jessica's eggs for Rachel to carry if desired), Jessica and Emma ultimately chose a different path for their second child: "separated" from the conjoined history and prior arrangements. Jessica carries the child herself (her own eggs + donor sperm). Rachel Darcy is not involved in the pregnancy or process. This decision is detailed in `another-child-2054-outline.md` and related files. The offer remains part of their shared history and potential future conversations.
+
 ---
 
 ## THE SEPARATION SURGERY
@@ -349,11 +351,11 @@ And one morning, four months after the twins are born, the world is ready. Rache
 - **Age fifteen — Pitangueiras Beach, Guarujá:** On a business trip to São Paulo with Mike, Jessica Isabella goes to the beach. Two men follow her into the bathroom. She is taken to hospital. Mike is furious but stays. He helps her walk to the bathroom. She trusts him without any doubt. The hospital offers the morning after pill. She refuses on religious grounds. Mike backs her up completely. Emma knows. Emma stays. No one else sees her there.
 - **Age sixteen — the shift.** The friendship between Jessica and Emma becomes love. In secret. The pregnancy with Samira Chaka and Sahara Hannan comes. Emma stays. Jessica carries. Both of them, at sixteen, choose each other — without saying it out loud.
 - **Birth of Samira Chaka and Sahara Hannan:** Identical twin daughters. Father unknown. Emma is not the biological mother, but she is a parent. The family does not know. The shared bedroom and bathroom with Rachel Darcy changes.
-- **The bathroom — four months after the twins are born:** Rachel Darcy walks into the bathroom. Jessica Isabella and Emma are kissing in the bathtub. She turns around. She tells Terri Anne. The secret is over.
+- **The bathroom — four months after the twins are born:** Rachel Darcy walks into the bathroom. Jessica Isabella and Emma are kissing in the bathtub. She turns around. She tells Terri Anne. The secret is over. (See dedicated outline: `bathroom-discovery-scene-outline.md`.)
 - **The family's response:** Mike and Terri Anne support Jessica Isabella and Emma without any single doubt. The love is seen. The secret is gone.
 - **Emma's father:** Emma tells her father she is a lesbian and that she is with Jessica Isabella. Rachel Darcy, Jessica, Mike, and Terri Anne are all there, encouraging her. Emma's father throws her out of his life and tells Mike to take Samira Chaka and Sahara Hannan away from Jessica "before she turns them into lesbians." Mike throws Emma's father out of his house and fires him. Mike and Terri Anne welcome Emma into their home.
 - **Dalhousie University:** Jessica Isabella and Emma attend Dalhousie together to study medicine. **Samira Chaka and Sahara Hannan join them** in Halifax.
-- **The egg offer:** At some point in adulthood, when Rachel Darcy's desire for a family becomes concrete, Jessica Isabella offers her eggs. [Timing and outcome TBD.]
+- **The second child (~2054) — done separated:** At age 30, Jessica and Emma decide they want another child. This is done "separated" (Rachel Darcy not involved in the process). Jessica carries identical twin sons Eliot David and Kalvin LaMarcus herself (her own eggs + donor sperm selected via donation drive then sperm bank). Telling the existing twins (Samira and Sahara, ~14) happens **before** pregnancy, during a three-week family vacation in Russia visiting three cities: Moscow (Samira's Bolshoi), St. Petersburg (Sahara's Vaganova, initial telling), and Sochi (Winter Olympics games city). New canon: Samira Chaka likes the idea of having a sibling from the start (enthusiastic); Sahara Hannan initially does not like it (thoughtful resistance) but comes to like the idea by the *end of the vacation* (after activities across cities, twin talks, diabetes/family history reflection, quiet conversations, Olympics inspiration). Jessica Isabella and Emma are so glad to hear this good news. The sons are raised by Jessica and Emma as the two mothers. (See `another-child-2054-outline.md`, hub, `sperm-bank-donor-selection-scene-outline.md`, `telling-the-twins-scene-outline.md`, and `donation-drive-donor-scene-outline.md`.)
 - **Jessica guides Emma (Thread #10):** The full arc of what Jessica Isabella and Emma become to each other. [TBD.]
 
 ---

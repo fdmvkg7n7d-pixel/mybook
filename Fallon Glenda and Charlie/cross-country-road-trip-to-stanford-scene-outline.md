@@ -2,7 +2,7 @@
 
 **Characters:** Fallon Glenda (17), Charlie (18), and Lÿsa Mandy (~5). Cameo: Rachel Darcy, Antoine, and their children in Los Angeles.
 **Setting:** The open road across North America — from the Carlisle/Burlington area of Ontario, down to Chicago, along **historic Route 66** to Los Angeles, then north to Stanford, California (the Bay Area).
-**Timeframe:** **Summer ~2061** — the Ontario → California relocation for university. Charlie has already turned eighteen (February birthday); Fallon Glenda is still seventeen until that December. This lands years *before* the twins (Fallon at 24) and Calida Dawn (Fallon at 29) — and, importantly, **comfortably before Antoine's death (~2066)**, so the Los Angeles stop is a reunion with Antoine alive and the household full of young cousins.
+**Timeframe:** **Summer ~2050** — the Ontario → California relocation for university. Charlie has already turned eighteen (February birthday); Fallon Glenda is still seventeen until that December. This lands years *before* the twins (Fallon at 24) and Calida Dawn (Fallon at 29) — and, importantly, **comfortably before Antoine's death (~2055)**, so the Los Angeles stop is a reunion with Antoine alive and the household full of young cousins.
 
 ## THE CONTEXT
 
@@ -70,8 +70,8 @@ It is also a deliberate counterweight to the way travel used to feel for Fallon.
 *   Somewhere along Route 66 — and especially after the canyon — the trip stops being a *move* and becomes the thing that makes them a unit. They are not a teenage couple with a child in tow; they are a family on a journey.
 *   This is the road-trip version of the bench in Carlisle Park: Charlie chose them once on a park bench, and now he is choosing them again, mile after mile, all the way across a continent.
 
-**The Los Angeles Stop — Cousin Reunion (~2061, Antoine alive):**
-*   At the western end of Route 66, in **Los Angeles**, they break the drive to stay with Fallon's older sister **Rachel Darcy**, her partner **Antoine** (still living — this is years before his ~2066 death), and their houseful of children (the Key-d'Aboville cousins). In ~2061 the household is young and loud: the four older children (Larissa Leola, Armando Cortez Junior, and the identical twins Kella Nakeisha and Armella Beatrice) plus the **newborn triplets** (Melissa Lizette, Marcos Eduarte, and Annabella Nicki, born ~2061).
+**The Los Angeles Stop — Cousin Reunion (~2050, Antoine alive):**
+*   At the western end of Route 66, in **Los Angeles**, they break the drive to stay with Fallon's older sister **Rachel Darcy**, her partner **Antoine** (still living — this is years before his ~2066 death), and their houseful of children (the Key-d'Aboville cousins). In ~2050 the household is young and loud: the four older children (Larissa Leola, Armando Cortez Junior, and the identical twins Kella Nakeisha and Armella Beatrice) plus the **newborn triplets** (Melissa Lizette, Marcos Eduarte, and Annabella Nicki, born ~2050).
 *   For Lÿsa Mandy, the chaos of cousins is both thrilling and a lot; Fallon and Rachel — sisters who both know what it is to mother fiercely — give her the quiet corners she needs while she's there.
 *   It's a warm waypoint: the lone little family that left Ontario is folded, briefly, back into the wider Key web before the last push north. *(See `../Rachel Darcy and Antoine/Rachel Darcy.md`.)*
 
@@ -99,7 +99,7 @@ It is also a deliberate counterweight to the way travel used to feel for Fallon.
 - [x] **Chicago beat:** a family breakfast at **Chicago Waffles** (real, family-friendly) to mark the start of Route 66 — chosen as a calm, Lÿsa-Mandy-friendly setting.
 - [x] **Opening detour:** a **2–3 day stay on Mackinac Island, Michigan** (car-free, ferry-only) — a deliberate northern detour before turning toward Chicago/Route 66; written as a slow, grounding interlude that suits Lÿsa Mandy.
 - [x] LA stop with Rachel Darcy & Antoine's family (cousin reunion).
-- [x] **Trip year set: ~2061.** Fallon Glenda is 17 (turning 18); Charlie is 18; Lÿsa Mandy is ~5. This is well before Antoine's ~2066 death, so the LA stop is canon-safe (Antoine alive; triplets newborn).
+- [x] **Trip year set: ~2050.** Fallon Glenda is 17 (turning 18); Charlie is 18; Lÿsa Mandy is ~5. This is well before Antoine's ~2055 death, so the LA stop is canon-safe (Antoine alive; triplets newborn).
 - [x] **Standout episode:** a **five-day Grand Canyon stay** (the trip's longest single stop) from Flagstaff — the emotional centerpiece (the "quiet vow," and the canyon as the inverse of the Rio beach); over five days the canyon becomes familiar and beloved to Lÿsa Mandy.
 - [x] **Treehouse stop (Lÿsa Mandy's beat):** the fictional, family-friendly **Whispering Oaks Treehouse** in Missouri, just off Route 66 — a daytime visit (not the real adults-only overnight rentals), written as a sensory-grounding space suited to her Asperger Syndrome.
 - [ ] Whispering Oaks details — exact Missouri town/placement on the route; any further description if it recurs in the saga.
