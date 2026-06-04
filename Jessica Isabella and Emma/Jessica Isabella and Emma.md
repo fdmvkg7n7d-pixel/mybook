@@ -12,7 +12,7 @@
 
 - **Conjoined twin** with Rachel Darcy (shared liver and reproductive system; later separated; Jessica received the reproductive system).
 - **Gymnast** (pushed Kiley Rose out of the way of boiling water at age 11; spent 6 months at Shriners; scars on back).
-- **Pre-med at Dalhousie University** (Halifax) with Emma.
+- **Neurosurgery at Dalhousie University** (Halifax) with Emma.
 - **Biological mother** (at age 16) of identical twins **Samira Chaka** and **Sahara Hannan** (father unknown; heavy circumstances from Pitangueiras Beach incident at age 15 in Brazil).
 - **Wife** of Emma Fritz (partners from 16; secret until twins were 4 months old; married ~2050).
 - **The one who reaches across** — instinctively puts herself between harm and the people she loves (burns, Brazil, family secrets, daughters' bodies and choices).
@@ -39,7 +39,7 @@
 
 ## THE FAMILY UNIT (Jessica, Emma, Samira, Sahara)
 
-- **Household:** Halifax apartment while at Dalhousie (pre-med). Later developments TBD.
+- **Household:** Halifax apartment while at Dalhousie (medicine, neurosurgery specialization). Later developments TBD.
 - **The twins (identical, born when Jessica was 16 ~2040):**
   - **Samira Chaka Key** — Bolshoi Ballet Academy (Moscow) from age 12 (~2052). Bolder, more athletic/dramatic style.
   - **Sahara Hannan Key** — Vaganova Ballet Academy (St. Petersburg) from age 11 (~2051). Lyrical/exact classicism. Type 1 diabetes (diagnosed age 4; insulin pump + CGM; managed with remarkable bodily discipline that suits elite ballet).
@@ -120,8 +120,10 @@ See also:
 - `bathroom-discovery-scene-outline.md` (pivotal revelation scene)
 - `pitangueiras-beach-incident-outline.md` (origin event)
 - `another-child-2054-outline.md` (new; the second child arc at age 30, Jessica carrying, Rachel not involved)
-- `donation-drive-donor-scene-outline.md` (new; the donation drive where they search for the sperm donor)
-- `sperm-bank-donor-selection-scene-outline.md` (new; they go to the sperm bank and find/select the donor)
+- `donation-drive-donor-scene-outline.md` (early draft — superseded)
+- `sperm-bank-donor-selection-scene-outline.md` (early draft — superseded)
+- `donor-combined-scene-outline.md` (intermediate draft — superseded)
+- `colleague-donor-arc-outline.md` (**current canon** — sperm bank rejected; Jessica and Emma ask their colleague Dr. Rémi Arsenault (neurosurgeon, Dalhousie mentor); Jessica sleeps with him by agreement; Emma's jealousy — body and closeness — is the emotional centre; Rémi becomes a known presence in the sons' lives only)
  - `telling-the-twins-scene-outline.md` (new; telling Samira and Sahara ~14 **before** pregnancy, during three-week Russia vacation visiting three cities — Moscow (Samira's Bolshoi), St. Petersburg (Sahara's Vaganova, initial telling), Sochi (Winter Olympics); during vacation the twins swim undressed (per family bodily autonomy); Samira likes the idea from the start (shares in activities/twin talks); Sahara initially does not but comes to like it by the *end of the vacation* after family activities across cities, twin talk about bond, diabetes/family history reflection, quiet conversations with mothers (Olympics in Sochi); Jessica and Emma are so glad with specific response)
 - `Temp/Vacations/cruise-northern-europe-key-family.md` (twins spotted for ballet)
 - Master `Temp/TIMELINE.md` and `Temp/OPEN ITEMS.md` for cross-saga context.

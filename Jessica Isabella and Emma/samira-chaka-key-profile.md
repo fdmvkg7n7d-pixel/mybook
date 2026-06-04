@@ -32,7 +32,7 @@
 
 ## LIVING ARRANGEMENTS
 
-- **Halifax, Nova Scotia:** Samira Chaka lives with her mothers in an apartment in Halifax. Her mother Jessica and her co-mother Emma are pre-medicine students at Dalhousie University. The home is a hub of study, parenting, and the quiet life of a young family.
+- **Halifax, Nova Scotia:** Samira Chaka lives with her mothers in an apartment in Halifax. Her mother Jessica and her co-mother Emma are medicine students specializing in neurosurgery at Dalhousie University. The home is a hub of study, parenting, and the quiet life of a young family.
 - **Sacred Heart School of Halifax:** Samira Chaka attends the Sacred Heart School of Halifax alongside her twin sister, Sahara Hannan. She wears the uniform. She walks the halls. She is learning the same values her mother and grandparents hold.
 
 ---

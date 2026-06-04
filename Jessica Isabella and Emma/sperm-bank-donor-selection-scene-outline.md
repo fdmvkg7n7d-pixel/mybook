@@ -1,3 +1,5 @@
+**SUPERSEDED — See `colleague-donor-arc-outline.md` for current canon.**
+
 # SCENE OUTLINE: SPERM BANK VISIT – FINDING THE DONOR
 
 **Part of the ~2054 second child arc (Jessica & Emma age 30).**

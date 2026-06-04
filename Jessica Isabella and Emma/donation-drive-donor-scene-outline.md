@@ -1,3 +1,5 @@
+**SUPERSEDED — See `colleague-donor-arc-outline.md` for current canon.**
+
 # SCENE OUTLINE: THE DONATION DRIVE (FINDING THE SPERM DONOR)
 
 **Part of the ~2054 second child arc.**
