@@ -31,6 +31,7 @@
 - **Travel party: only the four of them** — Jessica, Emma, Samira, Sahara. **No one else is on this trip** (no Rachel, no extended Key family). It is deliberately an immediate-family trip.
 - Occurs **before** Jessica becomes pregnant and **before** medical steps begin.
 - **Continuity note:** Dates are pinned to the master `Temp/TIMELINE.md` (now created). The trip is placed at **July ~2054**; the only hard-fixed dates in the saga are Kiley Rose (Dec 3, 2028) and the Christmas-Day twins (Dec 25, 2044), so this branch's years remain year-level approximations.
+- **Summer 2055 — no return visit.** By summer 2055, Jessica is pregnant with Eliot David and Kalvin LaMarcus and cannot fly. The twins attend their respective **academy summer camps** — Samira at the Bolshoi's summer intensive in Moscow, Sahara at the Vaganova's summer intensive in St. Petersburg. They are occupied, training, and safe. See `christmas-visit-russia-scene-outline.md` for the only family Russia visit.
 - **Sochi as "Winter Olympics games city":** The files treat Sochi as the city that *hosted* the Winter Olympics (the 2014 Games), used here for atmosphere/inspiration. Whether the visit coincides with an *active* Games is **[TBD]** and, given the ~2054 date, almost certainly **not** a live Olympics — clarify so the text doesn't imply current competition.
 
 ---

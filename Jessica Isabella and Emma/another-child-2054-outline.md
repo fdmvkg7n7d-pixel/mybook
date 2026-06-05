@@ -9,7 +9,7 @@
 - At ~2054, the twins are approximately 14 years old.
 - Jessica carried the first pregnancy (biological mother).
 - Emma is the steadfast co-parent (not biological).
-- Family values: truth-telling, chosen family, bodily autonomy ("your body is yours"), interfaith (Jessica Catholic, Emma's Muslim heritage honored in names), Mike/Terri Anne as models of unconditional support (Mike may be deceased by this point ~2055-56, so Terri Anne as surviving matriarch).
+- Family values: truth-telling, chosen family, bodily autonomy ("your body is yours"), interfaith (Jessica Catholic, Emma's Muslim heritage honored in names), Mike/Terri Anne as models of unconditional support (Mike may be deceased by this point ~2054-56, so Terri Anne as surviving matriarch).
 
 **Suggested path for the child:**
 - Jessica carries the child herself this time (using her own eggs + donor sperm).
@@ -68,7 +68,7 @@
 
 ## OPEN ITEMS / QUESTIONS TO DECIDE
 
-- Donor details: **Dr. Rémi Arsenault** — a 36-year-old Acadian-French Canadian neurosurgeon at QEII Health Sciences Centre, Halifax; a trusted colleague and mentor from Jessica and Emma's Dalhousie neurosurgery program. They visited the sperm bank first but rejected all profiles — the anonymity did not suit this family. Jessica suggested Rémi; Emma agreed. Jessica slept with Rémi by arrangement (clinical, agreed, no romance). Emma's jealousy — both bodily and relational — is the emotional centre of this arc. He is not a co-parent but will be known to the sons. Full arc in `colleague-donor-arc-outline.md`. — 29-year-old mixed West African (Ghanaian) and Scottish-heritage musician; completing a master's in Music Education at Dalhousie University at the time of donation; identity-release enrolled (the sons may contact him at 18 if they choose); essay-writer whose stated reason for donating is deliberate generosity, not indifference. Full profile and selection scene in `donor-combined-scene-outline.md`. Earlier working drafts in `donation-drive-donor-scene-outline.md` and `sperm-bank-donor-selection-scene-outline.md`.
+- Donor details: **Dr. Rémi Arsenault** — a 36-year-old Acadian-French Canadian neurosurgeon at QEII Health Sciences Centre, Halifax; a trusted colleague and mentor from Jessica and Emma's Dalhousie neurosurgery program. They visited the sperm bank first but rejected all profiles — the anonymity did not suit this family. Jessica suggested Rémi; Emma agreed. Jessica slept with Rémi by arrangement for five attempts over five months (clinical, agreed, no romance). Emma's jealousy — both bodily and relational — is the emotional centre of this arc. The fifth attempt succeeds — conception is confirmed. After the fifth attempt, Jessica promises Emma she will not sleep with Rémi again — *not after tonight* — and the arrangement ends because it has already achieved its purpose. There is no need to find another donor or return to the sperm bank; the sons (Eliot David and Kalvin LaMarcus) are already confirmed on the way. Full arc in `colleague-donor-arc-outline.md`; the kitchen table scene in `kitchen-table-jealousy-scene-outline.md`. He is not a co-parent but will be known to the sons. Full arc in `colleague-donor-arc-outline.md`. — 29-year-old mixed West African (Ghanaian) and Scottish-heritage musician; completing a master's in Music Education at Dalhousie University at the time of donation; identity-release enrolled (the sons may contact him at 18 if they choose); essay-writer whose stated reason for donating is deliberate generosity, not indifference. Full profile and selection scene in `donor-combined-scene-outline.md`. Earlier working drafts in `donation-drive-donor-scene-outline.md` and `sperm-bank-donor-selection-scene-outline.md`.
 - Medical considerations for Jessica carrying again (given her history of burns and conjoined separation).
 - Exact process for telling the twins (Samira and Sahara, ~14) before pregnancy — during three-week Russia vacation visiting Moscow, St. Petersburg (Vaganova Academy city, initial telling), Sochi (Winter Olympics); their reactions, questions, involvement, and Sahara's shift by end after activities across cities, twin talks, diabetes reflection, quiet conversations, Olympics inspiration. Includes swimming where the twins are comfortable undressed per family bodily autonomy values (Sahara's diabetes management in water) (see updated `telling-the-twins-scene-outline.md`).
 - How/when Rachel is informed (or if she is central at all).
@@ -87,7 +87,7 @@
 3. **The donation drive event** (`donation-drive-donor-scene-outline.md`).
 4. **Sperm bank visit / donor choice** (`sperm-bank-donor-selection-scene-outline.md`) — they go to the bank and find/select the donor.
 5. Medical steps: Egg retrieval, IVF, transfer, pregnancy milestones (Jessica carrying).
-6. The birth scene (identical twin sons Eliot David and Kalvin LaMarcus).
+6. The birth scene (identical twin sons Eliot David and Kalvin LaMarcus, born **2055**).
 
 This arc can live alongside the existing profiles and the new beach/bathroom outlines.
 

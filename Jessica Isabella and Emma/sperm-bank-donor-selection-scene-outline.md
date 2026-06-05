@@ -150,11 +150,11 @@ They use these to evaluate profiles, request more details from staff. The list h
 
 - Telling the twins (Samira and Sahara) about the donor choice and plan — **before** Jessica gets pregnant.
 - Medical steps: Egg retrieval, IVF, transfer to Jessica, pregnancy milestones.
-- The birth scene (identical twin sons Eliot David and Kalvin LaMarcus).
+- The birth scene (identical twin sons Eliot David and Kalvin LaMarcus, born **2055**).
 - Debrief with family (Rachel informed later, per open items in hub and timeline).
 
 This scene makes the donor search concrete and personal. It fits the saga's style of quiet, meaningful family decisions.
 
-*See `another-child-2054-outline.md` for the full arc and `donation-drive-donor-scene-outline.md` for the preceding drive event.*
+*See `another-child-2055-outline.md` for the full arc and `donation-drive-donor-scene-outline.md` for the preceding drive event.*
 
 *This will expand as the saga develops.*

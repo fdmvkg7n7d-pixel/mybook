@@ -1,9 +1,9 @@
 # SCENE OUTLINE: THE BIRTH — IDENTICAL TWIN SONS ELIOT DAVID AND KALVIN LAMARCUS
 
-**Part of the ~2054-2055 second child arc.**
+**Part of the ~2054-2055 second child arc.** The twins (Eliot David and Kalvin LaMarcus) are born in **2055**.
 
 **Key canon:**
-- Jessica Isabella carries and gives birth to identical twin sons: Eliot David and Kalvin LaMarcus.
+- Jessica Isabella carries and gives birth to identical twin sons: Eliot David and Kalvin LaMarcus, born in **2055**.
 - This is done "separated" — Rachel Darcy is not involved.
 - Donor sperm from the sperm bank (chosen after donation drive).
 - Telling the older twins (Samira and Sahara, ~14) happened before the pregnancy started.
@@ -90,6 +90,6 @@
 
 This birth closes the arc with love, agency, and the family growing on Jessica and Emma's terms.
 
-*See `another-child-2054-outline.md` for the full updated arc (including names and order of events).*
+*See `another-child-2055-outline.md` for the full updated arc (including names and order of events).*
 
 *This will expand as the saga develops.*

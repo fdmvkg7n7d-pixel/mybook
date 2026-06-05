@@ -85,9 +85,9 @@
 - **~2054 (Jessica & Emma age 30)**: They decide they want another child. Per user direction, this is done "separated" — Jessica carries the child herself (using her own eggs + donor sperm). Rachel Darcy is not involved in the pregnancy or process at all.
  - Telling the existing twins (Samira and Sahara, ~14) happens **before** Jessica gets pregnant. This occurs during a three-week family vacation in Russia visiting three cities: the twins' training cities (Moscow for Samira's Bolshoi and St. Petersburg for Sahara's Vaganova, where the initial telling happens) and Sochi (the Winter Olympics games city). See dedicated `telling-the-twins-scene-outline.md`.
 - New canon: Samira Chaka likes the idea of having a sibling from the start (enthusiastic; shares during vacation activities and talks with Sahara about their bond). Sahara Hannan initially does not like it (thoughtful resistance) but comes to like the idea by the *end of the vacation* (after family activities across the three cities — Moscow, St. Petersburg, Sochi Winter Olympics — twin talk, reflection on diabetes/family history of truth and "your body is yours", quiet conversations with mothers). During the vacation, the twins swim (hotel pools or beaches) and are comfortable being undressed, aligning with the family's bodily autonomy ("your body is yours") values (Sahara manages her diabetes practically). Jessica Isabella and Emma are so glad to hear this good news. They go to a sperm bank (following or as part of the donation drive) and select a donor.
-- They have identical twin sons: Eliot David and Kalvin LaMarcus (born to Jessica). The children are raised by Jessica and Emma as the two mothers.
+- They have identical twin sons: Eliot David and Kalvin LaMarcus (born to Jessica in **2055**). The children are raised by Jessica and Emma as the two mothers.
 - The twins (now ~14) are involved in the decision per family rule.
-- See `another-child-2054-outline.md`, `sperm-bank-donor-selection-scene-outline.md`, and `telling-the-twins-scene-outline.md` for details. Updated in `Temp/TIMELINE.md`.
+- See `another-child-2055-outline.md`, `sperm-bank-donor-selection-scene-outline.md`, and `telling-the-twins-scene-outline.md` for details. Updated in `Temp/TIMELINE.md`.
 
 ### Mike & Terri Anne as Chosen Family
 - Mike: the father who stays (mirror to Randy who left/returned without love/disowned). Backs Jessica in Brazil hospital, at skin graft negotiation, when secret breaks, when Randy attacks.
@@ -119,11 +119,11 @@ See also:
 - `sahara-hannan-key-profile.md`
 - `bathroom-discovery-scene-outline.md` (pivotal revelation scene)
 - `pitangueiras-beach-incident-outline.md` (origin event)
-- `another-child-2054-outline.md` (new; the second child arc at age 30, Jessica carrying, Rachel not involved)
+- `another-child-2055-outline.md` (new; the second child arc at age 30, Jessica carrying, Rachel not involved)
 - `donation-drive-donor-scene-outline.md` (early draft — superseded)
 - `sperm-bank-donor-selection-scene-outline.md` (early draft — superseded)
 - `donor-combined-scene-outline.md` (intermediate draft — superseded)
-- `colleague-donor-arc-outline.md` (**current canon** — sperm bank rejected; Jessica and Emma ask their colleague Dr. Rémi Arsenault (neurosurgeon, Dalhousie mentor); Jessica sleeps with him by agreement; Emma's jealousy — body and closeness — is the emotional centre; Rémi becomes a known presence in the sons' lives only)
+- `colleague-donor-arc-outline.md` (**current canon** — sperm bank rejected; Jessica and Emma ask their colleague Dr. Rémi Arsenault (neurosurgeon, Dalhousie mentor); Jessica sleeps with him by agreement for five attempts over five months; Emma's jealousy — body and closeness — is the emotional centre; after the fifth attempt, Jessica promises Emma *not after tonight* and the arrangement ends; Rémi becomes a known presence in the sons' lives only; kitchen table scene in `kitchen-table-jealousy-scene-outline.md`)
  - `telling-the-twins-scene-outline.md` (new; telling Samira and Sahara ~14 **before** pregnancy, during three-week Russia vacation visiting three cities — Moscow (Samira's Bolshoi), St. Petersburg (Sahara's Vaganova, initial telling), Sochi (Winter Olympics); during vacation the twins swim undressed (per family bodily autonomy); Samira likes the idea from the start (shares in activities/twin talks); Sahara initially does not but comes to like it by the *end of the vacation* after family activities across cities, twin talk about bond, diabetes/family history reflection, quiet conversations with mothers (Olympics in Sochi); Jessica and Emma are so glad with specific response)
 - `Temp/Vacations/cruise-northern-europe-key-family.md` (twins spotted for ballet)
 - Master `Temp/TIMELINE.md` and `Temp/OPEN ITEMS.md` for cross-saga context.
