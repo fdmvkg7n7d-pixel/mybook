@@ -8,6 +8,7 @@
 
 - **Full Name:** Salena Sarai Key
 - **Position in Family:** Daughter of **Patti Anne Key** and **Aleksander**. **Twin** with **Palmer Peter Key** (fraternal twins — sister and brother).
+- **Current Residence:** Alice Springs, Northern Territory, Australia.
 - **Date of Birth:** Born when Patti Anne is **thirty-four** years old (**thirteen years younger than Gamaliel Galvin**, born when Patti Anne was twenty-one).
 - **Age anchor:** Salena Sarai (with her twin) is **eighteen when she moves out** — leaving Canada for WAAPA in Perth, Australia. At that moment her eldest half-brother **Gamaliel is thirty-one** (18 + the 13-year gap). Her twin, Palmer Peter, is also eighteen, leaving for Saudi Arabia at the same time.
 - **Mother:** Patti Anne Key
@@ -124,6 +125,16 @@ Whether Salena Sarai stays in Australia after her degree, joins an Australian co
 - **She stays in Australia** — builds a dancing/teaching life there, becomes the family's permanent Southern-Hemisphere outpost.
 - **She joins the Prague academy** — the family's ballet eventually reconsolidates: Gamaliel & Klára's school, with Klárka Pavlínka teaching there, and Salena Sarai returning into the fold. *(Note: canon already has Klárka teaching at the Prague academy — Salena Sarai joining would be a homecoming.)*
 - **She becomes the bridge** — splits a career across hemispheres, the family member who is always in transit.
+
+---
+
+## PARTNER & CHILDREN
+
+- **Partner:** **Eli** (Met while Salena Sarai was attending university at WAAPA; he holds a degree in **Arts Administration** from WAAPA).
+- **Children:**
+  - **Xana Dylan** (Daughter)
+  - **Maddie Kaylee** (Daughter)
+  - **Aleksander Eli Junior** (Son; born four years ago relative to current story timeline)
 
 ---
 

@@ -125,6 +125,7 @@ Palmer Peter finds **plural marriage** compelling and enters into it. In Saudi A
 - **Patti Anne loves him anyway (CANON).** His mother's verdict is settled and simple: **she loves Palmer Peter no matter what.** The conversion, the distance, the plural marriage — none of it changes the fact of her love. Patti Anne is devout, and a son leaving the Church is a real grief to her *as a Catholic* — but her love is not conditional on his choices, and it never wavers. This is consistent with everything the saga has built her to be (the mother whose love is *faster than annoyance and always wins* — the Willow/boots scene). The proof is in the calendar: when the family scatters across the planet, **Palmer Peter comes home to Patti Anne and Aleksander for Christmas.**
   - **The first Christmas (age 18) — pre-conversion.** The very first Christmas after he moves out, Palmer Peter is still eighteen and **has not yet converted** (that comes at twenty). So his first homecoming is simply a still-Catholic son coming home for the family's Christmas — no faith line crossed yet.
   - **Later Christmases (after 20) — post-conversion.** Once he is Muslim, the same homecoming gains its quiet grace: a Muslim son returning not for the Mass but for his mother, welcomed exactly the same. *(See `../Patti Anne and Aleksander` → "The Empty Nest — and Christmas.")*
+  - **The Yearly Visits.** Beyond Christmas, Patti Anne and Aleksander visit their children and grandchildren annually. When they visit Palmer Peter's compound in Saudi Arabia, the unconditional love remains, but the sheer scale and nature of his household (nine women, 58 children) means that Patti Anne and Aleksander often have to **bite their tongues**. The devotion is there, but the cultural and religious shock is a constant, quiet friction they manage with grace.
 
 ### The wives and partners — nine women (CANON)
 
@@ -158,12 +159,12 @@ Palmer Peter's life includes **nine women**, structured to fit the four-wife Isl
 
 **With Addyson — fourteen children:**
 
-1. Clemente Domenico
-2. Arsenia Caressa
-3. Agosto Ciro
-4. Aldabella Bianca
-5. Farfallla Enrica
-6. Leonardo Marcello
+1. Clemente Domenico (6)
+2. Arsenia Caressa (6)
+3. Agosto Ciro (5)
+4. Aldabella Bianca (5)
+5. Farfallla Enrica (3)
+6. Leonardo Marcello (3)
 7. Otello Pietro
 8. Neroli Orlando
 9. Ilario Luigi
