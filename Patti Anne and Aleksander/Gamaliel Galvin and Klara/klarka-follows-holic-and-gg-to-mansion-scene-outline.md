@@ -37,13 +37,19 @@
 * **Knuckles and GG:** While Klarka is screaming at the front door, **Knuckles and GG (Simonka)** begin having sex in the middle of Holic’s front yard, right next to the pole where Simonka was tied. The act is public and deliberate, happening openly as Klarka continues to scream. A **single tear** falls down Simonka’s right cheek, but she **continues** without stopping. The contrast between Klarka’s desperate shouting and the explicit scene unfolding in the yard makes the moment even more chaotic and humiliating.
 * **Holic’s Reaction:** Holic stands nearby, watching the scene unfold with a calm, almost amused expression. He makes no move to stop either Klarka’s screaming or the act between Knuckles and GG. His silence and composure only add to the disturbing atmosphere. He calmly clarifies:
   * “There are no more pets here. I only have one — Good Girl.”
-* **The Other Owner Emerges:** Another man steps out of the mansion. His name is **Matthias**. He is the owner of the five pets that arrived in the box van. He looks visibly irritated by Klarka’s screaming.
+* **The Other Owner Emerges:** Another man steps out of the mansion. His name is **Matthias**. He is the owner of the five pets that arrived in the box van. He is not merely irritated by Klarka’s screaming — he is angry at her **appearance** on the property at all. To him, Klarka’s arrival is an intrusion into a closed private system, an outsider bursting into a scene governed by rules she does not know and has not been invited to witness.
 * **Holic’s Words to Klarka:** Holic turns to Klarka and speaks calmly but coldly:
   * “There is nothing you can do. Good Girl likes sleeping with different people.”
-* **Matthias’s Anger:** Matthias becomes increasingly angry with Klarka. He glares at her and snaps:
+* **Matthias’s Anger:** Matthias becomes increasingly angry with Klarka’s presence. He glares at her and snaps:
   * “You have no right to come here and scream like this. This is none of your business.”
-* **Klarka’s Hysteria:** Overwhelmed by everything she has seen — her sister tied to a pole, having sex in the yard, and being told she likes it — Klarka starts **crying hysterically**. Her screams turn into uncontrollable sobs.
+* **Why Matthias Is Angry:** Matthias is angry before he is embarrassed. Klarka’s appearance disrupts the authority structure of the yard: owners, pets, commands, obedience, and the silence of people who understand the rules. Her shouting makes the system visible as something contestable. She does not enter as a participant, guest, or negotiated observer; she enters as Simonka’s sister, which is exactly the role the mansion has no category for.
+* **Holic Tries to Please Matthias:** Holic tries to smooth over Matthias’s anger by offering him **GG for the weekend**. He frames it as a gesture of respect and compensation between owners: Matthias’s evening has been disrupted, so Holic will let him take Good Girl into his household for a weekend. The offer is calm, almost administrative, which makes it worse. Holic is not speaking to Klarka as a sister, and he is not speaking to Simonka as Simonka. He is speaking to Matthias as one owner to another, treating GG as transferable within the rules of their world.
+* **GG’s Position During the Offer:** GG hears the offer. Whether she looks up, stays still, or lowers her gaze becomes a key image. The scene should not resolve too quickly whether she is frightened, obedient, eager to prove herself, or all three at once. The important fact is that Holic’s attempt to please Matthias turns Simonka’s body and weekend into the currency of apology.
+* **Klarka’s New Horror:** For Klarka, this is almost worse than what she has already seen. Her sister is not only being displayed or used inside Holic’s yard; Holic is now trying to give her away for a weekend to satisfy another owner’s anger. Klarka understands, with sudden clarity, that the mansion’s system has made Simonka into someone who can be offered across households.
+* **Canon Note:** Holic **tries** to give GG to Matthias for the weekend. Whether Matthias accepts, whether GG is actually sent, and whether Simonka can meaningfully refuse are open follow-up questions. The essential canon is Holic’s placating gesture: he attempts to please the other owner by offering GG.
+* **Klarka’s Hysteria:** Overwhelmed by everything she has seen — her sister tied to a pole, having sex in the yard, being told she likes it, and then being offered to Matthias for the weekend — Klarka starts **crying hysterically**. Her screams turn into uncontrollable sobs.
 * **Raphael Saves Her:** **Raphael** quickly arrives and pulls Klarka away from the mansion. He gets her out of the situation and takes her to safety, ending her confrontation with Holic and Matthias.
+* **Private Coda — Holic and GG:** After Klarka and Raphael are gone, Holic takes GG on a walk and tells her about the Matthias weekend deal. He asks if she wants to say her safewords right now and makes clear that, if she does, he will not give her to Matthias for the weekend. GG looks up and tells him that it is her job to be his pet, and that she does not need to say her safewords right now. *(Expanded in `holic-tells-gg-about-matthias-weekend-deal-scene-outline.md`.)*
 
 ---
 
@@ -58,7 +64,9 @@
 1. **Klarka’s Role:** Establishes Klarka Pavlinka as an active observer who is concerned enough about her mother and sister to follow them.
 2. **Timeline Clarity:** The “other pet takes his time” detail explains why Klarka is able to follow Holic and GG after the earlier events.
 3. **Limited Knowledge:** Because Klarka did not witness the park confrontation, her perspective on Simonka’s situation is different from Klára’s.
-4. **Future Potential:** This scene can lead to Klarka telling Gamaliel, Klára, or another family member what she has seen, or to her attempting to reach out to Simonka directly.
+4. **Holic’s Placating Offer:** Establishes that Holic tries to please Matthias by offering **GG for the weekend**, turning Simonka/GG into a transferable gesture between owners. Whether the weekend handoff actually happens remains open.
+5. **Safeword Coda:** Establishes that Holic later tells GG about the deal privately and offers her a safeword exit before any handoff. GG says it is her job to be his pet and that she does not need her safewords right now.
+6. **Future Potential:** This scene can lead to Klarka telling Gamaliel, Klára, or another family member what she has seen, or to her attempting to reach out to Simonka directly.
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Tone:** Volatile, suffocating, and profoundly grief-stricken. This is the moment where the "abstract" choice of the diary becomes a "physical" horror. The scene is about the collapse of the parents' ability to remain "composed" and "careful."
 
-**Location:** The family home/academy. Likely the living room or a private study, where the space feels too small for the anger and grief filling it.
+**Location:** The family home/academy living room, opening toward the kitchen — a domestic space suddenly too small for the anger and grief filling it.
 
 ---
 
@@ -15,7 +15,8 @@
 - **Klárka Pavlînka and Raphael** stand before Gamaliel and Klára. They are the witnesses.
 - They report the events of the mansion visit together. They don't sugarcoat it; they describe the raw, visceral images they saw.
 - They describe the pole. They describe the box van and the pets with bells. They describe the sex in the front yard and the single tear on Simonka's cheek.
-- **The Visual Impact:** As Klárka and Raphael speak, Gamaliel and Klára aren't just hearing words; they are visualizing their youngest daughter tied to a pole in a yard for anyone to see.
+- They also describe the other owner, Matthias, becoming angry at Klárka's appearance on the property — and Holic trying to please him by offering **GG for the weekend**. This detail lands differently from the rest: Simonka is not only being displayed inside Holic's world; Holic is treating her as someone who can be handed across to another owner as compensation.
+- **The Visual Impact:** As Klárka and Raphael speak, Gamaliel and Klára aren't just hearing words; they are visualizing their youngest daughter tied to a pole in a yard for anyone to see — and then being offered away for a weekend to soothe another man's anger.
 
 ---
 
@@ -50,24 +51,40 @@
 ## BEAT 5 — THE IMPACT ON KLÁRKA & RAPHAEL
 
 - In the middle of their conflict, they realize the cost of the mission.
-- They see the trauma in Klárka's eyes and the heavy silence in Raphael. Both young people have been scarred by what they witnessed.
+- They see the trauma in Klárka Pavlînka's eyes and the heavy silence in Raphael. Both young people have been scarred by what they witnessed.
 - The focus shifts momentarily from "saving Simonka" to "holding Klárka." They realize that in trying to find Simonka, they have exposed Klárka to a horror she wasn't ready for.
+- **Klára starts hugging Klárka Pavlînka.** It is not a neat comfort; it is a full-body, shaking hold, the kind that says *you are here, you came home, I have you* before Klára can make any other plan. Klárka resists for only a second, then folds into her mother.
+- The hug changes the room. Gamaliel's rage has nowhere decent to go while his wife is on the floor holding their eldest daughter, and Raphael's silence becomes visible as its own wound.
 
 ---
 
-## BEAT 6 — THE BLEAK REALIZATION
+## BEAT 6 — THE MEN LEAVE TO COOK DINNER
 
-- The scene settles into a heavy, suffocating silence.
+- Gamaliel makes the first practical decision of the night: **the men leave the living room and go to the kitchen to cook dinner.** Not because food fixes anything, but because bodies still need feeding, and because the living room now belongs to Klára and Klárka for as long as the hug lasts.
+- Raphael follows him. The movement is awkward and old-fashioned in the best possible way: two frightened men taking knives, onions, potatoes, pans — anything useful — because usefulness is safer than helplessness.
+- Their "manly conversation" is not macho. It is low-voiced, task-bound, and honest because their hands are busy. Gamaliel apologizes for turning his terror on Klárka. Raphael admits what the mansion did to him, what it was like to stand there and understand too late that seeing Simonka Káta was not the same thing as being able to reach her.
+- Gamaliel asks for the details he could not bear to ask in the living room, and Raphael gives only what is necessary. They speak around the worst images rather than making the kitchen another courtroom.
+- Raphael names the detail that keeps repeating in his head: Holic offered GG to Matthias for the weekend because Matthias was angry. Not because Simonka asked to go. Not because Klárka understood any negotiation. Because one owner was trying to please another. Gamaliel has to put the knife down when he hears it.
+- The conversation circles the central problem: Simonka Káta is an adult, she may call this choice, and yet everything about Holic's mansion is built to make her smaller and transferable. Gamaliel says out loud that he wants to go there and drag her home. Raphael, carefully, says that if they do that, they may lose the only road back to her.
+- Cooking becomes a fragile form of restraint. Every chopped vegetable is a decision not to get in the car. Every pan set on the stove is one more minute in which Gamaliel does not make Simonka's return impossible.
+
+---
+
+## BEAT 7 — THE BLEAK REALIZATION
+
+- The scene settles into two rooms: women holding each other in the living room; men making dinner in the kitchen because no one knows what else to do with love that has no target.
 - They have to face the hardest truth: Simonka didn't just enter a relationship; she entered a *system* (Holic's mansion, the pets, the hierarchy) that is designed to erase the "daughter" and replace her with the "pet."
+- Holic's attempt to give GG to Matthias for the weekend clarifies the system's logic: once Simonka is GG, the mansion treats her not as a daughter with a family outside the gate, but as a pet whose weekend can be reassigned between owners.
 - They realize that Simonka is not just "away"—she is being psychologically and physically restructured into someone else.
 
 ---
 
-## BEAT 7 — CLOSING IMAGE
+## BEAT 8 — CLOSING IMAGE
 
-- Gamaliel is still standing, staring out the window, his fists clenched, a man who wants to fight a war he doesn't know how to win.
-- Klára is on the floor, holding Klárka, the two of them huddled together in the wreckage of their family's peace.
-- The image is one of total helplessness: the parents who built a world of safety for their children realize that the door to that world has been shut from the inside.
+- Gamaliel stands at the stove, fists unclenching only because he has to hold the pan, a man who wants to fight a war he doesn't know how to win.
+- Raphael stays beside him, not as a child being scolded now, but as the young man who brought Klárka home and has to live with what he saw.
+- Klára is on the living-room floor, holding Klárka, the two of them huddled together in the wreckage of their family's peace.
+- The image is one of total helplessness shaped into domestic action: dinner cooking in one room, a mother holding her daughter in the other, and everyone understanding that the door to the world they built for Simonka has been shut from the inside.
 
 ---
 
@@ -76,4 +93,5 @@
 1. **Gamaliel's Breaking Point:** Shows that his patience has a limit, and that the "rough" nature of the world can push him toward a desperate, protective violence.
 2. **Klára's Devastation:** Establishes the deep psychological wound caused by seeing her daughter's degradation.
 3. **Family Trauma:** The "mansion visit" is now a shared trauma for the three of them (Gamaliel, Klára, Klárka) and Raphael.
-4. **The Stakes:** Elevates the conflict from "a daughter's strange choice" to "a fight for a daughter's soul."
+4. **Transferability Horror:** Establishes that Holic tries to please Matthias by offering GG for the weekend, showing the family that Simonka is being treated as transferable within Holic's system.
+5. **The Stakes:** Elevates the conflict from "a daughter's strange choice" to "a fight for a daughter's soul."
