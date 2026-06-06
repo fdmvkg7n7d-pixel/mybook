@@ -82,6 +82,19 @@ These are questions whose answers would make scenes that are already canon more 
 - [ ] **Whether the OPP relationship survives Mike** — i.e., whether the family still has that direct line for future crises. This is *especially* relevant for Carlota Delicia's kidnapping later, which requires cross-border coordination. If Mike's OPP contacts are no longer a phone call away, who replaces him?
 - [ ] **How Terri Anne carries on as the surviving matriarch** in the months and years afterward. What does daily life look like in the mansion without him? Does she stay in the house? Does she travel? Does she become more involved with Gamaliel and Klára's Prague planning?
 
+### The Santiago & Natal modeling trip (Mike + Ashley Erin + Andrea Jennifer)
+
+- [ ] **What happens in Santiago?** (Ashley Erin’s modeling gig) — What kind of shoot is it? Who is the client or campaign? Does Mike stay with her the whole time, or is there a chaperone? Are there any notable moments, challenges, or memories from the trip?
+- [ ] **What happens in Natal?** When Andrea Jennifer joins them at the end of the week — what do they do together in Natal? Beach time? Sightseeing? Any family moments or special experiences? How does the three of them spend their time before returning home?
+
+### Simonka Káta arc — Klarka’s confrontation at Holic’s mansion
+
+- [ ] **What happens after Raphael saves Klarka?** Does she tell anyone what she saw? Does she tell Gamaliel and Klára? Does she attempt to reach out to Simonka?
+- [ ] **How does Klarka process what she witnessed?** (Simonka tied to the pole, having sex in the front yard, Holic’s comment that “Good Girl likes sleeping with different people”)
+- [ ] **What is in the letter from Klára’s father?** The prison is sending it. Does it contain abuse, manipulation, regret, or something unexpected?
+- [ ] **What is the “board of injustice”?** What power does it have? Can it actually affect Holic or Simonka?
+- [ ] **How does Klára react to learning what Klarka saw?** Especially the public nature of Simonka’s actions and Holic’s words.
+
 ---
 
 ## TIER 3 — QUESTIONS ABOUT THE EIGHT DAUGHTERS' GRIEF
