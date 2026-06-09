@@ -55,6 +55,10 @@ While they are talking, GG is busy with Bruno.
 
 Holic says he needs to think about the deal and emphasizes that it is ultimately GG's decision. He will discuss it with Simonka Kata at his mansion.
 
+### The Collective Stillness and the $50,000 Offer
+Holic hosts a fellow club member and six guest pets in the squeeze chute. The seven animals are locked together in a state of total physical restriction and collective sleep. During this event, the guest member offers Holic fifty thousand dollars for the right to breed Good Girl, creating a conflict between financial gain and Holic's belief in GG's agency.
+
+
 ## Character Notes
 - Bruno shows strong protective and mating instincts specifically toward GG, remaining gentle with her.
 - GG is responsive to Bruno even when tired from a busy weekend.
