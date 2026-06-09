@@ -264,9 +264,9 @@
 ## What This Scene Establishes
 
 1. **The misery.** Aleksander Eli Junior is not going through a phase. He is a child trapped in the wrong container — wrong name, wrong clothes, wrong pronouns, wrong everything. Christmas amplifies it because Christmas demands joy, and joy requires being yourself, and he is not allowed to be himself yet.
-2. **Xana Dylan's instinct.** The twin gives the headband. The twin gives the socks. The twin does not ask why. This is the foundation for the relationship they will have as Aleksandra Elye and Xana Dylan — two sisters who share everything.
+2. **Xana Dylan's instinct.** The twin gives the headband. The twin gives the socks. The twin does not ask why. This is the foundation for the relationship they will have as Aleksandra Elya and Xana Dylan — two sisters who share everything.
 3. **Patti Anne's recognition.** She sees the shape of it — Ashley Erin — and holds the name back. Her restraint is love. Her almost-sentence on Boxing Day is the catalyst that lets Salena Sarai finally land on the truth.
-4. **Aleksander's arms.** The rigidity — the child enduring being held as the wrong thing — will contrast directly with the airport scene, where Aleksandra Elye runs into his arms and melts into his chest. The difference is total. The difference is everything.
+4. **Aleksander's arms.** The rigidity — the child enduring being held as the wrong thing — will contrast directly with the airport scene, where Aleksandra Elya runs into his arms and melts into his chest. The difference is total. The difference is everything.
 5. **The headband as turning point.** The first visible moment of the child reaching for what is right — and refusing to let it be taken away.
 6. **The unfinished sentence.** Patti Anne does not say Ashley Erin's name. She does not need to. Salena Sarai hears it anyway. The truth lands in the silence between them.
 7. **The setup for the airport.** Every detail of this Christmas — the rigidity, the misery, the headband, the star socks, the "something is right and it's coming" — pays off when two girls in baby blue dresses sprint across arrivals.
@@ -276,7 +276,7 @@
 ## Cross-References
 
 - Directly sets up `patti-anne-aleksander-meet-aleksandra-elye-airport-scene-outline.md` — the next visit, when everything has changed.
-- Connects to `salena-sarai-tells-eli-parents-visiting-scene-outline.md` — the Aleksandra Elye section, where Salena Sarai tells Eli she will not hide it.
+- Connects to `salena-sarai-tells-eli-parents-visiting-scene-outline.md` — the Aleksandra Elya section, where Salena Sarai tells Eli she will not hide it.
 - Echoes Ashley Erin Key — Patti Anne's youngest daughter, assigned male at birth (original name Mikkel James Junior), transgender girl. The family has been here before. Patti Anne recognizes the shape.
 - Echoes the Klára wrapping paper detail — Junior opens presents carefully, not because he learned to hold things light, but because he does not want what is inside. Same gesture, different wound.
 - Ties to the family doctrine: door cracked, porch light on. "Nana loves you. Nana will always love you."

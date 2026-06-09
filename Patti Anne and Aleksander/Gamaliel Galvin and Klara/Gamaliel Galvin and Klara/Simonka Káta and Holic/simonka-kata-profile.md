@@ -13,7 +13,7 @@
 - **Heritage:** **One-quarter Brazilian** (via her father Gamaliel, half-Brazilian through his unknown Brazilian father), plus the Canadian (Key) line and her mother Klára's Czech (Drahoslav) line; Czech-raised. The Brazilian quarter is heritage-on-paper — **whether Simonka ever explores or claims it is deliberately left open (decide later).**
 - **Parents:** Gamaliel Galvin Key (father), Klára Key (mother)
 - **Relationship Status:** Simonka Káta is in **three different relationships**.
-- **Partners:** **Alois** [surname TBD], **Ambroz** [surname TBD], and **Holic Bartunek**. Ambroz later becomes her ex when Simonka breaks up with him at age twenty-one because she can no longer tolerate his immaturity. Simonka meets Holic by accident in Prague's Old Town Square when she is twenty-three; he asks her on a first date to Marie B, orders her meal as a private test she does not know is a test, and later asks her to sit on the floor so he can feed her dessert as another private test. Holic is connected to a club with consensual adult human-pet dynamics and an annual human pet show. **Simonka Káta is Holic's pet** within that consensual adult roleplay dynamic.
+- **Partners:** **Alois** [surname TBD], **Ambroz** [surname TBD], and **Holic Bartunek**. Ambroz later becomes her ex when Simonka finally breaks up with him at age twenty-three (after her first date with Holic) because she can no longer tolerate his immaturity. Simonka meets Holic by accident in Prague's Old Town Square when she is twenty-three; he asks her on a first date to Marie B, orders her meal as a private test she does not know is a test, and later asks her to sit on the floor so he can feed her dessert as another private test. Holic is connected to a club with consensual adult human-pet dynamics and an annual human pet show. **Simonka Káta is Holic's pet** within that consensual adult roleplay dynamic.
 - **Grandparents (Paternal):** Patti Anne Key (grandmother), Aleksander (step-grandfather)
 - **Grandparents (Maternal):** The Drahoslav family. Klára's biological father (first name TBD) — the man whose abuse she disclosed at age seven or eight, leading to her removal and eventual fostering by Patti Anne. Her biological mother (unknown). Klára was born Klára Drahoslav before taking the Key name.
 - **Great-Grandparents:** Mike Key and Terri Anne Williams-Key
@@ -90,7 +90,7 @@ Further details are TBD: Alois's surname, where the farm is located, how Simonka
 ### With Ambroz (Partner)
 Simonka Káta is in a relationship with **Ambroz**, who is **nineteen years old** and **very immature** during the nineteenth-birthday/farm period. During Simonka's nineteenth birthday, Ambroz is already in the picture when Alois invites Simonka to the farm. Ambroz is **not invited**, because Alois's farm and barn scene are not his cup of tea. Even if the exclusion makes sense, Ambroz is **very jealous**, and this jealousy becomes an important pressure point in his relationship with Simonka.
 
-When they are **twenty-one years old**, Simonka Káta cannot take Ambroz's immaturity anymore, so she **breaks up with him**. The breakup marks the point where his jealousy and immaturity are no longer something she can manage alongside the rest of her complicated romantic life. Later, after Simonka meets Holic and has her first date with him at Marie B, Ambroz comes to Simonka's apartment and begs her to take him back. She refuses.
+When Simonka is twenty-three, she is still dating Ambroz but is incredibly exhausted by his immaturity. She has not broken up with him yet when she meets Holic by accident in Prague's Old Town Square. After her first date with Holic at Marie B, Simonka finally breaks up with Ambroz. Shortly after, Ambroz comes to her apartment and begs her to take him back. She refuses.
 
 Further details are TBD: Ambroz's surname, background, how they meet, and the specific emotional shape of this relationship compared with Simonka's relationships with Alois and Holic.
 
@@ -192,7 +192,7 @@ Simonka is a great-grandchild of Mike Key and Terri Anne Williams-Key. She is a 
 - [ ] Personality, traits, and individual arc
 - [x] Alois — age: early twenties.
 - [x] Ambroz — age/personality note: nineteen years old and very immature.
-- [x] Ambroz breakup — at twenty-one, Simonka breaks up with him because she cannot take his immaturity anymore.
+- [x] Ambroz breakup — at age twenty-three, right after her first date with Holic, Simonka breaks up with Ambroz because she cannot take his immaturity anymore.
 - [x] Holic — full name: Holic Bartunek.
 - [x] Holic meeting — Simonka meets Holic by accident in Prague's Old Town Square when she is twenty-three.
 - [x] Holic/Simonka first date location — Holic takes Simonka to Marie B in Prague's Old Town.
