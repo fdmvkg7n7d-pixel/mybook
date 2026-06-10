@@ -146,7 +146,7 @@ She goes home. The brand is under her clothing. She is Simonka. She is GG. She i
 
 ## OPEN ITEMS
 
-- [ ] **Does the advisor contact Holic?** He may want to speak to Holic to verify the framework. If so, this is a major future scene — Holic and the advisor meeting, the Collegium's silence rule intersecting with academic ethics. **Flag.**
+- [x] **Does the advisor contact Holic / show up to verify?** Yes: this now connects to `gg-squeeze-chute-collective-stillness-outline.md`, where Simonka Káta's professor shows up on the day Holic has placed GG in the thing with six pets. This becomes the embodied verification scene where the academic world physically witnesses GG's reality.
 
 - [ ] **Does the advisor read the Collegium bylaws?** Simonka should give him a copy. He reads it. This gives the advisor a concrete document to evaluate. **Recommended.**
 

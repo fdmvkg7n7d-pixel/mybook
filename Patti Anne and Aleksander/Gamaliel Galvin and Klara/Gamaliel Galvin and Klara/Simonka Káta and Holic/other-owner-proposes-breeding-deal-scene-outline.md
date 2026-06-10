@@ -3,8 +3,8 @@
 ## Characters
 - **The Other Owner**: Current caretaker of GG. Proposes a breeding arrangement and offers that Holic can keep the baby (puppy).
 - **Holic**: Person picking up GG. Receives the proposal while GG is actively busy with Bruno. He needs time to think and will discuss it with Simonka Kata.
-- **GG (Good Girl)**: Female dog. Very excited to see Holic. Busy mating with Bruno in the background while the humans talk.
-- **Bruno**: Male dog. Busy with GG during the conversation. Gentle with her as usual.
+- **GG (Good Girl)**: Adult human pet in dog/pet role. Very excited to see Holic. Busy with Bruno in the background while the humans talk.
+- **Bruno**: Adult male human pet in dog/pet role. Busy with GG during the conversation. Gentle with her as usual.
 - **Simonka Kata**: Person Holic plans to discuss the deal with at his mansion.
 
 ## Setting
@@ -25,10 +25,10 @@
 ## Scene Outline
 
 ### Background Activity During the Talk
-- While the other owner and Holic are having their conversation, GG is busy mating with Bruno.
-- The dogs are actively engaged in the background (tying into previous scenes, including the third-hole mounting).
+- While the other owner and Holic are having their conversation, GG is busy with Bruno in an adult human-pet encounter.
+- The human pets are actively engaged in the background (tying into previous scenes).
 - GG's excitement from seeing Holic may carry over into her interaction with Bruno.
-- Bruno is focused and gentle with GG despite the presence of the humans.
+- Bruno is focused and gentle with GG despite the presence of the owners/observers.
 
 ### The Proposal
 - The other owner brings up the breeding deal.
