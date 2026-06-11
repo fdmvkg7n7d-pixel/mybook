@@ -72,3 +72,7 @@ In the Prague academy apartment, mornings mean: Gamaliel making coffee, Klára a
 ## Open Questions
 - [ ] Does Klárka tell Simonka details that make Simonka want the same?
 - [ ] Any specific Paris ballet history Gamaliel shares?
+
+## SAGA CONNECTION — THE OTHER PARIS TRIP
+
+- **The academy's two-trip system frames this whole outline:** grade eight is the *fixed, annual* Disneyland Paris trip (every class, every year — the tradition Klárka's parents decided in the Orlando parks in 2062, before the academy existed; see `../Gamaliel Galvin and Klárá/terri-anne-cypress-cove-orlando-the-name-scene-outline.md`); **grade twelve is the trip the class chooses for itself.** So this Paris trip exists because **Klárka's class chose Paris** — debated it, voted on it [the choosing scene is its own candidate beat] — which makes it Klárka's *second* school trip to the same city, two childhoods apart: thirteen at Disneyland, seventeen on the Opéra steps. [TBD: the memory beat; whether Gamaliel chaperoned the grade-eight one too; what cities lost the class vote. Simonka's class, next year, chooses Rome.]

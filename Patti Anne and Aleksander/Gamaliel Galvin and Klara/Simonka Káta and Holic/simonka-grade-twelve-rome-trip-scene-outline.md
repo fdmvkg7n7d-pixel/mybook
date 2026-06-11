@@ -90,3 +90,7 @@ The school books them a twin room at Hotel Artemide (Via Nazionale) — two sing
 - [ ] Does Simonka tell Klárka about the conversation later?
 - [ ] What was Simonka's actual Trevi wish? (Keep ambiguous or reveal?)
 - [ ] Does this trip appear in her Charles University admissions interview?
+
+## SAGA CONNECTION — THE CHOSEN CITY
+
+- Per the academy's two-trip system (see the key profile): grade eight is the fixed annual **Disneyland Paris** trip; **grade twelve is the trip the class chooses.** **Simonka's class chose Rome** — the year after Klárka's class chose Paris. [TBD: the class-vote beat; what Rome beat out; whether Simonka, who watched Klárka leave for Paris a year earlier (`klarka-upset-felician-audition-scene-outline.md` era), campaigned for something deliberately *not* Paris.]

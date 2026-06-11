@@ -31,6 +31,6 @@ This is a core tradition of the Prague ballet academy founded by Gamaliel Galvin
 - Sets up future scene: Simonka's first year at Charles University, she skips the recital for exams — first time she breaks the "every year" pattern, causing quiet family tension
 
 ## Open Items
-- [ ] Name of the academy (currently "Prague ballet academy")
+- [x] Name of the academy: **Pražská Baletní Akademie** (canon; see `academy-opening-prep-grandparents-stay.md`). Its performance hall: the **Mike Key Theatre** (Terri Anne's gift of a name, Cypress Cove 2062).
 - [ ] Specific pieces performed in Klárka's Grade 12 year
 - [ ] Does Holic ever attend a recital years later (as Simonka's partner)?
