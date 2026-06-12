@@ -80,7 +80,7 @@ These are questions whose answers would make scenes that are already canon more 
 ### Mike's lifetime aftermath
 
 - [ ] **Whether the OPP relationship survives Mike** — i.e., whether the family still has that direct line for future crises. This is *especially* relevant for Carlota Delicia's kidnapping later, which requires cross-border coordination. If Mike's OPP contacts are no longer a phone call away, who replaces him?
-- [ ] **How Terri Anne carries on as the surviving matriarch** in the months and years afterward. What does daily life look like in the mansion without him? Does she stay in the house? Does she travel? Does she become more involved with Gamaliel and Klára's Prague planning?
+- [ ] **How Terri Anne carries on as the surviving matriarch** — *partially resolved:* **she does not stay in the house. She moves to Cypress Cove, Orlando, Florida** (see `Patti Anne and Aleksander/Gamaliel Galvin and Klara/terri-anne-cypress-cove-orlando-the-name-scene-outline.md` — Gamaliel and Klára visit her there in 2062, en route to Prague, to ask the academy-name question). Still open: when exactly she moves, what happens to the Vaughan mansion, her Prague visits, whether her Orlando years overlap with Carlota and Keith's.
 
 ### The Santiago & Natal modeling trip (Mike + Ashley Erin + Andrea Jennifer)
 
@@ -113,7 +113,17 @@ The funeral scene treats each daughter as separately upset. None of those eight 
 
 - [ ] **The saga's calendar.** We have *Pandora Paige born December 25, 2044* and *Mike dies when Gamaliel and Klára are sixteen*. Working backward and forward from these two anchors, a master timeline would help. (When is Carlota born? When is she kidnapped? When does she return? When is the HIV diagnosis? When do Carlota and Keith meet, start dating, move to Orlando, interview at Disney?)
 - [x] **The Key family's wealth** — Resolved! The money comes from Mike, who is literally **the wealthiest man in the world** through his ownership of an unfathomable global business empire. Despite his unfathomable wealth, Mike chose to lead a deeply grounded and private life, devoting himself to his family, learning ASL, and working as a detective/consultant with the OPP because of his profound belief in justice and duty. This explains how twenty-five million dollars can be given so casually as a Tuesday night gift—it is a drop in the ocean of his massive estate.
-- [ ] **The school's name.** Terri Anne explicitly says the academy in Prague does *not* have to be named after Mike — but it also doesn't have a working name yet. This is a real artistic decision the saga still has to make.
+- [x] **The school's name.** Resolved! **Pražská Baletní Akademie** — at Cypress Cove (2062) Gamaliel and Klára ask to name the academy for Mike Key; Terri Anne talks them out of it (*a ballet academy needs a hip name*) and gives them the **Mike Key Theatre** (the performance hall) instead; the **Mike Key Studio** (storefront) stands. *(See `Patti Anne and Aleksander/Gamaliel Galvin and Klara/Gamaliel Galvin and Klárá/terri-anne-cypress-cove-orlando-the-name-scene-outline.md`.)*
+
+### The Records — Klára's great-grandmothers (the three big TBDs)
+
+*(See `Patti Anne and Aleksander/Gamaliel Galvin and Klara/Gamaliel Galvin and Klárá/the-records-great-grandmothers-found-scene-outline.md` — the scene is outlined; these three decisions are deliberately parked.)*
+
+- [ ] **TBD 1 — The halachic close.** Do the registers establish an unbroken maternal line, making **Klára halachically Jewish by birth**? (Recommended in the outline — it would close the saga's longest-open question and sharpen Gamaliel's arc: he remains the family's one convert, the chooser among the born. But unmade until the writer makes it.)
+- [ ] **TBD 2 — Terezín: survived or not.** Does great-grandmother [Růžena, proposed] survive Theresienstadt (the line passed through the camp and lived) or not (the line survived through a daughter sent away in time)? Option (b) unlocks the **Pinkas Synagogue wall coda** (her name among the 77,297). The single heaviest decision in the thread — choose with care.
+- [ ] **TBD 3 — The ending: the folder or the date.** Does the scene end on the documents themselves, or on the **yahrzeit** — the records giving Klára a date she keeps annually (Kaddish, the calendar acquiring a personal day)? The quiet candidate is the date.
+
+- [ ] **Whether anything ever happens in **Vacations/** that intersects the Mike-death arc.** There's existing material on Mediterranean cruises and Northern Europe cruises; the funeral material now references *Patti Anne's cruise* but doesn't anchor which one or where.
 - [ ] **Whether anything ever happens in **Vacations/** that intersects the Mike-death arc.** There's existing material on Mediterranean cruises and Northern Europe cruises; the funeral material now references *Patti Anne's cruise* but doesn't anchor which one or where.
 
 ---
@@ -124,7 +134,7 @@ These are the ones I'd most like an answer on, in priority order:
 
 1. [x] **Where and how does Mike die?** This has been resolved! He suffers a massive myocardial infarction in his study at the mansion, spilling his twenty-year companion—his sublingual nitroglycerine pills—across the hardwood. Terri Anne finds him and performs CPR; Patti Anne delivers the news to the sisters in birth order, going in person to sign to Sabrina Bryna. *(See `Mike and Terri Anne/mike-key-death-scene-outline.md`.)*
 2. [x] **What is the pre-cruise disclosure conversation?** Resolved! Klára preempts the post-cruise plan by opening up to her psychologist and then talking directly with Patti Anne and Aleksander in her bedroom before the cruise. Gamaliel is invited in for a deep family conversation that solidifies their safety, removes Klára's fear, and receives their parents' full blessing. *(See `Patti Anne and Aleksander/Gamaliel Galvin and Klara/pre-cruise-disclosure-scene-outline.md`.)*
-3. **What is the academy in Prague actually called?** (The school's name, not the Mike Key Studio inside it.) This frees a lot of downstream Prague material.
+3. [x] **What is the academy in Prague actually called?** Resolved! **Pražská Baletní Akademie** (the Cypress Cove scene, 2062 — with the Mike Key Studio and, later, the Mike Key Theatre inside it).
 4. **Does Carlota ever cross the hallway into Keith's bedroom?** Whatever the answer (yes / no / years later / never), the saga needs to know.
 5. [x] **Source of the Key family wealth.** Resolved! The money comes from Mike, who is the wealthiest man in the world. He built an unfathomable global business empire but quietly worked with the OPP out of passion, meaning his family had access to astronomical resources while remaining remarkably grounded.
 
