@@ -20,14 +20,14 @@ These are questions where, until they're answered, several downstream scenes can
 
 ### Carlota Delicia's HIV — disclosure beyond Keith
 
-- [ ] **When (in what year/her age) is she officially diagnosed?** The diagnosis scene puts it at ~12-13, right after recovery, but the exact sequence (police rescue → flight home → SickKids workup → result) deserves a clearer timeline.
-- [ ] **Who, outside the immediate household and Keith, knows?** Specifically:
-  - Does **Patti Anne** know? She is Sabrina Bryna's eldest sister and the family anchor.
-  - Does **Terri Anne** know? (She is the surviving matriarch.)
-  - Do any of the **other six aunts** know?
-  - Do any of **Carlota's five half-siblings** know — especially Taylor Raven, who is already frightened of her?
-- [ ] **How does Carlota choose what to disclose to Keith's parents (the dentists)?** They will eventually meet her. Does Keith tell them? Does Carlota? Does she choose not to?
-- [ ] **Disclosure at UCF / Rosen College / Walt Disney Imagineering** — there is no legal obligation, but the saga should decide whether she ever proactively tells anyone in Orlando.
+- [x] **When (in what year/her age) is she officially diagnosed?** Resolved! Carlota is born in 2053. She is kidnapped by Carlos Reyes in Spring 2062 (age 9) and held in Tijuana for 42 months (3.5 years). She is rescued in Autumn 2065 (age 12.5) via an OPP/RCMP cross-border operation coordinated by Patti Anne. Her HIV status is diagnosed within weeks of her return during her SickKids medical workup.
+- [x] **Who, outside the immediate household and Keith, knows?** Resolved!
+  - **Patti Anne** knows (she coordinated the rescue and offers absolute family-level protection).
+  - **Terri Anne** knows (she flies up from Orlando immediately and is present in the mansion to support Sabrina and Carlota).
+  - **The other six aunts** do **not** know (protecting Carlota from their over-solicitude or pity at family gatherings).
+  - **Carlota's five half-siblings** do **not** know (they are too young, and Taylor Raven is already intimidated by Carlota's Tijuana posture).
+- [x] **How does Carlota choose what to disclose to Keith's parents (the dentists)?** Resolved! When she and Keith are seriously dating (~2069), Keith's parents (Dr. Howard and Dr. Elaine Holiday) invite her to dinner. Because they are healthcare professionals, Carlota chooses to tell them personally over tea afterward; they respond with profound professional empathy and complete parental acceptance.
+- [x] **Disclosure at UCF / Rosen College / Walt Disney Imagineering** — Resolved! She does **not** disclose proactively in Orlando. Flawlessly managed on ART (viral load completely undetectable), it remains her private medical knowledge, not a workplace identity.
 
 ### Gamaliel and Klára — the pre-cruise disclosure to Patti Anne and Aleksander
 
@@ -38,14 +38,11 @@ These are questions where, until they're answered, several downstream scenes can
 
 ### The Prague academy — the financial mechanics
 
-- [ ] **When is the twenty-five million actually transferred?** Three plausible moments:
-  1. Soon after the offer (held in trust until Klára turns 18)
-  2. At graduation
-  3. At the moment the Prague property is purchased
-- [ ] **What trust structure is used?** Canadian trust law; cross-border implications for moving funds to the Czech Republic; Klára's foster-child status (which ends at 18) and how that interacts with receiving a large gift.
-- [ ] **Does Patti Anne ever ask Terri Anne for any of it?** (No — but the saga should at least know that "no" is the answer.)
-- [ ] **Do the other seven daughters ever learn the exact figure?** Or do they only learn that *"Mom gave them something to start with"*?
-- [ ] **Is there a parallel gift or arrangement for any of Mike and Terri Anne's other grandchildren?** Twenty-five million is enormous; it matters whether this is unique to Gamaliel and Klára or whether Terri Anne is restructuring her estate generally.
+- [x] **When is the twenty-five million actually transferred?** Resolved! The capital is deployed in **June 2061** upon graduation, held in trust until October 2062 when Klára's farewell week concludes and the Prague real estate acquisition is finalized.
+- [x] **What trust structure is used?** Resolved! The **Key Legacy Arts Trust**, an irrevocable cross-border Canadian trust managed by a top Toronto fiduciary firm. Structured to disburse specifically for Czech real estate and business capitalization upon Klára's 18th birthday, bypassing any foster-care legal entanglements.
+- [x] **Does Patti Anne ever ask Terri Anne for any of it?** Resolved! **No.** Patti Anne and Aleksander are independently secure; the grant is a direct matriarchal endowment from Terri Anne out of Mike's unfathomable estate.
+- [x] **Do the other seven daughters ever learn the exact figure?** Resolved! **No.** They only know Terri Anne helped them buy their studio and get settled. The staggering exact figure ($25,000,000) remains strictly confidential.
+- [x] **Is there a parallel gift or arrangement for any of Mike and Terri Anne's other grandchildren?** Resolved! **Yes.** Terri Anne establishes the overarching **Key Intergenerational Advancement Fund** within Mike's global corporate empire, ensuring every grandchild has trust-gated capital deployment tailored to their adult callings.
 
 ---
 
@@ -72,14 +69,14 @@ These are questions whose answers would make scenes that are already canon more 
 ### Carlota and Keith — the long arc
 
 - [ ] **Outcome of the Walt Disney Imagineering internship interviews** — do they both get in? Does one get in and not the other? Does the saga split them for a season?
-- [ ] **Does Carlota ever cross the hallway into Keith's bedroom in the Orlando mansion?** If yes, when, and what is the lead-up?
-- [ ] **Keith's parents' first names**, and the name of their dental practice(s). Are they two separate practices or one shared one?
+- [x] **Does Carlota ever cross the hallway into Keith's bedroom in the Orlando mansion?** Resolved! **Yes, but only years later, after their Walt Disney Imagineering careers are fully established.** For their entire college years at UCF and their early twenties in Orlando, the separate bedrooms remain a strict physical boundary that Keith honors flawlessly. When Carlota finally crosses the hallway into Keith's room on a quiet Sunday morning in her late twenties, she does so entirely on her own initiative.
+- [ ] **Keith's parents' first names**, and the name of their dental practice(s). Are they two separate practices or one shared one? *(Partially resolved: Dr. Howard Holiday and Dr. Elaine Holiday).*
 - [ ] **Keith's siblings, religion, cultural background** — currently all TBD.
-- [ ] **Keith's specific interest within Imagineering** — concept design, show writing, ride engineering, animatronics?
+- [ ] **Keith's specific interest within Imagineering** — concept design, show writing, ride engineering, animatronics? *(Partially resolved: show writing and ride engineering).*
 
 ### Mike's lifetime aftermath
 
-- [ ] **Whether the OPP relationship survives Mike** — i.e., whether the family still has that direct line for future crises. This is *especially* relevant for Carlota Delicia's kidnapping later, which requires cross-border coordination. If Mike's OPP contacts are no longer a phone call away, who replaces him?
+- [ ] **Whether the OPP relationship survives Mike** — i.e., whether the family still has that direct line for future crises. This is *especially* relevant for Carlota Delicia's kidnapping later, which requires cross-border coordination. If Mike's OPP contacts are no longer a phone call away, who replaces him? *(Partially resolved: Patti Anne maintains the direct OPP/RCMP liaisons).*
 - [ ] **How Terri Anne carries on as the surviving matriarch** — *partially resolved:* **she does not stay in the house. She moves to Cypress Cove, Orlando, Florida** (see `Patti Anne and Aleksander/Gamaliel Galvin and Klara/terri-anne-cypress-cove-orlando-the-name-scene-outline.md` — Gamaliel and Klára visit her there in 2062, en route to Prague, to ask the academy-name question). Still open: when exactly she moves, what happens to the Vaughan mansion, her Prague visits, whether her Orlando years overlap with Carlota and Keith's.
 
 ### The Santiago & Natal modeling trip (Mike + Ashley Erin + Andrea Jennifer)
@@ -111,7 +108,7 @@ The funeral scene treats each daughter as separately upset. None of those eight 
 
 ## TIER 4 — STRUCTURAL / WORLD-LEVEL QUESTIONS
 
-- [ ] **The saga's calendar.** We have *Pandora Paige born December 25, 2044* and *Mike dies when Gamaliel and Klára are sixteen*. Working backward and forward from these two anchors, a master timeline would help. (When is Carlota born? When is she kidnapped? When does she return? When is the HIV diagnosis? When do Carlota and Keith meet, start dating, move to Orlando, interview at Disney?)
+- [x] **The saga's calendar.** Resolved in `Temp/TIMELINE.md`. Pandora Paige born Dec 25, 2044; Carlota Delicia born 2053; Mike dies Late 2059; Carlota kidnapped Spring 2062, rescued Autumn 2065, diagnosed SickKids Late 2065; Keith and Carlota date end of grade 10 (~2069).
 - [x] **The Key family's wealth** — Resolved! The money comes from Mike, who is literally **the wealthiest man in the world** through his ownership of an unfathomable global business empire. Despite his unfathomable wealth, Mike chose to lead a deeply grounded and private life, devoting himself to his family, learning ASL, and working as a detective/consultant with the OPP because of his profound belief in justice and duty. This explains how twenty-five million dollars can be given so casually as a Tuesday night gift—it is a drop in the ocean of his massive estate.
 - [x] **The school's name.** Resolved! **Pražská Baletní Akademie** — at Cypress Cove (2062) Gamaliel and Klára ask to name the academy for Mike Key; Terri Anne talks them out of it (*a ballet academy needs a hip name*) and gives them the **Mike Key Theatre** (the performance hall) instead; the **Mike Key Studio** (storefront) stands. *(See `Patti Anne and Aleksander/Gamaliel Galvin and Klara/Gamaliel Galvin and Klárá/terri-anne-cypress-cove-orlando-the-name-scene-outline.md`.)*
 
@@ -134,7 +131,7 @@ These are the ones I'd most like an answer on, in priority order:
 1. [x] **Where and how does Mike die?** This has been resolved! He suffers a massive myocardial infarction in his study at the mansion, spilling his twenty-year companion—his sublingual nitroglycerine pills—across the hardwood. Terri Anne finds him and performs CPR; Patti Anne delivers the news to the sisters in birth order, going in person to sign to Sabrina Bryna. *(See `Mike and Terri Anne/mike-key-death-scene-outline.md`.)*
 2. [x] **What is the pre-cruise disclosure conversation?** Resolved! Klára preempts the post-cruise plan by opening up to her psychologist and then talking directly with Patti Anne and Aleksander in her bedroom before the cruise. Gamaliel is invited in for a deep family conversation that solidifies their safety, removes Klára's fear, and receives their parents' full blessing. *(See `Patti Anne and Aleksander/Gamaliel Galvin and Klara/pre-cruise-disclosure-scene-outline.md`.)*
 3. [x] **What is the academy in Prague actually called?** Resolved! **Pražská Baletní Akademie** (the Cypress Cove scene, 2062 — with the Mike Key Studio and, later, the Mike Key Theatre inside it).
-4. **Does Carlota ever cross the hallway into Keith's bedroom?** Whatever the answer (yes / no / years later / never), the saga needs to know.
+4. [x] **Does Carlota ever cross the hallway into Keith's bedroom?** Resolved! **Yes, but only years later, after their Walt Disney Imagineering careers are fully established.** For their entire college years at UCF and early professional twenties in Orlando, the separate bedrooms remain a strictly honored boundary. She eventually crosses the hallway entirely on her own initiative.
 5. [x] **Source of the Key family wealth.** Resolved! The money comes from Mike, who is the wealthiest man in the world. He built an unfathomable global business empire but quietly worked with the OPP out of passion, meaning his family had access to astronomical resources while remaining remarkably grounded.
 
 ---

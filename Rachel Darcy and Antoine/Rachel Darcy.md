@@ -1,5 +1,10 @@
 # RACHEL DARCY KEY
 
+## Synopsis
+
+This folder compiles the canonical profiles, timelines, and multi-child household outlines for **Rachel Darcy Key** (third of the eight sisters, conjoined twin separated in infancy, accomplished ballerina and swimmer) and her husband **Antoine**. Key narrative arcs focus on her profound sub-linguistic twin body-memory, extensive international travel, and the vibrant inter-cousin dynamics of their large family.
+
+
 ## Full Character Profile
 
 ---

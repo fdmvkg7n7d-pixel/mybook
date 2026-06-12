@@ -1,5 +1,10 @@
 # SABRINA BRYNA KEY — TWO RELATIONSHIPS: CARLOS & WILLIAM
 
+## Synopsis
+
+This directory coordinates the complex narrative arcs, medical histories, and multi-sibling profiles centered on **Sabrina Bryna Key** (fifth of the eight sisters, who navigates cerebral palsy and profound deafness with absolute linguistic agency in ASL) and her husband, SickKids pediatric oncologist **William**. A central narrative pillar of this branch is the harrowing Tijuana kidnapping, cross-border rescue, and triumphant adult Imagineering career of Sabrina's eldest daughter, **Carlota Delicia Key**.
+
+
 ## Shared Character and Relationship File
 
 ---
@@ -20,7 +25,33 @@
 - **Religion:** Practicing Catholic [TBD if confirmed]
 - **Activities:** Yoga and swimming
 - **Properties:** Sabrina Bryna's **Vaughan mansion** (Vaughan, Ontario) — primary residence. **Seoul apartment** (Seoul, South Korea) — owned and maintained as a second home. Available for family use.
-- **Traits:** [TBD]
+- **Traits:** Empathetic, analytically brilliant, fiercely resilient matriarch. Communicates with absolute clarity and refusal of bodily shame.
+
+---
+
+## CEREBRAL PALSY PRESENTATION & MASTER ACCOMMODATIONS
+
+Sabrina Bryna Key navigates **Cerebral Palsy (Spastic Diplegia)** alongside her profound deafness. The Key family philosophy treats her CP not as a tragedy, an emotional burden, or a medical defect to be hidden, but as a plain physical fact requiring architectural, ergonomic, and relational precision.
+
+### 1. Medical & Physical Presentation
+- **Postural & Motor Impact:** Her spastic diplegia primarily impacts the muscle tone, spasticity, and gross motor coordination of her lower extremities and hips. 
+- **Mobility Landscape:** Her independent walking gait is labored and asymmetrical, requiring immense conscious physical effort. 
+  - For short indoor distances within her Vaughan mansion or Seoul apartment, she walks independently or uses custom ergonomic lightweight forearm crutches.
+  - For long outdoor distances, extensive travel (such as massive international airports en route to Tijuana or Cap d'Agde), or when experiencing profound emotional and physical fatigue, she utilizes a highly engineered, ultra-lightweight custom manual wheelchair or an all-terrain beach wheelchair with balloon tires.
+- **Upper Extremity Rigor:** Thanks to highly disciplined lifelong physical therapy and her rigorous daily immersion in American Sign Language, her fine motor control in her hands and wrists is remarkably conditioned. Her ASL is sharp, incredibly fluid, and commanding—her physical voice completely unhindered by her disability.
+
+### 2. Corporate & Educational Engineering (Mike Key's Mastership)
+Because Sabrina possessed a formidable, analytically brilliant business mind, patriarch Mike Key actively integrated her into the inner workings of **Key Corporation** from early childhood.
+- **The Boardroom Accommodation:** When Mike brought her into high-stakes executive boardrooms, he engineered absolute physical and linguistic parity. Alongside signing to her personally in ASL, he installed a customized executive ergonomic core-support chair at the boardroom table. By beautifully stabilizing her pelvis, core, and lumbar spine, her torso was entirely shielded from spastic strain or balance fatigue, leaving her arms and hands 100% free to sign commanding, brilliant corporate strategies. This physical blueprint paved the way for her triumphant Business Management degree at the **University of Toronto**.
+
+### 3. Universal Domestic Architecture
+In her primary Vaughan mansion and her adult households, physical friction is architecturally designed out:
+- **Level Thresholds:** Zero-barrier transition doorways and flush hardwood decking completely eliminate tripping hazards.
+- **Roll-Under Kitchen Workspaces:** Floating kitchen islands and custom-adjusted homework desks allow her to roll her specialized core-stabilizing desk chair directly under the work surface, ensuring absolute stability while helping her five children with their schoolwork or managing family finances.
+
+### 4. Relational & Touch Counter-Pressure
+In the Key family, love is demonstrated through tactile steadiness:
+- **The Physical Anchor:** Her husband William and her parents understand how to read her muscle tone perfectly. When her CP spasticity flares up or shakes due to overwhelming physical or emotional exhaustion (most notably during the harrowing forty-two months of Carlota's kidnapping), William does not offer empty sentimental words. He delivers firm, grounding, physical counter-pressure—resting a heavy, warm palm on her forearm, bridging her spasticity, and anchoring her back against his steady chest.
 
 ---
 
@@ -265,7 +296,7 @@ Sabrina Bryna and William have **five children together** (three biological, one
 - [x] **William's Profession:** Pediatric Oncologist and Retinoblastoma specialist at SickKids.
 - [ ] Exact calendar date of birth.
 - [x] Sabrina Bryna's education details at University of Toronto: Earned a business management degree at U of T, fueled by her sharp business mind and early mentoring by Mike inside Key Corporation.
-- [ ] Details of Cerebral Palsy presentation and accommodations.
+- [x] Details of Cerebral Palsy presentation and accommodations: Resolved! Detailed entirely under the master **Cerebral Palsy Presentation & Master Accommodations** section (spastic diplegia, ergonomic core-stabilizing chairs, roll-under workspaces, all-terrain beach wheelchairs, and William's grounding touch counter-pressure).
 - [ ] Devon Smythson's background and full story.
 - [ ] Key family's response to the Carlos split and visitation arrangement.
 - [ ] Carlota Delicia's life during the forty-two months — schooling, hiding, what Carlos tells her.
