@@ -123,8 +123,7 @@ The funeral scene treats each daughter as separately upset. None of those eight 
 - [ ] **TBD 2 — Terezín: survived or not.** Does great-grandmother [Růžena, proposed] survive Theresienstadt (the line passed through the camp and lived) or not (the line survived through a daughter sent away in time)? Option (b) unlocks the **Pinkas Synagogue wall coda** (her name among the 77,297). The single heaviest decision in the thread — choose with care.
 - [ ] **TBD 3 — The ending: the folder or the date.** Does the scene end on the documents themselves, or on the **yahrzeit** — the records giving Klára a date she keeps annually (Kaddish, the calendar acquiring a personal day)? The quiet candidate is the date.
 
-- [ ] **Whether anything ever happens in **Vacations/** that intersects the Mike-death arc.** There's existing material on Mediterranean cruises and Northern Europe cruises; the funeral material now references *Patti Anne's cruise* but doesn't anchor which one or where.
-- [ ] **Whether anything ever happens in **Vacations/** that intersects the Mike-death arc.** There's existing material on Mediterranean cruises and Northern Europe cruises; the funeral material now references *Patti Anne's cruise* but doesn't anchor which one or where.
+- [ ] **Whether anything ever happens in `Vacations/` that intersects the Mike-death arc.** There's existing material on Mediterranean cruises and Northern Europe cruises; the funeral material now references *Patti Anne's cruise* but doesn't anchor which one or where.
 
 ---
 

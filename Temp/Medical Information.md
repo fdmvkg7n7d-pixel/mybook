@@ -9,7 +9,7 @@ This document tracks the specific medical conditions, disabilities, and rare dia
 ### Retinoblastoma (RB)
 - **Specialist:** William (SickKids)
 - **Affected Characters:** Brandi Jessica Key, Pandora Paige Key
-- **Description:** A rare form of eye cancer that almost always affects young children. 
+- **Description:** A rare form of eye cancer that almost always affects young children.
 - **Genetic Link:** Often caused by a mutation in the *RB1* gene. In the Key family, the germline mutation is a major plot point, requiring vigilant screening (EUAs) for the next generation.
 - **Treatment:** Focal therapies (laser, cryotherapy) if caught early; enucleation (removal of the eye) in aggressive cases.
 
@@ -26,12 +26,12 @@ This document tracks the specific medical conditions, disabilities, and rare dia
 
 ### Cerebral Palsy (CP)
 - **Affected Characters:** Sabrina Bryna Key
-- **Description:** A group of disorders that affect a person's ability to move and maintain balance and posture. 
+- **Description:** A group of disorders that affect a person's ability to move and maintain balance and posture.
 - **Impact in Saga:** Sabrina's gait is affected, and her physical limitations are often highlighted during high-stress events (like the search for Carlota).
 
 ### Turner Syndrome (Mosaic Form)
 - **Affected Characters:** Kiley Rose Key
-- **Description:** A genetic condition in females caused by a missing or partially missing X chromosome. 
+- **Description:** A genetic condition in females caused by a missing or partially missing X chromosome.
 - **Impact in Saga:** Kiley Rose faced a high-risk pregnancy with her twins, Brandi Jessica and Pandora Paige, as spontaneous pregnancy is rare in women with Turner Syndrome.
 
 ---
@@ -55,7 +55,7 @@ This document tracks the specific medical conditions, disabilities, and rare dia
 ### Massive Myocardial Infarction (Heart Attack)
 - **Affected Characters:** **Mike Key** (cause of death)
 - **Description:** A massive heart attack — a sudden, large-scale interruption of blood flow to a major portion of the heart muscle, causing rapid tissue death and often immediate cardiac arrest.
-- **Significance in Saga & Chronic History:** Mike Key, the patriarch, had managed a chronic heart condition (coronary artery disease and stable angina) for **twenty years**, quietly carrying a small glass vial of **sublingual nitroglycerine pills** in his pocket wherever he went. The family (and especially Terri Anne) had grown accustomed to this routine—it was a known, managed constant, which made his sudden death even more shocking. 
+- **Significance in Saga & Chronic History:** Mike Key, the patriarch, had managed a chronic heart condition (coronary artery disease and stable angina) for **twenty years**, quietly carrying a small glass vial of **sublingual nitroglycerine pills** in his pocket wherever he went. The family (and especially Terri Anne) had grown accustomed to this routine—it was a known, managed constant, which made his sudden death even more shocking.
 - **The Event:** At age sixteen of Gamaliel and Klára, Mike suffers a massive, catastrophic myocardial infarction that nitroglycerine cannot reverse. He dies suddenly—no long illness, no anticipated decline, no chance to say goodbye over weeks. This shapes the whole post-Mike arc: Terri Anne becomes the surviving matriarch overnight; the family is forced to absorb both *Mike is here* and *Mike is gone* in the same breath. *(See `Mike and Terri Anne/Mike Key.md`.)*
 
 ---

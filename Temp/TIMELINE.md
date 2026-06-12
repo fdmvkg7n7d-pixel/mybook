@@ -26,7 +26,7 @@
 - **December 23, 2051:** **Brandi Jessica** is diagnosed with bilateral retinoblastoma at age 7. Pandora is screened and saved.
 - **June 2056:** **Palmer Peter Key** and **Salena Sarai Key** are born to Patti Anne (age 34).
 - **Late 2059 (November–December):** **Mike Key dies.** Gamaliel and Klára are both 16 — which, given the April/November birthdays, places the death after Klára's November birthday. **Rabbi Loewy attends the funeral Mass** (back row); on the church steps: *"May his memory be a blessing"* / *"Thursday still stands."* That night, over the melted banana split, Gamaliel says *zikhrono livrakha* as his own for the first time.
-- **~2074:** **Palmer Peter and Salena Sarai move out** at age 18. 
+- **~2074:** **Palmer Peter and Salena Sarai move out** at age 18.
     - Palmer Peter moves to Saudi Arabia.
     - Salena Sarai moves to Perth, Australia.
     - Gamaliel is 31 years old.

@@ -4,11 +4,11 @@
 
 **Recommended split:**
 
-- **Days 1–7:** Bayahibe / Dominicus  
+- **Days 1–7:** Bayahibe / Dominicus
   For Saona Island, beach time, snorkeling, diving, and Cotubanamá National Park.
-- **Days 8–10:** La Romana / Casa de Campo area  
+- **Days 8–10:** La Romana / Casa de Campo area
   For Altos de Chavón, Chavón River, and Catalina Island.
-- **Days 11–14:** Punta Cana or Santo Domingo  
+- **Days 11–14:** Punta Cana or Santo Domingo
   Choose Punta Cana for more beach/resort relaxation, or Santo Domingo for culture, history, and food.
 
 If Saona Island is the main goal, stay closest to **Bayahibe** for the first week.
@@ -241,7 +241,7 @@ Best if you want:
 - Colonial architecture.
 - Restaurants and city energy.
 
-For a beach-heavy trip, choose **Punta Cana**.  
+For a beach-heavy trip, choose **Punta Cana**.
 For a more balanced trip, choose **Santo Domingo**.
 
 ---

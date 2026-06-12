@@ -4,9 +4,9 @@
 
 ## Trip Length
 
-**Recommended length:** 7 days / 6 nights  
-**Best base:** Waterton Park townsite  
-**Best airport:** Calgary International Airport  
+**Recommended length:** 7 days / 6 nights
+**Best base:** Waterton Park townsite
+**Best airport:** Calgary International Airport
 **Best season:** Late June to September for the fullest access to roads, trails, boat tours, and lake activities.
 
 Waterton is smaller and quieter than Banff or Jasper, but it has dramatic mountain scenery, lakes, wildlife, waterfalls, and some excellent hikes. It works well as a nature-focused vacation with slow mornings, scenic drives, and one or two bigger adventure days.
