@@ -24,7 +24,7 @@ The intercut is the point. While her family keeps the porch light on and decides
 - **Monday:** Klárka and Raphael find Simonka's apartment empty and the diary with the note **Přečti mě** / **Read me**.
 - **Tuesday daytime:** Klárka tells the parents; Gamaliel finds Simonka at Charles University. She is *herself,* guarded, says *I chose this,* does not come home.
 - **Tuesday evening:** the monthly meeting. Because the Spark weekend is only days old, the reckoning here is **raw and immediate, not retrospective** — the violation happened to *this* pet and *this* owner the weekend before, and the club must face it almost at once. The other owners may not all even know yet; for some, this meeting is the first they hear of it.
-- Established canon (`simonka-kata-profile.md`): consensual adult human-pet club; annual human pet show; pets kept together in a large fenced area at the show; branding iron tradition (right buttock); electric shock collar (Holic's is restrained *by club standards*); safewords **yellow** / **red**; the silence rule (a collared pet speaks only its safewords); rigorous-in-theory consent, medical-disclosure, and owner-responsibility rules.
+- Established canon (`simonka-kata-profile.md`): consensual adult human-pet club; annual human pet show; pets kept together in a large fenced area at the show; branding iron tradition (right buttock); electric shock dog collar (Holic's is restrained *by club standards* and, for GG, stays on permanently); safewords **yellow** / **red**; the silence rule (a pet in pet-space speaks only its safewords); rigorous-in-theory consent, medical-disclosure, and owner-responsibility rules.
 - The **Spark violation**: a club member secretly gave his male pet a Viagra-like performance pill, breaking consent, medical-disclosure, owner-responsibility, and shared-scene trust rules. GG and Holic were the unwitting other party to that shared scene.
 - GG's relationship to her own consent is complicated: she *wants to impress Holic* and resists using her safewords even when she should.
 
@@ -75,7 +75,7 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 - **Medical-disclosure rules** — no substances, conditions, or medications hidden in shared scenes; full disclosure before any pet interacts with another owner's pet.
 - **Owner-responsibility standards** — an owner is accountable for their pet's safety, aftercare, and limits, and for their *own* conduct toward other pets.
 - **Branding tradition** — the hot iron, owner's initials, right buttock; treated as permanent, ceremonial, and weighty within the hierarchy.
-- **Collar conventions** — collar on = pet space; collar off = the person returns. Electric collars permitted within agreed limits; the club regards Holic's use as *restrained* relative to many members.
+- **Collar conventions** — for most pets, collar on = pet space and collar off = the person returns. **GG is the exception:** Holic's dog collar stays on permanently once Simonka has chosen the permanent GG life, so her shift between Simonka and GG is marked by name, posture, place, commands, and consent/safeword structure rather than by removing the collar. Electric collars are permitted within agreed limits; the club regards Holic's use as *restrained* relative to many members.
 - **Aftercare mandate** — scenes end in care: warmth, water, rest, debrief.
 
 ### The Gap (lived reality)
@@ -92,13 +92,13 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 
 ### A Typical Monthly Meeting — Structure
 
-1. **Arrival & collaring** — owners arrive; pets are brought into pet space at the threshold (collars on, names assumed), then **taken out to the fenced area.** GG becomes GG at the door.
+1. **Arrival & entry into pet space** — owners arrive; most pets are collared at the threshold, names assumed, then **taken out to the fenced area.** GG arrives already wearing Holic's permanent dog collar; she becomes GG at the door by name, posture, and Holic's handling rather than by the collar being put on.
 2. **The Steward opens (owners only, pets outside)** — housekeeping, dues, calendar (the annual show looms over everything), welcomes.
 3. **Presentation of new pets** — pets brought in (or owners go out to the area); GG is formally presented to the membership for the first time. Posture, stillness, the brand acknowledged. A ritual of belonging that is also a ritual of ownership. The pet then returns to the area.
 4. **Training & demonstration block** — skill-sharing among owners; positions, handling, show-prep for the annual event; the fenced-area group routines (including the non-private toilet-training reality already established).
 5. **Club business / disciplinary matters (owners only, pets outside)** — the formal reckoning, handled by the Circle while the pets remain in the fenced area. This month, the Spark violation is raised. *(Per the saga's pacing, the full reckoning/ruling is a later thread; see Continuity Notes.)*
 6. **Social / scene time** — the unstructured portion; this is where adult activity happens. **(Non-graphic; the scene cuts away.)**
-7. **Aftercare & decollaring** — pets brought back out of pet space; debriefs; owners accountable for their pets leaving safe and cared-for.
+7. **Aftercare & return from pet space** — pets are brought back out of pet space; most are decollared; debriefs happen; owners are accountable for their pets leaving safe and cared-for. GG's dog collar stays on permanently even when Simonka returns to person-register.
 
 ---
 
@@ -109,8 +109,8 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 ### Beat 1 — Two People Get Out of the Car
 
 - Holic and Simonka arrive at the **Collegium** — the farm, a short drive from Holic's mansion. In the car she is **Simonka** — and the outline should hold, for one beat, the Charles University woman: the psychology student, the mind trained to read people, sitting in a car on the way to be a pet. *(A grace note available here: the refined Latin name vs. the working farm it actually is — the gentleman's-club self-image meeting the kennel yard.)*
-- **The day is still on her.** This is the same Tuesday her father found her in the courtyard that afternoon. She carries the conversation in with her — *you are not in trouble, you can come home* — and she is going, instead, to be collared. The contrast is the engine of the beat: a few hours ago she had a door held open; now she is choosing the collar over the door. Holic may notice she is *off,* the way her parents noticed at the Friday meal; like them, he is told *nothing.* (Echo of *nic není* — she does it to Holic too, just in a different language.)
-- At the threshold, the collar goes on. **Simonka becomes GG.** The transformation is the established ritual; here it lands differently because it is public — she is about to be GG *in front of strangers*, not just Holic — and because she is using it as an escape hatch from a day she can't hold. Becoming GG means she no longer has to be the daughter who walked away from her father in a courtyard. GG has only two words and none of them are *Dad.*
+- **The day is still on her.** This is the same Tuesday her father found her in the courtyard that afternoon. She carries the conversation in with her — *you are not in trouble, you can come home* — and she is, instead, entering pet space at the Collegium. The contrast is the engine of the beat: a few hours ago she had a door held open; now she is choosing the permanent collar's world over the door. Holic may notice she is *off,* the way her parents noticed at the Friday meal; like them, he is told *nothing.* (Echo of *nic není* — she does it to Holic too, just in a different language.)
+- At the threshold, Holic does not put the collar on; **it is already on and stays on permanently.** Instead he shifts her into GG by name, posture, handling, and the public rules of the Collegium. **Simonka becomes GG.** The transformation lands differently because it is public — she is about to be GG *in front of strangers*, not just Holic — and because she is using pet-space as an escape hatch from a day she can't hold. Becoming GG means she no longer has to be the daughter who walked away from her father in a courtyard. GG has only two words and none of them are *Dad.*
 - **Key image:** the last look between them as equals before the collar — Holic asking, without quite asking, *are you ready;* GG answering by lowering herself into the role, and the courtyard going quiet in her at last.
 
 ### Beat 2 — The House and the Hierarchy (in the brief window before the pets go out)
@@ -189,15 +189,15 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 
 ### Beat 9 — GG Is Asked What Happened — But GG Is Outside, and Cannot Speak
 
-- The hardest beat for Simonka — and now the fence sits on top of the silence rule. As the other party to the shared scene, GG's account matters. **But GG is out in the fenced area,** and even if brought in, **a collared pet may say only *yellow* or *red.*** To get her account the club would have to do for her what it debated doing for the male pet: **bring her in from the grass and decollar her** — return Simonka — so she can speak.
+- The hardest beat for Simonka — and now the fence sits on top of the silence rule. As the other party to the shared scene, GG's account matters. **But GG is out in the fenced area,** and even if brought in, **a pet in pet-space may say only *yellow* or *red.*** To get her account the club would have to make an exception: **bring her in from the grass and release her from pet-space** — return Simonka, while the permanent dog collar remains on — so she can speak.
 - The grim symmetry the writer can use: while the owners argue indoors about her and the male pet, **the two of them are out on the grass together** — the dosed pet and GG, the two people the whole proceeding concerns, fenced out of it, unable to speak even to each other beyond *yellow* and *red.*
 - This forces the dilemma into the open:
   - **She wanted to impress Holic.** During the dosed scene she *didn't* use yellow. Part of her is ashamed, part of her still wants to be the good pet who didn't make trouble.
   - To tell the truth — *I felt something was wrong and I didn't stop it because I wanted to please you* — is to expose the exact mechanism the club's consent culture pretends doesn't exist: that a pet's desire to be Good can override her own safety. The silence rule is supposed to *protect* the safeword's power; in her case it became an excuse, because she could have said yellow and chose not to.
 - **Simonka the psychologist and GG the pet collide in one body.** She knows, clinically, what's happening to her. She is living it anyway. This is the scene's center of gravity.
 - What happens [branch for the saga]:
-  - **Option A — She is brought in and decollared, and tells the truth,** as *Simonka,* and in doing so half-indicts herself and fully indicts the system. Costs her standing; earns her something realer. (Note the symmetry: like the male pet, she can only speak the truth once she is fetched from the grass and stops being a pet.)
-  - **Option B — She is brought in and decollared but minimizes** to protect Holic / her place, hates herself, and the violator partly escapes. A darker, more honest-to-the-arc beat.
+  - **Option A — She is brought in, released from pet-space while still collared, and tells the truth,** as *Simonka,* and in doing so half-indicts herself and fully indicts the system. Costs her standing; earns her something realer. (Note the asymmetry: unlike the male pet, she can only speak the truth once she is fetched from the grass and named as Simonka, but the permanent collar remains on.)
+  - **Option B — She is brought in and released from pet-space but minimizes** to protect Holic / her place, hates herself, and the violator partly escapes. A darker, more honest-to-the-arc beat.
   - **Option C — She is never brought in.** Holic answers the safety question and shields her from testifying, so GG never enters the room and never speaks at all. She remains on the grass while her own experience is summarized by others. This protects her *and* silences her *and* keeps her absent — the cleanest demonstration of the rules' real function: her voice quite literally does not count, exactly the thing eating at her.
   - **Option D — She uses the one word she's allowed.** If she *is* brought in collared, GG says the only thing a pet is ever permitted to say in that room — **"Yellow."** Not about a scene. About the proceeding. It is the only language the rules left her, repurposed as protest: the safeword as the only available form of speech, used to say *something here is wrong.* (Strongest beat; ties the silence rule, the fence, her arc, and the conflict together in a single word.)
 
@@ -224,19 +224,19 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 - The meeting's formal portion ends; the unstructured adult portion begins. **The scene cuts away here.** The reader understands what the night becomes; the text does not depict it.
 - One held detail before the cut: GG, rattled by the reckoning, leans *harder* into being Good — the wrong lesson, the dangerous lesson. Pleasing Holic is how she quiets the part of her that just watched consent fail in real time.
 
-### Beat 13 — Aftercare & Decollaring
+### Beat 13 — Aftercare & Return From Pet Space
 
-- The mandated close: Holic brings GG back out of pet space — warmth, water, the bath ritual already established, the debrief.
+- The mandated close: Holic brings GG back out of pet space — warmth, water, the bath ritual already established, the debrief. The dog collar stays on permanently.
 - **The aftercare conversation is where the arc lands.** Possible content:
   - GG raises a quiet **yellow** — not about a scene, but about the *meeting,* about the violation, about having no voice, about how much she wanted to be Good while a person sat there who'd had his consent erased.
   - Holic's response tests his own philosophy: does he reassure her into compliance (*you did so well, good girl*) or does he actually hear that his pet just had a crisis of conscience? The difference is the difference he claims to know.
-- **Key image:** the collar off. Simonka back. The psychology student looking at the brand on her own body in the mirror, holding two true things at once — *I chose this* and *I am not sure the people I chose are who they say they are.*
+- **Key image:** the collar still on. Simonka back. The psychology student looking at the brand on her own body in the mirror, holding two true things at once — *I chose this* and *I am not sure the people I chose are who they say they are.*
 
 ### Beat 14 — Closing Image
 
 - Two people get back in the car. In the car she is **Simonka** again.
 - She does not announce a decision. She has not decided. The point of the monthly meeting, unlike the one-week deadline, is that no one gives her a clock — she has to find the limit herself, the way the dosed pet couldn't, the way the club's whole architecture is designed to make her not.
-- **Final beat (saga-level echo, made literal by the timing):** it is the same Tuesday night. Across Prague, in the house with the goldens, Gamaliel and Klára have just had their conversation and left the back-step light on — *door cracked, light on, dog at the door* — deciding to wait rather than chase. At that exact hour, their daughter is being decollared at the club after her first meeting. **Two answers to the same question — *what does it mean to belong to someone?* — happening simultaneously, a few kilometres apart, neither side knowing the other's night.** The porch light is on; she is not walking toward it; it is still on. The outline ends on that unresolved chord.
+- **Final beat (saga-level echo, made literal by the timing):** it is the same Tuesday night. Across Prague, in the house with the goldens, Gamaliel and Klára have just had their conversation and left the back-step light on — *door cracked, light on, dog at the door* — deciding to wait rather than chase. At that exact hour, their daughter is being brought back from pet space at the club after her first meeting, the dog collar still on her neck. **Two answers to the same question — *what does it mean to belong to someone?* — happening simultaneously, a few kilometres apart, neither side knowing the other's night.** The porch light is on; she is not walking toward it; it is still on. The outline ends on that unresolved chord.
 
 ---
 
@@ -292,7 +292,7 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 
 > *(collared, the only word she's allowed, into a room that won't let her testify)* **Yellow.**
 
-> *(decollared, if Option A/B — when asked what happened)* I knew something was wrong. *(beat)* I didn't say yellow. I wanted — *(stops)*
+> *(released from pet-space while still collared, if Option A/B — when asked what happened)* I knew something was wrong. *(beat)* I didn't say yellow. I wanted — *(stops)*
 
 > *(aftercare)* Yellow. Not for tonight. For the room.
 
@@ -311,7 +311,7 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 1. **The club's machinery** — governance (the Circle, the Steward), membership-vs-pets, vetting, the rulebook, and the recurring structure of a monthly meeting. The annual show is the public face; the monthly meeting is the private engine.
 2. **The gap between stated ethics and lived power** — consent culture is real on paper and unevenly enforced in practice; status protects bad actors.
 3. **The Spark violation is raised** — the fuse is lit at GG's first meeting; the full reckoning/ruling is a later thread. Whether the club enforces against one of its own will reveal whether its rules are principles or decoration.
-4. **The silence rule** — a collared pet may speak only its safewords (*yellow*/*red*); all other communication is posture and behavior. Framed as protection (the safeword is never lost in chatter), it functions as control (a pet can say *stop* but never *explain*), and it is the structural reason the dosed pet — and GG — cannot testify without being decollared. To speak the truth, a pet must stop being a pet.
+4. **The silence rule** — a pet in pet-space may speak only its safewords (*yellow*/*red*); all other communication is posture and behavior. Framed as protection (the safeword is never lost in chatter), it functions as control (a pet can say *stop* but never *explain*), and it is the structural reason the dosed pet — and GG — cannot testify without being released from pet-space. For most pets that means decollaring; for GG, whose dog collar stays on permanently, it means being explicitly addressed and treated as Simonka while still collared.
 5. **The fenced area** — while the club meets, the pets are kept outside in a large fenced area (`holic-club-rules-and-bylaws.md` §14). Governance and discipline happen owners-only; pets are brought in only for the parts that require them. The people who are the entire subject of the meeting are not in the room — the most literal form of the club's central contradiction, and a second threshold (fetch *then* decollar) before any pet can ever be heard.
 6. **GG's standing and first crack** — branded but voiceless *and* fenced out, succeeding at the role while Simonka-the-psychologist watches herself do it; the dangerous lesson that pleasing Holic quiets her conscience; the possibility of using her one permitted word, *yellow,* as protest against the proceeding itself.
 7. **Holic as the best of a bad standard** — genuinely principled within a frame that is itself the problem; the text holds the discomfort instead of resolving it.
@@ -342,7 +342,7 @@ The throughline: **GG entered this world believing Holic's "control is care, if 
 - [ ] **The violator and his male pet** — names, whether they stay or go, whether the pet ever gets a voice.
 - [ ] **Handler names** and how many staff the yard; whether a handler ever becomes a named character.
 - [ ] **GG's testimony** — which branch (A/B/C/D) is canon? Note Option D (GG using her one permitted word, *yellow,* as protest) is the strongest tie between the silence rule, her arc, and the conflict.
-- [ ] **Decollaring-to-testify** — is removing the collar so a pet can speak an established, codified club mechanism, or an unprecedented act the Circle improvises under pressure? (Affects how radical the male pet's / GG's testimony is.)
+- [ ] **Release-from-pet-space-to-testify** — for most pets, is removing the collar so a pet can speak an established, codified club mechanism, or an unprecedented act the Circle improvises under pressure? For GG specifically, the dog collar stays on permanently, so testimony would require a different mechanism: naming/releasing her as Simonka while still collared. (Affects how radical the male pet's / GG's testimony is.)
 - [ ] **Add the silence rule to canon** — fold it into `simonka-kata-profile.md` and GG's training structure on the next consistency pass.
 - [ ] **The ruling** — expulsion, sanction, or split decision; how the vote breaks reveals the club's true character.
 - [ ] **Does this meeting move Simonka?** Toward deeper commitment, toward doubt, or toward the eventual exit — and does the family ever learn it happened?

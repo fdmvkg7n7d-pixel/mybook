@@ -36,7 +36,7 @@
 *She has slept some. The body has done what the body does with the residue of a held position. The mind has done less.*
 
 - **She slept for about four hours.** Broken sleep — the kind one has the first night in any room one has not slept in before, even though she has slept in this room many times. *Tonight the room was a different room.*
-- **The collar is still on her neck.** She has woken with it. She has not, in her four hours, taken it off; he has not taken it off; that he has not is its own information, and she registers it. **The collar means the scene is still on**, by the household's rules. Aftercare ends when the collar comes off. Last night's aftercare bath did not, in fact, complete — he praised her, he washed her, he put her in his robe, he put her in his bed, and *he left the collar on*. **The scene is therefore not over.** She has woken inside a scene that has not yet been formally closed. This is the household's first piece of information for her this morning, before any word has been spoken.
+- **The collar is still on her neck — and it will stay there.** This is now permanent-collar canon. She has woken with it; she has not taken it off; he has not taken it off; and that permanence is its own information. The unfinished quality of the morning is no longer measured by whether the collar comes off. It is measured by whether Holic releases her by name, posture, and routine. Last night's aftercare bath did not, in fact, complete — he praised her, he washed her, he put her in his robe, he put her in his bed, and *he left the conversation unfinished*. She has woken inside an aftercare extension that has not yet been formally closed. This is the household's first piece of information for her this morning, before any word has been spoken.
 - **She does not yet know that he will ask.** She has prepared, on waking, for several possible mornings. The morning in which he asks the two questions he is about to ask is not one of the mornings she has prepared for.
 - **She is hungry.** This will become, briefly, a fact later. She is also thirsty. She is also aware that she has not, this morning, eaten or drunk anything, and that the apparatus of the household includes specific provisions for both, and that the apparatus is suspended until the scene is formally closed.
 
@@ -48,7 +48,7 @@
 
 - He has slept the easy sleep he sleeps after a piece of training he is satisfied with. He has woken between four-thirty and five. He has lain in the dark for some time before *Fajr* — *not Fajr, there is no Fajr in Prague, but the equivalent dark hour before the city's true morning* — and in that dark hour he has thought.
 - What he has thought, the saga does not give the reader. The result of the thinking is the scene the reader is about to be in.
-- **The collar he has not removed is also a decision he made in the dark.** Aftercare can resume in the morning; aftercare can include a conversation; the conversation requires the collar. He has not, by leaving it on, denied her completion of aftercare; he has, by leaving it on, *extended* the aftercare into the morning. **That extension is the form his trouble takes.**
+- **The collar he has not removed is not a temporary decision anymore; it is permanent.** Aftercare can resume in the morning; aftercare can include a conversation; the conversation happens while she remains collared. He has not, by leaving it on, denied her completion of aftercare; the collar now belongs to the ongoing architecture. The extension is in the questions he has not yet asked, not in a collar waiting to come off.
 
 ---
 
@@ -159,25 +159,24 @@
 
 ---
 
-## BEAT 6 — THE COLLAR COMES OFF
+## BEAT 6 — THE SCENE CLOSES; THE COLLAR STAYS ON
 
-*Aftercare is, by the household's rules, complete when the collar comes off. He removes it now.*
+*Aftercare closes by name, posture, and routine. The dog collar does not come off. It stays on permanently.*
 
 - He turns back to her. He says, quietly: *"You are done. Thank you, Good Girl."* He uses the pet name one last time — the household's formal closing of a scene.
-- He unfastens the collar. He lifts it from her neck. He sets it on the bedside table.
-- *(The neck, after a long scene, is always slightly tender where the collar has been. The skin remembers the leather even after the leather is gone. The household calls this *the after-collar*; it is normal; it fades in an hour.)*
+- He does **not** unfasten the collar. The collar remains on her neck. The permanence is now part of the household's grammar.
 - He looks at her. He says, without ceremony, in the ordinary register of two people in a bed in the morning: *"Simonka."*
 - It is the first time he has said her name in eighteen hours.
 - She says: *"Yes."*
 - He says: *"Come and have breakfast."*
-- It is, this morning, an enormous sentence — though it would not be enormous in any other house in any other relationship. **Coming to have breakfast is what people who live together do.** GG does not have breakfast with Holic. GG eats from a bowl on the floor, on the days she is in GG-form. **Simonka has breakfast with Holic on the days she is in Simonka-form.** *That he is moving her, in the same sentence and in the same morning, from one to the other, is the household's way of saying that the scene is over and the day is beginning.*
+- It is, this morning, an enormous sentence — though it would not be enormous in any other house in any other relationship. **Coming to have breakfast is what people who live together do.** GG does not have breakfast with Holic. GG eats from a bowl on the floor, on the days she is in full GG-form. **Simonka can have breakfast with Holic while still collared.** That is the new architecture: the collar no longer decides alone who she is allowed to be. *That he is moving her, in the same sentence and in the same morning, from pet-register to person-register without removing the collar is the household's way of saying that the scene is over and the day is beginning.*
 - She says: *"Yes."*
 
 ---
 
 ## BEAT 7 — THE ROOM, LEAVING IT
 
-> **SUPERSEDED.** At this point in the morning, Simonka does not walk to the breakfast room. She asks to go to her doghouse instead. The scene continues in **`gg-walks-out-to-the-doghouse-scene-outline.md`**, whose Beats 1–10 supersede Beats 7–8 of the present outline. The true ending of the morning-after conversation is now the moment Holic refastens the collar in the doghouse outline's Beat 1. The breakfast-room beats below are kept for the saga's record of the morning that was planned and did not happen.
+> **SUPERSEDED.** At this point in the morning, Simonka does not walk to the breakfast room. She asks to go to her doghouse instead. The scene continues in **`gg-walks-out-to-the-doghouse-scene-outline.md`**, whose Beats 1–10 supersede Beats 7–8 of the present outline. Under permanent-collar canon, the true ending of the morning-after conversation is not a collar being refastened; the collar is already on and stays on. The true ending is Simonka choosing the doghouse and Holic shifting her from person-register back into GG-register by name, posture, and permission. The breakfast-room beats below are kept for the saga's record of the morning that was planned and did not happen.
 
 *Very brief. The scene's coda is the small ordinariness of getting up.*
 
@@ -190,12 +189,12 @@
 
 ## BEAT 8 — CLOSING IMAGE
 
-> **SUPERSEDED.** See the note at the head of Beat 7. The closing image below describes the breakfast-room scene that did not occur; it is preserved for the saga's record of what Holic believed, as he removed the collar and said *Simonka. Come and have breakfast.*, was about to happen. The breakfast he prepared to have with her — across the table, paper, coffee — occurred, but he ate it alone, and Simonka was, at the corresponding hour, eating from her bowls in the yard. The morning's true closing image is in **`gg-walks-out-to-the-doghouse-scene-outline.md`** Beat 10.
+> **SUPERSEDED.** See the note at the head of Beat 7. The closing image below describes the breakfast-room scene that did not occur; it is preserved for the saga's record of what Holic believed, as he kept the collar on permanently and said *Simonka. Come and have breakfast.*, was about to happen. The breakfast he prepared to have with her — across the table, paper, coffee — occurred, but he ate it alone, and Simonka was, at the corresponding hour, eating from her bowls in the yard. The morning's true closing image is in **`gg-walks-out-to-the-doghouse-scene-outline.md`** Beat 10.
 
 *One short coda.*
 
 - *In the breakfast room, two people sit at a table. He reads, briefly, the paper. She drinks her coffee. Neither of them refers, in any way the kitchen staff could overhear if the kitchen staff were here, to the night before. The morning is the morning. The breakfast is the breakfast. The pill, swallowed an hour ago in the bed, is already doing the small chemical work it has done every morning of her life with him.*
-- *In the bedroom, behind them, the bed is unmade. The platform is at the foot of it. The collar is on the bedside table. The robe she fell asleep in is on the chair. None of these things is, this morning, hidden; none of them is, this morning, displayed; they are simply where they are.*
+- *In the bedroom, behind them, the bed is unmade. The platform is at the foot of it. The robe she fell asleep in is on the chair. The collar is not on the bedside table; it is on Simonka. None of these things is, this morning, hidden; none of them is, this morning, displayed; they are simply where they are.*
 - *Somewhere in Prague, in an apartment she has never been in, **the woman in the dark dress is asleep**. She slept for several hours after the agency car returned her. She will wake at noon. She does not, on waking, think first about last night. She thinks about the small administrative tasks of her morning. **The look she gave at the doorway will come back to her, at some point in the day, the way small unfinished things do. She will not know what to do with the returning. She will continue her day.***
 - *Simonka, in the breakfast room, does not think of the prostitute. **She has put the look in the place she now knows she has — the private chamber she discovered, this morning, she possesses.** The look is in it. It will, in two years, become an entire thesis. This morning it is only a thing she has, on a shelf in herself, and the shelf is hers.*
 - *Holic, across the table, does not know about the shelf. **He has, this morning, asked the two best questions he has ever asked her. He has received the two best partial answers she has ever given him.** The exchange has, by both their measurements, gone well. **It has also been, by the saga's measurement, the first morning in which the relationship has, in a place neither of them can yet see, begun to be unequal in a new way** — not the established household-inequality of owner and pet, but the new inequality of *one person who has private things and one person who has been told he has private things and does not, on this side of the breakfast table, have anything in particular he is keeping from her.* Whether he ever develops something to keep is a question for a much later scene. **Tonight, by going to bed with the man across the table from her, Simonka will already be the one with the larger interior. She does not know yet that this is true. She will, in time.***
@@ -205,7 +204,7 @@
 
 ## WHAT SIMONKA DOES *NOT* DO
 
-- She does not refuse the morning aftercare-extension. She does not ask him to take the collar off before the conversation begins. (She could have. She did not.)
+- She does not refuse the morning aftercare-extension. She does not ask for the collar to come off, because by this point it is no longer a temporary scene object. The dog collar stays on permanently.
 - She does not lie when answering either of his questions.
 - She does not, however, give him the whole truth of either answer.
 - **She does not tell him about the doorway look.** (Whether she ever does is open; see canon.)
@@ -222,7 +221,7 @@
 - He does not ask a third question. The two are the two he had decided in the dark hour to ask. He does not, in the moment, generate a third.
 - **He does not press for fuller answers.** When Simonka gives him *"I did not think of it,"* he accepts it; he does not say *but you knew, why did you not have access to your knowing.* He has decided — and this is among the small better things he does this morning — that she will tell him in her own time or not at all.
 - He does not refer to the prostitute by any term other than the indirect *"last night."* He does not name her profession. He does not name the agency. He does not, in the breakfast room or after, mention that there will be subsequent visits. *(He has decided. He does not need to say.)*
-- He does not, when removing the collar, perform tenderness. The removal is procedural. The household's grammar does not include sentimentalising the collar's removal; he and she have always done it cleanly.
+- He does not remove the collar. The dog collar stays on permanently. The household's grammar no longer sentimentalises removal because removal is no longer the mechanism by which Simonka returns to herself.
 - He does not, ever, learn what the doorway look meant. *The misunderstanding from the previous scene's bath ("She looked at me" / "It was a kind room tonight") survives this morning intact. He has asked better questions than he asked last night. He has not asked the question that would, if asked, dissolve the misunderstanding. He does not know there is such a question. The saga must hold that **asking better questions is not the same as asking the right question.***
 
 ---
@@ -245,8 +244,8 @@
 - [x] **Holic asks two questions: safewords and doghouse.**
 - [x] **Doghouse as a permanent standing option from any scene** — established as canon retroactive to GG's beginning.
 - [x] **Pill makes first onstage appearance.**
-- [x] **Collar left on through the night; aftercare extends to morning.**
-- [x] **Holic closes the scene with Simonka's real name; invites her to breakfast in Simonka-form.**
+- [x] **Collar left on through the night and permanently thereafter; aftercare extends to morning.**
+- [x] **Holic closes the scene with Simonka's real name while the collar stays on; invites her to breakfast in Simonka-form.**
 - [x] **Simonka does not tell about the doorway look.**
 - [x] **Holic does not learn what the look meant.**
 - [ ] **The Czech phrasing for the closing of the scene.** *"You are done. Thank you, Good Girl."* — and any other Czech-language flourishes the household uses. Worth pinning before drafting prose.

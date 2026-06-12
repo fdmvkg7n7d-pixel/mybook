@@ -9,7 +9,7 @@
 ---
 
 ## THE SETTING
-- Simonka is packing her bag for the trip to Alois’s farm. 
+- Simonka is packing her bag for the trip to Alois’s farm.
 - Ambroz is in the room, watching her. The atmosphere is tight—the "no-invitation" decision has been made, and the silence between them is brittle.
 - Ambroz is nineteen, and his immaturity is manifesting as a sharp, restless energy.
 
@@ -22,17 +22,17 @@
 - Simonka tries to explain it as she has before: the farm, the barn, and the specific activities planned are "not his cup of tea." She doesn't want to explain the **Osteogenesis Imperfecta** or the **BDSM** trust again, knowing he doesn't understand the depth of it.
 
 ### 2. The Immaturity
-- Ambroz doesn't listen to her reasoning. He makes it about himself. 
-- "Is it because of Alois? You like him more because he has a farm? Because he has that... equipment?" 
+- Ambroz doesn't listen to her reasoning. He makes it about himself.
+- "Is it because of Alois? You like him more because he has a farm? Because he has that... equipment?"
 - He uses the word "equipment" with a sneer, showing his lack of respect for the consensual adult world Simonka is exploring. He sees her choice as a competition he is losing, rather than a need she is fulfilling.
 
 ### 3. The "Noisy" Jealousy
-- Ambroz’s jealousy is "noisy." He paces the small apartment, slamming a kitchen cabinet or tossing his phone on the sofa. 
+- Ambroz’s jealousy is "noisy." He paces the small apartment, slamming a kitchen cabinet or tossing his phone on the sofa.
 - This is the exact opposite of the "intentionality" and "weighted pressure" Simonka needs. His energy feels chaotic and unpredictable to her—a psychological "sharp impact" that triggers her dancer's guard.
 - He accuses her of being secretive. "You have this whole other life. You don't tell me anything. You treat me like a kid."
 
 ### 4. The "Pact" and the Gap
-- Simonka realizes he’s right—she *does* treat him like a kid, because he acts like one. 
+- Simonka realizes he’s right—she *does* treat him like a kid, because he acts like one.
 - She thinks about the "Pact of Secrecy." She told Alois about her operation and her OI because she trusted his control. She hasn't told Ambroz the full truth because she’s afraid his reaction would be "messy"—either too much pity or not enough care.
 - The gap between her relationships becomes a chasm in this room.
 

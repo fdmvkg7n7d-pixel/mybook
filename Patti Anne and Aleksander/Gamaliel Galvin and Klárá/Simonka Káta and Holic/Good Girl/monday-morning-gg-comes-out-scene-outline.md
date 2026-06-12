@@ -98,9 +98,9 @@ The light hits her. The kitchen window is east-facing (TBD — adjust to match t
 
 She blinks. She squints. The room resolves: the bowls on the mat, Holic at the counter, the robe on the hook by the back door, the collar still around her neck.
 
-She is still GG. The blindfold is off, but the collar is on. The release is partial. **Holic has told her to take the blindfold off. He has not told her to take the collar off.**
+She is still collared. The blindfold is off, but the collar is on and will stay on. The release is partial by design: **Holic has told her to take the blindfold off. The collar is not available for removal.**
 
-The prose holds this distinction. The blindfold was the test. The collar is the life. *She can come out of Good Girl — but not yet out of the thing that makes her GG.*
+The prose holds this distinction. The blindfold was the test. The collar is the life. *She can come out of the blindfold — and later out of full GG-form — but not out of the permanent thing that marks her as GG.*
 
 ### Beat 8 — Simonka Returns
 
@@ -169,12 +169,12 @@ The prose closes on one of two options:
 ## OPEN ITEMS
 
 - [ ] **The exact wording of Holic's release command.** Should it be *"You can come out of Good Girl now"* or something more spare? The household's language tends toward the imperative; the release is an exception. **Pin the phrasing.**
-- [ ] **The collar stays on.** This is a deliberate choice — GG comes out of the blindfold but not out of the collar. The prose must render this clearly. Simonka is upright, seeing, speaking — but still collared. **Flag for continuity with subsequent scenes.**
+- [x] **The collar stays on permanently.** This is now canon — GG comes out of the blindfold but not out of the collar. Simonka is upright, seeing, speaking, and still collared. Later scenes should treat the dog collar as permanent once she has chosen GG; full GG-form is marked by context/commands/posture, not by putting the collar on and taking it off.
 - [ ] **The brand of dog food.** (Carried over from the doghouse outline's open items.)
 - [ ] **Holic's robe colour.** (Carried over from the doghouse outline's open items.)
 - [ ] **The kitchen's layout and orientation.** Which direction does the window face? What does Monday morning light look like in this room? **Tie to the mansion's established geography.**
 - [ ] **The transition posture.** Does Simonka stand immediately, or does she stay on the floor for a moment? The outline recommends a pause — but the prose must commit.
-- [ ] **Whether Holic removes the collar later this day.** This outline does not stage the collar removal. That is a future scene. **Flag for continuity.**
+- [x] **Whether Holic removes the collar later this day.** Resolved: **no**. The dog collar stays on permanently once Simonka has chosen GG.
 - [ ] **The pill's exact form.** Is it a daily birth-control pill, or something else? The morning-after outline establishes "the pill, taken in Beat 5 of the morning-after, is still doing its small daily work." **Pin the detail.**
 
 ---
@@ -200,7 +200,7 @@ The prose closes on one of two options:
 
 Options for what to outline next:
 
-1. **The collar comes off.** Holic removes the collar later this day, or that evening, or the next morning. Simonka is finally, fully Simonka again — until the next time she puts the collar on. **Recommended as the next scene.** It closes the loop this one opens.
+1. **Permanent-collar adjustment scene.** A later quiet beat should show Simonka learning to be fully Simonka while still wearing the dog collar permanently — at university, at home, or alone in the mirror. The collar no longer comes off to restore Simonka; she has to carry Simonka and GG in the same body.
 2. **Simonka writes the slip of paper.** The morning-after outline's open item: *"Writes the slip of paper."* This is the first time she puts into language something she could not say to Holic. **Strong candidate for a companion scene.**
 3. **Simonka goes to work/University.** The first day back in the world after the weekend of GG-life. How does she carry it? **Recommended for a later scene.**
 4. **Holic's interior — a Holic-POV scene.** Still flagged as eventually needed. **Not yet.**

@@ -3,26 +3,26 @@
 ## Overview
 A short story / scene collection following the relationship between two dogs: Bruno and Good Girl (GG).
 
-**Bruno**  
-- Male dog with a notably dual temperament.  
-- Angry, territorial, and aggressive toward other dogs.  
+**Bruno**
+- Male dog with a notably dual temperament.
+- Angry, territorial, and aggressive toward other dogs.
 - Extremely gentle, patient, and affectionate with his lover GG.
 
-**Good Girl (GG)**  
-- Female dog, often referred to as GG.  
-- Frequently kept very busy by her owner(s) with weekend activities.  
-- Described by one owner as a "professional at getting mounted."  
-- Eager to demonstrate her skills for Holic.  
+**Good Girl (GG)**
+- Female dog, often referred to as GG.
+- Frequently kept very busy by her owner(s) with weekend activities.
+- Described by one owner as a "professional at getting mounted."
+- Eager to demonstrate her skills for Holic.
 - Central to a proposed breeding arrangement with Bruno.
 
-**Holic**  
-- Person who picks up Good Girl on Sunday evening.  
-- GG shows strong excitement and affection toward him.  
-- GG actively shows him how she takes Bruno.  
-- Thoughtful about the breeding proposal — wants time to consider and defers to GG's decision.  
+**Holic**
+- Person who picks up Good Girl on Sunday evening.
+- GG shows strong excitement and affection toward him.
+- GG actively shows him how she takes Bruno.
+- Thoughtful about the breeding proposal — wants time to consider and defers to GG's decision.
 - Plans to discuss the deal with Simonka Kata at his mansion.
 
-**Simonka Kata**  
+**Simonka Kata**
 - Person Holic will discuss the breeding deal with at his mansion.
 
 ## Key Scenes

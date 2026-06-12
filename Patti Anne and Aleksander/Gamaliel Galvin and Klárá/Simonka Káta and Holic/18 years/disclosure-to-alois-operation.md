@@ -23,12 +23,12 @@
 
 ### 2. Breaking the Pact
 - **The Ask:** Simonka takes his hand. "Alois, before we go to the farm... there is something I’ve never told anyone outside my family. Not ever."
-- She explains the summer when she was nine. She uses the family’s old language: "The stone." 
+- She explains the summer when she was nine. She uses the family’s old language: "The stone."
 - She tells him about the discovery in June, the secret she carried through Crete, and the operation in August.
 
 ### 3. The Visual Truth
 - **The Vulnerability:** Simonka is wearing a soft, loose sweater. She hesitates, then slowly pulls it up just enough to reveal the right side of her chest.
-- **The Scar:** She shows him the thin, silver-pink line near her nipple. To her, it has always felt like a mark of being "broken" or "different." 
+- **The Scar:** She shows him the thin, silver-pink line near her nipple. To her, it has always felt like a mark of being "broken" or "different."
 - "I was embarrassed," she admits. "I didn't want anyone to see me as a patient. I wanted to be just Simonka."
 
 ### 4. The Second Disclosure: Fragility

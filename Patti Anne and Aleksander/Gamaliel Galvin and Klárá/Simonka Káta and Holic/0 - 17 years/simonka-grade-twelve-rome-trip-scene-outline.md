@@ -11,7 +11,7 @@ Establish Gamaliel Galvin's overprotective fatherhood, Simonka's quiet rebellion
 - **Klárka Pavlînka** – 18, Simonka's older sister (referenced, not present — at academy intensive in Vienna)
 
 ## Premise
-Simonka's Grade 12 class takes a 5-day art history trip to Rome (Colosseum, Vatican Museums, Forum, Keats-Shelley House). 
+Simonka's Grade 12 class takes a 5-day art history trip to Rome (Colosseum, Vatican Museums, Forum, Keats-Shelley House).
 
 **Gamaliel comes along with the class and shares a hotel room with Simonka because they are family and always see each other in the morning.**
 
@@ -60,7 +60,7 @@ The school books them a twin room at Hotel Artemide (Via Nazionale) — two sing
 
 ### 5. Day 4 – The Conversation
 - Klára video-calls, asks for the morning photo: "Did you two have coffee together?" They hold up their hotel mugs and laugh.
-- After call, Simonka asks: "Dad, why do we always need to see each other in the morning? Even on trips?" 
+- After call, Simonka asks: "Dad, why do we always need to see each other in the morning? Even on trips?"
 - Gamaliel: "Because we're family. At home, your mom and I see you and Klárka first thing — dogs, kitchen, barre warm-up. In Rome, it's the same, just a different kitchen. I didn't want your first morning in a foreign city to be waking up alone in a hotel with strangers down the hall."
 - Simonka understands: it's not overprotection, it's continuity. The same reason they share the academy apartment, the same reason they eat together — family sees family first.
 
@@ -80,7 +80,7 @@ The school books them a twin room at Hotel Artemide (Via Nazionale) — two sing
 - **Timeline:** ~5-6 years before meeting Holic at 23
 - **Location:** Hotel Artemide, Via Nazionale, Rome — twin room, 4 nights
 - **Klárka's absence:** Explained as Vienna intensive — maintains the 15-month age gap dynamic (Klárka always slightly ahead)
-- **Connects to:** 
+- **Connects to:**
   - simonka-kata-profile.md (psychology choice, ballet divergence)
   - gamaliel-galvin-and-klara-key-profile.md (rescue story)
   - Later Holic scenes (comfort with rules, collars, shared sleeping spaces)

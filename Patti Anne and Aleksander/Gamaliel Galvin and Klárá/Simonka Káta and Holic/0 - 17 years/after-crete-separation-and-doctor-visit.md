@@ -10,7 +10,7 @@
 
 ## THE CONTEXT
 - The vacation in Crete has ended. The discovery of Simonka’s lump hangs over the family, but the scheduled commitments remain.
-- **Klára’s Departure:** Klára has left for Cape Town. 
+- **Klára’s Departure:** Klára has left for Cape Town.
 - **The Ballet Academy Summer Camp:** This is a **day camp** held at Gamaliel and Klára’s own Ballet Academy in Prague. The girls do not stay overnight; they commute from home with Gamaliel.
 
 ---
@@ -27,7 +27,7 @@
 - Klára hugs them both, promising to call as soon as she lands in South Africa.
 
 ### 3. Heading to the Academy (Day 1)
-- Gamaliel takes both girls to the Ballet Academy. 
+- Gamaliel takes both girls to the Ballet Academy.
 - Klárka (10) joins the senior intensive group.
 - Simonka (9) stays with Gamaliel for the morning before her appointment with the regular pediatrician, Dr. Jelena.
 

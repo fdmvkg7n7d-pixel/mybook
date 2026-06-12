@@ -21,7 +21,9 @@ This folder contains all scenes and profiles centered on **Good Girl (GG)**, the
 5. **holic-asks-gg-the-morning-after-scene-outline.md** – morning after at mansion
 6. **monday-morning-gg-comes-out-scene-outline.md** + **monday-morning-gg-comes-out-scene-outline 2.md** – Monday morning sequences
 7. **gg-walks-out-to-the-doghouse-scene-outline.md**
-8. **matthias-takes-gg-home-dog-cart-with-knuckles-scene-outline.md**
+8. **simonka-tells-holic-about-confronting-patti-anne-and-aleksander-thursday-scene-outline.md** – Thursday follow-up: Simonka tells Holic she confronted Patti Anne and Aleksander
+9. **simonka-and-holic-undressed-in-the-mansion-thursday-night-scene-outline.md** – immediate aftermath: Simonka is with Holic in the mansion, gets undressed while the dog collar stays on permanently, then chooses to crawl to her bowls to eat
+10. **matthias-takes-gg-home-dog-cart-with-knuckles-scene-outline.md**
 
 ### Club / Collective Scenes
 - **gg-session-outlines.md**

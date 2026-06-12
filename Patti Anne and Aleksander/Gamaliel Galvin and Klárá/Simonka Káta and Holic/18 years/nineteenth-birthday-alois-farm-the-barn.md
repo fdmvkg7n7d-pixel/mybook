@@ -22,20 +22,20 @@
 - This birthday gathering is a threshold. She is still the eighteen-year-old who carry the secrets of her childhood, but she is about to become the nineteen-year-old who lives them out loud.
 
 ### 2. The Negotiation of Impact
-- Alois selects the **crop**. 
+- Alois selects the **crop**.
 - They revisit the "Rules of Engagement." Because she is still technically eighteen, there is a sense of "finishing" this year of her life with a final, controlled test of her boundaries.
-- **The Intentionality:** The focus is on the **left hand**. 
+- **The Intentionality:** The focus is on the **left hand**.
 - **The Visual:** The blue tint in her eyes (sclera) is visible in the dim light as she focuses on the tool.
 - **The Action:** Alois does not swing the crop. He uses it with the "partner's grip" he discussed during the tie-tying metaphor.
 - He brings the leather slapper down onto the back of her left hand—not with a snap, but with a **steady, weighted pressure**. It is a "heavy" touch rather than a "sharp" one.
 
 ### 4. The Sensation
-- Simonka feels the weight of the leather against the small bones of her hand. Because of her OI, she is acutely sensitive to the pressure. 
+- Simonka feels the weight of the leather against the small bones of her hand. Because of her OI, she is acutely sensitive to the pressure.
 - It isn't a "hit"; it’s a **measured impact**. She feels the blood rush to the surface, the warmth of the sensation, but the bone remains safe under the "shield" of her controlled muscles.
 - She watches his hand. The precision is what she finds erotic—the fact that he is holding the power to break her, but is choosing to hold her instead.
 
 ### 5. The Midnight Transition
-- **The Sound:** In the distance, a clock strikes. One. Two. Three. 
+- **The Sound:** In the distance, a clock strikes. One. Two. Three.
 - **The Threshold:** As the final strike fades, Simonka is officially **nineteen years old**. The energy in the barn shifts from the quiet, clinical precision of the crop to something more primal and communal.
 
 ### 6. The Barn Floor: Without Hesitation

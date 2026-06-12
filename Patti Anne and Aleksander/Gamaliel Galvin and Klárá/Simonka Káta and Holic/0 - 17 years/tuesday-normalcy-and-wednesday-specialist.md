@@ -15,7 +15,7 @@
 - The goal is to give her a day where she isn't "the girl with the stone," but just a dancer at camp.
 
 ### 2. Morning at the Academy
-- Simonka and Klárka participate in the morning workshops. 
+- Simonka and Klárka participate in the morning workshops.
 - **The Studio Atmosphere:** In the private, familiar studios of their own Academy, the sisters often practice shirtless in their dance shorts. It is a space where their bodies are tools for art, not just subjects for medicine.
 - Klárka (10) stays close to Simonka (9), her protective energy channeled into helping Simonka with her combinations.
 
@@ -31,17 +31,17 @@
 
 ### 1. The Morning Split
 - Both girls go to the Academy in the morning.
-- After lunch, Gamaliel picks up Simonka from the studio. 
+- After lunch, Gamaliel picks up Simonka from the studio.
 - **The "Tighten" Hug:** Klárka and Simonka share a fierce embrace at the studio door. Klárka’s grip is tight; she is the one left behind while Simonka goes to the "scary" place.
 
 ### 2. Meeting Dr. Marek
 - The appointment at the University Hospital.
 - **The Protocol:** Dr. Marek respects Simonka’s autonomy, asking for her permission before the physical exam.
-- **The Discovery:** He confirms the mass. He uses the term **Secretory Breast Carcinoma** (Juvenile Breast Carcinoma). 
+- **The Discovery:** He confirms the mass. He uses the term **Secretory Breast Carcinoma** (Juvenile Breast Carcinoma).
 - He explains that it is a "slow-growing" tumor and that the best course of action is surgery to remove it. He is calm and optimistic, which helps settle Gamaliel’s nerves.
 
 ### 3. The Plan
-- Dr. Marek outlines the timeline for the biopsy and the eventual surgery. 
+- Dr. Marek outlines the timeline for the biopsy and the eventual surgery.
 - Simonka asks if she can still dance. Dr. Marek promises her she will be back in the studio as soon as she heals.
 
 ### 4. The Release

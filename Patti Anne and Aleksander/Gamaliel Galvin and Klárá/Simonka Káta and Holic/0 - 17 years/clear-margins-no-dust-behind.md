@@ -38,7 +38,7 @@
 - **The Metaphor:** "They wanted to see if the stone left any dust behind. And the news is perfect: there is no dust. The spot is clean. You are healthy, Simi."
 
 ### 5. The "Tighten" Hug
-- Klárka doesn't wait for permission this time. She throws her arms around Simonka in a fierce, sobbing "tighten" hug. 
+- Klárka doesn't wait for permission this time. She throws her arms around Simonka in a fierce, sobbing "tighten" hug.
 - Simonka is quieter, her face buried in her sister’s neck. She looks over at her parents—the "hero" of the story finally getting to be just a little girl again.
 - Klára and Gamaliel wrap their arms around both girls, forming a four-person huddle in the middle of the office.
 

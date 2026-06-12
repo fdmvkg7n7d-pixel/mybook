@@ -31,16 +31,16 @@
 ### 3. The Prying Eye
 - Ambroz doesn't move out of the way. He stands close, trying to read her face, looking for "evidence" of what happened at the farm.
 - **The Jealousy:** "Did you have a good time? Was Alois there the whole time? And Braxton? I saw his car in your street before you left."
-- He is looking for bruises, for marks, for any sign that she is "different" now. He doesn't know about the **crop on the left hand** or the **bare floorboards**, but he senses the shift in her. 
+- He is looking for bruises, for marks, for any sign that she is "different" now. He doesn't know about the **crop on the left hand** or the **bare floorboards**, but he senses the shift in her.
 
 ### 4. Maintaining the Pact
-- Simonka feels the weight of the "Pact of Secrecy." 
+- Simonka feels the weight of the "Pact of Secrecy."
 - She thinks about the 5,000-gallon tank and the way she felt weightless with Drahoslava. She could never tell Ambroz about that—he would turn the "sanctuary" into a source of suspicion.
 - "It was a quiet weekend, Ambroz. We just talked and rested." The lie feels heavy, but necessary. It’s her only way to protect the "private face" she found at the farm.
 
 ### 5. The Suffocation
 - Ambroz starts to plead. "I missed you so much. I hated every second of you being there without me. Let me come in. Let me stay tonight."
-- His neediness is a "sharp impact" on her emotions. He wants to take up all her space, to fill the quiet she just worked so hard to find. 
+- His neediness is a "sharp impact" on her emotions. He wants to take up all her space, to fill the quiet she just worked so hard to find.
 - Simonka looks at her door. Her apartment is her "den" (a concept she will later explore with Holic), and she doesn't want his chaotic jealousy inside it.
 
 ### 6. The Living Room Floor: Angry Reclamation

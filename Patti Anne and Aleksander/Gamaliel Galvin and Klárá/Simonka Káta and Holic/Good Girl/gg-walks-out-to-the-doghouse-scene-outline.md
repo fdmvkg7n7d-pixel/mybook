@@ -2,13 +2,13 @@
 
 ## Scene Outline — Beats, Dialogue Cues, and Thematic Notes
 
-> **Companion to** `holic-invites-prostitute-gg-watches-scene-outline.md` **and** `holic-asks-gg-the-morning-after-scene-outline.md`. **Read both first.** This scene begins moments after the morning-after scene's Beat 6 (collar removed; Holic invites Simonka to breakfast in her real name). **This outline supersedes Beats 7–8 of the morning-after outline** — there is no breakfast room. Simonka asks for something else.
+> **Companion to** `holic-invites-prostitute-gg-watches-scene-outline.md` **and** `holic-asks-gg-the-morning-after-scene-outline.md`. **Read both first.** This scene begins moments after the morning-after scene's Beat 6 (the scene closes by name and posture; the **dog collar stays on permanently**; Holic invites Simonka to breakfast in her real name). **This outline supersedes Beats 7–8 of the morning-after outline** — there is no breakfast room. Simonka asks for something else.
 
 > **Content & craft warning.** This scene depicts a consensual adult human-pet routine in its fullest established form: Simonka, by her own initiative, asks to return to GG-form, walks outside to her doghouse in the mansion's fenced yard, urinates by a fence pole, and eats from her bowls. **The scene is canonical pet-life — household-routine activity — but it is happening for the first time at the pet's request rather than at the owner's instruction.** That distinction is the scene's whole content. Render with the same disciplines as the prostitute and morning-after outlines: no titillation, no glamour, no shame, no psychologising. The body does what the body does. The pet does what the pet does. The household has trained for this. *What is new this morning is not the doing; what is new is the asking.*
 
 ---
 
-**POV:** **Simonka Káta / GG.** Continuity from the morning-after outline. *(The POV-name slides across the scene: Simonka asks; the collar goes back on; from that point forward the consciousness in the room is GG. The prose can let the slide happen without announcing it.)*
+**POV:** **Simonka Káta / GG.** Continuity from the morning-after outline. *(The POV-name slides across the scene: Simonka asks; the collar is already on and stays on; Holic shifts her back into GG-register by name, permission, posture, and route. The prose can let the slide happen without announcing it.)*
 **Tone:** Morning air. Quiet outdoor light. The register shifts from the bedroom's interior-domestic to the kennel yard's exterior-routine. Less held than the prostitute scene; less interior than the morning-after; closer to *clean physical fact* than either. **The scene's beauty — and it has a quiet beauty that the prose must permit — is the ordinariness of pet-life performed in cool spring sun by a person who has, an hour ago, chosen it.** The prose holds the cleanness; it does not romanticise it.
 **Location:** Holic's mansion — the back corridors, the back door, and **the engineered kennel yard** (per the Collegium's canonical infrastructure; see `holic-club-rules-and-bylaws.md`). The yard is on the mansion grounds, smaller than the show-venue yard at the Collegium farm, intended for daily household pet-life. **The doghouse** — GG's, named hers since the beginning of the arrangement — is at the back of the yard. **The fence** is iron uprights set on stone footings, painted dark. **The fence poles** are vertical bars at intervals; one of them, near the doghouse, will matter in Beat 5.
 **Time in saga:** Hours after the prostitute scene; minutes after the morning-after scene's Beat 6. **No other scene has occurred between the two outlines.** The morning is the same morning. The pill, taken in Beat 5 of the morning-after, is still doing its small daily work.
@@ -19,10 +19,10 @@
 
 *(So later writing can rely on it.)*
 
-- **Simonka asks for the doghouse. (CANON.)** Between the morning-after scene's Beat 6 (collar removed, breakfast invited) and what would have been Beat 7, she stops in the bedroom and asks Holic if she may go to her doghouse instead. **This is the first time in the history of the GG arrangement that Simonka has, of her own initiative, asked to be in GG-form when Holic has not put her in it.** The asking is the household's first instance of *pet-initiated GG*.
+- **Simonka asks for the doghouse. (CANON.)** Between the morning-after scene's Beat 6 (scene closed by name, collar still on, breakfast invited) and what would have been Beat 7, she stops in the bedroom and asks Holic if she may go to her doghouse instead. **This is the first time in the history of the GG arrangement that Simonka has, of her own initiative, asked to be in GG-form when Holic has not directed her there.** The asking is the household's first instance of *pet-initiated GG*.
 - **The household had not developed a phrase for this request. (CANON.)** Until this morning there has been no occasion. Simonka has to make a phrasing on the spot. What she says (Beat 1) is, by default and going forward, the household's working phrase for the request.
 - **Holic accepts. (CANON.)** He has, in the morning-after conversation, named the doghouse as a thing. He cannot, having said so, refuse her access to it now. **He accepts without performing surprise.** Whether the acceptance is also relief — that she is, by asking, doing what he had hoped she would have done last night — the prose refuses to decide.
-- **The collar goes back on. (CANON.)** Holic refastens the collar he had removed minutes earlier. **The scene is, in effect, reopened — not the prostitute-scene, which is closed, but a new GG-scene, the first one ever opened at GG's request.** The collar's second placement of the morning is not a re-instatement of the test; it is the household's acknowledgment that GG has, this morning, asked for GG.
+- **The collar stays on permanently. (CANON.)** Holic does not refasten anything; there is nothing to refasten. **The scene is, in effect, reopened — not by putting the collar on, but by Holic accepting Simonka's request and addressing her as Good Girl again.** The permanent collar is the continuous claim; the shift into GG-register happens through name, posture, route, and permission.
 - **They walk together to the back of the mansion. (CANON.)** Through the corridors, past the kitchen wing, to the back door. **Simonka is in Holic's robe; the collar is on her; her feet are bare.** The household staff are at work in the kitchen and elsewhere; they do not appear to her; the route is uneventful. *(The household has been built so that GG can move from the bedroom to the yard without crossing public spaces of the mansion. This is canonical infrastructure.)*
 - **The robe comes off at the back door. (CANON.)** GG steps out of it. She is naked except for the collar. **The robe is hung on a hook by the back door — a hook that exists for this purpose, with two robes already on it (one of GG's, one of Holic's).** She steps into the yard. *Inside the fence, she is GG; outside the fence, she is whoever the day calls her.* The fence is the household's smallest legible threshold.
 - **Holic goes back inside to fetch the bowls. (CANON.)** Two bowls — water and food. The food is GG's dog food (per the profile canon, established from the beginning of GG). The bowls live in a designated low cupboard in the back kitchen. Holic carries them himself; he does not delegate. *(Owner-fetches-bowls is its own piece of household-canon: the owner does the pet's mealwork. This is, in the Collegium's vocabulary, part of the *cura* of *Per vincula, cura* — the care side of the motto.)*
@@ -38,7 +38,7 @@
 
 *Brief — she has been in continuous on-page time since the morning-after Beat 6.*
 
-- **The collar is, at the start of this scene, on the bedside table.** Holic has just removed it. He has called her *Simonka*. He has said *Come and have breakfast.* She has said *Yes.*
+- **The collar is, at the start of this scene, on Simonka's neck.** Holic has not removed it and will not remove it. He has called her *Simonka*. He has said *Come and have breakfast.* She has said *Yes.*
 - **Between his sentence and the next thing she says, a small interior thing happens that the morning-after outline did not name and this outline does:** Simonka realises, in the half-second between his invitation and her acceptance becoming the morning's plan, **that she does not want breakfast in person-form.** She wants something else. The wanting arrives before the language for the wanting. She sits with the wanting for one beat. The wanting clarifies into the doghouse.
 - **The wanting is not a refusal of him.** It is not a withdrawal. It is, she understands as it clarifies, *a use of what he told her last night was a thing.* She is, in the half-second of clarification, doing the small private accounting she did not do on the platform: **the doghouse is a thing. She is allowed to choose it. She is, this morning, choosing it.**
 - **She has not, until this morning, ever wanted the doghouse outside of a doghouse-weekend.** She does not, herself, fully understand why she wants it this morning. *She does not require herself to fully understand. She has only to ask.*
@@ -58,7 +58,7 @@
 
 *Short. The smallest hinge in the entire GG arc so far.*
 
-- They are standing in the bedroom. He has the collar in his hand — he was about to set it in the drawer where it lives between scenes. He has said *Simonka.* She has said *Yes.* He has said *Come and have breakfast.* She has said *Yes.*
+- They are standing in the bedroom. The collar is already on her neck. He has said *Simonka.* She has said *Yes.* He has said *Come and have breakfast.* She has said *Yes.*
 - She does not move toward the door.
 - She says, quietly — and the prose must let the reader hear that she is composing the phrasing as she speaks, because the household has never developed it:
 
@@ -69,10 +69,10 @@
 - Holic does not answer for one beat. The beat is the *adjustment* described above.
 - He says: *"Yes. Of course."*
 - *(The *of course* is the small generosity of his answer. He could have said *yes* alone. He chose the additional two words. The two words are the household's smallest acknowledgement that the request was legitimate and that he is glad she made it. **They are also the only two words of celebration he will allow himself in the scene.** From here on, he treats the morning as routine — which is itself the household's correct response to a pet-request honoured.)*
-- He turns the collar in his hand. He looks at her — neither at her face only, nor at her body only, but at *her*, the way one looks at a person whose request one has just received and whom one is about to put back into pet-form at their request. *The look is brief and is, this morning, the kindest thing he does.*
-- He puts the collar back on her. The fastening is the same fastening as last night. *Her body remembers it. Her body slightly relaxes.* **The relaxation is its own information she does not, in the moment, examine.**
+- He looks at her — neither at her face only, nor at her body only, but at *her*, the way one looks at a person whose request one has just received and whom one is about to return to pet-register at their request. *The look is brief and is, this morning, the kindest thing he does.*
+- He does not touch the collar. It is already there. Instead, he gives the shift its words.
 - He says: *"Come, Good Girl."*
-- The pet name has returned. The scene has reopened. Simonka has, in the time it takes to fasten a collar, become GG again. **This time at her own request.**
+- The pet name has returned. The scene has reopened. Simonka has, in the time it takes him to say her pet name, become GG again. **This time at her own request.**
 
 ---
 
@@ -235,7 +235,7 @@
 ## OPEN ITEMS FOR THIS SCENE
 
 - [x] **Simonka asks for the doghouse; the household had no phrase; she makes one (*May I — may I go to the doghouse instead*).**
-- [x] **Holic accepts; collar back on; walk through the mansion to the back yard.**
+- [x] **Holic accepts; permanent collar stays on; walk through the mansion to the back yard.**
 - [x] **GG urinates at a fence pole alone while Holic is inside fetching bowls.**
 - [x] **Holic sees in passing on his return; does not acknowledge; rinses the spot himself.**
 - [x] **GG eats and drinks from the bowls; Holic sits on the bench; Holic leaves; GG stays.**
@@ -245,7 +245,7 @@
 - [ ] **The brand of dog food.** Minor; flagged for consistency.
 - [ ] **What time it is when Holic leaves the yard.** Approximate; affects how long GG is alone in the doghouse before the next narratable event.
 - [ ] **Whether anyone else from the household enters the yard during the morning.** Suggested: no. The staff has been trained to leave the back wing alone when GG is in the yard. *(If staff did enter, the dynamic would change substantially; recommend keeping it private.)*
-- [ ] **When and how the morning ends — when GG eventually comes back inside.** This outline does not stage the ending; it leaves GG in the doghouse. **The return to the mansion is a future scene, however small.** Suggested: GG re-emerges from the yard around midday, at her own initiative, taking the robe from the hook and walking back through the mansion; she finds Holic in his study; she stops at the doorway; she does not enter; he sees her; he stands; he removes the collar; the scene closes for real this time. *(This would be a brief companion outline, not a full one. Flagged.)*
+- [ ] **When and how the morning ends — when GG eventually comes back inside.** This outline does not stage the ending; it leaves GG in the doghouse. **The return to the mansion is a future scene, however small.** Suggested: GG re-emerges from the yard around midday, at her own initiative, taking the robe from the hook and walking back through the mansion; she finds Holic in his study; she stops at the doorway; she does not enter; he sees her; he stands; he closes the GG-register by name and routine while the dog collar remains on. *(This would be a brief companion outline, not a full one. Flagged.)*
 
 ---
 

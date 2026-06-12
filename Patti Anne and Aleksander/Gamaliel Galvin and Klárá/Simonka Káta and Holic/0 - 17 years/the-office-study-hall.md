@@ -9,7 +9,7 @@
 ---
 
 ## THE SETTING
-- The office is a sanctuary of books, music scores, and family history. 
+- The office is a sanctuary of books, music scores, and family history.
 - Large windows look out over the courtyard or perhaps into one of the smaller studios.
 - The sounds of the Academy—the muffled thud of feet, the rhythmic piano, the sharp calls of instructors—are filtered through the heavy wooden door.
 
@@ -18,13 +18,13 @@
 ## SCENE ARC
 
 ### 1. The Academic Morning
-- Simonka attends her normal academic classes: Math and English. 
+- Simonka attends her normal academic classes: Math and English.
 - In these rooms, she is "normal." She is a student solving equations and parsing sentences. The "stone" or the "scar" doesn't matter when she's working through a long division problem.
 - Her teachers are aware but discreet, allowing her to focus on the work.
 
 ### 2. The Transition
 - When the bell rings for the dance block, the dynamic shifts. Her classmates head to the dressing rooms to change into leotards and tights.
-- Simonka picks up her bag and heads in the opposite direction, toward the administrative wing. 
+- Simonka picks up her bag and heads in the opposite direction, toward the administrative wing.
 - She walks past the studios where the music is already starting, a silent observer of the life she is temporarily paused from.
 
 ### 3. The Office Sanctuary
@@ -34,7 +34,7 @@
 
 ### 4. The View from the Window
 - Occasionally, Simonka looks up from her English essay to watch the dancers in the studio across the way.
-- **The Analytical Eye:** She sees them differently now. She isn't thinking about the joy of the movement; she is watching the alignment, the effort, and the way the body responds to the music. 
+- **The Analytical Eye:** She sees them differently now. She isn't thinking about the joy of the movement; she is watching the alignment, the effort, and the way the body responds to the music.
 - She realizes she doesn't mind being here in the office. In fact, she likes the quiet. She likes the world of words and numbers more than the world of sweat and wood.
 
 ### 5. Mid-Block Check-in
@@ -57,5 +57,5 @@
 ---
 
 ## SAGA CONNECTIONS
-- **Academic Divergence:** This period solidifies her path toward Charles University and Psychology. 
+- **Academic Divergence:** This period solidifies her path toward Charles University and Psychology.
 - **The Academy as a Home:** Reinforces that the Academy is a family space, not just a business.

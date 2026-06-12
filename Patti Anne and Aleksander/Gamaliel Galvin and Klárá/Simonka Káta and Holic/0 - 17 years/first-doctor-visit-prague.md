@@ -18,7 +18,7 @@
 ## SCENE ARC
 
 ### 1. The Waiting Room
-- Simonka sits with Gamaliel. She isn't wearing a shirt under her light summer jacket, keeping with her comfort during the medical process. 
+- Simonka sits with Gamaliel. She isn't wearing a shirt under her light summer jacket, keeping with her comfort during the medical process.
 - They play a quiet game of "I Spy" to pass the time. Gamaliel’s hands are steady, though he is mentally rehearsing how to describe the lump.
 
 ### 2. Entering the Exam Room
@@ -37,9 +37,9 @@
 - She explains that because it's so distinct, she wants "the experts who specialize in stones" to take a look right away.
 
 ### 5. The Urgent Referral
-- While Simonka looks at a book, Dr. Jelena speaks quietly with Gamaliel. 
+- While Simonka looks at a book, Dr. Jelena speaks quietly with Gamaliel.
 - She makes a phone call immediately—not a standard referral, but an urgent one to the pediatric oncology department at the University Hospital.
-- She gives Gamaliel the name: **Dr. Marek**. 
+- She gives Gamaliel the name: **Dr. Marek**.
 
 ### 6. Leaving the Office
 - As they walk out, Simonka feels a sense of accomplishment. She did the "right thing" by telling her parents and the doctor.

@@ -65,7 +65,7 @@
 
 1A.3. **Holder — Augustyn Reinholt** *(Steward / Magister).* [Surname adjustable.] A senior member, long-tenured, courtly, procedurally meticulous. He genuinely believes the Collegium's creed — that *control is care* (motto: *Per vincula, cura*) — and runs the meetings with the unbothered calm of a man chairing a heritage society. **He is the most dangerous kind of figure the saga has:** not a sadist, but a *believer.* His decency is real and entirely contained within a frame that is itself the problem. He keeps minutes. He is unfailingly polite to pets. He would be horrified to be called cruel.
 
-1A.4. **The Steward does not own GG** — that is Holic. The Steward's authority is institutional, not personal; he presides over the room, not over any one pet. This matters in the reckoning: it is the Steward who must decide whether to bend procedure (e.g., bringing a pet in from the yard and decollaring them to speak, §17) — a clash between his proceduralism and the keystone disclosure rule.
+1A.4. **The Steward does not own GG** — that is Holic. The Steward's authority is institutional, not personal; he presides over the room, not over any one pet. This matters in the reckoning: it is the Steward who must decide whether to bend procedure (e.g., bringing a pet in from the yard and releasing them to speak, §17) — a clash between his proceduralism and the keystone disclosure rule.
 
 1A.5. **Selection / tenure:** TBD (elected by the Circle? long-serving by acclaim? founder-adjacent?).
 
@@ -88,7 +88,7 @@ The remaining three seats, filling out the seven and the factional math:
 
 - **Dr. Emerich Past** — **principled faction,** the club's nearest thing to a conscience-by-credential. A physician (or former one); he takes the **medical-disclosure rule (§6) personally and literally** — the Spark dosing is, to him, not a kink question but a drugging, a violation of the one rule his whole profession rests on. The most articulate voice *for* enforcement; where Holic argues principle, Past argues harm. His presence also complicates the "it's just kink" defense: a doctor in the room will not let *no one was hurt* stand unchallenged. [Surname adjustable.]
 - **Rostislav Kmain** — **minimizing faction,** Wenzel's ally and echo. Wealth and lineage, little interest in rules that constrain owners; he supplies Wenzel's bloc its second reliable vote and the room its ugliest articulations of *pets exist to please.* Less formidable than Wenzel, more nakedly self-interested. [Surname adjustable.]
-- **Bohdana Selnar** — the **second swing,** paired with Liesl as the institutional center but from a different angle: where Liesl calculates reputation, Bohdana is a **traditionalist proceduralist** aligned with the Steward — she cares less about the scandal and more about *whether the bylaws actually empower the Circle to do anything,* and about not setting precedents (like decollaring a pet to testify, §17) that she fears will unravel the club's order. She can be moved by procedure as readily as by principle. [Name adjustable.]
+- **Bohdana Selnar** — the **second swing,** paired with Liesl as the institutional center but from a different angle: where Liesl calculates reputation, Bohdana is a **traditionalist proceduralist** aligned with the Steward — she cares less about the scandal and more about *whether the bylaws actually empower the Circle to do anything,* and about not setting precedents (like releasing a pet to testify, §17) that she fears will unravel the club's order. She can be moved by procedure as readily as by principle. [Name adjustable.]
 
 1B.4a. **The vote breaks down (seven seats):**
 - **Principled (enforce):** Holic, Dr. Past — and the Steward leans here *on principle* (disclosure is the keystone) but is constrained by procedure.
@@ -122,7 +122,7 @@ The remaining three seats, filling out the seven and the factional math:
 
 ### 3. The Silence Rule *(the club's signature discipline)*
 
-3.1. **A collared pet does not speak.** While in pet space, a pet communicates only through posture, position, and trained behavior.
+3.1. **A pet in pet space does not speak.** While in pet space, a pet communicates only through posture, position, and trained behavior. For most pets, collaring marks entry into pet space; for permanently collared pets like GG, pet space is marked by name, posture, place, commands, and handling rather than by the collar appearing or disappearing.
 
 3.2. **The only permitted speech is a safeword.** A pet's voice is reserved exclusively for **yellow** and **red**. Nothing else.
 
@@ -130,7 +130,7 @@ The remaining three seats, filling out the seven and the factional math:
 
 3.4. **Lived consequence (control):** a pet can say *stop* but never *explain.* There is no sanctioned way for a pet to say *yes, but,* or *wait, what is happening to me,* or to give testimony, or to express nuance. The vocabulary of a collared pet is two words, both of which mean some version of *less.*
 
-3.5. **The only way to restore a pet's full voice is to remove the collar** (see §V, Collaring, and §VI, Decollaring-to-Speak).
+3.5. **The way to restore a pet's full voice is to release them from pet space** (see §V, Collaring, and §VI, Release-to-Speak). For most pets this means removing the collar. For GG, whose dog collar stays on permanently, this means explicitly returning her to Simonka/person-register while the collar remains on.
 
 ### 4. Safewords
 
@@ -148,7 +148,7 @@ The remaining three seats, filling out the seven and the factional math:
 
 5.1. All dynamics rest on **negotiated limits** agreed before pet space begins.
 
-5.2. **Consent is ongoing.** A pet retains the right to withdraw at any time, via safeword or — out of pet space, decollared — in plain words.
+5.2. **Consent is ongoing.** A pet retains the right to withdraw at any time, via safeword or — out of pet space — in plain words. For most pets, being out of pet space means decollared. For GG, the dog collar remains on permanently, so plain-word withdrawal must still be available while she is collared but addressed as Simonka.
 
 5.3. Consent given to one owner does **not** transfer to another. A **shared scene** (a pet interacting with an owner other than their own, or two pets together) requires explicit, separate negotiation and the consent of every owner and pet involved.
 
@@ -184,11 +184,13 @@ The remaining three seats, filling out the seven and the factional math:
 
 ### 9. The Collar
 
-9.1. **Collar on = pet space.** The pet assumes their pet name and the silence rule binds.
+9.1. **Standard convention:** collar on = pet space. The pet assumes their pet name and the silence rule binds.
 
-9.2. **Collar off = the person returns,** with full voice and full standing.
+9.2. **Standard convention:** collar off = the person returns, with full voice and full standing.
 
-9.3. The collaring at a threshold (e.g., arriving at a meeting) is a formal transformation, often the last exchange between owner and pet "as equals" before the role begins.
+9.3. The collaring at a threshold (e.g., arriving at a meeting) is a formal transformation for most pets, often the last exchange between owner and pet "as equals" before the role begins.
+
+9.4. **GG exception — permanent dog collar.** Once Simonka chooses the permanent GG life, Holic's dog collar stays on permanently. It is not removed when she speaks as Simonka. For GG, movement into and out of pet space is marked by name, posture, place, command, handling, and explicit release — not by taking the dog collar on and off.
 
 ### 10. The Electric Collar
 
@@ -242,17 +244,17 @@ The remaining three seats, filling out the seven and the factional math:
 
 14.3. **Why it matters (the structural point, stated plainly):** the people whose bodies, marks, and dynamics are the entire subject of the meeting are **not in the room.** Owners speak, vote, and rule indoors; pets wait on the grass behind a fence. The silence rule (§3) and the no-vote rule (§1.2) reach their logical conclusion here — a pet has no words *and* is not even present for the words spoken about them.
 
-14.4. **Sequence.** A pet is collared at the threshold (§9.3), then **taken out to the fenced area** for the duration of the owners' meeting. Pets are **brought in (or the owners come out) only for the parts that require them** — presentation of new pets, the training/demonstration block, and later the social/scene portion. Pure governance and discipline happen while the pets are outside.
+14.4. **Sequence.** Most pets are collared at the threshold (§9.3), then **taken out to the fenced area** for the duration of the owners' meeting. GG arrives already wearing her permanent dog collar (§9.4) and is shifted into pet space by Holic's handling and address. Pets are **brought in (or the owners come out) only for the parts that require them** — presentation of new pets, the training/demonstration block, and later the social/scene portion. Pure governance and discipline happen while the pets are outside.
 
 ### 15. Standing agenda
 
-1. **Arrival & collaring** — pets enter pet space at the threshold, then are taken out to the **fenced area.**
+1. **Arrival & entry into pet space** — most pets are collared at the threshold; GG arrives already wearing her permanent dog collar. Pets enter pet space, then are taken out to the **fenced area.**
 2. **Steward opens (owners only, pets outside)** — minutes, dues, calendar (the show looms), welcomes.
 3. **Presentation of new pets** — pets brought in (or owners go out to the area); a new pet is formally introduced to the membership; the brand acknowledged; the owner speaks for the pet. The pet then returns to the area.
 4. **Training & demonstration block** — pets brought in or worked in the area itself; skill-sharing; show-prep; fenced-area group routines.
 5. **Club business / disciplinary matters (owners only, pets outside)** — handled by the Circle while pets remain in the fenced area.
 6. **Social / scene time** — the unstructured adult portion. *(Non-graphic; scenes fade away.)*
-7. **Aftercare & decollaring** — pets brought back out of pet space; owners accountable for safe departure.
+7. **Aftercare & return from pet space** — pets brought back out of pet space; most pets are decollared; GG's permanent dog collar stays on; owners accountable for safe departure.
 
 ---
 
@@ -264,17 +266,19 @@ The remaining three seats, filling out the seven and the factional math:
 
 16.2. Penalties available: **warning, sanction, probation, suspension, or expulsion.** The Circle sets the penalty.
 
-### 17. Decollaring-to-Speak
+### 17. Release-to-Speak
 
-17.1. Because of the silence rule (§3), **a collared pet cannot give testimony.** A pet who has been harmed, or who witnessed harm, has no words for it while in pet space — only *yellow* and *red.*
+17.1. Because of the silence rule (§3), **a pet in pet space cannot give testimony.** A pet who has been harmed, or who witnessed harm, has no words for it while in pet space — only *yellow* and *red.*
 
-17.2. The **only** mechanism that frees a pet's full voice is **removing the collar.** Decollared, the pet is no longer a pet but a **person**, and a person may speak freely.
+17.2. For most pets, the mechanism that frees a pet's full voice is **removing the collar.** Decollared, the pet is no longer a pet but a **person**, and a person may speak freely.
 
-17.3. **Compounded by the fenced area (§14):** a pet whose own dynamic is being discussed is not merely silent but **absent** — waiting outside, behind a fence, while owners deliberate indoors. To be heard, a pet would first have to be brought in *and* decollared.
+17.2a. **GG exception:** because Holic's dog collar stays on permanently (§9.4), removing the collar is not the mechanism for restoring Simonka's voice. She must be explicitly released from pet space and addressed as Simonka while still collared. This exception is structurally important: the club's ordinary collar logic does not fully fit her.
 
-17.4. **Open question (TBD for the saga):** is decollaring-to-testify an *established, codified* mechanism the club has used before, or an *unprecedented act* the Circle must improvise under pressure? This choice determines how radical it is to bring a pet in from the fenced area and uncollar them in front of the membership.
+17.3. **Compounded by the fenced area (§14):** a pet whose own dynamic is being discussed is not merely silent but **absent** — waiting outside, behind a fence, while owners deliberate indoors. To be heard, a pet would first have to be brought in and released from pet space. For most pets that means decollaring; for GG it means being named and treated as Simonka while the collar remains on.
 
-> *This rule's real test — whether the club will actually bring a pet in and decollar them to hear them, versus letting an owner speak "for" the pet — belongs to the later rule-breaking thread, not to this foundation document.*
+17.4. **Open question (TBD for the saga):** is release-to-testify an *established, codified* mechanism the club has used before, or an *unprecedented act* the Circle must improvise under pressure? This choice determines how radical it is to bring a pet in from the fenced area and release them in front of the membership.
+
+> *This rule's real test — whether the club will actually bring a pet in and release them to hear them, versus letting an owner speak "for" the pet — belongs to the later rule-breaking thread, not to this foundation document.*
 
 ### 18. The Standard the Club Claims
 
@@ -292,7 +296,7 @@ The remaining three seats, filling out the seven and the factional math:
 
 19.2. **The pressure the rules ignore: a pet's hunger to belong.** A new pet's desire to "earn her place" and impress her owner is a force the rulebook does not account for. It can override a pet's own safety — a pet may decline to safeword *not* because nothing is wrong but because using it feels like failing. (Canon already establishes this in GG.)
 
-19.3. **The silence rule's failure mode.** Designed to protect the safeword, it also guarantees a pet cannot report, explain, or testify. When a harm is one a pet cannot perceive, or one a pet won't name for fear of disappointing, two words are not enough — and two words are all a collared pet has. The §17 decollaring mechanism is the only release valve, and its reliability is untested.
+19.3. **The silence rule's failure mode.** Designed to protect the safeword, it also guarantees a pet cannot report, explain, or testify. When a harm is one a pet cannot perceive, or one a pet won't name for fear of disappointing, two words are not enough — and two words are all a pet in pet space has. The §17 release-to-speak mechanism is the only release valve, and its reliability is untested.
 
 19.4. **Decisions are made about the absent.** Because pets are held in the fenced area during governance and discipline (§14), the people most affected by a ruling are not present to hear it, react to it, or be asked about it. Combined with the no-vote rule (§1.2) and the silence rule (§3), this means a pet can be discussed, judged, and disposed of without ever being in the room. The fence is the most literal form of the club's central contradiction — and the place a pet would have to be brought *in* from before they could ever be decollared to speak (§17.3).
 

@@ -43,7 +43,7 @@
 - Within minutes, Klárka’s own breathing matches Simonka’s. They fall asleep together, a single unit of shared DNA and shared history.
 
 ### 6. The Parents’ Witness
-- Gamaliel and Klára watch from the shadows of the room. 
+- Gamaliel and Klára watch from the shadows of the room.
 - They see the power of the bond they’ve nurtured. In this high-tech medical environment, the most effective "medicine" in the room is the presence of the older sister.
 - Klára leans her head on Gamaliel’s shoulder. The first night—the hardest night—is handled.
 

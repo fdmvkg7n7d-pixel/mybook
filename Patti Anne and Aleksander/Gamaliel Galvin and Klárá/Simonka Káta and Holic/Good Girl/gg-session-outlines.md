@@ -37,7 +37,7 @@ To explore the dynamics of group submission and sensory overload through a colle
 
 ### 5. The Outburst (The Conflict Between Members)
 - **The Action:** A second club member (the Traditionalist) interrupts, visibly offended by the offer.
-- **The Argument:** 
+- **The Argument:**
     - **The Traditionalist:** Argues that the offer is "vulgar" and an insult to the *Collegium Fidelium*. He believes that breeding rights are a sacred trust within the club, not a commodity to be bought and sold.
     - **The Guest Member:** Retorts that denying the market value of a "professional" like GG is a form of denial. He argues that the money is a tribute to her quality, not a purchase of her soul.
 - **The Tension:** The dispute escalates from a disagreement to a clash of egos and ideologies. The two members are no longer talking about GG, but about their own standing and beliefs within the club.

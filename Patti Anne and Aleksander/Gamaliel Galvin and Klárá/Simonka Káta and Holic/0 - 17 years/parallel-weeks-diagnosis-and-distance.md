@@ -27,7 +27,7 @@
 ## STORYLINE 2: KLÁRKA AT SUMMER CAMP (PRAGUE ACADEMY)
 
 ### 1. Focused Energy
-- At the Ballet Academy, Klárka (10) throws herself into the intensive summer program. 
+- At the Ballet Academy, Klárka (10) throws herself into the intensive summer program.
 - Her usual grace is sharpened by a fierce, restless energy. She is the first in the studio and the last to leave.
 - She uses the discipline of dance to manage her anxiety about Simonka. Every pirouette is a way to stop her mind from spinning.
 
@@ -45,12 +45,12 @@
 - She is constantly checking her phone for updates from Gamaliel. The time difference (though small) feels like an ocean.
 
 ### 2. Facing the Vertical World
-- Cape Town’s geography—the looming presence of Table Mountain and the sheer coastal cliffs—is a constant trigger for her acrophobia. 
+- Cape Town’s geography—the looming presence of Table Mountain and the sheer coastal cliffs—is a constant trigger for her acrophobia.
 - She feels "exposed" and "unsteady" in more ways than one. The height of the mountain mirrors the "height" of the crisis her family is facing.
 - She finds a quiet spot near the harbor—where the land is flat and the water is horizontal—to have her emotional breakdowns and her long calls with Gamaliel.
 
 ### 3. The Resolution to Return
-- Receiving the news from the first appointment—the confirmation of the carcinoma—Klára feels a surge of clarity. 
+- Receiving the news from the first appointment—the confirmation of the carcinoma—Klára feels a surge of clarity.
 - She completes her duties with a professional steeliness, but her every thought is focused on the flight home. She is no longer just a "frightened woman"; she is a mother returning to her child's battle.
 
 ---

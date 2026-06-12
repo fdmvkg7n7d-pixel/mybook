@@ -26,11 +26,11 @@
 ### 4. Meeting Dr. Marek
 - Dr. Marek is a specialist in pediatric tumors. He is calm, precise, and highly respectful of children.
 - **The Ask:** He waits for Simonka to settle on the exam table. "Simonka, Dr. Jelena told me you found a very interesting stone. May I have your permission to examine it now?"
-- **The Response:** Simonka nods and opens her jacket. 
+- **The Response:** Simonka nods and opens her jacket.
 - **The Examination:** Dr. Marek performs a very thorough palpation. He doesn't just feel the lump; he checks the architecture of the surrounding tissue. He explains what he is doing as he goes, which keeps Simonka's anxiety low.
 
 ### 5. The Diagnosis Discussion
-- Dr. Marek sits with Gamaliel and Simonka. 
+- Dr. Marek sits with Gamaliel and Simonka.
 - He uses the term **Secretory Breast Carcinoma**. He explains it is a "slow" kind of stone that shouldn't be there, and the best way to deal with it is to "take it out."
 - He shows them the plan for a biopsy and surgery. He speaks directly to Simonka, explaining that she will go to sleep for a little while and when she wakes up, the stone will be gone.
 

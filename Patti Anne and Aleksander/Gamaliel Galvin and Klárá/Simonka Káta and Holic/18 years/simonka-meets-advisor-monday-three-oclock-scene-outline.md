@@ -3,7 +3,7 @@
 ## Scene Outline — Beats, Dialogue Cues, and Thematic Notes
 
 > **Placement:** Monday afternoon, 3:00 PM. Simonka has left the kennel, composed herself, dressed as a student, and walked from Holic's mansion to the Faculty of Arts at Charles University. This is the appointment she mentioned to Holic in the kitchen.
-> 
+>
 > **Companion to** `other-owner-proposes-breeding-deal-scene-outline.md`, `simonka-kata-profile.md`, and the existing thesis-defense outlines. **Read those first.** This scene is the first time the academic world and the household world intersect in spoken dialogue.
 
 > **Content & craft warning.** Simonka discloses to her academic advisor the full reality of her life as GG — the weekend's events, what Klárka Pavlínka did, and the breeding proposal. This is a personal disclosure in an academic setting. The advisor must process information that falls entirely outside the normal student-supervisor relationship. Render with the saga's established discipline: no sensationalism, no judgement, no glossing. The facts are the facts. The advisor hears them. The advisor responds.

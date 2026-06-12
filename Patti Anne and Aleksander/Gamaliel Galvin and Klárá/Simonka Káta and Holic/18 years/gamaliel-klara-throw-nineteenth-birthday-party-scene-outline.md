@@ -9,7 +9,7 @@
 ---
 
 ## THE SETTING
-- The warm, bustling family home of Gamaliel Galvin and Klára in Prague. 
+- The warm, bustling family home of Gamaliel Galvin and Klára in Prague.
 - The contrast is stark: Simonka has just returned from the sensory extremes of Alois’s farm (the barn, the 5,000-gallon water tank) and the suffocating "noise" of Ambroz’s jealous reclamation at her apartment. Now, she is in the bright, traditional space of her parents' home.
 - Decorations, a cake, and a gathering of family to celebrate Simonka turning nineteen.
 
@@ -39,13 +39,13 @@
 - While the party goes on around her, Simonka feels the profound chasm between her two worlds.
 - She looks at her loving parents, her sister Klárka, and the "acceptable" boyfriend by her side. This is the life they expect her to lead.
 - In her mind, she is still floating in the 5,000-gallon tank, experiencing the weightless sanctuary and intense stillness that only her hidden life provides. She realizes how successfully she is hiding her true self from her family.
-- **The Apology:** During a brief moment when the family is distracted, Ambroz corners her near the kitchen or out on the balcony. His performative charm drops, and he tries to apologize for his aggressive, jealous behavior that morning at her apartment door. 
+- **The Apology:** During a brief moment when the family is distracted, Ambroz corners her near the kitchen or out on the balcony. His performative charm drops, and he tries to apologize for his aggressive, jealous behavior that morning at her apartment door.
 - "Simi, I'm sorry about earlier. I just missed you," he whispers, trying to grab her hand.
 - **The Rejection:** Simonka doesn't want to listen to him. The apology feels just as "noisy" and manipulative as the jealousy. She pulls her hand away, keeping her dancer's guard up. "Not here, Ambroz. Do not do this here," she tells him coldly, refusing to grant him the absolution he is desperately seeking while in her parents' home.
 
 ### 5. The Birthday Cake
 - Klára brings out the birthday cake. They sing to her.
-- As Simonka blows out the candles, she feels the physical toll of her Osteogenesis Imperfecta and the events of the last 24 hours settling into her bones. 
+- As Simonka blows out the candles, she feels the physical toll of her Osteogenesis Imperfecta and the events of the last 24 hours settling into her bones.
 - Her wish is silent and complex—a desire for a life where she doesn't have to constantly manage the "noise" and where her fragile body can feel safe without hiding.
 
 ---
