@@ -8,7 +8,7 @@
 
 - **Full Name:** Kiley Rose Key
 - **Position in Family:** Fourth of eight sisters
-- **Birth Timing:** Born **four years after Jessica Isabella and Rachel Darcy Key**.
+- **Birth Timing:** Born when Jessica Isabella and Rachel Darcy are four (they are all 27 when Brandi Jessica and Pandora Paige are seven).
 - **Date of Birth:** December 3, 2028
 - **Biological Mother:** Terri Anne Williams-Key
 - **Biological Father:** Mike Key
@@ -35,13 +35,14 @@
 
 ### SIBLINGS
 
-- **Patti Anne Key** — older sister (swimming and piano)
-- **Jessica Isabella Key** — older sister; conjoined twin with Rachel Darcy; later separated. When Kiley Rose is **seven years old**, she and Jessica Isabella are playing near the stove when they accidentally knock a pot of boiling water. Jessica Isabella pushes Kiley Rose out of the way and takes the full spill on her own bare back. Jessica Isabella suffers second and third degree burns and is treated at Shriners Children's Hospital. Kiley Rose is unhurt. She carries this differently.
-- **Rachel Darcy Key** — older sister; conjoined twin with Jessica Isabella; later separated (ballet and swimming)
-- **Sabrina Bryna Key** — younger sister, born **eighteen months after Kiley Rose** (Cerebral Palsy; deaf; communicates in ASL; yoga and swimming).
-- **Fallon Glenda Key** — younger sister, born **thirty months after Sabrina Bryna** (swimming and horseback riding).
-- **Andrea Jennifer Key** — younger sister, born **eighteen months after Fallon Glenda** (swimming, writing, and guitar).
-- **Ashley Erin Key** — youngest sister, born **two years after Andrea Jennifer**; transgender girl, assigned male at birth; original name **Mikkel James Junior** (acting, guitar, and swimming).
+- **Patti Anne Key** (eldest) — 29 when Brandi Jessica and Pandora Paige are seven.
+- **Jessica Isabella Key** — 27 (conjoined twin with Rachel Darcy; later separated). When Kiley Rose is **seven years old**, she and Jessica Isabella are playing near the stove when they accidentally knock a pot of boiling water. Jessica Isabella pushes Kiley Rose out of the way and takes the full spill on her own bare back. Jessica Isabella suffers second and third degree burns and is treated at Shriners Children's Hospital. Kiley Rose is unhurt. She carries this differently.
+- **Rachel Darcy Key** — 27 (conjoined twin with Jessica Isabella; later separated; ballet and swimming).
+- **Kiley Rose Key** — 23 when her own daughters Brandi Jessica and Pandora Paige are seven.
+- **Sabrina Bryna Key** — 21 (Cerebral Palsy; deaf; communicates in ASL; yoga and swimming).
+- **Fallon Glenda Key** — 19 (swimming and horseback riding).
+- **Andrea Jennifer Key** — 18 (swimming, writing, and guitar).
+- **Ashley Erin Key** — 16 (youngest; transgender girl, assigned male at birth; original name **Mikkel James Junior**; acting, guitar, and swimming).
 
 ### Partner(s) / Children
 
