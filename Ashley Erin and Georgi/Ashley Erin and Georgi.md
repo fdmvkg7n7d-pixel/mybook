@@ -1,5 +1,10 @@
 # ASHLEY ERIN KEY & GEORGI
 
+## Synopsis
+
+This folder documents the life, character profiles, and milestone scene outlines for **Ashley Erin Key** (the youngest Key sister, a highly successful professional international model who transitioned in youth) and her husband **Georgi** (a dedicated nurse and Upper Canada College graduate). The narrative focuses on their formative high school romance, professional autonomy, and radical relational steadiness across their adult lives.
+
+
 ## Shared Character and Relationship File
 
 ---
@@ -165,6 +170,16 @@ Ashley Erin and Georgi have **five adopted children**:
 - **Mikkel James and Jemahr Pierce** are **identical twins**.
 - **Hadleigh Patterson, Britany Madelena, and Jordan Lisa** have the **same biological mother**.
 - **Jordan Lisa** has a **different biological father** from Hadleigh Patterson and Britany Madelena.
+
+---
+
+## MILESTONES IN HER PROFESSIONAL & CREATIVE LIFE
+
+### 1. Meeting Her Agent in New York City (Age 7)
+At exactly seven (7) years old (~2043), Ashley Erin displays such immense natural sparkle, creative presence, and high-fashion modeling promise that foundational matriarch **Terri Anne** takes proactive fiduciary steps to secure her overarching professional representation. Seven-year-old Ashley travels to New York City accompanied specifically by **Terri Anne** and her eight-year-old sister **Andrea Jennifer** to sign with **Valerie Sterling** of *Sterling Management*—an elite, fiercely protective Manhattan talent and modeling agent. Sourcing her deeply grounded calm, Terri Anne verifies that Valerie holds an absolute, unblemished fiduciary perimeter around her client's genuine self-determination and trans youth representation, beautifully establishing the overarching early-childhood foundation of her professional modeling and acting trajectory (`ashley-erin-meets-her-agent-in-new-york-city-scene-outline.md`).
+
+### 2. The Auditions for 'This Land' (Age 10)
+At age ten, built upon the elite professional runway launched by Valerie Sterling in New York City, Ashley Erin participates in a highly rigorous, three-round casting process to land the central trans role on the groundbreaking TV show ***This Land***. The initial call auditions roughly fifty transgender girls; the final round is an intimate chemistry read with **Raya** (cast as her on-screen sister and Georgi's cousin). Backed in the waiting room by Mike and Terri Anne, her remarkably honest performance secures the role, launching her stellar television career (`ashley-erin-this-land-casting-call-scene-outline.md`).
 
 ---
 

@@ -1,5 +1,10 @@
 # KILEY ROSE KEY
 
+## Synopsis
+
+This master file and folder coordinate the character profiles, medical history, and emotional milestones for **Kiley Rose Key** (fourth of the eight sisters) and her devoted wife **Julia**. Major themes examine navigating Turner Syndrome with absolute physical agency, overcoming severe adolescent heartbreak and betrayal, and raising high-achieving identical twin daughters (including Brandi Jessica's triumphant adaptation to total blindness) under their fierce *"anything and everything"* parenting philosophy.
+
+
 ## Full Character Profile
 
 ---

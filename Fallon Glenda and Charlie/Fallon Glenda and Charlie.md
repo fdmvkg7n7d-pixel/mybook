@@ -1,5 +1,10 @@
 # FALLON GLENDA KEY & CHARLIE
 
+## Synopsis
+
+This repository folder contains the core profiles and milestone scene outlines for **Fallon Glenda Key** (sixth of the eight Key sisters) and her partner **Charlie**. Key narrative arcs explore her formative cross-country road trip to Stanford University, her profound relational bonding on the beaches of Rio de Janeiro, and her synthesis of fierce athletic independence with deep family loyalty.
+
+
 ## Shared Character and Relationship File
 
 ---

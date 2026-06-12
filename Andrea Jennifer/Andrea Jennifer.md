@@ -1,5 +1,10 @@
 # ANDREA JENNIFER KEY
 
+## Synopsis
+
+This file and surrounding folder catalog the narrative arcs, character profiles, and scene outlines for **Andrea Jennifer Key** (seventh of the eight Key sisters) and her extended family network. Major themes include artistic expression (writing and guitar), intergenerational protection, and her defining role in the family-anchor police-call scene.
+
+
 ## Full Character Profile
 
 ---

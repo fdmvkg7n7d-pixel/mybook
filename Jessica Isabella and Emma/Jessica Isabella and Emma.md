@@ -1,5 +1,10 @@
 # JESSICA ISABELLA KEY & EMMA
 
+## Synopsis
+
+This shared master file and directory catalog the profound relational and professional arcs of **Jessica Isabella Key** (second of the eight sisters, conjoined twin separated in infancy, neurosurgeon, and pediatric burn survivor) and her devoted wife **Emma Fritz**. Core themes explore immense bodily sacrifice, overcoming severe adolescent trauma (the Pitangueiras Beach incident), navigating complex co-maternity, and the profound relational healing forged across decades of shared life.
+
+
 ## Shared Character and Relationship File
 
 ---
