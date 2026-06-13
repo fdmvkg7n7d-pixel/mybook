@@ -122,6 +122,14 @@ See also:
 - `emma-profile.md`
 - `samira-chaka-key-profile.md`
 - `sahara-hannan-key-profile.md`
+- `grade-nine-freedom-fourteen-years-old.md` (prose-styled scene outline and detailed beat sheet; their Grade Nine unsupervised leave in St. Petersburg and Moscow, exploring their separate worlds and twin connection at age 14)
+- `samira-sahara-dating-pavel-vladislav-outline.md` (scene outline and detailed beat sheet; the twins start dating during their Grade Nine year in Russia—Samira with the athletic Pavel in Moscow, and Sahara with the gentle Vladislav in St. Petersburg)
+- `samira-pavel-breakup-eighteen-months-outline.md` (scene outline and detailed beat sheet; after an eighteen-month relationship starting at sixteen, Samira Chaka and Pavel break up when they are seventeen and a half because she wants children in the future but he does not, and Sahara travels to Moscow to comfort her)
+- `samira-dates-andrei-vladislav-similarity-outline.md` (scene outline and detailed beat sheet; four months after her breakup, eighteen-year-old Samira Chaka begins dating Andrei in Moscow, realizing he shares the exact gentle, protective traits of Sahara's boyfriend Vladislav in St. Petersburg, which is confirmed when they exchange photos)
+- `andrei-vladislav-twins-revelation-outline.md` (scene outline and detailed beat sheet; Andrei and Vladislav confirm that they are identical twin brothers separated in infancy due to their parents' bitter divorce, mirroring the family's conjoined-and-separated legacy)
+- `christmas-black-sea-turkey-reunion-outline.md` (scene outline and detailed beat sheet; for their eighteenth birthday on Christmas Day ~2058, the twins organize a secret joint vacation to the Black Sea in Turkey, where the separated brothers are surprised to find each other in the lobby before the sisters descend to join them)
+- `natal-brazil-christmas-vacation-remi-outline.md` (scene outline and detailed beat sheet; for Christmas ~2058, Jessica Isabella, Emma, and their donor colleague Rémi take three-year-old twin sons Eliot and Kalvin on a warm beach vacation to Natal, Brazil, combining family healing with gentle co-parenting)
+- `christmas-day-2058-parallel-reunion-outline.md` (parallel scene outline and detailed beat sheet; weaves together both Christmas Day ~2058 vacations—the big sisters' romantic twin reunion in snowy Turkey and their mothers' romantic beachside vacation with their toddlers and Rémi in tropical Natal, Brazil)
 - `bathroom-discovery-scene-outline.md` (pivotal revelation scene)
 - `pitangueiras-beach-incident-outline.md` (origin event)
 - `another-child-2055-outline.md` (new; the second child arc at age 30, Jessica carrying, Rachel not involved)
@@ -130,7 +138,7 @@ See also:
 - `donor-combined-scene-outline.md` (intermediate draft — superseded)
 - `colleague-donor-arc-outline.md` (**current canon** — sperm bank rejected; Jessica and Emma ask their colleague Dr. Rémi Arsenault (neurosurgeon, Dalhousie mentor); Jessica sleeps with him by agreement for five attempts over five months; Emma's jealousy — body and closeness — is the emotional centre; after the fifth attempt, Jessica promises Emma *not after tonight* and the arrangement ends; Rémi becomes a known presence in the sons' lives only; kitchen table scene in `kitchen-table-jealousy-scene-outline.md`)
  - `telling-the-twins-scene-outline.md` (new; telling Samira and Sahara ~14 **before** pregnancy, during three-week Russia vacation visiting three cities — Moscow (Samira's Bolshoi), St. Petersburg (Sahara's Vaganova, initial telling), Sochi (Winter Olympics); during vacation the twins swim undressed (per family bodily autonomy); Samira likes the idea from the start (shares in activities/twin talks); Sahara initially does not but comes to like it by the *end of the vacation* after family activities across cities, twin talk about bond, diabetes/family history reflection, quiet conversations with mothers (Olympics in Sochi); Jessica and Emma are so glad with specific response)
-- `Temp/Vacations/cruise-northern-europe-key-family.md` (twins spotted for ballet)
+- `Temp/cruise-northern-europe-key-family.md` (twins spotted for ballet)
 - Master `Temp/TIMELINE.md` and `Temp/OPEN ITEMS.md` for cross-saga context.
 
 ---
