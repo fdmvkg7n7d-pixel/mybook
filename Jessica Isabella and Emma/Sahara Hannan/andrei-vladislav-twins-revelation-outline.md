@@ -5,9 +5,9 @@
 ---
 
 ## Characters
-- **Samira Chaka Key** (18): Dancing in Moscow. Shocked and deeply moved by the cosmic symmetry of her relationship.
-- **Sahara Hannan Key** (18): Dancing in St. Petersburg. Managing her Type 1 diabetes. Grounded but astounded by the revelation.
-- **Andrei** (18) & **Vladislav** (19 / corrected to 18 to match identical twin age): Identical twin brothers who were separated when their parents divorced. Andrei grew up in Moscow with their father, and Vladislav grew up in St. Petersburg with their mother.
+- **Samira Chaka Key** (17.5 / nearly 18): Teaching ballet in Moscow at the Bolshoi Academy. Shocked and deeply moved by the cosmic symmetry of her relationship.
+- **Sahara Hannan Key** (17.5 / nearly 18): Teaching ballet in St. Petersburg at Vaganova. Managing her Type 1 diabetes. Grounded but astounded by the revelation.
+- **Andrei & Vladislav** (identical twin brothers; exact age / birthday TBD): Separated when their parents divorced. Andrei grew up in Moscow with their father, and Vladislav grew up in St. Petersburg with their mother.
 
 ---
 

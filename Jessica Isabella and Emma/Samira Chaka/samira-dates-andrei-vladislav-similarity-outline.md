@@ -1,15 +1,15 @@
 # Samira Chaka Dates Andrei (Similarity to Vladislav) — ~2058 — Scene Outline
 
-*Jessica Isabella & Emma's branch. A highly structured scene outline and detailed beat sheet set in the autumn of ~2058. The twins are eighteen years old and navigating their post-graduation transitions into their professional dancer lives. Four months after her painful breakup with Pavel, Samira Chaka begins dating Andrei. When she describes Andrei's gentle, protective nature to Sahara Hannan, they realize he shares striking characteristics with Sahara's boyfriend, Vladislav. The twins exchange photographs of their partners, leading to a profound realization about their parallel paths.*
+*Jessica Isabella & Emma's branch. A highly structured scene outline and detailed beat sheet set in the autumn of ~2058. The twins are seventeen and a half / nearly eighteen and navigating their post-graduation transitions into professional ballet teaching lives at the schools that trained them. Four months after her painful breakup with Pavel, Samira Chaka begins dating Andrei. When she describes Andrei's gentle, protective nature to Sahara Hannan, they realize he shares striking characteristics with Sahara's boyfriend, Vladislav. The twins exchange photographs of their partners, leading to a profound realization about their parallel paths.*
 
 ---
 
 ## Characters
 
-- **Samira Chaka Key** (18): Dancing her first professional season in Moscow. She has spent four months healing from Pavel, refocusing on her art, and has recently begun dating Andrei.
-- **Sahara Hannan Key** (18): Dancing her first professional season in St. Petersburg. She has been dating Vladislav for two years, enjoying a steady, mature relationship.
-- **Andrei** (18): A quiet, observant rehearsal pianist or young corps dancer at the Bolshoi. He is patient, gentle, and deeply supportive of Samira's fierce spirit.
-- **Vladislav** (19): Sahara's long-term boyfriend in St. Petersburg. Lyrical, quiet, and known for carrying juice boxes in his pocket for Sahara's Type 1 diabetes.
+- **Samira Chaka Key** (17.5 / nearly 18): Working her first term as a junior ballet teacher / assistant instructor at the Bolshoi Academy in Moscow. She has spent four months healing from Pavel, refocusing on her art and teaching, and has recently begun dating Andrei.
+- **Sahara Hannan Key** (17.5 / nearly 18): Working her first term as a junior ballet teacher / assistant instructor at Vaganova in St. Petersburg. She has been dating Vladislav for two years, enjoying a steady, mature relationship.
+- **Andrei** (same age as Vladislav; exact birthday TBD): A quiet, observant rehearsal pianist or young corps dancer at the Bolshoi. He is patient, gentle, and deeply supportive of Samira's fierce spirit.
+- **Vladislav** (same age as Andrei; exact birthday TBD): Sahara's long-term boyfriend in St. Petersburg. Lyrical, quiet, and known for carrying juice boxes in his pocket for Sahara's Type 1 diabetes.
 
 ---
 
@@ -28,8 +28,8 @@ How does Samira's new relationship with Andrei reveal that both twins, though li
 
 ### 1. The Post-Graduation Autumn (Four Months Later)
 - **The Timing**: September ~2058. It has been four months since Samira's heartbreaking breakup with Pavel in late spring. 
-- **Samira's Healing**: Samira has poured her energy into her first professional dancer contracts. She is no longer the broken 17-year-old on the Moscow bench; she has found her stride.
-- **Meeting Andrei**: Samira meets Andrei at the Bolshoi. He is not like the athletic, showy Pavel. Andrei is a quiet young man who watches her dance with quiet respect. He sits at the piano, playing with a sensitivity that matches her movement, and begins waiting for her after rehearsals.
+- **Samira's Healing**: Samira has poured her energy into her first professional teaching responsibilities at the Bolshoi Academy: helping younger students at barre, learning how to correct without crushing, and discovering that teaching ballet is another way to deepen her art. She is no longer the broken 17-year-old on the Moscow bench; she has found her stride.
+- **Meeting Andrei**: Samira meets Andrei at the Bolshoi / Bolshoi Academy orbit. He is not like the athletic, showy Pavel. Andrei is a quiet young man who watches her teach and dance with quiet respect. He sits at the piano, playing with a sensitivity that matches her movement, and begins waiting for her after classes and rehearsals.
 
 ### 2. The Sunday Video Call: Describing Andrei
 - Sahara is sitting in her favorite dark-wood tea shop in St. Petersburg, checking her CGM (stable at 6.8 mmol/L), when her phone video-calls Moscow.
