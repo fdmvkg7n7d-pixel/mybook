@@ -8,7 +8,7 @@
 - **Jessica Isabella Key** (34): Reached her physical and emotional peace. Returning to Brazil (Northeastern coast) represents a healing full-circle from her teenage trauma in São Paulo.
 - **Emma Fritz** (34): Steady, practical, and carrying her quiet faith. She coordinates the beach logistics and watches her toddler sons with pride.
 - **Dr. Rémi Arsenault** (forties): Jessica and Emma’s trusted neurosurgery mentor, colleague, and the biological donor for their sons. He is a warm, steady, and known presence in the boys' lives, joining the vacation as a close family friend.
-- **Eliot David Key** & **Kalvin LaMarcus Key** (3): Active, identical twin toddlers who are full of energy, love the soft white sand, and are deeply attached to both their mothers and Rémi.
+- **Eliot David Key-Fritz** & **Kalvin LaMarcus Key-Fritz** (3): Active, identical twin toddlers who are full of energy, love the soft white sand, and are deeply attached to both their mothers and Rémi.
 
 ---
 

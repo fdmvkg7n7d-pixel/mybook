@@ -53,7 +53,7 @@ Samira Chaka has not simply stopped writing. She has *disappeared by design*. Th
 - He handles the logistics: checking train schedules, trying to contact Bolshoi administration on Sahara's behalf, managing the practical elements so Sahara can manage her body. He is also watching Sahara's glucose, her sleep, her mood. He is the nurse in this relationship, in a way that mirrors Polina's hands in Samira's future.
 - He has a suggestion that he is afraid to voice: that they go to Moscow. That they break into Samira's apartment. That they stop waiting and start looking. He knows Sahara will agree, and he knows that agreeing may trigger a medical crisis. He is holding the suggestion like a scalpel, waiting for the right moment to offer it.
 
-### Eliot David and Kalvin LaMarcus Key (5)
+### Eliot David and Kalvin LaMarcus Key-Fritz (5)
 - The younger twin brothers. They do not understand where Samira is. They ask questions that cut through the adult pretense: *"Is Samira in trouble?"* / *"Why doesn't she call?"* / *"Is she dead?"*
 - Their presence is both a burden and a salvation. They force Jessica and Emma to perform normalcy. They also force the adults to articulate what they do not know, which is a form of honesty that keeps the family from complete paralysis.
 

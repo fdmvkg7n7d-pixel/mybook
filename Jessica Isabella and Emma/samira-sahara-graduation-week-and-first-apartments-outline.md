@@ -26,7 +26,7 @@
 ### Family
 - **Jessica Isabella Key:** Their biological mother. Proud, protective, restless with the urge to help too much. Graduation forces her to practice the family rule she taught them: *your life is yours*.
 - **Emma Fritz:** Their co-mother. Calm, practical, emotionally precise. She notices what must be done without taking over. She understands that staying does not always mean sharing a roof.
-- **Eliot David and Kalvin LaMarcus Key (toddlers):** The twins' little brothers, present only as light family texture if useful. They can carry small, harmless objects during the moves, making the day feel like a whole-family transition rather than a sterile relocation.
+- **Eliot David and Kalvin LaMarcus Key-Fritz (toddlers):** The twins' little brothers, present only as light family texture if useful. They can carry small, harmless objects during the moves, making the day feel like a whole-family transition rather than a sterile relocation.
 - **Rachel Darcy Key (optional remote presence):** Their ballet aunt. Can send letters or join a video call to bless the artistic threshold without overshadowing Jessica and Emma.
 - **Mike and Terri Anne Key (optional remote presence):** Grandparents can appear via video call after the ceremonies, especially if the scene needs a family-wide emotional landing.
 
