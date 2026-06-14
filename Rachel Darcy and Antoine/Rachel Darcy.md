@@ -25,7 +25,7 @@ This folder compiles the canonical profiles, timelines, and multi-child househol
 
 ## ACTIVITIES
 
-- **Dance (Ballet)** — Rachel Darcy dances. The choice is deliberate: a life lived inside a body that was once shared with another leads to a deep understanding of movement, of anatomy, of the way the body speaks. [Further detail on training, level, and what ballet means to her TBD.]
+- **Dance (Ballet)** — Rachel Darcy dances. When she is **seven years old**, on the Saturday after Jessica Isabella’s first gymnastics competition weekend in Ottawa, Mike takes Rachel Darcy to her **first ballet recital at Mohawk College**. Terri Anne stays home at the Carlisle mansion with the rest of their children, including two-year-old Kiley Rose, who is too young to go to these competitions. Back at the Carlisle mansion, Rachel thanks Mike for taking her, mirroring Jessica Isabella’s thank-you after her first gymnastics competition. The choice is deliberate: a life lived inside a body that was once shared with another leads to a deep understanding of movement, of anatomy, of the way the body speaks.
 - **Swimming** — one of eight Key sisters who swim. The pool is shared ground in this family.
 
 ---
@@ -127,6 +127,7 @@ This is the great rupture of Rachel's adult life. The man who stood beside her t
 - **Birth:** Born conjoined with Jessica Isabella Key, sharing one liver and one reproductive system.
 - **Separation surgery:** Planned separation. The liver is divided; each twin receives a half. The reproductive system goes to Jessica Isabella. [Age TBD.]
 - **Post-separation:** Both twins recover. They share a bedroom and bathroom. Rachel Darcy builds an independent life.
+- **Age seven — first ballet recital at Mohawk College:** On the Saturday after Jessica Isabella’s first gymnastics competition weekend in Ottawa, Mike takes Rachel Darcy to her first ballet recital at **Mohawk College**. Terri Anne stays home at the Carlisle mansion with the rest of their children, including two-year-old Kiley Rose, who is too young to go to these competitions. Back at the Carlisle mansion, Rachel Darcy thanks Mike for taking her to her first ballet recital, mirroring Jessica Isabella’s thank-you after her first gymnastics competition. The recital gives Rachel her own first-performance milestone and an early father-daughter memory with Mike. (See dedicated outline: `0 - 17 years/rachel-darcy-first-ballet-recital-mohawk-college-scene-outline.md`.)
 - **Jessica Isabella becomes pregnant:** The shared bedroom and bathroom changes. The reproductive asymmetry between the twins becomes visible in the shape of daily life.
 - **The bathroom:** Rachel Darcy walks into the bathroom. Jessica Isabella and Emma are kissing in the bathtub. She turns around. She tells her mother. The secret is over.
 - **Jessica Isabella's egg offer:** At some point in adulthood, Jessica Isabella offers her eggs. Rachel Darcy decides to accept that offer to build her family.
