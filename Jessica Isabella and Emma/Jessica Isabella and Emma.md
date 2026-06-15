@@ -53,6 +53,7 @@ This shared master file and directory catalog the profound relational and profes
 - **Education:** Sacred Heart School of Halifax (plaid uniforms, Catholic values, part of the family's Sacred Heart network alongside NYC and San Francisco branches).
 - **Ballet inheritance:** Carry Jessica's gymnastics + aunt Rachel Darcy's dance. Spotted together on Northern Europe family cruise (age 10) by Vaganova teacher. First true divergence when they choose different Russian schools (mirrors Jessica/Rachel's separation).
 - **The cruise spotting (Northern Europe, ~2051):** Family cruise (fjords + Baltic; post-wedding family celebration). Teacher sees rare talent in both during ship studio practice. Conversation with twins: adults inform, children decide. Both choose ballet seriously but apart. (Full details in `Temp/Vacations/cruise-northern-europe-key-family.md` and twins' profiles.)
+- **First Disney Cruise (~2046, age 6):** Jessica Isabella and Emma take the twins on their very first cruise — a Disney Cruise (Bahamas/Caribbean with Castaway Cay stop). This early family milestone emphasizes joy, character experiences, pool time, and integrated diabetes management. See dedicated outline: `Samira Chaka and Sahara Hannan/jessica-emma-disney-cruise-twins-age-6-scene-outline.md`.
 
 ---
 
