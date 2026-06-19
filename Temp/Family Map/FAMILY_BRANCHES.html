@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Key Family — Per-Branch View</title>
+<style>
+  :root{
+    --g1:#4338ca; --g2:#be185d; --g3:#0d9488; --g4:#b45309;
+    --line:#cbd5e1; --ink:#1f2937; --muted:#64748b; --bg:#f1f5f9; --card:#ffffff;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{margin:0;padding:30px 20px 60px;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.45;}
+  .wrap{max-width:1100px;margin:0 auto;}
+  h1{font-size:23px;margin:0 0 4px;} h1 span{color:var(--g1);}
+  .sub{color:var(--muted);font-size:13px;margin:0 0 22px;max-width:820px;}
+  .nav{position:sticky;top:0;z-index:20;background:rgba(241,245,249,.92);backdrop-filter:blur(6px);
+    padding:8px 0;margin:0 -6px 22px;border-bottom:1px solid var(--line);display:flex;gap:6px;flex-wrap:wrap;align-items:center;}
+  .nav b{font-size:10px;letter-spacing:.5px;text-transform:uppercase;color:#475569;margin:0 4px 0 6px;}
+  .nav a{font-size:11.5px;font-weight:600;text-decoration:none;color:#fff;background:#be185d;border-radius:999px;padding:4px 11px;}
+  .nav a:hover{filter:brightness(1.08);}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-bottom:30px;}
+  .bcard{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 15px;
+    border-top:4px solid var(--g2);box-shadow:0 1px 2px rgba(15,23,42,.05);text-decoration:none;color:inherit;display:block;transition:transform .12s, box-shadow .12s;}
+  .bcard:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(15,23,42,.1);}
+  .bcard .num{font-size:11px;font-weight:800;color:#cbd5e1;}
+  .bcard .who{font-weight:700;font-size:14.5px;color:var(--g2);margin-top:2px;}
+  .bcard .who small{color:var(--muted);font-weight:600;font-size:11px;display:block;margin-top:1px;}
+  .bcard .loc{font-size:11.5px;color:var(--muted);margin-top:8px;}
+  .bcard .kids{margin-top:9px;display:flex;flex-wrap:wrap;gap:5px;}
+  .bcard .kids .chip{font-size:10px;background:#f1f5f9;border:1px solid #e2e8f0;border-radius:999px;padding:1px 8px;color:#475569;}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-bottom:26px;box-shadow:0 1px 3px rgba(15,23,42,.06);}
+  .phead{padding:16px 20px;color:#fff;}
+  .phead .t{font-size:17px;font-weight:800;}
+  .phead .m{font-size:12.5px;opacity:.92;margin-top:3px;}
+  .b1{background:linear-gradient(135deg,#4338ca,#3730a3);}
+  .b2{background:linear-gradient(135deg,#0d9488,#0f766e);}
+  .b3{background:linear-gradient(135deg,#7c3aed,#6d28d9);}
+  .b4{background:linear-gradient(135deg,#be185d,#9d174d);}
+  .b5{background:linear-gradient(135deg,#be185d,#9d174d);}
+  .b6{background:linear-gradient(135deg,#b45309,#92400e);}
+  .b7{background:linear-gradient(135deg,#0d9488,#0f766e);}
+  .b8{background:linear-gradient(135deg,#2563eb,#1d4ed8);}
+  .pbody{padding:18px 20px 8px;}
+  .meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;}
+  .meta .tag{font-size:11px;background:#f1f5f9;border:1px solid #e2e8f0;border-radius:6px;padding:3px 9px;color:#475569;}
+  .meta .tag b{color:var(--ink);}
+  .badge{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.3px;padding:1px 6px;border-radius:999px;vertical-align:middle;text-transform:uppercase;border:1px solid transparent;white-space:nowrap;}
+  .b-bio{background:#eef2f7;color:#475569;border-color:#d7dee8;}
+  .b-adopt{background:#e0ecff;color:#1d4ed8;border-color:#c3d6ff;}
+  .b-foster{background:#efe6ff;color:#6d28d9;border-color:#dccaff;}
+  .b-step{background:#e3f6e8;color:#15803d;border-color:#c5e8ce;}
+  .b-sur{background:#fff1e0;color:#b45309;border-color:#fbdfb6;}
+  .b-guard{background:#d6f5f1;color:#0f766e;border-color:#b6ebe3;}
+  .b-twin{background:#fde8e8;color:#b91c1c;border-color:#f7c9c9;}
+  ul.tree,ul.tree ul{list-style:none;margin:0;padding:0;}
+  ul.tree ul{margin-left:14px;padding-left:16px;border-left:2px solid var(--line);}
+  ul.tree li{position:relative;margin:10px 0;}
+  ul.tree>li{margin:0;}
+  ul.tree li::before{content:'';position:absolute;left:-16px;top:17px;width:14px;border-top:2px solid var(--line);}
+  ul.tree>li::before{display:none;}
+  .node{display:inline-block;background:#fff;border:1px solid var(--line);border-radius:9px;padding:7px 11px;border-left:4px solid var(--line);max-width:600px;}
+  .node .nm{font-weight:700;font-size:13.5px;}
+  .node .mt{font-size:11.5px;color:var(--muted);margin-top:2px;}
+  .node .row{display:flex;flex-wrap:wrap;gap:5px;margin-top:5px;align-items:center;}
+  .g3{border-left-color:var(--g3);} .g4{border-left-color:var(--g4);}
+  .partner{color:#9a3412;font-style:italic;font-weight:600;}
+  .dead{color:#94a3b8;}
+  .note{font-size:11.5px;color:var(--muted);background:#f8fafc;border:1px dashed var(--line);border-radius:8px;padding:8px 12px;margin:10px 0;}
+  .ministrip{display:flex;align-items:center;gap:12px;margin:6px 0 8px;background:#f8fafc;border:1px solid var(--line);border-radius:10px;padding:12px 14px;}
+  .ministrip .lbl{font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;width:110px;flex:none;}
+  .ministrip .bar{flex:1;height:8px;border-radius:5px;position:relative;}
+  .bar.red{background:linear-gradient(90deg,#fecaca,#ef4444,#f59e0b,#10b981);}
+  .ministrip .mk{position:absolute;top:-6px;width:2px;height:20px;background:#1f2937;}
+  .ministrip .cap{display:flex;justify-content:space-between;font-size:9.5px;color:var(--muted);margin-top:6px;}
+  .top{font-size:11.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:12px;margin-top:10px;}
+  code{background:#eef2f7;padding:1px 5px;border-radius:4px;font-size:11px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Key Family — <span>Per-Branch View</span></h1>
+  <p class="sub">Each of the eight sister-branches as its own zoomable, self-contained diagram — more room for per-character notes, mini-timelines, and location detail than the single master tree affords. Jump to any branch below.</p>
+  <div class="nav"><b>Jump</b>
+    <a href="#b1">01 Patti Anne</a><a href="#b2">02 Jessica</a><a href="#b3">03 Rachel</a><a href="#b4">04 Kiley</a><a href="#b5">05 Sabrina</a><a href="#b6">06 Fallon</a><a href="#b7">07 Andrea</a><a href="#b8">08 Ashley</a>
+  </div>
+  <div class="grid">
+    <a class="bcard" href="#b1"><div class="num">01</div><div class="who">Patti Anne<small>♥ Aleksander</small></div><div class="loc">Prague · Saudi Arabia · Australia</div><div class="kids"><span class="chip">Gamaliel</span><span class="chip">Palmer Peter</span><span class="chip">Salena Sarai</span></div></a>
+    <a class="bcard" href="#b2"><div class="num">02</div><div class="who">Jessica Isabella<small>♥ Emma Fritz</small></div><div class="loc">Halifax · Moscow · St. Petersburg</div><div class="kids"><span class="chip">Samira</span><span class="chip">Sahara</span><span class="chip">Eliot</span><span class="chip">Kalvin</span></div></a>
+    <a class="bcard" href="#b3"><div class="num">03</div><div class="who">Rachel Darcy<small>♥ Antoine d'Aboville ✝</small></div><div class="loc">Los Angeles</div><div class="kids"><span class="chip">7 children</span><span class="chip">surrogacy</span></div></a>
+    <a class="bcard" href="#b4"><div class="num">04</div><div class="who">Kiley Rose<small>♥ Julia</small></div><div class="loc">Manhattan</div><div class="kids"><span class="chip">Brandi Jessica</span><span class="chip">Pandora Paige</span></div></a>
+    <a class="bcard" href="#b5"><div class="num">05</div><div class="who">Sabrina Bryna<small>♥ William</small></div><div class="loc">Vaughan · Orlando</div><div class="kids"><span class="chip">Carlota</span><span class="chip">Taylor</span><span class="chip">+4</span></div></a>
+    <a class="bcard" href="#b6"><div class="num">06</div><div class="who">Fallon Glenda<small>♥ Charlie</small></div><div class="loc">Carlisle → San Francisco</div><div class="kids"><span class="chip">Lÿsa Mandy</span><span class="chip">Rebecca</span><span class="chip">Charlie J.</span><span class="chip">Calida</span></div></a>
+    <a class="bcard" href="#b7"><div class="num">07</div><div class="who">Andrea Jennifer<small>♥ Haden → Fachnan</small></div><div class="loc">Key family sphere</div><div class="kids"><span class="chip">Emerald</span><span class="chip">Racquel</span><span class="chip">Klaudia</span><span class="chip">Simeon</span><span class="chip">Quetzal</span></div></a>
+    <a class="bcard" href="#b8"><div class="num">08</div><div class="who">Ashley Erin<small>♥ Georgi Dimitrov</small></div><div class="loc">Toronto</div><div class="kids"><span class="chip">Jemahr</span><span class="chip">Mikkel</span><span class="chip">Hadleigh</span><span class="chip">Britany</span><span class="chip">Jordan</span></div></a>
+  </div>
+
+  <div class="panel" id="b1"><div class="phead b1"><div class="t">Branch 01 · Patti Anne Key ♥ Aleksander</div><div class="m">The saga's largest branch — three continents, three faiths, one anchoring couple.</div></div><div class="pbody">
+    <div class="meta"><span class="tag"><b>Eldest sister</b> · family anchor after Mike's death</span><span class="tag"><b>Bio father:</b> Randy Fritz</span><span class="tag">Manages bipolar disorder</span><span class="tag">Holds Mike's OPP/RCMP network</span></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Gamaliel Galvin Key</div><div class="mt">b. April 2043 · <span class="badge b-bio">Bio</span> (bio father: unknown Brazilian; Patti Anne 21) · sole family convert to Judaism · co-founder, <b>Pražská Baletní Akademie</b></div><div class="row"><span class="partner">♥ Klára Key</span> <span class="badge b-foster">Foster</span> <span style="font-size:11.5px;color:var(--muted)">(b. Klára Drahoslav, Nov 2043 — rescued by 8-yr-old Gamaliel)</span></div>
+        <ul>
+          <li><div class="node g4"><div class="nm">Klárka Pavlínka</div><div class="mt">b. ~2069 · <span class="badge b-bio">Bio</span> · ballet teacher at the academy · 15 months older than Simonka</div><div class="row"><span class="partner">♥ Raphael</span></div></div></li>
+          <li><div class="node g4"><div class="nm">Simonka Káta</div><div class="mt">b. ~2070 · <span class="badge b-bio">Bio</span> · psychology student, Charles University · <i>narrative present ~2093</i></div><div class="row"><span class="partner">♥ Holic Bartunek</span> <span style="font-size:11.5px;color:var(--muted)">(Prague mansion · <i>Collegium</i> club)</span></div></div></li>
+        </ul></div></li>
+      <li><div class="node g3"><div class="nm">Palmer Peter Key</div><div class="mt">b. June 2056 · <span class="badge b-bio">Bio</span> <span class="badge b-twin">Twin</span> of Salena Sarai → <b>Saudi Arabia ~2074</b> · converts to Islam ~2076 · plural household: 58 children, 9 women</div>
+        <ul>
+          <li><div class="node g4"><div class="nm">Clemente Domenico · Arsenia Caressa</div><div class="mt">b. ~2087 · <span class="badge b-twin">Twin pair</span></div></div></li>
+          <li><div class="node g4"><div class="nm">Agosto Ciro · Aldabella Bianca</div><div class="mt">b. ~2088 · <span class="badge b-twin">Twin pair</span></div></div></li>
+          <li><div class="node g4"><div class="nm">Farfalla Enrica · Leonardo Marcello</div><div class="mt">b. ~2090 · <span class="badge b-twin">Twin pair</span></div></div></li>
+        </ul></div></li>
+      <li><div class="node g3"><div class="nm">Salena Sarai Key</div><div class="mt">b. June 2056 · <span class="badge b-bio">Bio</span> <span class="badge b-twin">Twin</span> of Palmer Peter → <b>Perth, Australia ~2074</b></div><div class="row"><span class="partner">♥ Eli</span></div>
+        <ul><li><div class="node g4"><div class="nm">Xana Dylan · Maddie Kaylee · Aleksander Eli Junior</div><div class="mt">Gen 4 · Perth household</div></div></li></ul></div></li>
+    </ul>
+    <div class="top">Source: <code>Patti Anne and Aleksander.md</code> · <code>Gamaliel Galvin and Klará/</code> · <code>Palmer Peter/</code> · <code>Salena Sarai/</code></div>
+  </div></div>
+
+  <div class="panel" id="b2"><div class="phead b2"><div class="t">Branch 02 · Jessica Isabella Key ♥ Emma Fritz</div><div class="m">Conjoined twin separated in infancy → neurosurgeon. The reacher who carries what wasn't asked of her.</div></div><div class="pbody">
+    <div class="meta"><span class="tag"><b>Conjoined twin</b> of Rachel Darcy (shared liver + repro system; separated; Jessica received repro)</span><span class="tag">Pediatric burn scars (saved Kiley at 7)</span><span class="tag"><b>Emma:</b> paternal half-sister of Patti Anne (via Randy Fritz); raised Muslim</span></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Samira Chaka Key</div><div class="mt">b. ~2040 · <span class="badge b-bio">Bio</span> <span class="badge b-twin">Identical Twin</span> of Sahara · bio father unknown (Pitangueiras Beach) · Bolshoi Ballet Academy, Moscow</div><div class="row"><span class="partner">♥ Pavel</span> <span style="font-size:11px;color:var(--muted)">(→ broke up ~17.5)</span> <span class="partner">→ Andrei</span></div></div></li>
+      <li><div class="node g3"><div class="nm">Sahara Hannan Key</div><div class="mt">b. ~2040 · <span class="badge b-bio">Bio</span> <span class="badge b-twin">Identical Twin</span> of Samira · Vaganova Ballet Academy, St. Petersburg · Type 1 diabetes</div><div class="row"><span class="partner">♥ Vladislav</span> <span style="font-size:11px;color:var(--muted)">(Andrei &amp; Vladislav are identical twins separated in infancy)</span></div></div></li>
+      <li><div class="node g3"><div class="nm">Eliot David Key &nbsp;/&nbsp; Kalvin LaMarcus Key</div><div class="mt">b. ~2055 · <span class="badge b-sur">Donor</span> <span class="badge b-twin">Identical Twins</span> · Jessica's eggs + known donor <b>Dr. Rémi Arsenault</b>; Jessica carried</div></div></li>
+    </ul>
+    <div class="note"><b>Marriage:</b> Jessica &amp; Emma marry ~2050 (partners from 16; secret until twins were 4 months old).</div>
+    <div class="top">Source: <code>Jessica Isabella and Emma.md</code> · <code>jessica-isabella-key-profile.md</code> · <code>emma-profile.md</code></div>
+  </div></div>
+
+  <div class="panel" id="b3"><div class="phead b3"><div class="t">Branch 03 · Rachel Darcy Key ♥ Antoine d'Aboville ✝</div><div class="m">Could not carry pregnancy — seven children built through her sister's egg donation and surrogacy.</div></div><div class="pbody">
+    <div class="meta"><span class="tag"><b>Conjoined twin</b> of Jessica (repro system went to Jessica at separation)</span><span class="tag">Ballerina &amp; swimmer · U of Virginia (Dance)</span><span class="tag"><b>Antoine:</b> d. ~2066 (Rachel ~41)</span></div>
+    <div class="note">All seven children: <b>Jessica's donated eggs + Antoine's sperm</b>, carried by three surrogates — <b>Alexis, Jackie, Bleu</b>. Rachel is mother in every way that counts.</div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">1. Larissa Leola</div><div class="mt">b. ~2052 · <span class="badge b-sur">Surrogate + egg-donor</span></div></div></li>
+      <li><div class="node g3"><div class="nm">2. Armando Cortez Junior</div><div class="mt">b. ~2053 · <span class="badge b-sur">Surrogate + egg-donor</span></div></div></li>
+      <li><div class="node g3"><div class="nm">3. Kella Nakeisha</div><div class="mt">b. ~2059 · <span class="badge b-sur">Surrogate</span> <span class="badge b-twin">Identical Twin</span> of Armella</div></div></li>
+      <li><div class="node g3"><div class="nm">4. Armella Beatrice</div><div class="mt">b. ~2059 · <span class="badge b-sur">Surrogate</span> <span class="badge b-twin">Identical Twin</span> of Kella</div></div></li>
+      <li><div class="node g3"><div class="nm">5. Melissa Lizette</div><div class="mt">b. ~2061 · <span class="badge b-sur">Surrogate</span> <span class="badge b-twin">Triplet</span></div></div></li>
+      <li><div class="node g3"><div class="nm">6. Marcos Eduarte</div><div class="mt">b. ~2061 · <span class="badge b-sur">Surrogate</span> <span class="badge b-twin">Triplet</span></div></div></li>
+      <li><div class="node g3"><div class="nm">7. Annabella Nicki</div><div class="mt">b. ~2061 · <span class="badge b-sur">Surrogate</span> <span class="badge b-twin">Triplet</span></div></div></li>
+    </ul>
+    <div class="top">Source: <code>Rachel Darcy.md</code> · <code>annabella-nicki-profile.md</code> (surrogacy canon)</div>
+  </div></div>
+
+  <div class="panel" id="b4"><div class="phead b4"><div class="t">Branch 04 · Kiley Rose Key ♥ Julia</div><div class="m">Turner Syndrome; rare spontaneous twin pregnancy against the odds. The sister who was unhurt.</div></div><div class="pbody">
+    <div class="meta"><span class="tag"><b>Turner Syndrome</b> (mosaic → rare spontaneous pregnancy)</span><span class="tag">Gymnast &amp; swimmer</span><span class="tag">Prior partners: Lazaro da Silva → La Cienega dos Santos</span><span class="tag"><b>Julia:</b> met ~2051 at Key Porn Studios, NYC</span></div>
+    <div class="ministrip"><div class="lbl">Brandi's cancer</div><div style="flex:1"><div class="bar red"><div class="mk" style="left:0%"></div><div class="mk" style="left:100%"></div></div><div class="cap"><span>Dec 2044 — twins born</span><span>Dec 23, 2051 — Brandi: bilateral retinoblastoma (blind); Pandora's sight saved</span></div></div></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Brandi Jessica Key</div><div class="mt">b. Dec 25, 2044 · <span class="badge b-bio">Bio</span> <span class="badge b-twin">Identical Twin</span> of Pandora · bio father Lazaro · bilateral enucleation (blind) · guide dog "Burden" · Convent of the Sacred Heart, NYC</div>
+        <ul><li><div class="node g4"><div class="nm">Iyeshia Caesarea (~2071) · Jamal Mohammed Jr (~2074) · Kacy Kaniesa (~2077)</div><div class="mt">Brandi &amp; Pandora raise all four children jointly in NYC</div></div></li></ul></div></li>
+      <li><div class="node g3"><div class="nm">Pandora Paige Key</div><div class="mt">b. Dec 25, 2044 · <span class="badge b-bio">Bio</span> <span class="badge b-twin">Identical Twin</span> of Brandi · sight saved · photographer — secretly photographed cousin Carlota in Tijuana → triggered the rescue</div>
+        <ul><li><div class="node g4"><div class="nm">Bahiyya Farrah</div><div class="mt">b. ~2066 · Pandora's child</div></div></li></ul></div></li>
+    </ul>
+    <div class="top">Source: <code>Kiley Rose.md</code> · <code>brandi-jessica-key-profile.md</code> · <code>pandora-paige-key-profile.md</code></div>
+  </div></div>
+
+  <div class="panel" id="b5"><div class="phead b5"><div class="t">Branch 05 · Sabrina Bryna Key ♥ William</div><div class="m">Deaf + cerebral palsy matriarch; the Carlota kidnapping is the saga's central rescue arc.</div></div><div class="pbody">
+    <div class="meta"><span class="tag"><b>Deaf</b> + cerebral palsy (spastic diplegia) · ASL</span><span class="tag">U of T business management</span><span class="tag"><b>William:</b> SickKids pediatric oncologist / retinoblastoma specialist</span><span class="tag">Prior partner: Carlos Reyes</span></div>
+    <div class="ministrip"><div class="lbl">Carlota's arc</div><div style="flex:1"><div class="bar red"><div class="mk" style="left:0%"></div><div class="mk" style="left:24%"></div><div class="mk" style="left:40%"></div></div><div class="cap"><span>2053 born</span><span>2062 kidnapped (age 9)</span><span>2065 rescued · HIV+</span></div></div></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Carlota Delicia Key</div><div class="mt">b. 2053 · <span class="badge b-bio">Bio</span> · bio father <b>Carlos Reyes</b> · kidnapped to Tijuana age 9 (42 months) · HIV+ (undetectable on ART) · UCF Rosen → Walt Disney Imagineering</div><div class="row"><span class="partner">♥ Keith Holiday</span> <span style="font-size:11.5px;color:var(--muted)">(Imagineering; met at Everest Academy)</span></div></div></li>
+      <li><div class="node g3"><div class="nm">Taylor Raven Key</div><div class="mt">b. ~2061 · <span class="badge b-bio">Bio</span> (with William)</div></div></li>
+      <li><div class="node g3"><div class="nm">Roberta Katherine Key</div><div class="mt"><span class="badge b-bio">Bio</span> <span class="badge b-twin">Twin</span> of William Timothy Jr.</div></div></li>
+      <li><div class="node g3"><div class="nm">William Timothy Junior Key</div><div class="mt"><span class="badge b-bio">Bio</span> <span class="badge b-twin">Twin</span> of Roberta Katherine</div></div></li>
+      <li><div class="node g3"><div class="nm">Orin Lorin Junior</div><div class="mt"><span class="badge b-step">Nephew raised as own</span> · William's brother's son; parents died in a house fire</div></div></li>
+      <li><div class="node g3"><div class="nm">Sun-Young "Liz"</div><div class="mt"><span class="badge b-foster">Foster</span></div></div></li>
+    </ul>
+    <div class="note"><b>Cross-link:</b> Pandora Paige's secret Tijuana photograph → the rescue. William's retinoblastoma expertise also connects to nieces Brandi &amp; Pandora.</div>
+    <div class="top">Source: <code>Sabrina Bryna and William.md</code> · <code>Carlota Delicia/</code> · <code>Taylor Raven/</code></div>
+  </div></div>
+
+  <div class="panel" id="b6"><div class="phead b6"><div class="t">Branch 06 · Fallon Glenda Key ♥ Charlie</div><div class="m">Became a mother at 13 (Rio); Charlie's chosen fatherhood mirrors Mike's with Patti Anne.</div></div><div class="pbody">
+    <div class="meta"><span class="tag">Swimming &amp; horseback riding</span><span class="tag">Future physician · Stanford</span><span class="tag">Carlisle, ON → San Francisco</span><span class="tag">Met Charlie ~2049 (Fallon 16, Charlie 17)</span></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Lÿsa Mandy Key</div><div class="mt">b. Dec 1, 2046 · <span class="badge b-bio">Bio</span> <span class="badge b-step">Raised by Charlie</span> · bio father: predatory Rio swimming teacher (Fallon was 12) · Asperger's · Sacred Heart, SF</div></div></li>
+      <li><div class="node g3"><div class="nm">Rebecca Brazilia Key</div><div class="mt"><span class="badge b-bio">Bio</span> <span class="badge b-twin">Identical Twin</span> of Charlie Janya (b. ~2057, when Lÿsa ~11)</div></div></li>
+      <li><div class="node g3"><div class="nm">Charlie Janya Key</div><div class="mt"><span class="badge b-bio">Bio</span> <span class="badge b-twin">Identical Twin</span> of Rebecca Brazilia</div></div></li>
+      <li><div class="node g3"><div class="nm">Calida Dawn Key</div><div class="mt"><span class="badge b-bio">Bio</span> · youngest (b. ~2062, when Lÿsa ~16)</div></div></li>
+    </ul>
+    <div class="note"><b>Generational echo:</b> Mike (social father of Patti Anne) → Charlie (social father of Lÿsa Mandy). Charlie's funeral eulogy thanks Mike for teaching him how to be a father.</div>
+    <div class="top">Source: <code>Fallon Glenda and Charlie.md</code> · <code>Lÿsa Mandy/</code></div>
+  </div></div>
+
+  <div class="panel" id="b7"><div class="phead b7"><div class="t">Branch 07 · Andrea Jennifer Key</div><div class="m">Three sequential partners; one guardian child from a bereaved family's will.</div></div><div class="pbody">
+    <div class="meta"><span class="tag">Seventh sister · swimming, writing, guitar</span><span class="tag"><b>Partners:</b> Haden → Ignacio → Fachnan</span></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Emerald Ginger</div><div class="mt"><span class="badge b-bio">Bio</span> · father <b>Haden</b> (b. when Andrea 18, ~2052)</div></div></li>
+      <li><div class="node g3"><div class="nm">Racquel Rahiq</div><div class="mt"><span class="badge b-bio">Bio</span> · father Fachnan (Andrea 31)</div></div></li>
+      <li><div class="node g3"><div class="nm">Klaudia Bianca</div><div class="mt"><span class="badge b-guard">Guardianship</span> · bio parents died in a plane crash (Gulf of Mexico); their will named Andrea. Same age as Racquel.</div></div></li>
+      <li><div class="node g3"><div class="nm">Simeon Quade</div><div class="mt"><span class="badge b-bio">Bio</span> · father Fachnan (Andrea 32)</div></div></li>
+      <li><div class="node g3"><div class="nm">Quetzalxochitl Saima</div><div class="mt"><span class="badge b-bio">Bio</span> · father Fachnan (Andrea 33)</div></div></li>
+    </ul>
+    <div class="note"><b>Haden incident:</b> Haden mocked Ashley Erin → Andrea ended it; Mike threw Haden out of the mansion. (Ignacio ended at 24 when Andrea found him with another man.)</div>
+    <div class="top">Source: <code>Andrea Jennifer.md</code> · <code>emerald-ginger-profile.md</code></div>
+  </div></div>
+
+  <div class="panel" id="b8"><div class="phead b8"><div class="t">Branch 08 · Ashley Erin Key ♥ Georgi Dimitrov</div><div class="m">Youngest sister; transgender model/actor. Family built entirely through adoption.</div></div><div class="pbody">
+    <div class="meta"><span class="tag"><b>Transgender girl</b> (AMAB; birth name Mikkel James Junior)</span><span class="tag">Model &amp; actor (<i>This Land</i>); signed NYC agent at 7</span><span class="tag"><b>Georgi:</b> Bulgarian immigrant · NICU/pediatric nurse · met at Raya's birthday (~13/14)</span></div>
+    <ul class="tree">
+      <li><div class="node g3"><div class="nm">Jemahr Pierce &nbsp;/&nbsp; Mikkel James</div><div class="mt"><span class="badge b-adopt">Adopted</span> <span class="badge b-twin">Identical Twins</span> · newborns (age 33)</div></div></li>
+      <li><div class="node g3"><div class="nm">Hadleigh Patterson</div><div class="mt"><span class="badge b-adopt">Adopted</span> · age 4 (age 35) · shares bio mother with Britany &amp; Jordan</div></div></li>
+      <li><div class="node g3"><div class="nm">Britany Madelena</div><div class="mt"><span class="badge b-adopt">Adopted</span> · age 3 (age 35) · same bio mother</div></div></li>
+      <li><div class="node g3"><div class="nm">Jordan Lisa</div><div class="mt"><span class="badge b-adopt">Adopted</span> · newborn (age 37) · same bio mother, different bio father</div></div></li>
+    </ul>
+    <div class="note"><b>Matchmaker:</b> Raya — Georgi's cousin &amp; Ashley's <i>This Land</i> co-star — introduced them so the newly-arrived immigrant would know one person in Ontario.</div>
+    <div class="top">Source: <code>Ashley Erin and Georgi.md</code> · <code>ashley-erin-georgi-first-date-movie-scene-outline.md</code></div>
+  </div></div>
+
+  <div class="top" style="margin-top:14px;">Companion files in this folder: <code>FAMILY_TREE.html</code> (single master tree) · <code>FAMILY_TIMELINE.html</code> (date-driven ribbon) · <code>FAMILY_TREE.md</code> (editable Markdown).</div>
+</div>
+</body>
+</html>
