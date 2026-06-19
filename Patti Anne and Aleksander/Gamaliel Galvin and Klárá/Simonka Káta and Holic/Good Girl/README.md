@@ -23,7 +23,9 @@ This folder contains all scenes and profiles centered on **Good Girl (GG)**, the
 7. **gg-walks-out-to-the-doghouse-scene-outline.md**
 8. **simonka-tells-holic-about-confronting-patti-anne-and-aleksander-thursday-scene-outline.md** – Thursday follow-up: Simonka tells Holic she confronted Patti Anne and Aleksander
 9. **simonka-and-holic-undressed-in-the-mansion-thursday-night-scene-outline.md** – immediate aftermath: Simonka is with Holic in the mansion, gets undressed while the dog collar stays on permanently, then chooses to crawl to her bowls to eat
-10. **matthias-takes-gg-home-dog-cart-with-knuckles-scene-outline.md**
+11. **simonka-professor-recommendation-and-hard-red-no.md** – Friday evening: Simonka gets the professor recommendation, names pregnancy as her hard red no and explains that she would want a family only out of love; then another owner arrives with a pregnant pet and a male pet.
+12. **saturday-morning-after-pregnant-pet-and-male-pet-outline.md** – Saturday morning aftermath: Holic brings Simonka back from the run into warmth, confirms her hard red no, accepts responsibility for the supervision failure, and begins tightening rules around visiting pets.
+13. **matthias-takes-gg-home-dog-cart-with-knuckles-scene-outline.md**
 
 ### Club / Collective Scenes
 - **gg-session-outlines.md**
