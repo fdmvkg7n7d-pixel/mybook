@@ -115,6 +115,13 @@
 ### Conversation and Comfort
 - Patti Anne asks practical questions: *"Will Mommy's foot always hurt?"* *"Will the baby be okay?"* *"Can we have waffles every morning after something bad happens?"*
 - Mike answers honestly: *"Mommy's foot will get better but it might always be a little different. The doctor will check it on Monday. The baby is being watched by doctors. And yes, we can have waffles whenever we need them."*
+- A quiet moment settles over the bed. The girls are still, their syrup-sticky hands resting on the blanket. Terri Anne looks at each of them — her daughters, her husband, the baby inside her — and feels something close to peace.
+- Patti Anne, sitting cross-legged at the foot of the bed, looks at her mother with the serious, searching gaze she has worn since the kidnapping. She has been waiting for the right moment. She takes a breath and says, softly, almost to herself at first:
+  > *"For he shall give his angels charge over thee, to keep thee in all thy ways."*
+- The room stills. Terri Anne's eyes well up. She recognizes the verse — Psalm 91, the one about protection, about angels watching over you. She did not know Patti Anne had been memorizing scripture. She did not know her eight-year-old had been praying in a language she never taught her.
+- Mike reaches over and places his hand on Patti Anne's back. He does not say anything. The verse says everything.
+- Patti Anne, emboldened by their silence, adds quietly: *"Grandma taught it to me. She said God sends angels to keep us safe. I asked Him to send extra ones for you."*
+- Terri Anne opens her arms. Patti Anne crawls up the bed and folds into them. Terri Anne holds her, whispering into her hair: *"He did, my love. He sent all of you."*
 - Jessica and Rachel decide to save one blueberry each for Sabrina Bryna. They place the blueberries on Terri Anne's belly, over the place where the baby is growing. Terri Anne thanks them with a kiss.
 - Kiley Rose, full of waffle, climbs off Mike's lap and toddles over to Terri Anne. She pats the belly gently, then pats Terri Anne's hand. She has learned the new routine: be gentle with Mommy and the baby inside her.
 - Aldoma appears briefly in the doorway to check if anything is needed. Terri Anne waves her in. Aldoma brings a fresh pitcher of water and takes the empty juice glasses, then leaves again without intruding on the moment.

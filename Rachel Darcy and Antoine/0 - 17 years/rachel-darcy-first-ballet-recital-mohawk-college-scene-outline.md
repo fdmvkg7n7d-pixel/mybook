@@ -42,6 +42,7 @@ Can Rachel Darcy feel fully seen in her own performance, not only as Jessica Isa
 - Now it is Rachel Darcy’s turn to have a first-performance milestone.
 - Mike takes Rachel Darcy to her first ballet recital at Mohawk College.
 - Terri Anne stays home at the Carlisle mansion with the rest of their children, including **Kiley Rose**, who is **two years old** and too young to go to these competitions.
+- This Saturday, when the car pulls away, Kiley Rose turns to Terri Anne and says: *"Picnic?"* — the first time she has asked for it herself. Terri Anne laughs softly and takes her to the corner of the property again. On the quilt, Kiley Rose tries to stand and spin. She wobbles and says: *"Dancing is hard."* *(See `saturday-picnic-corner-of-property-scene-outline.md`.)*
 - This is important because Mike does not let Jessica’s gymnastics weekend overshadow Rachel’s ballet moment.
 
 ### 2. Getting Ready at the Mansion
@@ -60,12 +61,16 @@ Can Rachel Darcy feel fully seen in her own performance, not only as Jessica Isa
 - Mike tells Rachel that he will be watching from the audience.
 - He does not tell her to be perfect. He tells her to dance.
 
-### 4. Arrival at the Venue
-- Mohawk College feels big to Rachel Darcy.
-- The hallways, backstage area, audience seats, and stage make the recital feel official.
-- Rachel sees other dancers getting ready.
-- She compares herself quietly but does not say everything she feels.
-- Mike notices the nerves and keeps his support simple.
+### 4. Arrival at the Venue — The Corridor
+- Mohawk College feels big to Rachel Darcy. The hallways, backstage area, and stage make the recital feel official.
+- After checking in, Mike finds a quieter spot — a bench in a side corridor near a window, away from the bustle.
+- Rachel reaches into her dance bag. Beneath her ballet shoes is her small Bible.
+- She opens to Psalm 30, where her ribbon marker sits, and reads aloud:
+  > *“Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness.”*
+- She tells Mike the verse is about her — about the surgery, about learning to move in her own body, about dancing now.
+- Mike tells her: “When you go on that stage today, you are dancing the verse. You are showing everyone what it looks like when God turns mourning into dancing.”
+- She says: “I want to dance it for Him.”
+- *(Full scene developed in ‘rachel-darcy-mohawk-college-psalm-3011-scene-outline.md’)*
 
 ### 5. Backstage Waiting
 - Rachel waits with the other young dancers.

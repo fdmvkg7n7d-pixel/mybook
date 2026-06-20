@@ -46,6 +46,7 @@ Can Patti Anne, the oldest sister, let herself be the daughter who is supported,
   - Rachel Darcy’s first ballet recital at Mohawk College.
 - On the **next Saturday**, Mike takes Patti Anne to Vancouver for her rhythmic gymnastics competition.
 - Terri Anne stays home at the Carlisle mansion with the rest of their children, including **Kiley Rose**, who is **two years old** and too young to go to these competitions.
+- For the third Saturday in a row, Kiley Rose is waiting at the mudroom before Terri Anne gets there. She holds the basket with both hands and announces: *"Picnic!"* — not a question, a declaration. Terri Anne kneels and looks at her: *"Every Saturday they go, we go."* *(See `saturday-picnic-corner-of-property-scene-outline.md`.)*
 - Patti Anne knows she is the oldest, and part of her may feel she should be easier, calmer, and less needy than her younger sisters.
 - Mike does not treat her as an assistant parent. He treats her as his daughter.
 
@@ -75,13 +76,21 @@ Can Patti Anne, the oldest sister, let herself be the daughter who is supported,
 - This matters because she is the oldest sister and often sees other people’s needs first.
 - In Vancouver, the focus is allowed to be hers.
 
-### 5. Competition Morning
-- Patti Anne wakes up early and organizes herself.
-- She may be more outwardly composed than Jessica Isabella or Rachel Darcy were, but that does not mean she is not nervous.
-- Mike notices the nerves beneath the competence.
-- He reminds her that being prepared does not mean she has to stop being a child.
-- Possible line from Mike:
-  - “You don’t have to be the oldest today. You just have to be Patti Anne.”
+### 5. Competition Morning — The Bathtub
+- Patti Anne wakes early in the Vancouver hotel room. She cannot sleep anymore. The competition is waiting.
+- She slips out of bed quietly, grabs the small Bible from the nightstand — her own Bible, a gift from Terri Anne — and pads into the bathroom.
+- She runs a hot bath. Steam fills the room, fogging the mirror. She climbs in, letting the warmth settle her nerves.
+- Through the crack in the door, Mike wakes to find her bed empty. He sees the bathroom light on and walks over. He stops in the doorway.
+- She does not know he is there. She opens to Philippians 4 — the ribbon marker — and whispers the verse she has been practicing for weeks:
+  > *“I can do all things through Christ which strengtheneth me.”*
+- Mike’s voice from the doorway, low and gentle: *“Say it again.”*
+- She looks up. She reads it a third time, louder through the steam.
+- Patti Anne closes the Bible and says: *“I chose it because it doesn’t say I have to win. It just says I can do it. With Him.”*
+- Mike: *“That’s the right verse, Patti Anne. That’s the one.”*
+- He leaves her to finish her bath. Before disappearing: *“I’m proud of you. Not because of the competition. Because you know where your strength comes from.”*
+- She whispers to herself in the steam: *“I can do all things.”*
+- Then she pulls the plug and reaches for her leotard.
+- *(Full scene developed in ‘patti-anne-hotel-room-philippians-413-scene-outline.md’)*
 
 ### 6. Warm-Up
 - Patti Anne warms up with the other rhythmic gymnasts.

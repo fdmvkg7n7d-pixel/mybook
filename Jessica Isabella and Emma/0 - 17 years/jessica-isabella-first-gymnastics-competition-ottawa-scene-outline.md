@@ -36,6 +36,7 @@ Can Jessica Isabella learn that second place can still be something beautiful?
 ### 1. Traveling to Ottawa
 - Mike takes Jessica Isabella to Ottawa for her first gymnastics competition.
 - Terri Anne stays home at the Carlisle mansion with the rest of their children, including **Kiley Rose**, who is **two years old** and too young to go to these competitions.
+- While they are gone, Terri Anne notices Kiley Rose standing at the back door, watching the driveway where the car disappeared. She kneels beside her and asks if she wants to do something special — just the two of them. She packs a simple picnic and takes Kiley Rose to the far corner of the property, under the old maple. She tells her this is what big girls do. *(See `saturday-picnic-corner-of-property-scene-outline.md`.)*
 - Jessica is excited but nervous.
 - She may bring her leotard carefully folded in her bag.
 - Mike checks the schedule, directions, hotel details, and meal plans.
@@ -52,14 +53,17 @@ Can Jessica Isabella learn that second place can still be something beautiful?
 - He reminds her that preparation matters, but sleep is part of preparation.
 - Jessica falls asleep thinking about the apparatus, the judges, and the other girls.
 
-### 3. Competition Morning
-- Jessica wakes early.
-- Mike gets her breakfast and makes sure she has enough time to get ready.
-- The gym feels bigger and louder than practice.
-- Jessica sees other gymnasts stretching, warming up, and talking with their coaches.
-- She becomes quiet.
-- Mike notices but does not embarrass her by making too much of it.
-- He tells her, simply: “You belong here.”
+### 3. Competition Morning — At the Gym
+- Jessica wakes early. Mike gets her breakfast and makes sure she has enough time to get ready.
+- They arrive at the competition venue. The gym is huge — high ceilings, bright lights, the echo of feet pounding the spring floor. It feels bigger and louder than practice.
+- Jessica becomes quiet. Watchful. She takes it all in.
+- Mike leads her to a quiet corner near the parent seating. They sit on a bench.
+- Jessica unzips her gym bag. Instead of grips or her water bottle, she pulls out her small Bible — a gift from Terri Anne, just like her sisters have.
+- She opens it to 2 Timothy 1, her ribbon marker, and reads aloud:
+  > *“For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.”*
+- She closes the Bible and tells Mike: “I’m still scared. But the verse doesn’t say I won’t be scared. It says fear is not from Him. Power and love and a sound mind are from Him. So I already have them.”
+- Before she walks to the warm-up floor, she asks Mike to pray with her. She prays aloud herself: thanking God that He did not give her fear.
+- *(Full scene developed in ‘jessica-isabella-gym-2timothy-17-scene-outline.md’)*
 
 ### 4. First Events
 - Jessica performs with effort and concentration.
