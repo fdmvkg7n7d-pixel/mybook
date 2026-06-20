@@ -15,12 +15,12 @@ To explore the dynamics of group submission and sensory overload through a colle
 ## Narrative Beats
 
 ### 1. The Arrival and Positioning
-- **The Action:** A fellow club member arrives with six pets. There is a professional exchange of intentions between the two men.
+- **The Action:** A fellow club member arrives with ten pets. There is a professional exchange of intentions between the two men.
 - **The Process:** Holic leads GG into the squeeze chute first. He operates the levers to secure her while leaving just enough room for the guests.
 - **GG's State:** She is in her "Good Girl" mindset—still, receptive, and waiting.
 
 ### 2. The Collective Squeeze
-- **The Action:** One by one, the six guest pets are guided into the chute with GG.
+- **The Action:** One by one, the ten guest pets are guided into the chute with GG.
 - **The Physicality:** The space becomes a tight, overlapping tangle of fur, warmth, and scent.
 - **The Final Lock:** Holic operates the final levers, locking all seven animals together in a single, immobile mass of living warmth.
 - **The Mood:** The cold silence of the shed is replaced by the rhythmic, synchronized breathing of seven animals in a state of total surrender.
@@ -51,7 +51,7 @@ To explore the dynamics of group submission and sensory overload through a colle
 
 ---
 
-# Expanded Canon Pass — Holic Places GG in the Thing with Six Pets
+# Expanded Canon Pass — Holic Places GG in the Thing with Ten Pets
 
 ## Core Image
 Holic has placed GG in **the thing** — the heavy squeeze-chute apparatus in the equipment shed. Six other pets are brought in around her. GG becomes the center of the arrangement: not because she is loud or active, but because she is the one who knows how to become still.
@@ -59,17 +59,17 @@ Holic has placed GG in **the thing** — the heavy squeeze-chute apparatus in th
 The scene should treat the apparatus as strange, industrial, and almost too practical: metal rails, levers, hinges, rubber matting, old farm-equipment logic repurposed for Holic's world. The word *thing* can be preserved in GG's perception if desired: she does not think of it as a technical object; she thinks of it as *the thing Holic puts her in when he wants stillness from her*.
 
 ## Refined Setup
-- Holic brings GG into the equipment shed before the six pets arrive.
+- Holic brings GG into the equipment shed before the ten pets arrive.
 - He does not hurry her.
 - The squeeze chute is already open, waiting.
 - GG recognizes it by smell and sound before she is inside it: metal, disinfectant, old hay/dust, oil, leather, the echo of previous sessions.
 - Holic touches the side of the apparatus, then gives the command or gesture that tells GG to enter.
 - GG obeys and steps/crawls into the thing.
 - Holic secures her first.
-- This matters: she is not added to the six. The six are added to her.
+- This matters: she is not added to the ten. The six are added to her.
 
-## The Six Pets
-The six pets should feel like a group without needing detailed backstories for each. They can be distinguished by small sensory or behavioral details:
+## The Ten Pets
+The ten pets should feel like a group without needing detailed backstories for each. They can be distinguished by small sensory or behavioral details:
 
 1. **The nervous one** — breathes too fast at first.
 2. **The heavy one** — settles with weight and trust.
@@ -99,14 +99,14 @@ GG's role is to anchor them. She does not command them. She simply becomes still
 - If Simonka's awareness flickers beneath GG, it can note the psychology of it: pressure narrowing choice until quiet becomes the easiest path.
 - The prose should not over-explain. Let the body understand before the mind does.
 
-### Beat 3 — The Six Pets Arrive
-- The guest member or handlers bring the six pets into the shed.
+### Beat 3 — The Ten Pets Arrive
+- The guest member or handlers bring the ten pets into the shed.
 - The shed changes immediately: more breathing, more heat, more movement, more uncertainty.
-- The six pets notice GG already secured in the chute.
+- The ten pets notice GG already secured in the chute.
 - Holic stands near GG, making clear that she is the center and that nothing happens until he permits it.
 
 ### Beat 4 — One by One
-- Holic and the handlers add the six pets one at a time.
+- Holic and the handlers add the ten pets one at a time.
 - Each addition changes the pressure inside the thing.
 - GG absorbs the changes without panic.
 - The nervous pet breathes too fast until the rhythm of GG's breathing gives it something to follow.
@@ -115,9 +115,9 @@ GG's role is to anchor them. She does not command them. She simply becomes still
 - Holic watches GG closely, not the others. His attention stays on whether she is holding.
 
 ### Beat 5 — Seven Bodies, One Stillness
-- When the sixth pet is added, Holic closes the final lever.
+- When the tenth pet is added, Holic closes the final lever.
 - The thing becomes complete.
-- Seven pets are held together in one narrow, immobile space.
+- Eleven pets are held together in one narrow, immobile space.
 - No graphic action is needed. The intensity is sensory and psychological: breath, heat, pressure, stillness, the loss of individual space.
 - The scene's power is in the collective quiet.
 - GG becomes the center of gravity because she does not tremble.
@@ -133,15 +133,15 @@ GG's role is to anchor them. She does not command them. She simply becomes still
 
 ### Beat 7 — The Offer Begins to Form
 - The guest member watches GG's stillness and begins to think commercially.
-- The six pets are part of the demonstration, but GG is the point.
-- The proposal about a puppy can grow naturally from this moment: if GG can steady six pets in a chute, then a puppy from her becomes something the guest member imagines as valuable.
+- The ten pets are part of the demonstration, but GG is the point.
+- The proposal about a puppy can grow naturally from this moment: if GG can steady ten pets in a chute, then a puppy from her becomes something the guest member imagines as valuable.
 - The scene can end before the full offer, or flow directly into the existing fifty-thousand-dollar puppy offer.
 
 ### Beat 8 — Four Hours Later: Holic Lets Good Girl Go
-- **Four hours later**, Holic lets **Good Girl** go because the six pets are finished.
+- **Four hours later**, Holic lets **Good Girl** go because the ten pets are finished.
 - The length matters. This was not a brief demonstration; Good Girl has held the center of the thing for four hours.
 - Holic opens the thing slowly, in reverse order.
-- The six pets are removed first because they are finished.
+- The ten pets are removed first because they are finished.
 - Good Girl remains until last.
 - This mirrors the beginning: she was placed first and released last.
 - When Holic finally opens Good Girl's panel, he gives her a quiet praise:
@@ -152,7 +152,7 @@ GG's role is to anchor them. She does not command them. She simply becomes still
 ## Tone Notes
 - Keep the scene non-graphic and focused on pressure, obedience, trust, and the ethics of being watched.
 - The apparatus should feel industrial and real, not decorative.
-- The six pets should make the scene crowded, hot, and alive, but not chaotic once GG anchors them.
+- The ten pets should make the scene crowded, hot, and alive, but not chaotic once GG anchors them.
 - Holic's control should be calm and technical.
 - GG's experience should be embodied: breathing, pressure, metal sounds, heat, the gradual disappearance of room.
 - The emotional question underneath: is GG being cared for, displayed, used, or all three at once?
@@ -179,7 +179,7 @@ This expanded pass can connect directly to:
 # Same Day Addition — Simonka Káta's Professor Shows Up
 
 ## Core Canon
-On **this same day**, while Holic has placed GG in the thing with the six pets, **Simonka Káta's professor / thesis advisor shows up**.
+On **this same day**, while Holic has placed GG in the thing with the ten pets, **Simonka Káta's professor / thesis advisor shows up**.
 
 This is the first time the academic world does not merely hear about GG in an office. It physically arrives at Holic's property and sees the reality Simonka has been trying to translate into research language.
 
@@ -187,7 +187,7 @@ This is the first time the academic world does not merely hear about GG in an of
 
 ## Placement
 - The professor's arrival happens during the squeeze-chute day.
-- Best timing: **after GG has already been placed in the thing and after at least some of the six pets have been added**, so the professor arrives into the middle of the fact, not before it can be softened or explained away.
+- Best timing: **after GG has already been placed in the thing and after at least some of the ten pets have been added**, so the professor arrives into the middle of the fact, not before it can be softened or explained away.
 - Holic knows the professor may come, or at least knows Simonka has disclosed enough that academic verification is possible. But the professor's exact timing can still feel disruptive.
 - GG does not immediately understand who has arrived. She is in GG-form, inside the thing, focused on stillness.
 
@@ -201,7 +201,7 @@ This is the first time the academic world does not merely hear about GG in an of
 - The sound is ordinary and therefore jarring: tires on gravel, a car door, formal shoes on an estate path.
 - The professor is dressed for university life, not Holic's equipment shed: jacket, notebook, perhaps a leather bag. He looks out of place immediately.
 - A staff member or handler brings him toward Holic.
-- He expected to inspect bylaws, speak to Holic, perhaps see facilities. He did not expect the first image to be GG inside the thing with six pets.
+- He expected to inspect bylaws, speak to Holic, perhaps see facilities. He did not expect the first image to be GG inside the thing with ten pets.
 
 **Placement Update:** This visit happens on **Wednesday**.
 
@@ -219,7 +219,7 @@ This is the first time the academic world does not merely hear about GG in an of
 - He recognizes that the person inside the role is his student, Simonka Káta.
 - This should be written with restraint. The professor does not stare crudely, and the narration should not make spectacle of GG.
 - His academic mind tries to categorize what he is seeing: apparatus, restraint, role-state, group regulation, consent structure, observer effect.
-- But underneath the academic mind is the human shock: his student is there, held in metal, anchoring six other pets through stillness.
+- But underneath the academic mind is the human shock: his student is there, held in metal, anchoring ten other pets through stillness.
 
 ### Beat D — GG Becomes Aware of the Professor
 - GG may hear a voice she knows from Charles University.
@@ -230,8 +230,8 @@ This is the first time the academic world does not merely hear about GG in an of
   - Both facts are true at once.
 - She does not break position. That is the point. GG holds.
 
-### Beat E — The Six Pets and the Academic Witness
-- The six pets remain in the thing with GG.
+### Beat E — The Ten Pets and the Academic Witness
+- The ten pets remain in the thing with GG.
 - The professor witnesses the collective stillness, not as a fantasy or a claim in Simonka's office, but as a functioning practice.
 - He can see that GG is not incidental. She is regulating the others.
 - Holic may quietly explain:
@@ -245,13 +245,13 @@ This is the first time the academic world does not merely hear about GG in an of
   - location: Holic's equipment shed,
   - apparatus: squeeze-chute / restraint structure,
   - subject observed: GG / Simonka Káta in role-state,
-  - six other pets present,
+  - ten other pets present,
   - Holic supervising directly,
   - handlers present / not present as applicable,
   - observed collective stillness,
   - GG functioning as regulatory anchor for the group,
   - duration: four hours before Holic lets Good Girl go,
-  - release condition: the six pets are finished,
+  - release condition: the ten pets are finished,
   - safeword / stop-signal procedure described,
   - concern: safeword availability complicated by GG's desire to please Holic,
   - Holic's response: he does not rely only on the safeword; he watches her body and takes responsibility.
@@ -271,7 +271,7 @@ This is the first time the academic world does not merely hear about GG in an of
   - what signs count as distress,
   - how the apparatus is opened,
   - what happens if GG signals or safewords,
-  - whether the six other pets can be removed quickly,
+  - whether the ten other pets can be removed quickly,
   - and what Holic does when GG is trying to endure because she wants to please him.
 - This keeps the professor from becoming a passive witness. He is evaluating safety, but also agency under pressure.
 
@@ -291,7 +291,7 @@ This is the first time the academic world does not merely hear about GG in an of
 
 ### Beat H2 — Safewords vs. Pleasing Holic
 - The professor's concern sharpens when he understands the distinction between **available safewords** and **usable safewords**.
-- GG can stop. The mechanism exists. Holic can open the thing. The handlers can remove the six pets. There is a procedure.
+- GG can stop. The mechanism exists. Holic can open the thing. The handlers can remove the ten pets. There is a procedure.
 - But GG wants to please Holic.
 - That desire changes the ethical landscape. It does not automatically erase consent, but it makes consent more complicated than a rule printed in bylaws.
 - The professor may ask:
@@ -312,11 +312,11 @@ This is the first time the academic world does not merely hear about GG in an of
 - This becomes evidence — not in a courtroom, but in the professor's evaluation of the Collegium's ethics.
 
 ## Four Hours Later — Release Witnessed / Recorded
-- Four hours after Holic placed Good Girl in the thing with the six pets, the six pets are finished.
-- Holic lets Good Girl go only after the six pets are finished.
+- Four hours after Holic placed Good Girl in the thing with the ten pets, the ten pets are finished.
+- Holic lets Good Girl go only after the ten pets are finished.
 - This timing should be recorded by the professor because it matters for the committee: duration, endurance, supervision, and release procedure.
 - The professor writes the time down. Four hours is not incidental.
-- Holic removes or has handlers remove the six pets first.
+- Holic removes or has handlers remove the ten pets first.
 - Good Girl remains in the thing until the end, still holding position.
 - The release is careful and procedural, not celebratory.
 - Holic opens the side for Good Girl and gives her room to come back into movement.
@@ -325,13 +325,13 @@ This is the first time the academic world does not merely hear about GG in an of
 - Or, softer, after she has managed the first movement:
   - **"Good Girl. You held them."**
 - The professor notes that Holic praises her after release and watches her condition closely.
-- If the professor has concerns, this is where he records them too: Good Girl had safewords, but she did not use them; she wanted to please Holic; Holic released her when the six pets were finished, not when she asked. The ethical ambiguity remains part of the record.
+- If the professor has concerns, this is where he records them too: Good Girl had safewords, but she did not use them; she wanted to please Holic; Holic released her when the ten pets were finished, not when she asked. The ethical ambiguity remains part of the record.
 
 ## After Release — Simonka / Good Girl Shows Her Professor Around the Mansion
 - After Holic lets Good Girl go, she is given enough time to come back from the four-hour stillness.
 - Depending on the scene's exact handling, Holic may remove the collar or otherwise allow the register to shift enough that she can function as **Simonka Káta** again while still carrying Good Girl's physical aftermath in her body.
 - **She shows her professor around the mansion.**
-- This is part of the professor's verification process. He has seen the most extreme/embodied version first — the thing, the six pets, the four-hour stillness — and now Simonka shows him the structure around it.
+- This is part of the professor's verification process. He has seen the most extreme/embodied version first — the thing, the ten pets, the four-hour stillness — and now Simonka shows him the structure around it.
 - The tour should not feel like a glamorous house tour. It is a verification walk through the spaces that make GG's life possible.
 
 ### Spaces Simonka Shows Him
@@ -451,7 +451,7 @@ This is the first time the academic world does not merely hear about GG in an of
 - **She is busy with Bruno for the next two hours.**
 - This should be rendered in the saga's established restrained style: clear that an adult human-pet sexual encounter continues, but without act-by-act pornographic detail.
 - The duration matters. This is not a brief demonstration for the professor. It becomes part of the day's structure:
-  - four hours in the thing with the six pets,
+  - four hours in the thing with the ten pets,
   - release and mansion tour,
   - then two hours busy with Bruno in the run.
 - Bruno's role as a human pet and as the figure connected to the puppy proposal becomes impossible to keep abstract.
@@ -524,7 +524,7 @@ The professor should not become melodramatic. His reaction should be disciplined
 - **Professor:** "Can she stop this?"
 - **Holic:** "Yes. And I will show you exactly how."
 - **Professor:** "Not generally. Now. If she needed to stop now, what happens?"
-- **Holic:** "Then the six come out first if needed, the side opens, and GG is released. No discussion. No penalty."
+- **Holic:** "Then the ten come out first if needed, the side opens, and GG is released. No discussion. No penalty."
 - **Professor:** "And if she does not use the safeword because she wants to please you?"
 - **Holic:** "Then I do not get to hide behind the safeword. I watch her. If her body says stop before her mouth does, I stop it."
 - **Holic:** "The safeword is hers. The responsibility is mine too."
@@ -547,7 +547,7 @@ The professor should not become melodramatic. His reaction should be disciplined
 - Advances the advisor's verification process from an open item to an embodied scene.
 - Adds a powerful witness to the squeeze-chute / six-pets / puppy-offer day.
 - Gives the professor firsthand evidence of both Holic's control and GG's agency — or at least the difficult ambiguity between them.
-- Establishes that the professor's committee report/meeting will include notes from this direct observation, including the four-hour duration and the fact that Holic lets Good Girl go once the six pets are finished.
+- Establishes that the professor's committee report/meeting will include notes from this direct observation, including the four-hour duration and the fact that Holic lets Good Girl go once the ten pets are finished.
 - Adds the mansion tour as part of the professor's verification process: Simonka / Good Girl shows him the household spaces, routines, safeguards, Bruno in the run, and role-boundaries that the committee will need to understand.
 - Establishes that the professor thinks Simonka's work could become a very excellent thesis, provided the ethical and methodological safeguards are strong enough.
 - Adds that after the mansion tour, Good Girl is busy with Bruno for the next two hours, making Bruno's role and the puppy proposal even more concrete for the professor's committee notes.
