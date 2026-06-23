@@ -33,6 +33,12 @@
 - **The dancer's wisdom:** Rachel Darcy speaks quietly over the sound of the brushing. *"It's still your body, Fallon. It's doing something incredibly hard right now, but it's yours. It hasn't forgotten how to be strong."*
 - **The emotional breaking point:** The physical act of standing there, combined with Rachel Darcy's fierce validation, causes something in Fallon to snap. She drops the brush into the dirt. She places both hands over her face, suddenly overwhelmed by the sheer, crushing exhaustion of being at war with her own physical form for months. 
 - **The physical anchor:** Rachel Darcy crosses the aisle instantly. She wraps her strong, athletic arms around Fallon in a crushing, grounding hug. Rachel Darcy presses her cheek against the top of Fallon's head. *"I've got you,"* Rachel Darcy whispers fiercely. *"You don't have to carry it all right now. Lean on me."*
+- **The Bible quote:** Rachel Darcy is not the sister who usually reaches first for words, but here she remembers the verse Patti Anne used in the sunroom and lets it become physical:
+
+  > *"Bear ye one another's burdens, and so fulfil the law of Christ."*  
+  > — **Galatians 6:2**
+
+  Rachel Darcy says it against Fallon's hair, then translates it into the language Fallon needs in the stables: *"That means you can put some of the weight on me. Right now. Literally. Lean."*
 - **The physical truth:** Fallon lets out a ragged sob and collapses her weight entirely into her older sister. Rachel Darcy holds her up effortlessly. For a long, quiet moment in the stables, Fallon finally stops trying to be strong, allowing her older sister to be strong for her.
 
 ## 5. The Closing Image

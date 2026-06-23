@@ -47,7 +47,8 @@ This repository folder contains the core profiles and milestone scene outlines f
 
 ### Daughters
 
-- **Lÿsa Mandy Key** — eldest daughter; born on **December 1, 2046**, when Fallon Glenda was exactly **thirteen years old** (sharing her mother's birthday). 
+- **Lÿsa Mandy Key** — eldest daughter; born on **December 1, 2046**, when Fallon Glenda was exactly **thirteen years old** (sharing her mother's birthday).
+  - **Fallon's Nickname for Her:** **“my giraffe”** — a private, tender nickname that begins with the soft toy giraffe Fallon brings to McMaster on Christmas Day, when she is first allowed to hold Lÿsa Mandy.
   - **Neurodivergence:** Lÿsa Mandy has Asperger Syndrome. 
   - **Motherhood & Nursing:** Fallon and Lÿsa share an incredibly close, grounding bond. Fallon practiced extended breastfeeding, still nursing Lÿsa Mandy when she is three years old. 
   - **The Rio de Janeiro Years:** Mike and Terri Anne's family was living in **Rio de Janeiro, Brazil** when twelve-year-old Fallon Glenda became pregnant.

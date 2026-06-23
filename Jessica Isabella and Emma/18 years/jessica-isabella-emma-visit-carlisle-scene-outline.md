@@ -26,7 +26,13 @@
 - **The apology:** Fallon looks at her older sister. The weight of having her adult sisters fly all the way from Halifax just for her surfaces. *"I'm sorry,"* Fallon says quietly. *"I'm sorry everyone has to do this for me."*
 - **The decree:** Jessica Isabella crosses the room instantly. True to the promise she made in Halifax, she does not let the apology stand. She stops in front of Fallon, her voice hard, absolute, and full of love.
 - *"Stop,"* Jessica Isabella says. *"Do you hear me? You do not apologize. Ever. Not to me, not to Dad, not to anyone. You didn't do this. You survived it."*
-- **The shared history:** Jessica Isabella takes Fallon’s hands. She knows what it feels like to be a burden—she felt it for years with her burns and medical needs. She tells Fallon that the family is not inconvenienced by her; the family exists *for* her. 
+- **The shared history:** Jessica Isabella takes Fallon’s hands. She knows what it feels like to be a burden—she felt it for years with her burns and medical needs. She tells Fallon that the family is not inconvenienced by her; the family exists *for* her.
+- **The Bible quote:** Emma, sitting close enough to be heard but not taking the moment away from Jessica Isabella, adds the same verse Patti Anne has already given Fallon — making it a repeated family refrain rather than a one-time comfort:
+
+  > *"Bear ye one another's burdens, and so fulfil the law of Christ."*  
+  > — **Galatians 6:2**
+
+  Emma says softly, *"That does not mean you become the burden, Fallon. It means the thing is heavy, so we all put our hands under it. That is what Christ asks us to do for each other."* Jessica Isabella squeezes Fallon's hands and adds, *"And if shame tries to tell you to carry it alone, shame is lying."*
 
 ## 4. The Exhale
 

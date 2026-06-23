@@ -21,6 +21,12 @@
 - **The interception:** True to the older sisters' unspoken agreement, Patti Anne does not offer pity, and she does not let Fallon apologize. When Fallon looks up, looking fragile, Patti Anne just sits next to her.
 - **Gamaliel's role:** Patti Anne places one-year-old Gamaliel on the rug near Fallon's feet. Gamaliel, entirely unaware of the trauma in the room, babbles and offers Fallon a toy block. Fallon takes it. The simple, uncomplicated presence of a toddler demands a normal reaction, grounding Fallon in the present moment.
 - **The unspoken promise:** Patti Anne puts her hand on Fallon's shoulder. *"We're here. Whatever you need, whenever you need it."* Fallon nods. Patti Anne leaves it at that, knowing Fallon is too exhausted for a deep conversation.
+- **The Bible quote:** Before Patti Anne leaves the sunroom, Fallon starts to say something that sounds dangerously close to another apology — something about everyone having to change their lives because of her. Patti Anne stops it gently, but immediately. She takes Fallon's hand and gives her the verse as a family promise, not a sermon:
+
+  > *"Bear ye one another's burdens, and so fulfil the law of Christ."*  
+  > — **Galatians 6:2**
+
+  Patti Anne explains it simply: *"That means this is not yours to carry by yourself. Not the fear. Not the appointments. Not the baby. We carry it with you because we love you."* Fallon does not answer with anything big. She only nods, still holding Gamaliel's toy block in one hand and Patti Anne's fingers in the other.
 
 ## 3. The Conversation with Mike
 

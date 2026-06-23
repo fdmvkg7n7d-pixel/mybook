@@ -35,7 +35,33 @@ The family is living in Rio de Janeiro. Twelve-year-old Fallon Glenda, normally 
 *   Mike, the wealthiest man in the world who normally moves global markets quietly, lets his daughter see the full force of his protection. He promises her two things:
     1.  That she will never have to face that man again. (This foreshadows his immediate call to his global security and the OPP to ensure the teacher is arrested and imprisoned).
     2.  That this family will never, ever let her hide in shame. They will wrap around her, and they will walk through this together.
-*   Terri Anne kisses her forehead, promising that they love her unconditionally and that the baby, when born, will be loved just as fiercely. 
+*   Terri Anne kisses her forehead, promising that they love her unconditionally and that the baby, when born, will be loved just as fiercely.
+
+**The Scripture Moment:**
+*   Because the Key family is Catholic, the comfort is allowed to become explicitly spiritual — but never in a way that excuses what happened, rushes Fallon toward acceptance, or makes her feel responsible. The Bible verses are used as shelter, not explanation.
+*   Terri Anne, still holding Fallon, reaches for the small family Bible/rosary book on the bedside table. She does not preach. She does not make Fallon pray out loud. She simply says, *"When your heart is broken, God comes close. He does not move away from you."*
+*   The first verse spoken is the one that belongs most directly to Fallon's pain:
+
+    > *"The LORD is nigh unto them that are of a broken heart."*  
+    > — **Psalm 34:18**
+
+*   Mike then adds the promise he wants Fallon to hear from both her father and her faith:
+
+    > *"Fear thou not; for I am with thee."*  
+    > — **Isaiah 41:10**
+
+*   Terri Anne follows with a verse that names Fallon's exhaustion without asking her to be strong:
+
+    > *"Come unto me, all ye that labour and are heavy laden, and I will give you rest."*  
+    > — **Matthew 11:28**
+
+*   The final verse is handled with extra care. Terri Anne does not use it to make the pregnancy sound simple or happy. She uses it only to separate Fallon's innocence from the violence done to her, and to affirm that the child she is carrying will be loved without making Fallon carry adult-sized feelings in that moment:
+
+    > *"For thou hast possessed my reins: thou hast covered me in my mother's womb. I will praise thee; for I am fearfully and wonderfully made."*  
+    > — **Psalm 139:13–14**
+
+*   Fallon does not have to respond with faith, certainty, or gratitude. She only has to be held. If she says anything, it is very small — perhaps, *"I don't feel brave,"* and Mike answers, *"You don't have to. We will be brave around you until you can breathe."*
+*   The moment ends with Terri Anne making the sign of the cross over Fallon's forehead and whispering, *"God is close to you, sweetheart. So are we."*
 
 ## WHY THIS SCENE MATTERS
 *   It is the emotional anchor for Fallon's entire pregnancy arc. It establishes *why* Fallon is able to survive this trauma and eventually raise Lÿsa Mandy (with Charlie) with such strength.
