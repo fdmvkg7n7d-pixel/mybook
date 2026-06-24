@@ -105,7 +105,14 @@
 
 ## 5. Christmas Day — Catherine in the Background
 
-- **The city:** They spend Christmas Day gently. No overpacked schedule. Maybe a walk, a simple meal, video calls to the Key family, and time in the hotel room.
+- **The city:** They spend Christmas Day gently. No overpacked schedule. Maybe a walk, a simple meal, time in the hotel room, and a call to the wider Key family.
+- **The Terri Anne call:** Jessica Isabella and Emma call **Terri Anne** on Christmas Day, with **Samira Chaka** and **Sahara Hannan** each wanting a turn to wish their grandmother a **Merry Christmas**.
+- **The call's emotional function:** It lets Vancouver fold into the wider family holiday while keeping the day gentle. Terri Anne hears her daughter, daughter-in-law, and granddaughters from one branch of the family before or around hearing from Kiley Rose and her girls in Natal.
+- **Possible texture on the call:**
+  - Samira says Merry Christmas loudly and immediately.
+  - Sahara waits for her turn and says it more softly, but with intense seriousness.
+  - Terri Anne asks after all four of them.
+  - **Rachel Darcy and Antoine have called Terri Anne too**, so Terri Anne may pass along their love or mention that another branch of the family has already checked in.
 - **The girls ask:** At some point, one of the twins asks about visiting Grandma Catherine tomorrow.
 - **Emma's reaction:** The word *Grandma* catches in Emma. Catherine never got to be a grandmother in life. Hearing Samira and Sahara use the word makes the loss and the love arrive together.
 - **Emma answers:**
@@ -113,6 +120,38 @@
   *"Yes. Tomorrow. Boxing Day."*
 
 - **Jessica's hand:** Jessica reaches for Emma's hand under the table or beside the girls' coats. Emma lets her.
+
+### Sample phone-call snippet
+
+> **Terri Anne:** "Merry Christmas, my loves. Let me hear my girls."
+>
+> **Samira:** "Merry Christmas, Grandma! We're in Vancouver!"
+>
+> **Terri Anne:** "I can hear that in your voice. Are you having a beautiful day?"
+>
+> **Samira:** "Yes, and we jumped on the bed and Mama pretended we crushed her."
+>
+> **Jessica, laughing in the background:** "I did not pretend very much."
+>
+> **Sahara:** "Grandma? Merry Christmas."
+>
+> **Terri Anne:** "Merry Christmas, sweetheart. I was waiting for your turn."
+>
+> **Sahara:** "We want to see Grandma Catherine tomorrow."
+>
+> **Terri Anne:** "I know, baby. She would be very proud of all of you."
+>
+> **Emma:** "Merry Christmas, Terri Anne."
+>
+> **Terri Anne:** "Merry Christmas, darling. How are you holding up?"
+>
+> **Emma:** "I'm okay. Better because they're excited."
+>
+> **Terri Anne:** "Rachel and Antoine rang too. They wanted me to tell all of you Merry Christmas."
+>
+> **Samira:** "Tell Auntie Rachel and Antoine we said it back!"
+>
+> **Terri Anne:** "I will. We'll talk again tomorrow if you want. Just be together today."
 
 ---
 

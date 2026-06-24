@@ -51,6 +51,21 @@ Mike is by the door or the window, watching. He sees his thirteen-year-old daugh
 ### Beat 6 — The Conclusion
 Fallon leans her forehead against Lÿsa Mandy’s. The baby falls asleep while nursing, anchored to her mother. The transition is complete.
 
+### Beat 7 — The Doctors Tell Fallon She Can Take Lÿsa Home in the Morning
+After seeing that Lÿsa Mandy has finally nursed well and settled, the doctors tell Fallon that if the baby remains stable overnight, **she can take her home the next morning**.
+
+- The announcement should land with stunned quiet before emotion.
+- Fallon has spent weeks living between monitors, tubes, pumping schedules, and visiting hours. Hearing the words *take her home* feels almost unreal.
+- The doctors frame it carefully and clinically — not sentimentally, but with unmistakable kindness. Lÿsa Mandy has done the work. Fallon has done the work. The overnight observation is the last step.
+- Fallon realizes that the west wing at Carlisle is no longer only a promise or a Christmas present. It is about to become Lÿsa Mandy's actual home.
+- Mike, hearing the doctors say it aloud, understands that the long McMaster chapter is finally ending.
+
+Possible line from the doctor:
+
+> *"If she stays like this tonight, Fallon, you can take your daughter home tomorrow morning."*
+
+- The discharge follow-through belongs in `lysa-mandy-goes-home-from-mcmaster-scene-outline.md`.
+
 ---
 
 ## Key Dialogue Possibilities

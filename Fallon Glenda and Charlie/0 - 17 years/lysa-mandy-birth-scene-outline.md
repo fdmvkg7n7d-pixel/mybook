@@ -39,7 +39,7 @@ This scene documents the arrival of **Lÿsa Mandy Key** at McMaster Children's H
 
 - Lÿsa Mandy remains at McMaster for **two months** (December and January).
 - **The Context of the Tube:** McMaster Hospital is already providing donor milk to Lÿsa Mandy through a nasogastric (NG) tube because her stomach is too small to handle direct nursing. Fallon watches the "hospital milk" go through the tube and feels a desperate need to provide her own.
-- **The First Nursing (Mid-January 2047):** Six weeks after birth, Lÿsa Mandy is cleared for direct nursing. Fallon successfully nurses her for the first time, marking the end of the tube-feeding and milking-machine era. Fallon cries during the session—a release of the trauma and the exhaustion of the hospital stay. *(See `the-first-nursing-milestone-outline.md` and `the-first-nursing-milestone-prose.md`.)*
+- **The First Nursing (Mid-January 2047):** Six weeks after birth, Lÿsa Mandy is cleared for direct nursing. Fallon successfully nurses her for the first time, marking the end of the tube-feeding and milking-machine era. Fallon cries during the session—a release of the trauma and the exhaustion of the hospital stay. After this milestone, the doctors tell Fallon that if Lÿsa Mandy remains stable overnight, **she can take her home the next morning**. *(See `the-first-nursing-milestone-outline.md` and `the-first-nursing-milestone-prose.md`.)*
 
 ### 4. Christmas Day in the Ward (2046)
 
@@ -49,8 +49,9 @@ This scene documents the arrival of **Lÿsa Mandy Key** at McMaster Children's H
 
 ### 5. The Closing Image — Going Home
 
-- The scene ends with a flash-forward or a concluding beat in late January: the day Lÿsa Mandy is finally released from McMaster.
-- Mike carries the car seat out to the SUV, with Fallon walking beside him, finally bringing her daughter to the Carlisle mansion.
+- The scene ends with a flash-forward or a concluding beat: the day Lÿsa Mandy is finally released from McMaster.
+- The doctors' overnight-clearance promise is fulfilled, and Mike carries the car seat out to the SUV, with Fallon walking beside him, finally bringing her daughter to the Carlisle mansion.
+- The full discharge/homecoming beat continues in `lysa-mandy-goes-home-from-mcmaster-scene-outline.md`.
 
 ---
 
