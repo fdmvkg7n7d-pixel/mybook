@@ -203,6 +203,8 @@ This is the first time the academic world does not merely hear about GG in an of
 - A staff member or handler brings him toward Holic.
 - He expected to inspect bylaws, speak to Holic, perhaps see facilities. He did not expect the first image to be GG inside the thing with ten pets.
 
+**Placement Update:** This visit happens on **Wednesday**.
+
 ### Beat B — Holic Receives Him Without Apology
 - Holic does not scramble to hide anything.
 - He acknowledges the professor calmly.

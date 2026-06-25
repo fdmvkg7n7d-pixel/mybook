@@ -73,9 +73,49 @@
 - Following the recall and grounding reassurance, Holic does not return GG to the limousine for the drive back to the mansion.
 - Instead, Holic guides Good Girl by the show lead along a shaded, private gravel path leading directly away from the member's park toward **the arena** — the towering, converted agricultural exhibition hall at the center of the Collegium complex where the annual human pet show (the *Concursus*) is staged.
 - GG crawls steadily beside Holic's polished boots, her forward sightline framed by the white plastic cone.
-- As the heavy double doors of the arena swing open, the acoustic environment shifts instantly from outdoor breezes to cavernous indoor silence. Inside the arena lie pristine packed dirt rings, tiered wooden spectator stands, elevated judging platforms, and large indoor holding pens.
+- Before they reach the arena doors, Holic stops. He crouches beside her and reaches for the straps of the cone. Without a word, he unfastens it and lifts it free.
+- GG blinks as the light hits her full field of vision for the first time in hours. The air moves across her cheeks, her ears. She does not raise her head, but she breathes.
+- Holic carries the cone back to the limousine parked at the edge of the grounds, opens the trunk, and places it inside. Then he returns, collects her show lead, and continues toward the arena.
+- They approach the heavy double doors without the cone. GG crawls forward, her sight unrestricted, the full scale of the building growing before her.
+- As the doors swing open, the acoustic environment shifts instantly from outdoor breezes to cavernous indoor silence. Inside the arena lie pristine packed dirt rings, tiered wooden spectator stands, elevated judging platforms, and large indoor holding pens.
 - Holic leads her out onto the center of the arena floor and brings her to a halt.
 - This final transition establishes the deeper institutional reality of the afternoon: the rigorous outdoor multi-partner battery in the park run was not merely casual leisure, but the direct physical conditioning and composure test required before presenting Good Girl on the arena floor at the upcoming pet show.
+
+### Beat 7b: Holic Explains the Four Parts of the Show
+
+- Before asking the invitation question, Holic walks GG slowly across the arena floor. The cone limits her vision, but she can feel the scale — the packed dirt beneath her palms, the cavernous echo of their movement, the rise of the wooden spectator tiers on all sides.
+- Holic begins to speak, his voice carrying a quiet, pedagogical tone. He is not performing for anyone; the arena is empty. This is instruction, not theater.
+- He explains that the annual human pet show — the *Concursus* — is divided into **four distinct sections**, and that she will be prepared for each one.
+
+  > **Part One — Introduction of the Pet:**
+  > The pet is brought before the audience and the judges. She is presented on the arena floor — collared, displayed, named. The audience sees her for the first time. Her posture, her composure under observation, the way she holds herself or waits. This section establishes who she is in the eyes of the Collegium.
+
+  > **Part Two — Beautify Competition:**
+  > An aesthetic and grooming assessment. The pet is judged on physical presentation — coat condition (or skin, in human terms), cleanliness, symmetry, and the artful arrangement of her body. This may include structured posing, presentation of specific anatomical features, and comparison against other entries. It is not merely about beauty in the abstract; it is about the quality of the owner's stewardship and the visible evidence of care.
+
+  > **Part Three — Talent Part:**
+  > The pet demonstrates learned abilities. This is the section where training is made visible. Obedience to voice and gesture commands, specialized behavioral routines, endurance in controlled tasks. Each pet's talent reflects the specific emphasis of their owner's training philosophy.
+
+  > **Part Four — How Long She Will Last:**
+  > The endurance phase. A group of male pets takes the female pets. The pet is tested for stamina, composure, and the depth of her submission under sustained, multi-partner pressure. There is one immutable rule for this section: **she cannot use her safeword.** Once Part Four begins, the safeword is suspended. There is no way to stop it. This section has no fixed duration — it ends when the pet can no longer perform. The measure is not speed or beauty, but simple survival. How long she will last before her body or her will gives out.
+
+- Holic's voice remains calm and unhurried throughout. He does not ask if she understands. He assumes she does. He is telling her what her body will be asked to do — not asking permission.
+- GG listens from all fours, the white cone framing her forward gaze at the dirt floor. She does not speak. She absorbs. The four sections settle into her understanding like a schedule she has not agreed to but will not refuse.
+- But then she speaks.
+- Her voice is quiet, muffled slightly by the plastic cone. She does not raise her head.
+  > *"Holic… if I am in Part Four, and I do not feel comfortable… would you still keep me as your pet?"*
+- The question hangs in the empty arena air. She is not asking to be released from the show. She is asking whether her place beside him depends on enduring this.
+- Holic does not answer immediately. He looks down at her — the white cone, the collared throat, the body that has already been taken by eleven pets today.
+- Then he does something he has not done all afternoon. **He kneels.**
+- He lowers himself to the arena dirt, bringing his eyes level with the opening of her cone. His voice is quiet, private, stripped of pedagogical distance.
+  > *"Simonka."*
+- He uses her real name.
+  > *"You are my pet. Not because of what you endure. Because you chose me. That does not change."*
+- He reaches inside the rim of the cone and gently pats her chest, his palm resting warm against her sternum. The touch is warm, grounding — the first physical tenderness he has offered her all day.
+- He holds her gaze for a long moment. Then he rises, brushes the dirt from his knee, and resumes his tour.
+- Holic stops walking. He turns to face her, the dirt ring stretching out empty behind them. Then, in the same instructional tone, he asks the question that shifts the scene from information to consequence:
+
+  > *"Is there anyone you would like to invite to the show?"*
 
 ### Beat 8: The Invitation Question and Disregarded Agency
 - Standing alone with Holic in the vast, empty dirt arena ring, GG feels the towering scale of the spectator tiers surrounding them.
