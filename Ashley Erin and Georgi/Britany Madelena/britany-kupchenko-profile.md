@@ -7,12 +7,12 @@
 ## BASIC INFORMATION
 
 - **Full Name:** Britany Madelena Kupchenko
-- **Position in Family:** Second eldest of the five adopted children of **Ashley Erin Key** and **Georgi**.
-- **Adopted:** At **age three**, when Ashley Erin and Georgi were **thirty-seven**.
+- **Position in Family:** Second eldest of the five adopted children of **Ashley Erin Key-Kupchenko** and **Georgi Kupchenko**.
+- **Adopted:** At **age three**, when Ashley Erin Key-Kupchenko and Georgi Kupchenko were **thirty-seven**.
 - **Sibling Status:** Shares the **same biological mother** as **Hadleigh Patterson Kupchenko** and **Jordan Lisa Kupchenko**.
-- **Adoptive Mother:** Ashley Erin Key
-- **Adoptive Parent:** Georgi
-- **Education:** Streatham and Clapham High School; moves to China for gymnastics training at age eleven.
+- **Adoptive Mother:** Ashley Erin Key-Kupchenko
+- **Adoptive Parent:** Georgi Kupchenko
+- **Education:** Streatham and Clapham High School; trains in gymnastics at a London academy.
 - **Religion:** Catholic (raised within the Key family tradition).
 - **Traits:** Spirited, creative, loyal, deeply affectionate.
 
@@ -22,7 +22,7 @@
 
 Britany was adopted at age three, arriving in the Key-Dimitrov household alongside her older sister, Hadleigh.
 
-**Biological Background:** Britany shares a biological mother with Hadleigh and Jordan Lisa Kupchenko. Coming into the family at a young age, she was quicker to lean into the joy and abundance of her new environment, often acting as the emotional "spark" for her siblings.
+**Biological Background:** Britany shares a biological mother with Hadleigh and Jordan Lisa Kupchenko. Their biological mother struggled with crack cocaine addiction, which rendered her unable to provide a stable home. Britany was adopted at age three, coming into the family at a young age, and was quicker to lean into the joy and abundance of her new environment, often acting as the emotional "spark" for her siblings.
 
 ---
 
@@ -38,13 +38,13 @@ Like Hadleigh, Britany entered the family with early memories, necessitating the
 ## FAMILY RELATIONSHIPS
 
 ### Parents
-- **Ashley Erin Key (mother):** Britany is the "creative mirror" to her mother. She admires Ashley Erin's artistic success and draws inspiration from her mother's public confidence and grace.
-- **Georgi (parent):** Britany finds a safe harbor in Georgi's calm. While she is high-energy, Georgi's steady presence provides the grounding she needs to explore her creativity without fear.
+- **Ashley Erin Key-Kupchenko (mother):** Britany is the "creative mirror" to her mother. She admires Ashley Erin's artistic success and draws inspiration from her mother's public confidence and grace.
+- **Georgi Kupchenko (parent):** Britany finds a safe harbor in Georgi's calm. While she is high-energy, Georgi's steady presence provides the grounding she needs to explore her creativity without fear.
 
 ### Siblings
 - **Hadleigh Patterson Kupchenko:** Her biological sister and primary protector. Britany relies on Hadleigh for guidance but often pushes Hadleigh to be more spontaneous.
 - **Mikkel James Kupchenko & Jemahr Pierce Kupchenko:** Britany treats the twins as her favorite audience, often involving them in her creative projects and games.
-- **Jordan Lisa Kupchenko:** Britany is the "fun" older sister to Jordan, filling her life with color, laughter, and an endless supply of affection.
+- **Jordan Lisa Kupchenko:** Britany is the "fun" older sister to Jordan, filling her life with color, laughter, and an endless supply of affection. When Jordan Lisa stars in ***The Jungle Girl*** at age seven, Britany loves the movie unreservedly — thrilled by the art, the adventure, and her sister's strength on screen. She celebrates it with her whole heart.
 
 ---
 
@@ -60,7 +60,7 @@ Britany's story is one of **Expression and Belonging**. She is the child who mos
 ## OPEN ITEMS
 
 
-- [ ] Specific biological background and circumstances of adoption.
+- [x] Specific biological background and circumstances of adoption: biological mother struggled with crack cocaine addiction.
 - [ ] Specific talents (arts, music, etc.) and educational path.
 - [ ] A key conflict or milestone in her adolescence.
 

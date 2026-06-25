@@ -63,8 +63,8 @@ Still TBD:
 - The premise/genre of *This Land*, the name of Ashley Erin's character, and how long the show runs.
 - The specifics of her character's trans storyline (coming-out arc, transition, family/community acceptance, etc.).
 - The casting-call details: what sibling scene she and Raya read in the final chemistry call, the name of Raya's on-screen-sister character, and how she finds out she booked it. (See the casting-call scene outline.)
-- Whether acting becomes her lifelong career, and what other roles follow.
-- Whether her acting connects to Key family studios or another creative world.
+- ~~Whether acting becomes her lifelong career, and what other roles follow.~~ **Resolved:** Ashley Erin and Georgi run their own production company, extending her creative work into producing authentic, underrepresented stories.
+- ~~Whether her acting connects to Key family studios or another creative world.~~ **Resolved:** Through their own production company, which she and Georgi built together.
 - How being a publicly trans child/teen actor intersects with being a Key, and with the Haden incident.
 
 ### Guitar
@@ -98,7 +98,7 @@ Ashley Erin is one of the Key sisters who swims.
 - **Family Background:** **Both of Georgi's parents are doctors back in Bulgaria** — an educated, professional family. His father is **Dr. Stoyan Dimitrov** and his mother is **Dr. Veska Dimitrova** (Bulgarian surnames take the feminine "-a" ending for women). **After immigrating to Canada, they face the re-credentialing struggle:** their Bulgarian medical degrees and years of experience do not transfer cleanly, and the path back to a Canadian medical license (exams, residency placements, fees, language and certification hurdles) is long, expensive, and uncertain. For years they work below their training — survival jobs and bridging programs — while trying to qualify. It is a quiet, grinding humiliation borne for their son's future, and it shapes Georgi profoundly: he watches two physicians be told their life's work doesn't count here, and it both deepens his respect for medicine and steers him toward **nursing** as a way into caregiving without repeating their exact heartbreak. They are professionals, not the ultra-wealthy — a deliberate contrast to the Keys' unfathomable fortune. Georgi marries *into* the wealthiest family in the world but does not come from that kind of money and does not chase it. [Siblings — TBD.]
 - **Education:** Attends a university in London, England for his business degree; later earns an **MBA**.
 - **Religion:** Raised **Bulgarian Orthodox**; the household with Ashley Erin is **Catholic** (consistent with the Key family). Whether Georgi converts, or the family is interfaith in practice, is **[TBD]** — but the children are raised Catholic.
-- **Work:** A successful business professional with an MBA. A grounded, strategic, and stable presence—the steady, practical counterweight to Ashley Erin's life as a performer.
+- **Work:** A successful business professional with an MBA. A grounded, strategic, and stable presence—the steady, practical counterweight to Ashley Erin's life as a performer. Together, Ashley Erin and Georgi run their own production company, where Georgi's business acumen and Ashley Erin's creative vision meet. The company produces film and television projects that center authentic, underrepresented stories—work that extends Ashley Erin's early legacy on *This Land* into a platform for other voices.
 - **Traits:** Calm, unflappable, deeply patient. The kind of steadiness that comes from a disciplined mind and a focused heart. Plainspoken; not impressed by fame or fortune; allergic to cruelty. He is the man who never once makes Ashley Erin's transness, or her place as the youngest, or anything else about her, into a *problem*. After Haden, that ordinary, unflinching acceptance is the most extraordinary thing about him.
 
 
@@ -146,6 +146,10 @@ Note that although they **meet** through Georgi's cousin **Raya** (Ashley Erin's
 **The throughline of the relationship:** steady, undramatic devotion as the antidote to the Haden cruelty, and a true **parenting partnership**. The drama of their lives is poured into building and protecting a large, much-loved adoptive family rather than into conflict between the two of them. Georgi's professional commitments and Ashley Erin's public, artistic life are the practical tension they negotiate; the adoption process itself — long, bureaucratic, emotionally exhausting, repeated five times — is the great shared labor of their marriage.
 
 They navigated a significant period of long-distance during Georgi's university years in London, which culminated in Ashley Erin moving to London in the middle of his second year to align her international modeling career with her relationship. This period of intentional choice and shared resilience solidified their bond before their eventual marriage.
+
+Together, they founded their own production company—a creative partnership where Ashley Erin's artistic instincts and Georgi's strategic, business-minded discipline converge. The company produces film and television projects that center authentic, underrepresented voices, building on the groundbreaking legacy of *This Land* and creating a platform for stories that matter. Their work as producers is a natural extension of their marriage: her creative fire, his calm architecture, both in service of something larger than either of them alone.
+
+The company's most high-profile and controversial project is ***The Jungle Girl***, a big-budget adaptation the company bought the rights to and produced starring 7-year-old Jordan Lisa. The decision to cast their youngest daughter in a physically demanding, thematically mature project — and to produce it themselves — tests the boundaries of the family's creative mission and protective instincts. The controversy is amplified by the production's requirement that Jordan Lisa remain shirtless for large portions of the film, a choice defended by the production as "authentic" but condemned by critics and child-advocacy groups as exploitative. It becomes a defining case study in the company's history: the moment when art, commerce, and parenthood collided most publicly, and the family was forced to defend choices that even they may not have fully questioned until the backlash arrived.
 
 At age thirty-one, they made the intentional decision to build their family through adoption, beginning a two-year process of preparation and planning that led to the adoption of their first children at age thirty-five.
 
@@ -241,6 +245,7 @@ At age ten, built upon the elite professional runway launched by Valerie Sterlin
 - [ ] Acting arc — the premise/genre of *This Land*, the names of Ashley Erin's and Raya's characters, the specifics of the trans storyline, and how long the show runs.
 - [ ] Casting-call details — the sibling scene Ashley Erin and Raya read in the final chemistry call, the names of the executive producer and casting manager, how she learns she booked it, and whether any of the other ~fifty girls recur.
 - [ ] Guitar/music arc.
+- [x] Ashley Erin and Georgi run their own production company, producing film and television projects that center authentic, underrepresented voices. The company buys the rights to and produces ***The Jungle Girl***, the big-budget film that launches 7-year-old Jordan Lisa's acting career.
 - [ ] Circumstances of each adoption.
 
 ---
