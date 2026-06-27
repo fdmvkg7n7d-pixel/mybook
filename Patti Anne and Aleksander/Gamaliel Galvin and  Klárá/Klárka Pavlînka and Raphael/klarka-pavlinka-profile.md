@@ -20,7 +20,7 @@
 - **Education:** Begins at her parents' ballet academy in Prague and grows up inside the school as both student and family member.
 - **Occupation / Role:** Ballet teacher at **Gamaliel Galvin and Klára's ballet academy** in Prague.
 - **Activities:** Ballet — not only as childhood training, but as adult work. Klárka eventually teaches at the academy her parents built.
-- **Traits:** [TBD]
+- **Traits:** **Sensitive, affectionate, and social.** Klárka is the easier child to read of the two sisters — emotionally available, openly warm, and quick to move toward people she loves.
 
 ---
 
@@ -52,10 +52,15 @@ Klárka was born into this legacy: a family built on rescue, secrecy, ballet, an
 ### The Prague Academy
 Klárka grows up in Prague, where her parents run their own ballet academy. The first studio in the school is named **Mike Key Studio**, after her great-grandfather. She begins as a child of the academy — not because she is forced, but because she has grown up in the studios. The barre is as familiar to her as a kitchen table.
 
+Klárka **clearly belongs to ballet**. The art fits her body, her temperament, and her way of being in the world. Where Simonka participates more differently and eventually diverges, Klárka settles naturally into the academy's physical language.
+
 As an adult, Klárka becomes a **teacher at Gamaliel Galvin and Klára's ballet academy**. This gives her a different relationship to the family legacy: she is not only the daughter who grew up in the school her parents dreamed into existence after Mike's death; she becomes one of the people responsible for carrying that dream forward into the next generation of students.
 
 ### The Dogs
 Klárka grows up with Kleopatra (Willow's daughter) and whatever dogs follow. The household in Prague has at least one Golden Retriever at all times — it is her mother's one non-negotiable.
+
+### Water
+Klárka and Simonka are both **water babies**. Water is one of the easiest shared languages of their childhood — pools, swims, family outings, water parks, and the kind of bodily ease that comes from feeling at home in the water.
 
 ---
 
@@ -65,9 +70,11 @@ Klárka grows up with Kleopatra (Willow's daughter) and whatever dogs follow. Th
 Klárka Pavlînka is in a relationship with **Raphael**. Further details are TBD: how they meet, whether Raphael is connected to the ballet academy, how he fits into the Prague household, and how he responds to the weight of the Key-Dimitrov family legacy.
 
 ### With Simonka Káta (Younger Sister)
-Klárka is Simonka's older sister, only fifteen months ahead of her, but she does not automatically know what is happening in Simonka's private life. During Simonka's Holic/GG decision week, Klára asks Klárka whether she knows what is wrong with Simonka. Klárka does **not** know. Simonka has kept that part of her life so secret that even Klárka cannot explain her sister's emotional shift.
+Klárka and Simonka are **best friends** as well as sisters — close enough in age to share a world, close enough in affection to move through childhood as a pair. Klárka is the more social and emotionally legible of the two, while Simonka is more private and harder to read, but the difference does not weaken the bond; it simply shapes how each girl is known.
 
-This gives their sister relationship a quiet asymmetry: Klárka may be the older sister and a natural witness to many of Simonka's milestones, but Simonka is capable of withholding an entire hidden world from her.
+Klárka does not automatically know what is happening in Simonka's private life. During Simonka's Holic/GG decision week, Klára asks Klárka whether she knows what is wrong with Simonka. Klárka does **not** know. Simonka has kept that part of her life so secret that even Klárka cannot explain her sister's emotional shift.
+
+This gives their sister relationship a quiet asymmetry: Klárka may be the older sister and Simonka's best friend, a natural witness to many of her milestones, but Simonka is still capable of withholding an entire hidden world from her.
 
 ### With Gamaliel (Father)
 Klárka eventually works inside the academy her father built with Klára. Her relationship with Gamaliel therefore becomes both familial and artistic: he is her father, but also the founder whose standard, discipline, and tenderness shape the school where she teaches.
@@ -77,6 +84,8 @@ Klárka teaches at the academy her mother dreamed of long before Prague was real
 
 ### With the Broader Key Family
 Klárka is a great-grandchild of Mike Key and Terri Anne Williams-Key. She is named after her mother, who was named by a Key family that chose her. The name Klárka connects her to the story of a girl who was saved, fostered, loved, and given a future. She grows up hearing about the mansion in Toronto, the cottage where her mother named her first dog under the stars, and the grandfather who caught two teenagers kissing and told them they would be okay.
+
+As an adult, Klárka later returns with **Raphael and her own family** to **Amazonat Jungle Lodge in Brazil**, revisiting a place she first knew as a little girl on Gamaliel and Klára's heritage trip. This makes Amazonat part of her adult family geography, not only her childhood memory.
 
 ---
 

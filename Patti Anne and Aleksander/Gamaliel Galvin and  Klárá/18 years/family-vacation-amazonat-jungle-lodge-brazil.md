@@ -35,6 +35,7 @@
 - Gamaliel and Klára gently explain that at certain places, like this resort, some people enjoy being nude as a way of feeling close to nature and free.
 - They emphasize that everyone gets to choose what feels comfortable for them, and that consent and comfort always come first — consistent with the family’s “Consent to Touch” and bodily autonomy values.
 - The girls accept this explanation easily and enjoy the freedom when they choose to participate.
+- The moment also quietly shows their difference in temperament: **Klárka** is more openly delighted and social about new freedoms, while **Simonka** receives the environment more inwardly and thoughtfully — but no less comfortably.
 
 ### 3. Activities at Amazonat Jungle Lodge
 
@@ -42,9 +43,13 @@
   - **Canoe trips** down the river — calm paddling with life vests and close supervision.
   - Exploring places along the riverbanks and spotting wildlife.
   - **Jumping into the river from a waterfall** — done carefully from a low, safe height with parents spotting.
+- Both girls are already **water babies**, so the river portions of the trip feel instinctively joyful to them even within the medical caution around OI.
 - **Klára’s nervousness**: Klára is very nervous about the girls jumping into the river because of their Osteogenesis Imperfecta. She is especially anxious about Klárka Pavlînka, whose right little foot was recently broken. She worries about any impact or awkward landing that could cause another fracture.
 - Gamaliel reassures her and they only proceed after thoroughly assessing the safety of the low jump spot. They keep the activity very controlled and brief.
 - The family maintains their adapted “Tighten” hug protocol throughout the trip.
+- The sisters experience the water a little differently:
+  - **Klárka** moves into it more openly and expressively.
+  - **Simonka** often pauses to study a place first, then settles into the water completely once she understands its shape.
 
 ### 4. Emotional Stay in Manaus
 
@@ -59,7 +64,8 @@
 - While in Manaus, Gamaliel and Klára take the girls to see a ballet performance at the historic **Manaus Theater** (Teatro Amazonas).
 - The ornate, beautiful theater amazes the girls.
 - Watching ballet in Brazil feels especially meaningful to the family, connecting their life in Prague (where they run a ballet academy) with this new part of their heritage.
-- Klárka watches with particular interest, even though she cannot dance due to her OI.
+- **Klárka watches with particular interest because she clearly belongs to ballet** — the art fits her in a deep and recognizable way, even within the medical limits the family now has to navigate carefully.
+- **Simonka participates differently**, watching with her own thoughtful, observant attention. Even here, in a theater, the difference between the sisters is not a gap in love but a difference in how they take art into themselves.
 
 ### 6. Travel to Natal – Atlantic Ocean and Sand Dunes
 
@@ -87,8 +93,9 @@
 
 - **Gamaliel Galvin Key:** Deeply moved by being in Manaus. The tight family hug from his wife and daughters becomes one of the most meaningful moments of the trip.
 - **Klára Key:** Supportive and emotionally attuned, but noticeably more anxious during the waterfall jumping activity due to the girls’ OI and Klárka’s recent fracture.
-- **Klárka Pavlînka (6):** Curious, observant, and engaged with both the natural and cultural experiences.
-- **Simonka Káta (5):** Stays close to her family and enjoys the new environments.
+- **Klárka Pavlînka (6):** Sensitive, affectionate, and social. She is more openly expressive in her enjoyment and clearly belongs to ballet, even at this young age. In Brazil, she engages outwardly with both the natural and cultural experiences.
+- **Simonka Káta (5):** Private, thoughtful, and affectionate but harder to read. She enjoys the new environments deeply, though more inwardly than Klárka. She participates in ballet differently and is already more observant than performative.
+- **Klárka and Simonka together:** They are already moving through childhood as a pair — best friends as well as sisters. The Brazil trip strengthens that bond through shared water, travel, and family closeness.
 
 ---
 
@@ -97,6 +104,8 @@
 - This expanded trip deepens the girls’ connection to their Brazilian heritage.
 - The emotional hug scene in Manaus reinforces family bonds in the face of Gamaliel’s personal history.
 - The ballet performance at Manaus Theater beautifully ties their Prague life to Brazil.
+- The Amazon and Natal water scenes reinforce a recurring childhood truth about the sisters: they are **water babies**, and water is one of their shared languages.
+- This trip later becomes the **first generation** of a recurring family destination: both **Klárka Pavlînka's family** and **Simonka Káta's family** eventually return to **Amazonat Jungle Lodge** in their own adult lives, carrying very different meanings into the same place. *(See `../Klárka Pavlînka and Raphael/klarka-and-raphael-family-vacation-amazonat-jungle-lodge-brazil.md` and `../Simonka Káta and Holic/simonka-and-holic-family-vacation-amazonat-jungle-lodge-brazil.md`.)*
 - Shows the family successfully traveling and creating memories while living with Osteogenesis Imperfecta Type 1, including parental anxiety around physical activities.
 
 ---

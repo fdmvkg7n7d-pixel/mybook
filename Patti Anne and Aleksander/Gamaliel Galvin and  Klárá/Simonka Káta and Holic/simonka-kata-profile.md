@@ -19,7 +19,7 @@
 - **Great-Grandparents:** Mike Key and Terri Anne Williams-Key
 - **Education:** **Charles University** (Prague) — studying psychology. She is the daughter of two dancers, raised in a ballet academy, and she has chosen the life of the mind over the life of the body. This is a deliberate and quiet rebellion — not against her parents, whom she loves, but against the assumption that she would follow the same path.
 - **Activities:** Psychology, research, academia. She does not dance — at least, not seriously. She grew up in studios, surrounded by ballet, and chose something else. This is a quiet but significant divergence from her family's path.
-- **Traits:** [TBD]
+- **Traits:** **Private, thoughtful, and affectionate but hard to read.** Simonka is not cold; she simply keeps more of herself inside than Klárka does.
 
 ---
 
@@ -54,7 +54,7 @@ Simonka was born into this legacy: a family built on rescue, secrecy, ballet, an
 ### The Prague Academy
 Simonka grows up in Prague, where her parents run their own ballet academy — integrating academics with professional-level ballet training, modeled on Victoria Ballet Academy. The first studio in the school is named **Mike Key Studio**, after her great-grandfather.
 
-Simonka grows up in the studios. The barre is as familiar to her as a dinner table. She can name every variation in *The Sleeping Beauty* before she can tie her shoes. But she does not become a dancer. From a young age, she is more interested in the people making the art than the art itself — what drives them, what breaks them, what heals them. She watches her parents' dancers the way her classmates watch their teachers: with analytical curiosity. By the time she is old enough to choose, she already knows she will choose something else.
+Simonka grows up in the studios. The barre is as familiar to her as a dinner table. She can name every variation in *The Sleeping Beauty* before she can tie her shoes. She **participates in ballet, but differently** from Klárka. The academy is part of her body-language, but not in the same belonging way it is for her sister. From a young age, she is more interested in the people making the art than the art itself — what drives them, what breaks them, what heals them. She watches her parents' dancers the way her classmates watch their teachers: with analytical curiosity. By the time she is old enough to choose, she already knows she will choose something else.
 
 **The quiet divergence:** Simonka is the first in her immediate family line — at least on her parents' side — to step away from ballet as a life path. Her mother was a dancer who built a school. Her father was a dancer who built a school. Her older sister Klárka is likely a dancer at that same school. Simonka is the one who watches and studies instead of performs. This is not a rejection of her parents — it is a different kind of inheritance. She learned to see bodies as texts from ballet; she is applying it to minds.
 
@@ -67,6 +67,9 @@ Her choice of psychology is specific and personal. She grew up surrounded by sto
 
 ### The Dogs
 Simonka grows up with Golden Retrievers — Willow (Klára's first dog, now elderly) and Kleopatra (Willow's daughter). By Simonka's childhood, Willow may be very old or gone; Kleopatra carries the legacy. There are likely younger dogs as well — the household in Prague probably has at least one Golden Retriever, because Klára will never live in a house without one.
+
+### Water
+Simonka and Klárka are both **water babies**. Water is one of the few childhood environments where Simonka's privacy does not read as reserve; in water, she is often simply at home.
 
 ---
 
@@ -169,7 +172,9 @@ Braxton is connected to Simonka's nineteenth-birthday gathering at Alois's farm.
 Drahoslava and Bohuslava are connected to the group setting at Simonka's nineteenth-birthday gathering at Alois's farm. They are both in their **early twenties**. After the encounter with Braxton, Simonka is involved with Drahoslava and Bohuslava in a consensual adult group context. Further details are TBD: their surnames, backgrounds, how they know Simonka or Alois, whether they are friends or part of the farm circle, and how their presence affects the emotional aftermath of the birthday.
 
 ### With Klárka Pavlînka (Older Sister)
-Simonka and Klárka are close in age, but Simonka is far more secretive than her older sister realizes. During the Holic/GG decision week, Klára asks Klárka if she knows what is wrong with Simonka. Klárka does not know anything useful, because Simonka has hidden that part of her life completely. This creates an important sister-dynamic note: Klárka may be Simonka's older sister, but Simonka is capable of keeping an entire emotional and sexual world out of Klárka's sight.
+Simonka and Klárka are **best friends** as well as sisters. They are close in age, bonded in affection, and move through childhood as a pair even when their temperaments differ sharply.
+
+Simonka is far more private than her older sister realizes. During the Holic/GG decision week, Klára asks Klárka if she knows what is wrong with Simonka. Klárka does not know anything useful, because Simonka has hidden that part of her life completely. This creates an important sister-dynamic note: Klárka may be Simonka's older sister and best friend, but Simonka is still capable of keeping an entire emotional and sexual world out of Klárka's sight.
 
 ### With Gamaliel (Father)
 [Further development needed.]
@@ -182,6 +187,8 @@ During Patti Anne and Aleksander's one-week July visit to Prague, Simonka's GG l
 
 ### With the Broader Key Family
 Simonka is a great-grandchild of Mike Key and Terri Anne Williams-Key. She is a grand-niece of the eight Key sisters. She grows up hearing stories about the mansion in Toronto, the cottage in northern Ontario, and the family her parents came from. The Keys are a distant but present thread in her life — visits, video calls, the occasional Christmas in Canada. She is a Key by blood and a Dimitrov by name and a Czech-raised ballet-school kid by life, and all three of those things are true at once.
+
+As an adult, Simonka later returns with **Holic and her own family** to **Amazonat Jungle Lodge in Brazil**, revisiting a place she first knew as a child on Gamaliel and Klára's heritage trip. In her line, the return carries a different emotional texture than it does for Klárka, but it still makes Amazonat part of the next generation's family map.
 
 ---
 
