@@ -171,6 +171,121 @@
 
 ---
 
+## BEAT 9: The Parking Lot — Bruno’s Owner’s Request (Continuation)
+
+- Holic leads Good Girl out of the arena through a side exit that opens directly into the private parking area reserved for senior members.
+- The late afternoon light is golden. A black Range Rover is parked two spaces from Holic’s limousine.
+- Standing beside the vehicle, leashed and on all fours, is **Bruno** — the large, powerful male pet who has taken Good Girl multiple times in previous encounters.
+- Bruno’s owner, a tall, silver-haired man in his late fifties wearing a tailored linen suit, is waiting. He watches Holic and GG approach with quiet interest.
+- As Holic stops beside his limousine, the man steps forward with courtly politeness.
+
+  > “Holic. A word, if I may.”
+
+- Holic turns, still holding GG’s show lead. Good Girl remains on all fours, head lowered, the events of the arena still settling in her body and mind.
+- Bruno’s owner glances at Good Girl with open admiration, then addresses Holic directly.
+
+  > “I watched her in the run earlier. She is exceptional. Bruno has not stopped watching her since you brought her out. He has taken her before, of course — but he has never responded to another pet the way he responds to her.”
+
+- He pauses, choosing his words with deliberate care.
+
+  > “Would you consider allowing her to come home with us for three nights? Bruno would have her exclusively. She would be housed in his kennel. I would treat her with the same regard I give my own pet. Three nights only. Then I would return her to you personally.”
+
+- The request hangs in the air between the two men.
+- Good Girl’s breath catches. She does not lift her head, but her fingers tighten slightly against the asphalt. The idea of being sent away — even for three nights — with Bruno, away from Holic, stirs something sharp and complicated inside her. The pure GG part of her feels a deep, instinctive pull toward the idea of being claimed by Bruno for an extended period. But Simonka’s awareness flickers beneath it: three nights in a stranger’s home, away from the structure Holic provides, away from the safety of his voice and presence.
+- Holic is silent for a long moment. He looks down at Good Girl, then at Bruno, who is staring at her with unmistakable hunger and focus.
+- His voice, when he finally speaks, is calm and measured.
+
+  > “Three nights,” he repeats, as if testing the weight of the words. “Exclusive to Bruno.”
+
+- Bruno’s owner nods once.
+
+  > “Exclusive. And I will personally guarantee her care and return.”
+
+- Holic’s hand tightens slightly on the lead. He does not ask Good Girl what she thinks. He does not look at her for an answer. He simply regards Bruno’s owner with quiet, evaluating eyes for another heartbeat.
+
+  > “Yes,” he says. “You may take her for three nights.”
+
+- The word lands with quiet finality.
+- Bruno’s owner’s eyebrows lift slightly in surprise at the immediate agreement, then he gives a respectful nod.
+
+  > “Thank you, Holic. She will be well cared for.”
+
+- Good Girl’s breath stops. A deep, involuntary tremor runs through her body. The pure GG part of her feels a sudden, overwhelming rush — the knowledge that she is being given away, even temporarily, to Bruno. At the same time, Simonka’s awareness surfaces sharply: three full nights away from Holic, in a stranger’s home, under another owner’s rules. The combination is dizzying.
+
+- Holic does not look down at her. He simply unclips her show lead and hands it to Bruno’s owner.
+
+  > “She will need her collar and nothing else. I will send her overnight bag with the driver tomorrow morning.”
+
+- Bruno’s owner accepts the lead with quiet satisfaction. He clips it onto Good Girl’s collar himself.
+
+- Holic finally lowers his gaze to meet hers through the open limousine door. His voice is low, private, and absolute.
+
+  > “Be good for him, Good Girl.”
+
+- He turns and gets into the limousine alone. The door closes. The vehicle pulls away, leaving Good Girl on all fours beside Bruno and his owner in the golden afternoon light.
+
+---
+
+### Beat 9b: Into the Box Truck — The Gag
+
+- Bruno’s owner does not take Good Girl to the passenger side of the Range Rover.
+- Instead, he leads her around to the rear of a large, dark blue box truck parked at the edge of the lot — the kind used for transporting equipment or animals.
+- The rear roll-up door is already open. Inside is a clean, padded compartment with metal tie-down rings along the walls and a thick rubber mat on the floor.
+- Without ceremony, the owner guides Good Girl up the ramp and into the truck on all fours.
+- Once she is inside, he closes the roll-up door most of the way, leaving only a narrow gap of light.
+- He steps in behind her, the space suddenly intimate and enclosed.
+- From a small metal locker mounted on the wall, he removes a thick black leather gag with a large silicone bit.
+- He crouches in front of her. His voice is calm and matter-of-fact.
+
+  > “Open.”
+
+- Good Girl obeys instantly. She parts her lips.
+- The owner slides the bit between her teeth and fastens the straps behind her head with practiced efficiency. The gag is firm but not cruel — designed for long transport, not punishment. It fills her mouth completely, pressing her tongue down and muffling any sound she might make.
+- He clips a short chain from her collar to one of the metal rings on the wall, limiting her movement to a small area of the padded floor.
+- Before he steps out, he runs a hand once down her spine — not affectionate, but possessive.
+
+  > “Three nights with Bruno. You’ll be good for him.”
+
+- He pulls the roll-up door the rest of the way down. The interior goes dark except for thin lines of light around the edges.
+- Good Girl hears the heavy latch click into place.
+- A moment later, the truck’s engine starts.
+- She is left alone in the dim, vibrating space, gagged, collared, and chained — on her way to Bruno’s home for the next three nights.
+
+---
+
+### Beat 9c: Arrival at the Other Owner’s Mansion
+
+- The box truck does not stop at Bruno’s owner’s residence.
+- After nearly an hour of driving, the truck slows and turns onto a long, private gravel drive lined with tall, manicured hedges.
+- When the roll-up door finally opens, Good Girl is greeted by the warm light of a large, elegant mansion belonging to **the other owner**.
+- Bruno’s owner steps into the back of the truck and unchains her from the wall. He removes the gag with the same clinical efficiency with which he applied it.
+- Good Girl works her jaw, breathing deeply through her mouth for the first time since the parking lot.
+- Bruno’s owner clips her show lead back on and leads her down the ramp.
+- Waiting at the top of the wide stone steps is the other owner. Beside him, on all fours and collared, is **his own human pet** — the male pet he intends to breed with Good Girl.
+- Bruno’s owner hands Good Girl’s lead to the other owner without ceremony.
+
+  > “She’s yours for the three nights. Holic has agreed.”
+
+- The other owner accepts the lead and looks down at Good Girl with quiet satisfaction.
+
+  > “My pet will have her. That is the arrangement.”
+
+- He turns and leads Good Girl on all fours up the steps and through the grand front doors. His own pet follows closely beside her.
+- The heavy doors close behind them with a soft, final sound.
+- Good Girl has arrived at the other owner’s mansion — to spend the next three nights with the other owner’s pet, who has been chosen to breed with her.
+
+- Bruno’s owner accepts the answer with a respectful nod. He does not press further. He simply clips Bruno’s leash and opens the rear door of the Range Rover. Bruno climbs in without taking his eyes off Good Girl until the door closes.
+
+- Holic opens the limousine door for Good Girl. She crawls inside without being told. He follows, closes the door, and the vehicle begins to move.
+
+- Inside the quiet, dim interior of the limousine, Holic reaches down and rests his hand on the back of Good Girl’s neck — not a command, but a grounding touch.
+
+- He does not speak of the request yet.
+
+- But Good Girl can feel the weight of the decision already forming in the silence between them.
+
+---
+
 ## CROSS-REFERENCES
 
 - [GG's training structure in `simonka-kata-profile.md`](../../simonka-kata-profile.md)
