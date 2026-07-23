@@ -139,7 +139,7 @@
 - He treats the request as something that requires selection, supervision, and rules.
 - If he agrees, the man pet must be calm, adult, obedient, and safe around an injured Good Girl.
 - The possible man pet should be introduced later under Holic’s direct control.
-- This beat sets up a follow-up scene where Holic chooses or brings a man pet to keep her company in the kennel.
+- This beat sets up the afternoon follow-up scene: Good Girl remains in the kennel, Holic checks on her, Holic asks Simonka Káta directly whether she would still like to be with another pet for some comfort, and Holic asks Simonka Káta about putting a chastity belt and mouth gag on her because he is worried about her pain level and does not want the other pet to hurt her worse. She is game for both. Holic tells her he will bring her to the club store tomorrow morning to buy those two things. Her answer about the other pet is yes, and Holic will choose the other pet carefully.
 
 ### Beat 10: Simonka Káta Beneath Good Girl
 - As the morning continues, Simonka Káta surfaces briefly beneath the Good Girl conditioning.
@@ -198,7 +198,7 @@
 - Confirms that Holic does not return her inside after the outdoor feeding.
 - Establishes that her bowls remain with her in or beside the kennel.
 - Establishes that Good Girl asks Holic for a man pet for company while she is in the kennel.
-- Sets up a follow-up scene where Holic chooses or introduces a calm adult man pet as supervised company.
+- Sets up an afternoon follow-up scene where Good Girl is in the kennel, Holic checks on her, Holic asks Simonka Káta directly whether she would still like to be with another pet for some comfort, and Holic asks Simonka Káta about putting a chastity belt and mouth gag on her because he is worried about her pain level and does not want the other pet to hurt her worse; Simonka Káta is game for both, Holic tells her he will bring her to the club store tomorrow morning to buy those two things, Simonka Káta answers yes about the other pet, and Holic chooses or introduces a calm adult pet as supervised company. This leads to `holic-brings-good-girl-to-club-store-scene-outline.md`.
 - Sets up an outdoor kennel recovery phase after the first night in Holic’s bedroom.
 
 ---

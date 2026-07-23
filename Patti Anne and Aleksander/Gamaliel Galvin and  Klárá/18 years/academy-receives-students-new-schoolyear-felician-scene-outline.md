@@ -11,12 +11,12 @@
 ## The Setting
 - The academy is receiving students for the new schoolyear.
 - The morning is completely crazy.
-- Students are arriving with luggage, garment bags, pointe shoes, water bottles, digital medical records, scholarship confirmations, security wristband assignments, and anxious parents.
+- Students are arriving with luggage, garment bags, pointe shoes, water bottles, medical forms, scholarship confirmations, security wristband assignments, dorm assignment cards, and anxious parents.
 - Returning students think they know where they are going, but the new schedules have changed everything.
 - New students are trying to look brave while secretly watching every doorway.
 - Parents are asking questions faster than the staff can answer them.
 - Dorm staff are checking room assignments.
-- Office staff are correcting spelling mistakes on badges and iPad records.
+- Office staff are correcting spelling mistakes on badges, paper rosters, and registration records.
 - Teachers are trying to keep the hallways moving.
 - Gamaliel and Klára are both everywhere at once.
 
@@ -32,14 +32,14 @@
 - Parents stop in the doorway to ask questions.
 - Younger students freeze because the building suddenly feels larger than it did during the tour.
 - Older students move through the chaos with practiced confidence.
-- Staff members call names from iPads.
+- Staff members call names from printed rosters and registration lists.
 - Several students answer at once because too many names sound similar in the crowded hallway.
 - The school feels alive, overcrowded, excited, and slightly out of control.
 
 ### Beat 2: Gamaliel Controls the System
 - Gamaliel stations himself near the registration tables.
 - He keeps the digital administrative side moving.
-- He checks rosters on his iPad.
+- He checks rosters and registration records.
 - He solves schedule problems.
 - He sends staff to the dormitories, studios, classrooms, and uniform room.
 - He notices which parents need reassurance and which students need to be moved quickly before they panic.
@@ -59,28 +59,28 @@
 ### Beat 4: Felician Appears in the Crowd
 - Felician arrives with Jelka and Celestina.
 - She is one of the new students entering after Klára’s audition.
-- Her name has already been added to the school’s accepted-student list on the academy iPads.
+- Her name has already been added to the school’s accepted-student list and paper rosters.
 - She is also listed as a full-scholarship student.
 - Jelka carries part of the luggage.
-- Celestina carries the iPad confirmation with the scholarship and enrollment documents already loaded.
+- Celestina carries the printed confirmation with the scholarship and enrollment documents.
 - Felician tries to stand like a serious academy student even though the entrance hall is overwhelming.
 - She recognizes the building from the audition tour, but this morning feels different.
 - During the audition, she was one child on one floor with Klára watching her.
 - Today, she is one student among hundreds.
 
 ### Beat 5: The Name Problem
-- An office staff member cannot find Felician’s name quickly enough on the first iPad roster.
+- An office staff member cannot find Felician’s name quickly enough on the first printed roster.
 - The moment is small, but Felician feels it immediately.
 - Jelka stiffens.
-- Celestina reaches for the iPad confirmation.
-- The staff member swipes from the scholarship list to the dormitory list.
+- Celestina reaches for the printed confirmation.
+- The staff member checks the scholarship list against the dormitory list.
 - The hallway noise makes the mistake feel larger than it is.
 - Klára notices from across the entrance hall.
 - She crosses over before Felician can feel lost.
 - Klára confirms Felician’s name herself.
 - Klára makes clear that Felician belongs there.
 - The correction is immediate and public enough for Felician to hear it.
-- The staff member updates the roster properly on the iPad.
+- The staff member updates the roster properly.
 - Felician’s name is now secure in the morning’s digital system.
 
 ### Beat 6: Klára Remembers the Audition
@@ -94,11 +94,11 @@
 - Felician is a promise the academy made.
 
 ### Beat 7: Felician Crosses the Threshold
-- Once her name is confirmed, Felician is issued her student iPad, dorm assignment, class schedule, and academy security wristband.
+- Once her name is confirmed, Felician is issued her dorm assignment card and academy security wristband.
 - Her scholarship status is checked off.
 - Her uniform fitting time is marked.
 - Her first studio assignment is circled.
-- Her room number is displayed clearly on the iPad so Jelka and Celestina can see it.
+- Her room number is printed clearly on the dorm assignment sheet so Jelka and Celestina can see it.
 - A staff member gives Felician her security wristband.
 - The wristband marks her as a registered academy student for the new schoolyear.
 - The wristband controls access to the correct dormitory side.
@@ -107,8 +107,8 @@
 - The grade-level security groups are Grade One to Grade Five, Grade Six to Grade Eight, and Grade Nine to Grade Twelve.
 - Felician’s wristband places her with the girl dormitory and the Grade One to Grade Five group.
 - Felician holds still while the wristband is put on her wrist.
-- Felician holds the iPad carefully because it feels official.
-- The iPad and security wristband turn the dream from the audition into a schoolyear.
+- Felician holds still because the moment feels official.
+- The dorm assignment card and security wristband turn the dream from the audition into a schoolyear.
 - She steps fully into the academy as a student.
 
 ### Beat 8: Klárka Sees Felician
@@ -162,8 +162,7 @@
 - Jelka trusts the school more quickly.
 - Celestina needs one more look at Felician before she leaves.
 - Felician is nervous, but she does not ask to go home.
-- She has her iPad.
-- She has her schedule loaded on the iPad.
+- She has her dorm assignment.
 - She has her security wristband on her wrist.
 - She has her name in the system.
 - She has Klára’s recognition from the audition.
@@ -186,7 +185,7 @@
 - By late morning, the entrance hall is still noisy but more organized.
 - The first wave of students has reached dorms, classrooms, and studios.
 - Felician’s name is no longer an open question.
-- Her student iPad has been issued.
+- Her dorm assignment has been confirmed.
 - Her academy security wristband has been given.
 - Her scholarship has been checked.
 - Her dorm placement has been confirmed.
@@ -210,6 +209,7 @@
 
 ## Continuity Notes
 - Felician was already established in **klarka-upset-felician-audition-scene-outline.md**.
+- Felician’s first full day as an official academy student begins on **Monday morning** and continues in `felician-first-day-at-ballet-academy-scene-outline.md`.
 - Klára conducted Felician’s audition when Klárka was too upset to do it.
 - Felician was accepted and offered a full scholarship through grade twelve.
 - This scene follows that acceptance by showing Felician arriving as an official student for the new schoolyear.
@@ -227,4 +227,4 @@
 - New file created.
 - Felician has been added as the named student from the earlier audition.
 - The schoolyear receiving day has been framed as crowded, chaotic, and overwhelming.
-- The scene remains focused on digital school logistics, security wristband issuing, family leadership, Felician crossing the threshold into the academy, and Klára reassuring Felician, Svjetlana, and Agrippine about watching a practice class.
+- The scene remains focused on school logistics, dorm assignments, security wristband issuing, family leadership, Felician crossing the threshold into the academy, and Klára reassuring Felician, Svjetlana, and Agrippine about watching a practice class.

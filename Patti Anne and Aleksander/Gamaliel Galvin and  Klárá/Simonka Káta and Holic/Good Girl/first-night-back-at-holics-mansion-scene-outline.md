@@ -124,15 +124,17 @@
 
 - The bowls stay in place beside her bedding so the room continues to feel ordered and familiar.
 
-### Beat 6: Simonka Káta Surfaces
+### Beat 6: Simonka Káta Surfaces Briefly
 
 - When Holic returns to the chair near the bed, Simonka Káta surfaces briefly through the Good Girl conditioning.
 
+- This is only a brief surfacing on the first night back.
+
+- The full conversation where Good Girl is in the kennel, Holic checks on her, Good Girl comes out of Good Girl to Simonka Káta, and Simonka Káta apologizes to Holic happens the **afternoon of the day after** she comes home from the hospital / clinic, in `holic-simonka-conversation-after-hospital-good-girl-apologizes-scene-outline.md`.
+
 - She is exhausted, ashamed, and still measuring herself by whether she was good enough.
 
-- The diaper and bowls make her feel exposed, but they also make the rules of the room clear.
-
-- Holic does not indulge the shame framework, but he also does not correct her harshly.
+- Holic does not push her into a full conversation on this first night.
 
 - He reframes the night around survival rather than judgment.
 
@@ -209,6 +211,8 @@
 - Establishes that bowls must remain present in Holic’s bedroom during this recovery phase.
 
 - Creates a recurring thematic idea: safety is not something Good Girl must earn.
+
+- Links to `holic-simonka-conversation-after-hospital-good-girl-apologizes-scene-outline.md`, where Good Girl is in the kennel, Holic checks on her, and Good Girl comes out of Good Girl to Simonka Káta and apologizes to Holic on the afternoon after she comes home from the hospital / clinic.
 
 ---
 
