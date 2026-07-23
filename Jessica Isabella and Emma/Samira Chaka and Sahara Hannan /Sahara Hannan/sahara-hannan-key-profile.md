@@ -12,8 +12,12 @@
 - **Biological Father:** Unknown
 - **Carrying / Co-Parent Mother:** Emma Fritz
 - **Born:** When Jessica Isabella was sixteen. [Date TBD.]
-- **Medical:** **Type 1 diabetes** ("sugar diabetes" / diabetes mellitus), diagnosed at **age four**. Insulin-dependent for life; managed with an **insulin pump** paired with a continuous glucose monitor (CGM) — handled by her mothers when she is small, and increasingly by Sahara herself as she grows.
+- **Medical:** **Sugar Diabetes** — Type 1 diabetes / diabetes mellitus — diagnosed at **age four**. Insulin-dependent for life; managed with an **insulin pump** paired with a continuous glucose monitor (CGM) — handled by her mothers when she is small, and increasingly by Sahara herself as she grows.
 - **Twin:** Samira Chaka Key (identical twin)
+- **Husband:** **Vladislav** — identical twin brother of Andrei. Sahara Hannan and Vladislav are married. Vladislav also works for the **Russian embassy as an intelligence officer**, so he knows what Sahara Hannan does.
+- **Daughter:** **Shahira Hala** — daughter of Sahara Hannan and Vladislav, **five years old** in the current adult continuity.
+- **Adult Residence:** **Vladivostok**.
+- **Adult Work:** **Intelligence officer at the Russian embassy** in Washington, DC. **Samira Chaka does not know or suspect that Sahara Hannan works for the Russian embassy as an intelligence officer.**
 - **Education:** Sacred Heart School of Halifax (Catholic independent school); later the **Vaganova Ballet Academy**, St. Petersburg
 - **Religion:** Being raised in the Catholic faith of the Key family
 - **Traits:** [TBD]
@@ -30,9 +34,9 @@
 
 ---
 
-## MEDICAL — TYPE 1 DIABETES
+## MEDICAL — SUGAR DIABETES (TYPE 1 DIABETES)
 
-When Sahara Hannan is **four years old**, she is diagnosed with **Type 1 diabetes** — what older generations call "sugar diabetes." It is the autoimmune form that typically appears in childhood: her body stops producing insulin, and so insulin must be supplied from outside, every day, for the rest of her life. It is no one's fault. It is not caused by anything she ate or anything her mothers did. It simply arrives, the way it arrives for so many small children, and the family meets it the way the Key family meets everything: practically, completely, without panic and without pity.
+When Sahara Hannan is **four years old**, she is diagnosed with **Sugar Diabetes** — Type 1 diabetes / diabetes mellitus. It is the autoimmune form that typically appears in childhood: her body stops producing insulin, and so insulin must be supplied from outside, every day, for the rest of her life. It is no one's fault. It is not caused by anything she ate or anything her mothers did. It simply arrives, the way it arrives for so many small children, and the family meets it the way the Key family meets everything: practically, completely, without panic and without pity.
 
 **What it means, day to day:**
 - **Blood-sugar monitoring** — finger-pricks and/or a continuous glucose monitor (CGM) worn on the body, tracked through the day and night.
@@ -56,6 +60,7 @@ When Sahara Hannan is **four years old**, she is diagnosed with **Type 1 diabete
 - **Halifax, Nova Scotia:** Sahara Hannan lives with her mothers in an apartment in Halifax. Her mother Jessica and her co-mother Emma are medicine students specializing in neurosurgery at Dalhousie University. The home is a hub of study, parenting, and the quiet life of a young family.
 - **Sacred Heart School of Halifax:** Sahara Hannan attends the Sacred Heart School of Halifax alongside her twin sister, Samira Chaka. She wears the uniform. She walks the halls. She is learning the same values her mother and grandparents hold.
 - **St. Petersburg, Russia — Vaganova dormitory, then first apartment:** From age eleven, Sahara Hannan lives in St. Petersburg for the Vaganova Ballet Academy. During her final school year she lives in the senior dormitory; after Grade Twelve / high-school graduation in late spring ~2058, she moves into an individual St. Petersburg apartment and, after Samira's summer visit, begins work at Vaganova as a junior ballet teacher / assistant instructor. Jessica Isabella and Emma help with lease, medical, and safety logistics until her eighteenth birthday, but Sahara organizes the apartment around her own adult routines, including diabetes supplies and emergency plans.
+- **Washington, DC — adult home and visible family life:** Sahara Hannan lives in **Washington, DC** with her husband **Vladislav** and their daughter **Shahira Hala**. Sahara and Vladislav both work at the **Russian embassy as intelligence officers**, carrying a hidden state-work life under their visible family life.
 
 ---
 
@@ -84,7 +89,12 @@ When Sahara Hannan is **four years old**, she is diagnosed with **Type 1 diabete
 
 ### Twin
 
-- **Samira Chaka Key** — identical twin. Born alongside Sahara Hannan. Father unknown. They share a face, a language only they speak, and the same gifts in gymnastics and ballet — moving as one and then deliberately apart. [Samira and Sahara's individual identities, differences, and relationship to each other TBD.]
+- **Samira Chaka Key** — identical twin. Born alongside Sahara Hannan. Father unknown. They share a face, a language only they speak, and the same gifts in gymnastics and ballet — moving as one and then deliberately apart. In adult continuity, Samira knows about Vladislav and Shahira Hala, but she does not know or suspect that Sahara Hannan works for the Russian embassy as an intelligence officer. [Samira and Sahara's individual identities, differences, and relationship to each other TBD.]
+
+### Husband and Child
+
+- **Vladislav** — Sahara Hannan's husband. Vladislav is Andrei's identical twin brother, separated from him in infancy by their parents' divorce and later reconnected through Sahara and Samira's relationships.
+- **Shahira Hala** — Sahara Hannan and Vladislav's daughter. She is **five years old** in the current adult continuity.
 
 ---
 
@@ -116,7 +126,9 @@ Sahara Hannan attends the Sacred Heart School of Halifax, a Catholic independent
 - **Age ~14 (~2054):** Their mothers Jessica and Emma decide they want another child. This is done "separated" (Rachel not involved). Jessica carries identical twin sons Eliot David and Kalvin LaMarcus (born **2055**) using donor sperm from the sperm bank. Telling Samira and Sahara happens **before** Jessica gets pregnant, during a three-week family vacation in Russia visiting three cities — Moscow (Samira's Bolshoi), St. Petersburg (her Vaganova, initial telling), and Sochi (Winter Olympics games city). During the vacation, the twins swim (hotel pools or beaches) and are comfortable being undressed, aligning with the family's bodily autonomy ("your body is yours") values. For Sahara, this includes practical diabetes management (e.g., pump/CGM adjustments for water). Sahara initially does not like the idea of having a sibling (thoughtful resistance, possibly tied to diabetes management, training intensity, or family change across distances), but over the vacation (family activities across cities, talks with Samira about their bond, reflection on her diabetes as preparation for family care, quiet conversations with her mothers, perhaps inspired by Olympics atmosphere) she comes to like it by the end. Jessica and Emma are so glad. The twins are involved in the decision and become big sisters. (See hub file, `another-child-2055-outline.md`, and `telling-the-twins-scene-outline.md`.)
 - **Age 17.5 (~2058) — Vaganova / Grade Twelve graduation and first apartment.** Sahara graduates from her Vaganova high-school / academy track in St. Petersburg and moves out of the senior dormitory into an individual St. Petersburg apartment, preparing for her first professional role at the school as a junior ballet teacher / assistant instructor. The move includes adult diabetes autonomy: insulin storage, pump/CGM supplies, fast sugar, emergency contacts in Russian and English, and a first night alone with a clear safety plan. This transition is developed in `../samira-sahara-graduation-week-and-first-apartments-outline.md`.
 - **Summer ~2058 — Samira visits St. Petersburg without asking their mothers.** After graduation, Sahara lets Samira stay in her St. Petersburg apartment for part of the summer. During the visit, the sisters swim in the sea at the Gulf of Finland / Baltic shore, with Sahara managing her diabetes practically and confidently. After the trip, Sahara starts work at Vaganova as a junior ballet teacher / assistant instructor. The important boundary: Samira does not ask Jessica Isabella and Emma for permission, but she does ask Sahara before coming. Sahara's apartment remains Sahara's individual home, with her diabetes routines, Vladislav relationship, training schedule, and privacy respected. See `../Samira Chaka/samira-visits-sahara-st-petersburg-summer-without-asking-outline.md`.
-- **Age 20 (~2060) — Samira's KGB recruitment tests the twin bond.** When Samira puts her name out for something different and the KGB begins assessing her as a possible dancer-spy, Sahara becomes the first person to hear the silence in Samira's voice. Sahara does not forbid her; she asks the questions Samira wants to avoid: who owns the work, what secrets would be required, and whether the state would try to use family as leverage. See `../Samira Chaka/samira-chaka-kgb-dancer-spy-recruitment-outline.md`.
+- **Adult secrecy — Russian embassy intelligence work.** Sahara Hannan and Vladislav both work at the **Russian embassy as intelligence officers** in Washington, DC. Samira Chaka knows about Vladislav, Shahira Hala, and Sahara's Sugar Diabetes, but she does not know or suspect Sahara's embassy / intelligence work. See `sahara-vladislav-secrecy-new-years-iphone-call-scene-outline.md`.
+- **Adult life — Washington, DC:** Sahara Hannan marries **Vladislav**. They have a daughter, **Shahira Hala**, who is **five years old** in current adult continuity. Sahara and Vladislav live in **Washington, DC**, where they both work at the **Russian embassy as intelligence officers**. Samira Chaka knows about Vladislav and Shahira Hala, but she does not know or suspect Sahara's Russian embassy / intelligence work.
+- **New Year secrecy conversation:** Sahara Hannan and Vladislav have a very emotional conversation about Sahara's secrecy things; after the sisters' New Year's Day iPhone call, they talk again. Vladislav knows what Sahara does because he also is an intelligence officer at the embassy. He reminds Sahara that if she tells Samira the embassy / intelligence truth, the state would send **Samira Chaka and Andrei to prison in Solikamsk**. On New Year's Day, Samira Chaka and Sahara call each other on their iPhones; Samira holds **Caylee Brea** and Sahara holds **Shahira Hala** during the call. See `sahara-vladislav-secrecy-new-years-iphone-call-scene-outline.md`.
 
 ---
 

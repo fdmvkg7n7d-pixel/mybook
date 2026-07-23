@@ -25,7 +25,7 @@ Taylor doesn't just want to explore; she wants to see where Daddy goes when he s
 ### 3. The Discovery
 She wanders past the nurse's station, ducking behind a cart of linens when a doctor walks by. She finds herself in a quiet hallway where the doors are partially open. 
 
-In Room 812, she sees a small girl sitting alone in a large hospital bed. The girl, Sun-Young, has very short hair and a surgical dressing visible near her shoulder—remnants of her battle with **Juvenile Breast Carcinoma**. She is holding a tattered stuffed rabbit and looks lonely—a look Taylor recognizes from her mother's eyes during the search for Carlota.
+In Room 812, she sees a small girl sitting alone in a large hospital bed. The girl, Sun-Young, has very short hair from **Leukemia** treatment and a hospital line / dressing connected to her oncology care. She is holding a tattered stuffed rabbit and looks lonely—a look Taylor recognizes from her mother's eyes during the search for Carlota.
 
 ### 4. The First Conversation
 Taylor walks into the room. She isn't afraid of the medical equipment here because she’s on a mission. 
@@ -36,7 +36,7 @@ Sun-Young looks up, surprised. She doesn't speak at first, but she holds out her
 
 "My Dad is a doctor here," Taylor says, sitting on the edge of the visitor's chair. "He saves eyes. What are they saving for you?"
 
-Sun-Young touches her chest where the bandage is. "The doctors took out a bad lump," she says simply. "But they said I have to stay here because I don't have a home to go to yet."
+Sun-Young touches the hospital dressing carefully. "The doctors are giving me medicine for Leukemia," she says simply. "But they said I have to stay here because I don't have a home to go to yet."
 
 ### 5. The Bond
 For the next ten minutes, the two girls talk. Taylor tells Sun-Young about her neon-pink flamingo swimsuit and the giant bear in the lobby. Taylor realizes Sun-Young is an "only," just like Taylor was for a long time. She feels a sudden, fierce protective urge—the same one she will later feel for the twins.

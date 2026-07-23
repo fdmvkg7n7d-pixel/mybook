@@ -213,6 +213,7 @@
 - Establishes that Armella does not return directly to Los Angeles after leaving the treatment home.
 - Establishes that Armella attends **Gulliver Preparatory School** while staying with Terri Anne.
 - Establishes that Armella grows stronger living with Terri Anne and attending Gulliver Preparatory School.
+- Sets up **../Armella Beatrice and Sebastian/armella-outpatient-psychologist-miami-scene-outline.md**, where Armella sees an outpatient psychologist in Miami as part of the transition.
 - Gives Kella Nakeisha more space before daily reintegration with Armella.
 - Sets up a follow-up scene of Armella arriving at Terri Anne’s house.
 - Leads into **rachel-glad-to-hear-armella-voice-terri-anne-gulliver-scene-outline.md**, where Rachel hears Armella’s stronger voice after she begins settling with Terri Anne and Gulliver Preparatory School.

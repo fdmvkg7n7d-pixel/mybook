@@ -1,10 +1,10 @@
-# SCENE OUTLINE: PATTI ANNE TAKES SEVEN-YEAR-OLD GAMALIEL AND KLÁRA TO THE CN TOWER AND THE FAMOUS SPAGHETTI HOUSE
+# SCENE OUTLINE: PATTI ANNE TAKES SEVEN-YEAR-OLD GAMALIEL AND KLÁRA TO THE CN TOWER AND THE SPAGHETTI FACTORY
 
 ## SCENE INFORMATION
 
 - **Characters:** Patti Anne Key, seven-year-old Gamaliel Galvin Key, seven-year-old Klára Drahoslav/Key
 - **Supporting / offstage references:** Aleksander, Mike Key, Terri Anne Williams-Key, the wider Key family
-- **Locations:** Toronto, Ontario — the CN Tower and a famous Toronto spaghetti house
+- **Locations:** Toronto, Ontario — the CN Tower and **The Spaghetti Factory**
 - **When:** **Childhood** — when **Gamaliel and Klára are both seven (7)**, before Gamaliel saves Klára's life at eight, while they are already classmates at Victoria Ballet Academy and already known to each other
 - **Status:** Outline
 - **Tone:** Warm, observant, gently strained. The outing begins as a simple city day and becomes an early portrait of Patti Anne learning Klára's nervous system in real time.
@@ -21,8 +21,8 @@ The scene should do six things:
 2. **Place Gamaliel and Klára together at seven** in a public, ordinary setting before the defining rescue at eight.
 3. **Reveal Klára's nervous system early** — not as spectacle, but as a child becoming overwhelmed by height, scale, and too much sensation.
 4. **Show Gamaliel's instinct toward Klára already forming** in a small, child-sized way.
-5. **Make the famous spaghetti house part of family memory** — not because something dramatic happened there, but because Patti Anne tried to salvage and soften the day by taking them somewhere warm and familiar after the tower.
-6. **Create a later echo** so that, years afterward, Patti Anne carrying Simonka and Klárka through the CN Tower and the spaghetti house feels like a quiet generational repair.
+5. **Make The Spaghetti Factory part of family memory** — not because something dramatic happened there, but because Patti Anne tried to salvage and soften the day by taking them somewhere warm and familiar after the tower.
+6. **Create a later echo** so that, years afterward, Patti Anne carrying Simonka and Klárka through the CN Tower and The Spaghetti Factory feels like a quiet generational repair.
 
 ---
 
@@ -39,7 +39,7 @@ The scene should do six things:
 
 ## BEAT 1 — PATTI ANNE'S PLAN FOR A TORONTO DAY
 
-- Patti Anne plans a city outing for Gamaliel and Klára: the **CN Tower** first, then the **famous Toronto spaghetti house** afterward.
+- Patti Anne plans a city outing for Gamaliel and Klára: the **CN Tower** first, then **The Spaghetti Factory** afterward.
 - The plan is simple and maternal. She wants to give the children a memorable Toronto day.
 - Gamaliel is openly excited. He likes the bigness of the idea and the fact that Patti Anne is taking them somewhere important.
 - Klára is quieter, but not resistant. She is trying to be agreeable. Patti Anne reads that as willingness, because at seven it is hard to tell the difference between shyness and strain before strain declares itself.
@@ -125,27 +125,31 @@ This should read as a small foreshadowing of the boy he is becoming.
 
 ---
 
-## BEAT 6 — THE SPAGHETTI HOUSE AS RECOVERY
+## BEAT 6 — THE SPAGHETTI FACTORY AS RECOVERY
 
-- After leaving the CN Tower, Patti Anne realizes that even a restaurant may be too much if she asks Klára to keep performing composure in public.
-- So instead of insisting they go sit inside, **Patti Anne calls the famous Toronto spaghetti house and places a takeout order.**
-- This is the maternal pivot that saves the day.
-- The emotional function of the spaghetti house is not glamour. It is recovery.
-- Warm food, familiar flavors, and the promise of an enclosed, controllable place to eat instead of one more public room.
-- Klára does not have to sit under lights, navigate waitstaff, or stay visibly composed in a crowded restaurant after the strain of the tower.
-- Patti Anne does not make a speech about the tower. She just changes the plan and turns the second half of the day into something softer.
+- After leaving the CN Tower, Patti Anne takes the children to **The Spaghetti Factory**.
+- The restaurant is supposed to be the warm, comforting second half of the day: noodles, sauce, bread, a family table, something ordinary after too much height and glass.
+- But Klára is still very nervous. She is nervous to eat at the restaurant, nervous to sit under the lights, nervous to be seen by waitstaff and other families while her body has not fully come down from the tower.
+- Patti Anne notices quickly that this is not a child being difficult. Klára is trying to be good and trying to eat, but the public room is still too much.
+- Patti Anne lowers the demand instead of forcing the restaurant memory into something smooth eleven years too early:
+  - she chooses the safest booth / corner she can;
+  - she lets Klára order simply or barely eat;
+  - she does not scold her for being too nervous;
+  - she makes clear that they can take food home if sitting there becomes too much.
+- The emotional function of **The Spaghetti Factory** is not glamour. It is recovery.
+- The restaurant becomes part of family memory because Patti Anne tries to turn a difficult public day into comfort without demanding that Klára perform being fine.
 
 ### Why this matters
-The spaghetti house becomes part of family memory because Patti Anne quietly repairs the outing by **calling in the order and carrying the comfort with them** instead of demanding that Klára recover on display.
-Not by extracting a lesson, but by giving the children a gentler second half.
 
-**Purpose of beat:** root the spaghetti house in comfort, practical care, and Patti Anne's instinct to lower the demand on Klára's nervous system.
+Eleven years later, on Klára's November eighteenth birthday, **Klára chooses The Spaghetti Factory herself** for her birthday dinner. The choice only works because of this earlier memory: at seven, she was very nervous to eat there; at eighteen, she returns with Patti Anne, Aleksander, Gamaliel, Palmer Peter, and Salena Sarai because she wants the restaurant to become hers in a different way.
+
+**Purpose of beat:** root The Spaghetti Factory in comfort, practical care, and Patti Anne's instinct to lower the demand on Klára's nervous system — while planting the later birthday repair.
 
 ---
 
 ## BEAT 7 — PATTI ANNE LEARNS SOMETHING TRUE
 
-- During the meal — now takeout, eaten somewhere quieter and more protected — Patti Anne understands something about Klára that she had not fully understood before:
+- During the meal — at the restaurant, with the option to take food home if Klára needs to leave — Patti Anne understands something about Klára that she had not fully understood before:
   - this child is careful in ways that are not ordinary
   - her distress arrives quietly
   - she tries to disappear into politeness when she is overwhelmed
@@ -162,7 +166,7 @@ But it is an early brick in that wall.
 ## BEAT 8 — THE DAY LANDS IN MEMORY
 
 - The outing becomes one of those family memories that is simple on the surface and richer later.
-- At the time, it is just: Patti Anne took the children to the CN Tower, Klára got very nervous, and they ended up at the spaghetti house.
+- At the time, it is just: Patti Anne took the children to the CN Tower, Klára got very nervous, and she was very nervous to eat at The Spaghetti Factory afterward.
 - Years later, after everything that follows, Patti Anne remembers the day differently:
   - as one of the first times she saw how much Klára contained
   - as one of the first times Gamaliel's body turned toward Klára automatically
@@ -175,16 +179,16 @@ But it is an early brick in that wall.
 1. **Patti Anne notices children carefully.** Even this early, she is learning how to read Klára.
 2. **Klára's overwhelm is quiet, not theatrical.** This becomes important to her whole arc.
 3. **Gamaliel's protective instinct predates the rescue.** The rescue at eight is not random heroism; it is a larger act growing out of a smaller established reflex.
-4. **The spaghetti house becomes a comfort-memory.** It is tied to Patti Anne's choice to soften the day rather than force it.
-5. **The later Simonka/Klárka Toronto trip gains resonance.** When Patti Anne takes Klárka and Simonka to the CN Tower and the spaghetti house years later, the reader can feel the long family echo underneath the easier outing.
+4. **The Spaghetti Factory becomes a comfort-memory.** It is tied to Patti Anne's choice to soften the day rather than force it, and to Klára being very nervous to eat there at seven.
+5. **The later Simonka/Klárka Toronto trip gains resonance.** When Patti Anne takes Klárka and Simonka to the CN Tower and The Spaghetti Factory years later, the reader can feel the long family echo underneath the easier outing.
 
 ---
 
 ## OPTIONAL DETAIL THREADS TO USE OR SKIP
 
-- The exact name of the famous Toronto spaghetti house
+- The exact name is now canon: **The Spaghetti Factory**
 - Whether Gamaliel is disappointed to leave the tower early or whether concern for Klára overtakes disappointment immediately
-- A small booth detail at the restaurant that makes Klára feel enclosed and safe again
+- A small booth detail at The Spaghetti Factory that makes Klára feel enclosed and safer
 - Patti Anne ordering for the children because Klára is too frayed to choose much
 - A tiny physical gesture from Gamaliel, like sliding a bread basket or napkin toward Klára without being asked
 
@@ -193,10 +197,10 @@ But it is an early brick in that wall.
 ## OPEN ITEMS
 
 - [ ] Exact year
-- [ ] Exact name of the famous Toronto spaghetti house
+- [x] Exact name of the restaurant — **The Spaghetti Factory**
 - [ ] Whether this scene belongs before or after any other already-established Toronto childhood outing files
 - [ ] Whether Patti Anne later explicitly remembers this day during the Simonka/Klárka Toronto trip, or whether the echo remains implicit
 
 ---
 
-*This outline exists partly to give later Toronto scenes emotional history: the CN Tower and the spaghetti house are not just city activities, but part of Patti Anne's long memory of Klára and of the earliest visible shape of Gamaliel's instinct to move toward her.*
+*This outline exists partly to give later Toronto scenes emotional history: the CN Tower and The Spaghetti Factory are not just city activities, but part of Patti Anne's long memory of Klára and of the earliest visible shape of Gamaliel's instinct to move toward her.*

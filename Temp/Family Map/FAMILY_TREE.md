@@ -68,9 +68,9 @@
 
 ### Branch 2 — Jessica Isabella ♥ Emma  *(Halifax · Russia · NYC sphere)*
 
-- **Samira Chaka Key** (b. ~2040) — BIO; IDENTICAL TWIN of Sahara; bio father unknown (the Pitangueiras Beach incident, Jessica age 15). Bolshoi Ballet Academy, Moscow.
+- **Samira Chaka Key** (b. ~2040) — BIO; IDENTICAL TWIN of Sahara; bio father unknown (the Pitangueiras Beach incident, Jessica age 15). Bolshoi Ballet Academy, Moscow. Marries **Andrei**; daughter **Caylee Brea** (age 4); owns a **dance studio**.
   ♥ Partners: **Pavel** (broke up ~17.5) → **Andrei**
-- **Sahara Hannan Key** (b. ~2040) — BIO; IDENTICAL TWIN of Samira. Vaganova Ballet Academy, St. Petersburg; Type 1 diabetes.
+- **Sahara Hannan Key** (b. ~2040) — BIO; IDENTICAL TWIN of Samira. Vaganova Ballet Academy, St. Petersburg; **Sugar Diabetes** (Type 1 diabetes). Marries **Vladislav**; daughter **Shahira Hala** (age 5); lives in **Washington, DC**; works at the **Russian embassy as an intelligence officer alongside Vladislav** (Samira knows about Vladislav/Shahira but does not know or suspect the embassy / intelligence work).
   ♥ **Vladislav**
   > *Andrei & Vladislav are identical twin brothers separated in infancy — mirroring the family's conjoined-and-separated legacy.*
 - **Eliot David Key** (b. ~2055) — DONOR/BIO; IDENTICAL TWIN of Kalvin. Conceived via Jessica's eggs + known donor **Dr. Rémi Arsenault** (neurosurgeon colleague); Jessica carried.
@@ -92,16 +92,16 @@
 
 ---
 
-### Branch 4 — Kiley Rose ♥ (Lazaro da Silva →) Julia  *(Brandi post-UNLV TBD / Pandora Abu Dhabi)*
+### Branch 4 — Kiley Rose ♥ (Lazaro da Silva →) Julia  *(Brandi post-UNLV TBD / Pandora Saudi Arabia)*
 
 > **Kiley Rose Key** — adult entertainment performer, Key Porn Studios. **Julia** — adult entertainment performer, Key Porn Studios. Met at Key Porn Studios, NYC.
 
 - **Brandi Jessica Key** (b. Dec 25, 2044) — BIO; IDENTICAL TWIN of Pandora; bio father **Lazaro da Silva**. Bilateral retinoblastoma at 7 → bilateral enucleation (blind); guide dog "Burden"; Convent of the Sacred Heart, NYC. Begins studying **Dance at UNLV** at just seventeen, lives in a coeducational UNLV dormitory and shares a standard two-person bedroom with female first-year Dance student **Kassie Myller** on a mixed-gender floor for her first year, turns eighteen on Christmas Day, and begins developing as a choreographer. Kiley Rose and Julia purchase her later Las Vegas penthouse only after that year. Her post-UNLV destination is **undecided**. Very supportive of twin sister Pandora's professional career.
-- **Pandora Paige Key** (b. Dec 25, 2044) — BIO; IDENTICAL TWIN of Brandi. Never had retinoblastoma; screening after Brandi’s diagnosis found no tumors or retinal disease, and Pandora required no treatment. Photographer. **Professional name: Violet – adult film performer, Key Porn Studios (career start age 18)**, following in the footsteps of Kiley Rose and Julia. Resides **Abu Dhabi, UAE** with Bassem. Secretly photographed cousin Carlota in Tijuana, triggering the rescue.
+- **Pandora Paige Key** (b. Dec 25, 2044) — BIO; IDENTICAL TWIN of Brandi. Never had retinoblastoma; screening after Brandi’s diagnosis found no tumors or retinal disease, and Pandora required no treatment. Photographer. **Professional name: Violet – adult film performer, Key Porn Studios (career start age 18)**, following in the footsteps of Kiley Rose and Julia. Resides **Saudi Arabia** with Bassem. Secretly photographed cousin Carlota in Tijuana, triggering the rescue.
 
 > *Prior canon: Brandi & Pandora raise **four children together** as co-mothers in NYC (the four are full biological siblings via the twins' genetics).*
 > 
-> *Current canon — author revision: Brandi Jessica and Jamal’s post-UNLV destination remains **undecided**; earlier Los Angeles and Manhattan placements are prior drafts. Pandora Paige resides in **Abu Dhabi** with Bassem and Bahiyya.*
+> *Current canon — author revision: Brandi Jessica and Jamal’s post-UNLV destination remains **undecided**; earlier Los Angeles and Manhattan placements are prior drafts. Pandora Paige resides in **Saudi Arabia** with Bassem and Bahiyya.*
 
 **GEN 4:**
 - Pandora's: **Bahiyya Farrah** (b. ~2067)
@@ -117,7 +117,7 @@
 - **Roberta Katherine Key** — BIO (with William); TWIN of William Timothy Jr.
 - **William Timothy Junior Key** — BIO (with William); TWIN of Roberta Katherine.
 - **Orin Lorin Junior** (b. ~2054) — NEPHEW RAISED AS OWN (William's brother's son; parents died in a house fire when he was fifteen; North Atlanta High School and UCCC; McGill University).
-- **Sun-Young "Liz"** — FOSTER child.
+- **Sun-Young "Liz"** — former FOSTER child; adopted daughter (adoption papers on Christmas Day at age sixteen).
 
 ---
 
@@ -126,7 +126,7 @@
 - **Lÿsa Mandy Key** (b. Dec 1, 2046) — BIO; bio father a predatory Rio swimming teacher (Fallon was 12). ADOPTED/raised by Charlie; Asperger's. Sacred Heart, San Francisco → Stanford sphere.
 - **Rebecca Brazilia Key** — BIO (Fallon & Charlie); IDENTICAL TWIN of Charlie Janya (b. when Lÿsa ~11).
 - **Charlie Janya Key** — BIO (Fallon & Charlie); IDENTICAL TWIN of Rebecca Brazilia.
-- **Calida Dawn Key** — BIO (Fallon & Charlie); youngest (b. when Lÿsa ~16).
+- **Calida Dawn Key** — BIO (Fallon & Charlie); fourth daughter; youngest (b. when Fallon & Charlie are 31).
 
 ---
 
@@ -156,7 +156,7 @@
 
 - **Randy Fritz** — biological father of Patti Anne and Emma.
 - **Carlos Reyes** — Carlota's biological father and kidnapper.
-- **Devon Smythson** — the nanny (Carlos's affair; Sabrina kept her on).
+- **Devon Smythson** — the nanny (Carlos's affair; Sabrina kept her on); has her own bedroom at Sabrina Bryna's Vaughan mansion and does not need to leave when the household needs overnight support.
 - **Dr. Rémi Arsenault** — known sperm donor for Jessica & Emma's twin sons.
 - **Alexis · Jackie · Bleu** — the three surrogates for Rachel & Antoine's seven children.
 - **Holic Bartunek** — Simonka's partner; owner of the Prague mansion / *Collegium* club.

@@ -13,7 +13,7 @@
 - **Sibling Presence (Traveling Group from Vaughan):**
   - **Taylor Raven Key** (14), **Sun-Young "Liz" Key** (14), **Roberta Katherine Key** (8), and **William Timothy Junior Key** (8).
 - **Explicitly Absent Sibling:**
-  - **Carlota Delicia Key** (23) — living independently in Orlando with her partner Keith and their nine-month-old daughter Madeleine Jaycee Holiday Key.
+  - **Carlota Delicia Key** (24) — living independently in Orlando with her partner Keith and their nine-month-old daughter Madeleine Jaycee Holiday Key.
 - **Tone:** Elegant, high-stakes, dramatic, protective, and ultimately triumphant.
 
 ---
@@ -83,7 +83,7 @@ This scene coordinates the explosive public confrontation where Danica's racist,
   - Orin is 19 (McGill second-year), Danica is 17 (having turned 17 on Feb 14).
   - Taylor Raven and Sun-Young "Liz" are approximately 14 years old.
   - Roberta Katherine and William Timothy Jr. are approximately 8 years old.
-  - Carlota Delicia and Keith are 23 years old, living independently in Orlando with their nine-month-old daughter Madeleine Jaycee Holiday Key.
+  - Carlota Delicia and Keith are 24 years old, living independently in Orlando with their nine-month-old daughter Madeleine Jaycee Holiday Key.
 - **Physical & Disability Accommodations:**
   - Sabrina Bryna walks completely independently with **no assistive devices (no crutches or canes)**.
   - Sourses **thickening powder** in her hot matcha green tea to accommodate her CP swallowing coordination safely.

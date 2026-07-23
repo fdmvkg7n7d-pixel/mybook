@@ -7,12 +7,12 @@
 ## BASIC INFORMATION
 
 - **Full Name:** Armando Cortez Junior Key-d'Aboville
-- **Position in Family:** Twin (one of the first two), children of **Rachel Darcy Key** and **Antoine**
+- **Position in Family:** Twin of **Larissa Leola** (one of the first two), children of **Rachel Darcy Key** and **Antoine**
 - **Biological Mother (egg):** **Jessica Isabella Key** (Rachel's identical twin sister, who donated her eggs — *"a wonderful gift between sisters"*)
 - **Biological Father:** **Antoine d'Aboville** (Rachel's partner)
 - **Mother (in every way that counts):** **Rachel Darcy Key** — who could not carry a pregnancy herself (the shared reproductive system went to Jessica at their separation), and who built her family through her sister's egg donation and surrogacy
 - **Carried by:** **Alexis** (one of the three surrogates — Alexis, Jackie, and Bleu)
-- **Born:** Born ~2048, when Rachel and Antoine are **28**.
+- **Born:** Twin of Larissa Leola. Larissa and Armando are **twenty-six years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays. Exact birth year TBD.
 - **Education:** [TBD]
 - **Religion:** [TBD — the Key family is Catholic]
 - **Traits:** [TBD]
@@ -21,7 +21,7 @@
 
 ## BIRTH & ORIGINS
 
-Born ~2048, when Rachel and Antoine are **28**. One of the twins.
+Born as Larissa Leola’s twin. One of the first two children. Larissa and Armando are **twenty-six years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays.
 
 **Armando Cortez Junior is one of the twins** — one of the first two children, born before the identical twins and triplets. [Individual personality — TBD.]
 
@@ -39,7 +39,7 @@ Born ~2048, when Rachel and Antoine are **28**. One of the twins.
 
 ### River Way Ranch Camp — Armando Cortez Junior's Schedule
 
-Armando Cortez Junior attends **River Way Ranch Camp** (Sanger, California), the premier co-ed overnight summer camp in the foothills of Sequoia/Kings Canyon National Parks, alongside **Larissa Leola**, **Kella Nakeisha**, and **Armella Beatrice**. Armando and Kella Nakeisha are paired as a camp pair — the second-born singleton and one of the twins, crossing birth-order lines. At camp, he is known as Kella's big brother — not the boy with the dark arc, not the middle singleton.
+Armando Cortez Junior attends **River Way Ranch Camp** (Sanger, California), the premier co-ed overnight summer camp in the foothills of Sequoia/Kings Canyon National Parks, alongside **Larissa Leola**, **Kella Nakeisha**, and **Armella Beatrice**. Armando and Kella Nakeisha are paired as a camp pair — the second-born twin and one of the twins, crossing birth-order lines. At camp, he is known as Kella's big brother — not the boy with the dark arc, not the eldest twin brother.
 
 **Armando's Majors (3): wakeboarding, rock climbing, mini-bikes**
 
@@ -72,7 +72,7 @@ For Armando, River Way is complicated. He is the boy with a dark arc coming — 
 ### Parents
 
 - **Rachel Darcy Key (mother):** Jessica Isabella's identical twin, separated at birth; a dancer (UVA). Built her family via her sister's egg gift and surrogacy. [Relationship with Armando Cortez Junior TBD.]
-- **Antoine d'Aboville (father):** Rachel's partner; biological father of all seven. **Dies when Armando Cortez Junior is ~13.** [Background TBD.]
+- **Antoine d'Aboville (father):** Rachel's partner; biological father of all seven. **Dies when Armando Cortez Junior is ~14.** [Background TBD.]
 
 ### The "other mother" / aunt
 
@@ -100,7 +100,7 @@ For Armando, River Way is complicated. He is the boy with a dark arc coming — 
 
 ## KEY EVENTS / TURNING POINTS
 
-- **Birth:** Born ~2048, when Rachel and Antoine are **28**. One of the twins.
+- **Birth:** Born as Larissa Leola’s twin. One of the first two children. Larissa and Armando are **twenty-six years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays.
 - **River Way Ranch Camp — first summer:** Attends alongside Larissa, Kella, and Armella. Paired with Kella Nakeisha. [Age and year TBD.]
 - **Death of Antoine (~2062):** Armando Cortez Junior is **~14** when his father dies. He is the eldest son — and the child at the exact center of his parents' story. Antoine's death falls on him at an age when boys are already learning what it means to be men, and the man he was learning from is gone. The darker arc planned for Armando around age ~14 lands one year after this loss. [How the grief and the darker arc connect — or don't — TBD.]
 - [Further life events TBD.]

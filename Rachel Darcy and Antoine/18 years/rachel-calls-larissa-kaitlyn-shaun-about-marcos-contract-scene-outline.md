@@ -4,8 +4,8 @@
 
 **When:** The same day Marcos Eduarte signs his professional contract with the Toronto Blue Jays.  
 **Where:** Rachel's location TBD / Larissa Leola in Queensland.  
-**Characters:** Rachel Darcy Key, Larissa Leola Key-d'Aboville, Kaitlyn Holly, Shaun. Marcos Eduarte is present emotionally but not necessarily in the call.  
-**Context:** Marcos has signed with the Toronto Blue Jays out of high school. Rachel begins telling the family. When she calls Larissa Leola, Larissa is in Queensland with her daughter Kaitlyn Holly and her second partner, Shaun. Kaitlyn Holly is Larissa's daughter with Christopher.
+**Characters:** Rachel Darcy Key, Larissa Leola Key-d'Aboville, Kaitlyn Holly (age two), Shaun. Marcos Eduarte is present emotionally but not necessarily in the call.  
+**Context:** Marcos has signed with the Toronto Blue Jays out of high school. Rachel begins telling the family. When she calls Larissa Leola, Larissa is in Queensland with her daughter Kaitlyn Holly and her second partner, Shaun. Kaitlyn Holly is Larissa's two-year-old daughter with Christopher. Christopher and Larissa are separated, but Christopher is a real father to Kaitlyn Holly. Shaun is part of Larissa's household. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.
 
 ---
 
@@ -14,8 +14,9 @@
 This scene establishes:
 
 - Larissa Leola's adult life in Queensland.
-- Kaitlyn Holly as Larissa's daughter with Christopher.
-- Shaun as Larissa's second partner.
+- Kaitlyn Holly as Larissa's two-year-old daughter with Christopher.
+- Christopher and Larissa as separated co-parents, with Christopher established as a real father to Kaitlyn Holly.
+- Shaun as Larissa's second partner, part of the household. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.
 - Larissa, Kaitlyn Holly, and Shaun being genuinely excited for Marcos Eduarte.
 - A warm contrast to Rachel's colder call with Armando Cortez Junior in Bangkok.
 - The fact that Larissa may not be able to attend Marcos's first Blue Jays game physically, but she is emotionally present.
@@ -48,7 +49,7 @@ Rachel calls Larissa Leola in Queensland.
 
 ### Beat 2 — Larissa Answers With Kaitlyn Holly Nearby
 
-Larissa answers. Kaitlyn Holly is nearby — perhaps close enough to hear Rachel's voice, perhaps asking who is calling.
+Larissa answers. Kaitlyn Holly is nearby — two years old, close enough to hear Rachel's voice, old enough to respond to the emotion in the room, but too young to understand the contract fully.
 
 Rachel says the news plainly:
 
@@ -58,7 +59,7 @@ Larissa reacts immediately. She is proud, startled, emotional, and excited.
 
 ### Beat 3 — Kaitlyn Holly Understands the Moment
 
-Kaitlyn Holly is Larissa's daughter with Christopher.
+Kaitlyn Holly is Larissa's two-year-old daughter with Christopher.
 
 She may not understand every professional baseball detail, depending on her age, but she understands that this is a family milestone and that Marcos has done something huge.
 
@@ -72,7 +73,7 @@ Her excitement makes Rachel smile.
 
 Shaun, Larissa's second partner, comes into the moment naturally.
 
-He is not Marcos's sibling, but he supports Larissa and joins the family happiness without making it about himself.
+He is not Marcos's sibling, and he is not replacing Christopher as Kaitlyn Holly's father. He supports Larissa and joins the family happiness without making it about himself.
 
 Possible line:
 
@@ -124,9 +125,10 @@ The scene should end with Rachel carrying their excitement back to Marcos.
 > "Put me on whatever time zone I need to be on. I'll watch."
 
 **Kaitlyn Holly**
-> "Uncle Marcos is going to be a Blue Jay?"  
-> "Can we watch him pitch?"  
-> "Tell him congratulations!"
+> "Ball!"  
+> "Marcos!"  
+> "Blue!"  
+> toddler clapping / reaching for the phone
 
 **Shaun**
 > "That's massive."  
@@ -140,8 +142,9 @@ The scene should end with Rachel carrying their excitement back to Marcos.
 
 1. Rachel calls Larissa Leola about Marcos Eduarte's Toronto Blue Jays contract.
 2. Larissa is living in Queensland.
-3. Kaitlyn Holly is Larissa's daughter with Christopher.
-4. Shaun is Larissa's second partner.
+3. Kaitlyn Holly is Larissa's two-year-old daughter with Christopher.
+4. Christopher and Larissa are separated, but Christopher is a real father to Kaitlyn Holly.
+5. Shaun is Larissa's second partner and part of the household. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.
 5. Larissa, Kaitlyn Holly, and Shaun are very excited for Marcos.
 6. Larissa's distance from Marcos's first game is logistical, not emotional.
 7. This call contrasts sharply with Armando Cortez Junior's cold, secretive, indifferent call from Bangkok.
@@ -150,4 +153,4 @@ The scene should end with Rachel carrying their excitement back to Marcos.
 
 ## Status
 
-Ready for expansion or refinement once Kaitlyn Holly's age and Shaun's full role are defined.
+Updated so Kaitlyn Holly is two years old; Christopher and Larissa are separated, but Christopher is a real father to Kaitlyn Holly; Shaun is Larissa's second partner. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.

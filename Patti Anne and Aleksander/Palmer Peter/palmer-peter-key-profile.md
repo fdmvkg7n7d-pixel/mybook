@@ -15,8 +15,9 @@
 - **Siblings:**
   - **Salena Sarai Key** — twin sister (full sibling)
   - **Gamaliel Galvin Key** — maternal half-brother (the eldest; the boy who saved Klára)
-  - **Klára Key** — foster sister (joined the household when Gamaliel was eight)
+  - **Klára Key** — oldest sister / Patti Anne and Aleksander's oldest daughter; legally a foster sister by the system's category
 - **Grandparents (maternal):** Mike Key (deceased; died when Palmer Peter was ~3) and Terri Anne Williams-Key
+- **First hospital meeting:** Mike and Terri Anne bring Gamaliel Galvin and Klárá to the hospital to meet Palmer Peter and Salena Sarai for the first time. Patti Anne and Aleksander let Klárá hold Palmer Peter; Klárá becomes very emotional because she is surprised she is allowed. Patti Anne immediately hugs her and tells her she is part of the family and has every right to hold Palmer Peter or Salena Sarai.
 - **Religion (raised):** Practicing Catholic — the Key family faith.
 - **Religion (adult):** **Converts to Islam at age twenty** — two years after moving to Saudi Arabia at eighteen. The move comes first; the faith follows, after he has lived in the country a while. **The wanting arrives at nineteen** — about a year into his Saudi life he knows he wants to be Muslim — and he gives the decision a full year to prove itself before he takes the shahada at twenty. *(Handled respectfully; see "The Saudi Arabia Arc.")*
 - **Education / Path:** **Ballet** — follows his big brother to **Victoria Ballet Academy** (see below).

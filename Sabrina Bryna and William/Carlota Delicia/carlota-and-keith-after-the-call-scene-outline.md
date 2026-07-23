@@ -1,6 +1,6 @@
 # SCENE OUTLINE: CARLOTA AND KEITH — THE CALL FROM QUEBEC
 
-*Orin Lorin Junior calls Carlota Delicia from Quebec to tell her he is not coming to Orlando. Carlota and Keith are both twenty-three. Their daughter Madeleine Jaycee Holiday Key is six months old. Carlota is the daughter of Sabrina Bryna and Carlos. Orin is nineteen. They became siblings when she was twenty and he was sixteen. They live in Orlando.*
+*Orin Lorin Junior calls Carlota Delicia from Quebec to tell her he is not coming to Orlando. Carlota and Keith are both twenty-four. Their daughter Madeleine Jaycee Holiday Key is six months old. Carlota is the daughter of Sabrina Bryna and Carlos. Orin is nineteen. They became siblings when she was twenty and he was sixteen. They live in Orlando.*
 
 ---
 
@@ -15,8 +15,8 @@
 
 ## IN THE ROOM
 
-- **Carlota Delicia** — twenty-three. Sabrina Bryna's daughter by Carlos. She became Orin's sister when she was twenty and he was sixteen. Five years of Tijuana behind her. HIV-positive, on treatment, undetectable. Mother of Madeleine Jaycee Holiday Key, six months old. She lives in Orlando. She has built a life, a home, a family here. She has known Orin for three years — since she was twenty and he was sixteen, since the moment they became siblings. She has watched him grow, grieve, and become the kind of person who calls from Quebec to say he is not coming to Orlando because a friend needs him.
-- **Keith Holiday** — twenty-three. Carlota's partner. The boy who sat on the floor of her bedroom on the tenth date and said *"okay, keep going if you can."* The boy who stayed. Now a father. Still steady, still the kind of person who matches someone else's tempo without being asked. He lives in Orlando with Carlota and Madeleine Jaycee Holiday Key. He is part of the family.
+- **Carlota Delicia** — twenty-four. Sabrina Bryna's daughter by Carlos. She became Orin's sister when she was twenty and he was sixteen. Five years of Tijuana behind her. HIV-positive, on treatment, undetectable. Mother of Madeleine Jaycee Holiday Key, six months old. She lives in Orlando. She has built a life, a home, a family here. She has known Orin for three years — since she was twenty and he was sixteen, since the moment they became siblings. She has watched him grow, grieve, and become the kind of person who calls from Quebec to say he is not coming to Orlando because a friend needs him.
+- **Keith Holiday** — twenty-four. Carlota's partner. The boy who sat on the floor of her bedroom on the tenth date and said *"okay, keep going if you can."* The boy who stayed. Now a father. Still steady, still the kind of person who matches someone else's tempo without being asked. He lives in Orlando with Carlota and Madeleine Jaycee Holiday Key. He is part of the family.
 - **Madeleine Jaycee Holiday Key** — six months old. Asleep, or mostly asleep, or intermittently awake in the way six-month-olds are when the energy of the house is different than usual. She does not know anything about Quebec or Orlando or phone calls. She only knows that the adults in her life are breathing differently.
 
 ---
@@ -153,7 +153,7 @@ Carlota says:
 
 > *"Whatever he is not saying, it is because someone else needs him not to say it. That is who he is."*
 
-She is twenty-three and she is a mother and she is speaking from a place that is both younger and older than her age. She knows what it looks like when someone protects another person by not telling the whole truth. She has been on both sides of that.
+She is twenty-four and she is a mother and she is speaking from a place that is both younger and older than her age. She knows what it looks like when someone protects another person by not telling the whole truth. She has been on both sides of that.
 
 ---
 
@@ -213,7 +213,7 @@ Keith sees her hands move. He does not ask what she signed. He knows. He has alw
 
 The scene ends without resolution about Orin. There is no follow-up call from Quebec. There is no update. There is no moment where Carlota and Keith learn the whole story. That is not what this scene is for.
 
-This scene is for what happens in the minutes after the line goes dead. Two twenty-three-year-olds in their Orlando home, a six-month-old baby, and the knowledge that the family they belong to is big enough to hold a nineteen-year-old boy in Quebec who is making his own decisions and a baby in their arms who is too young to understand any of it.
+This scene is for what happens in the minutes after the line goes dead. Two twenty-four-year-olds in their Orlando home, a six-month-old baby, and the knowledge that the family they belong to is big enough to hold a nineteen-year-old boy in Quebec who is making his own decisions and a baby in their arms who is too young to understand any of it.
 
 Carlota puts the phone down. Not on the table. Not on the counter. She puts it face-down on the couch cushion beside her, like a conversation that is not over but is paused. Keith takes Madeleine Jaycee Holiday Key from her arms, or she takes Madeleine Jaycee Holiday Key from his — the small, wordless choreography of parents who know how to hold a family together when the family is bigger than the room.
 
@@ -225,7 +225,7 @@ The Orlando house holds them. The baby holds them. And somewhere in Quebec, a ni
 
 - Orin calls Carlota directly — not just the parents. She is one of the first people he reaches, which signals how much he trusts her and how much she understands.
 - Carlota and Orin became siblings when she was twenty and he was sixteen. They have known each other for three years. She has watched him through the hardest years of his young life.
-- Carlota at twenty-three is still shaped by the kidnapping, the forty-two months, the HIV diagnosis — not as active wounds, but as reference points. When Orin's call lands, she does not react as a casual sister. She reacts as someone who knows what it means for a child to be somewhere other than where they are supposed to be.
+- Carlota at twenty-four is still shaped by the kidnapping, the forty-two months, the HIV diagnosis — not as active wounds, but as reference points. When Orin's call lands, she does not react as a casual sister. She reacts as someone who knows what it means for a child to be somewhere other than where they are supposed to be.
 - Keith remains the steady one — not passive, not dismissive, but grounded in the practical and the emotional truth at the same time. He uses *"we"* when talking about the family decision, showing how fully he belongs.
 - Madeleine Jaycee Holiday Key is not a prop. She is a six-month-old with her own presence, her own sounds, her own way of changing the room by existing in it.
 - Carlota and Keith are both parents now. The scene shows them parenting Madeleine Jaycee Holiday Key *and* parenting each other through the weight of Orin's news — without solving it, without diminishing it, without turning it into a crisis that is bigger than it is.

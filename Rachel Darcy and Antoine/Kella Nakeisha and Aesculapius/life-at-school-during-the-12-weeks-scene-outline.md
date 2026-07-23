@@ -5,7 +5,7 @@
 **POV:** Multiple — Kella Nakeisha, Armella Beatrice, the triplets (Melissa Lizette, Marcos Eduarte, Annabella Nicki), and their cousins
 **Tone:** The ordinary and the strange. School continues. Life continues. But everything is different. The children are in school — Kella with her cousins in San Francisco, Armella at Skyland Trail's on-site school in Atlanta, the triplets in a new school in San Francisco — and they are all carrying something they do not fully understand.
 **Location:** **Los Angeles** (Kella at Viewpoint School in Calabasas, the triplets at their school) and **Atlanta** (Armella, at Skyland Trail's on-site accredited school). Rachel is back in LA, holding her children from home. Fallon Glenda and Charlie are in San Francisco, available for support.
-**Ages:** Kella Nakeisha, Armella Beatrice, Rebecca Brazilia, and Charlie Janya are **~15.** The triplets (Melissa Lizette, Marcos Eduarte, Annabella Nicki) are **~9.** Calida Dawn is **~10.**
+**Ages:** Kella Nakeisha, Armella Beatrice, Rebecca Brazilia, and Charlie Janya are **~15.** The triplets (Melissa Lizette, Marcos Eduarte, Annabella Nicki) are **~9.** Calida Dawn is **~8.**
 **Time in saga:** ~2072 — during the 12-week treatment period at Skyland Trail.
 
 ---

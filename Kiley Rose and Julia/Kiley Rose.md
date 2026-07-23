@@ -273,3 +273,7 @@ She is not the family's lesson. She is the family's sister. And she grows up kno
 ---
 
 *This file will expand as the saga develops.*
+
+## Adult Brandi / Prince Ali Javan Payoff
+
+- Kiley Rose and Julia accompany **Brandi Jessica, Jamal, and Iyeshia Caesarea** when they visit **Prince Ali Javan** in the UAE approximately twenty years after he helped Mike locate seven-year-old Brandi. Brandi Jessica, Kiley Rose, and Julia wear **Muslim Women's Full Face Niqab Veils**, and Prince Ali Javan does not recognize Brandi at first because she is twenty years older, veiled, and using her white cane. Brandi explains the veils are to respect his household; he says he respects her, says what Shakib was doing was wrong, offers that they can change out of the veils, and asks about the cane. Brandi tells him she is a choreographer for a mainstream cruise line without sight. Iyeshia Caesarea is crawling by this time and remains a happy baby with Jamal and Prince Ali Javan while the women change; Prince Ali Javan orders a dinner to celebrate Brandi Jessica's safety and return. Brandi asks Jamal to call Pandora Paige and Bassem to tell them they will be coming over tomorrow morning, and she asks Prince Ali Javan if he does not mind that she will nurse Iyeshia Caesarea at the dining room table.

@@ -49,15 +49,20 @@ This repository folder contains the core profiles and milestone scene outlines f
 
 - **Lÿsa Mandy Key** — eldest daughter; born on **December 1, 2046**, when Fallon Glenda was exactly **thirteen years old** (sharing her mother's birthday).
   - **Fallon's Nickname for Her:** **“my giraffe”** — a private, tender nickname that begins with the soft toy giraffe Fallon brings to McMaster on Christmas Day, when she is first allowed to hold Lÿsa Mandy.
-  - **Neurodivergence:** Lÿsa Mandy has Asperger Syndrome. 
-  - **Motherhood & Nursing:** Fallon and Lÿsa share an incredibly close, grounding bond. Fallon practiced extended breastfeeding, still nursing Lÿsa Mandy when she is three years old. 
+  - **Neurodivergence:** Lÿsa Mandy has Asperger Syndrome.
+  - **Motherhood & Nursing:** Fallon and Lÿsa share an incredibly close, grounding bond. Fallon practiced extended breastfeeding, still nursing Lÿsa Mandy when she is three years old.
   - **The Rio de Janeiro Years:** Mike and Terri Anne's family was living in **Rio de Janeiro, Brazil** when twelve-year-old Fallon Glenda became pregnant.
-  - **The Biological Father:** Fallon Glenda's swimming teacher in Rio de Janeiro. An adult in a position of authority, he was extremely creepy and predatory, exploiting a twelve-year-old Fallon. 
+  - **The Biological Father:** Fallon Glenda's swimming teacher in Rio de Janeiro. An adult in a position of authority, he was extremely creepy and predatory, exploiting a twelve-year-old Fallon.
   - **The Bedroom Disclosure & The Guilt:** Before the family knew, Fallon began to withdraw, hiding her body in oversized clothes and carrying immense, terrified guilt, believing she was to blame. Mike and Terri Anne noticed the shift and went into her bedroom in Rio for a deeply emotional intervention. When Fallon finally broke down and confessed she was pregnant—sobbing that it was her fault and apologizing for ruining everything—her parents intercepted the guilt immediately. Mike took her hands and made it absolutely clear: *she was twelve, he was an adult, it was not her fault, and she had nothing to be ashamed of.* *(See [fallon-glenda-bedroom-disclosure-scene-outline.md](fallon-glenda-bedroom-disclosure-scene-outline.md))*
-  - **The Justice Response:** When the truth came out, Mike Key mobilized his vast global resources and **Ontario Provincial Police (OPP)** contacts (coordinating internationally) immediately, ensuring the predatory swimming teacher was arrested, prosecuted, and sent to prison. 
+  - **The Justice Response:** When the truth came out, Mike Key mobilized his vast global resources and **Ontario Provincial Police (OPP)** contacts (coordinating internationally) immediately, ensuring the predatory swimming teacher was arrested, prosecuted, and sent to prison.
   - **The Family Shield & Beach Anxiety:** The Key family rallied around Fallon with fierce, protective, and unconditional love. Living in Rio de Janeiro—a city fundamentally tied to beach culture and the water—her pregnancy brought an acute vulnerability. As her body began to change, the twelve-year-old swimmer became intensely nervous to go out with the family and be shirtless (exposed in her two-piece swimsuits or beachwear) at the beach or the pool. Her sisters and parents recognized this fear instantly. They created a physical and emotional shield around her in public, refusing to let her hide or carry any shame, ensuring she always felt fiercely protected from anyone's stares. *(See [fallon-glenda-rio-beach-shield-scene-outline.md](fallon-glenda-rio-beach-shield-scene-outline.md))*
   - **Charlie's Role:** Lÿsa Mandy is later raised, adopted, and fiercely loved by Charlie as his own daughter, erasing the shadow of her creepy biological father.
   - **Education:** **Sacred Heart School, San Francisco** (Schools of the Sacred Heart, San Francisco), alongside her younger sisters.
+  - **Education:** Lÿsa Mandy and Samantha attend **Oregon State University** first, where they are assigned to the same dormitory room. Lÿsa Mandy chooses Oregon State at sixteen through a linear decision-making process shaped by her Asperger Syndrome after touring OSU, USC, and Michigan State, then going to French Woods after the Michigan State tour.
+  - **Adult Home:** **Hawaii**.
+  - **Career:** **Zoologist** studying dolphins.
+  - **Partner:** **Samantha**, her girlfriend; Samantha is a **computer programmer**.
+  - **Children with Samantha:** **Malcom Jacoby** (age **ten**) and **Stephanie Maddison** (age **four**).
 
 - **Rebecca Brazilia Key** — daughter of Fallon Glenda and Charlie; **identical twin** of Charlie Janya. Born when Lÿsa Mandy is **eleven years old** (Fallon Glenda and Charlie are both about **twenty-four**). She and her twin are the first children Fallon Glenda and Charlie have together.
   - **Name Note:** Her middle name, **Brazilia**, honours **Rio de Janeiro, Brazil** — the place where Fallon Glenda's story as a mother began. The family carries Rio's hardest chapter forward as something reclaimed rather than hidden, in keeping with the Key family rule of facing the truth with love.
@@ -67,7 +72,7 @@ This repository folder contains the core profiles and milestone scene outlines f
   - **Name Note:** Her first name, **Charlie**, is shared with her father — the man who chose Fallon Glenda and Lÿsa Mandy, and then built a family with them.
   - **Education:** **Sacred Heart School, San Francisco**, alongside her sisters.
 
-- **Calida Dawn Key** — daughter of Fallon Glenda and Charlie; their youngest. Born when Lÿsa Mandy is **sixteen years old** (Fallon Glenda and Charlie are both about **twenty-nine**, and her twin sisters Rebecca Brazilia and Charlie Janya are **five**). She is the third and final child Fallon Glenda and Charlie have together.
+- **Calida Dawn Key** — daughter of Fallon Glenda and Charlie; their **fourth daughter** and youngest. Born when Fallon Glenda and Charlie are **thirty-one years old** (Lÿsa Mandy is about **eighteen**, and her twin sisters Rebecca Brazilia and Charlie Janya are about **seven**). She is the third child Fallon Glenda and Charlie have together, and the fourth daughter in their household.
   - **Education:** **Sacred Heart School, San Francisco**, alongside her older sisters.
 
 ---
@@ -101,6 +106,12 @@ Fallon Glenda rides horses. Growing up in the rural estate country around **Carl
 ---
 
 # FALLON GLENDA & CHARLIE — RELATIONSHIP NOTES
+
+## Piper
+
+- **Piper** — Fallon Glenda’s romantic girlfriend. Fallon does not know Piper at the time of her divorce from Charlie. Four months after the divorce, Piper is hired by the hospital where Fallon Glenda works. During Fallon’s hospital shifts, Lÿsa Mandy is attending school and then Dance Club while Rebecca Brazilia and Charlie Janya are home with Charlie; this is Lÿsa Mandy’s last Dance Club because she graduates Grade Eight in two weeks, reinforcing that Charlie’s fatherhood remains active after the divorce. Piper is an **operation nurse**, and she and Fallon first truly meet while working on the emergency surgery of a child injured in a car accident. She later becomes part of Fallon and Charlie’s adult family support structure and accompanies Fallon and Charlie when they take sixteen-year-old Lÿsa Mandy on zoology university tours to Oregon State University, USC, and Michigan State University.
+
+
 
 ## The Meeting in the Park (Fallon Glenda 16, Charlie 17)
 
@@ -136,10 +147,10 @@ Because of this, **Mike Key became Charlie's ultimate mentor**. Mike didn't teac
 
 | Child | Relationship to Charlie | Twin | Birth Timing |
 | --- | --- | --- | --- |
-| **Lÿsa Mandy Key** | Social/legal daughter (adopted & raised by Charlie) | — | Born when Fallon Glenda is **13** (at **McMaster Children's Hospital**, Hamilton, ON) |
+| **Lÿsa Mandy Key** | Social/legal daughter (adopted & raised by Charlie) | — | Born when Fallon Glenda is **13** (at **McMaster Children's Hospital**, Hamilton, ON); attends **Oregon State University** first and is assigned to the same dormitory room as Samantha; adult zoologist in **Hawaii**, studying dolphins; girlfriend **Samantha**; children **Malcom Jacoby** (10) and **Stephanie Maddison** (4) |
 | **Rebecca Brazilia Key** | Biological daughter | Identical twin of Charlie Janya | Born when Lÿsa Mandy is **11** (Fallon Glenda & Charlie are ~**24**) |
 | **Charlie Janya Key** | Biological daughter | Identical twin of Rebecca Brazilia | Born when Lÿsa Mandy is **11** (Fallon Glenda & Charlie are ~**24**) |
-| **Calida Dawn Key** | Biological daughter | — | Born when Lÿsa Mandy is **16** (Fallon Glenda & Charlie are ~**29**; twins are **5**) |
+| **Calida Dawn Key** | Biological daughter | — | Fourth daughter; born when Fallon Glenda & Charlie are **31** (Lÿsa Mandy ~**18**; twins ~**7**) |
 
 ### The Twins' Arrival
 
@@ -149,11 +160,18 @@ The naming carries the family's signature blend of honesty and tenderness: **Reb
 
 ### Calida Dawn — The Youngest
 
-When **Lÿsa Mandy is sixteen years old**, Fallon Glenda and Charlie have a third daughter, **Calida Dawn Key.** By now the household holds three generations of the family's story: a teenage Lÿsa Mandy on the cusp of adulthood, five-year-old identical twins Rebecca Brazilia and Charlie Janya, and a new baby. Fallon Glenda — who became a mother at thirteen in the hardest possible way — is now twenty-nine, raising four daughters across a thirteen-year span inside the steady, chosen fatherhood Charlie built with Mike Key's example. Calida Dawn is born into a family where the truth is always told in love, and where being wanted is never in question.
+When **Fallon Glenda and Charlie are thirty-one years old**, they have their fourth daughter, **Calida Dawn Key**. By now the household holds three generations of the family's story: Lÿsa Mandy is about eighteen, the identical twins Rebecca Brazilia and Charlie Janya are about seven, and a new baby enters a home already shaped by years of chosen fatherhood and deliberate truth-telling. Fallon Glenda — who became a mother at thirteen in the hardest possible way — is now thirty-one, raising four daughters across an eighteen-year span inside the steady, chosen fatherhood Charlie built with Mike Key's example. Calida Dawn is born into a family where the truth is always told in love, and where being wanted is never in question.
 
 ### Education — Sacred Heart School, San Francisco
 
 Fallon Glenda and Charlie's daughters attend **Sacred Heart School in San Francisco** (the **Schools of the Sacred Heart, San Francisco** — the Catholic independent campus that includes Convent & Stuart Hall). All four girls — **Lÿsa Mandy, Rebecca Brazilia, Charlie Janya, and Calida Dawn** — are educated there.
+
+
+### Lÿsa Mandy and Samantha — Hawaii
+
+Lÿsa Mandy Key and Samantha attend **Oregon State University** first and are assigned to the same dormitory room. As adults, **Lÿsa Mandy Key** and Samantha live in **Hawaii**. Lÿsa Mandy is a **zoologist** studying dolphins, extending her lifelong sensitivity, observation, and love of animals into a scientific vocation. Her girlfriend **Samantha** is a **computer programmer**. Together, Lÿsa Mandy and Samantha have two children: **Malcom Jacoby**, age **ten**, and **Stephanie Maddison**, age **four**.
+
+This makes Fallon Glenda and Charlie grandparents through their eldest daughter while their younger daughters’ arcs continue through Sacred Heart, university, and adult life.
 
 This places Fallon Glenda's branch squarely inside the family's **Sacred Heart thread** — the same global network of Sacred Heart schools that educates her nieces on both coasts:
 
@@ -167,14 +185,14 @@ Halifax, New York, and now San Francisco: three Key-family households, three cit
 
 **Fallon Glenda and Charlie both attend Stanford University** (Stanford, California — in the Bay Area, about an hour south of San Francisco, where the family is based). The two of them — who met as teenagers in Carlisle and built a life together — go through university as a couple.
 
-They are **eighteen (Charlie) and seventeen (Fallon Glenda)** when they move to Stanford. The ages differ only because of their birthdays within the same school year — **Charlie's is in February** (so he has already turned eighteen), while **Fallon Glenda's is in December** (so she is still seventeen until later that year). This is the move that takes the family from Ontario to California: by this point Fallon Glenda is already a mother to **Lÿsa Mandy** (who is about **five**), and the move to the Bay Area lands several years *before* the twins (Fallon at 24) and Calida Dawn (Fallon at 29) are born. So the order of events for this branch is: meet in Carlisle as teens → move to Stanford at 18/17 → build their adult life in the Bay Area → the twins, then Calida Dawn.
+They are **eighteen (Charlie) and seventeen (Fallon Glenda)** when they move to Stanford. The ages differ only because of their birthdays within the same school year — **Charlie's is in February** (so he has already turned eighteen), while **Fallon Glenda's is in December** (so she is still seventeen until later that year). This is the move that takes the family from Ontario to California: by this point Fallon Glenda is already a mother to **Lÿsa Mandy** (who is about **five**), and the move to the Bay Area lands several years *before* the twins (Fallon at 24) and Calida Dawn (Fallon at 31) are born. So the order of events for this branch is: meet in Carlisle as teens → move to Stanford at 18/17 → build their adult life in the Bay Area → the twins, then Calida Dawn.
 
 **The Move Is a Road Trip (Route 66, ~2050):** They make the Ontario → California relocation as a **cross-country road trip built around historic Route 66** — Fallon Glenda, Charlie, and five-year-old Lÿsa Mandy, driving the whole way together (summer ~2050). After crossing at Detroit they begin with a few slow days on **Mackinac Island, Michigan** (a car-free, ferry-only northern detour), then head to **Chicago** to pick up the Mother Road (marking the start with a family breakfast at **Chicago Waffles**), run it all the way to **Los Angeles**, and drive **north to Stanford**. Along the way they spend **five days at the Grand Canyon** (the trip's longest stop and emotional centerpiece), pause at a beautiful **Missouri treehouse** (the Whispering Oaks Treehouse — a sensory-grounding daytime stop written for Lÿsa Mandy), and stop in **Los Angeles** to see Fallon's sister **Rachel Darcy**, Antoine (still living), and their houseful of young cousins. It is the first big journey of their adult life as a chosen family: a joyful, forward-facing counterweight to the trauma-shadowed border crossings of Fallon's Rio years, and an extension of Charlie's "he stayed" devotion across an entire continent. *(See [cross-country-road-trip-to-stanford-scene-outline.md](cross-country-road-trip-to-stanford-scene-outline.md).)*
 
 * **Fallon Glenda** is pursuing a path toward becoming a **doctor (physician)**. It is a fitting trajectory for her branch of the saga: she grew up at the center of the family's hardest medical and protective moments (her own Rio pregnancy and rescue, the family's wider history with illness and disability), and she carries her father Mike's drive to be the person who steps in and helps. Her specific field of medicine is still open.
 * **Charlie** also attends **Stanford**. His intended career is **not yet established** — left open below.
 
-> **Note on timeline:** Moving to Stanford at 18/17 means the couple begins their adult Bay Area life early, with toddler-aged Lÿsa Mandy in tow, and the twins and Calida Dawn arrive later. How Fallon Glenda's long medical training (undergrad → medical school → residency) is spaced around the births of the twins (Fallon at 24) and Calida Dawn (Fallon at 29) is left open below.
+> **Note on timeline:** Moving to Stanford at 18/17 means the couple begins their adult Bay Area life early, with toddler-aged Lÿsa Mandy in tow, and the twins and Calida Dawn arrive later. How Fallon Glenda's long medical training (undergrad → medical school → residency) is spaced around the births of the twins (Fallon at 24) and Calida Dawn (Fallon at 31) is left open below.
 
 > **Note on the ages:** Because **Charlie's birthday is in February** and **Fallon Glenda's is in December**, Charlie is about ten months older and reaches each age first. At the Carlisle Park meeting, Lÿsa Mandy is three — which fixes Fallon Glenda at **sixteen** (she became a mother at thirteen), with Charlie already **seventeen**. By the move to Stanford, Charlie is **eighteen** and Fallon Glenda is **seventeen** (until that December). They remain the same school-year cohort throughout.
 
@@ -198,7 +216,7 @@ They are **eighteen (Charlie) and seventeen (Fallon Glenda)** when they move to 
 - [x] Move to Stanford: they move there at **eighteen (Charlie) and seventeen (Fallon Glenda)** — same school-year cohort, ages differing only by birthday (Charlie February, Fallon Glenda December). Ontario → California move; Lÿsa Mandy is ~5, well before the twins/Calida Dawn.
 - [x] The move is made as a **cross-country road trip along Route 66** — Fallon Glenda, Charlie, and 5-year-old Lÿsa Mandy drive Ontario → Detroit → (2–3 days on **Mackinac Island**) → Chicago → (Route 66) → Los Angeles → Stanford, with an LA stop at Rachel Darcy & Antoine's. *(See `cross-country-road-trip-to-stanford-scene-outline.md`.)*
 - [x] Birthdays / age gap: **Charlie's birthday is in February; Fallon Glenda's is in December** (Charlie ~10 months older). This keeps the "same year / meet at sixteen" framing fully consistent.
-- [x] Additional children of Fallon Glenda and Charlie: **identical twin daughters Rebecca Brazilia Key and Charlie Janya Key**, born when Lÿsa Mandy is eleven (Fallon Glenda and Charlie both twenty-four); and **Calida Dawn Key**, born when Lÿsa Mandy is sixteen (Fallon Glenda and Charlie both twenty-nine).
+- [x] Additional children of Fallon Glenda and Charlie: **identical twin daughters Rebecca Brazilia Key and Charlie Janya Key**, born when Lÿsa Mandy is eleven (Fallon Glenda and Charlie both twenty-four); and **Calida Dawn Key**, their fourth daughter, born when Fallon Glenda and Charlie are thirty-one.
 - [ ] Exact calendar dates of birth for the twins; birth order between Rebecca Brazilia and Charlie Janya.
 - [ ] Distinguishing details for the identical twins (since they are identical) — personalities, who-is-who markers, any medical/neurodivergence notes.
 - [x] Daughters' schooling: all four attend **Sacred Heart School, San Francisco**, placing the branch inside the family's Sacred Heart network (Halifax / NYC / San Francisco).

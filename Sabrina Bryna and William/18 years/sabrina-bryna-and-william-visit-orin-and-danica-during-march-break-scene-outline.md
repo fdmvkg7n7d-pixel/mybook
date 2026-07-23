@@ -16,7 +16,7 @@
   - **Roberta Katherine Key** — 8 years old (twin of William Jr.).
   - **William Timothy Junior Key** — 8 years old (twin of Roberta).
 - **Explicitly Absent Sibling:**
-  - **Carlota Delicia Key** — 23 years old. Carlota does **not** live with Sabrina Bryna and William at the Vaughan mansion. She lives in Orlando, Florida, with her partner Keith Holiday and their nine-month-old baby Madeleine Jaycee Holiday Key, while attending UCF's Rosen College of Hospitality Management. Her absence from this trip is standard and expected, as she has established her own independent adult life in Florida.
+  - **Carlota Delicia Key** — 24 years old. Carlota does **not** live with Sabrina Bryna and William at the Vaughan mansion. She lives in Orlando, Florida, with her partner Keith Holiday and their nine-month-old baby Madeleine Jaycee Holiday Key, while attending UCF's Rosen College of Hospitality Management. Her absence from this trip is standard and expected, as she has established her own independent adult life in Florida.
 
 ---
 
@@ -94,7 +94,7 @@ This scene coordinates the high-stakes moment where Orin's secret relationship w
   - Orin is 19 (McGill second-year), Danica is 17 (having turned 17 on Feb 14).
   - Taylor Raven and Sun-Young "Liz" are approximately 14 years old.
   - Roberta Katherine and William Timothy Jr. are approximately 8 years old.
-  - Carlota Delicia and Keith are 23 years old, living in Orlando with their nine-month-old daughter Madeleine Jaycee Holiday Key.
+  - Carlota Delicia and Keith are 24 years old, living in Orlando with their nine-month-old daughter Madeleine Jaycee Holiday Key.
 - **Linguistic and Disability Accommodations:**
   - Maintains Sabrina's spastic diplegia CP presentation: requiring custom pelvic-stabilizing chairs in the study and William's touch counter-pressure, but **she does not need anything to help her walk** and refuses crutches, canes, or wheelchairs.
   - Emphasizes ASL as the native language of Sabrina's maternal authority, with Orin acting as a translator and Danica demonstrating her first clumsy, endearing fingerspelled efforts.

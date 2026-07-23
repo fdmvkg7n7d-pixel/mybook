@@ -86,14 +86,14 @@ The Toronto portion includes three clear family outings that give the girls a li
 
 ### 3A — The CN Tower
 - Patti Anne deliberately takes the girls to the CN Tower because it belongs to the Toronto inheritance she wants them to know.
-- The visit also quietly echoes an earlier family memory: years ago, when **Gamaliel Galvin and Klára were seven**, Patti Anne had tried to take them to the CN Tower and then to a famous Toronto spaghetti house, but **Klára became very nervous while they were at the tower** and the day took on a different emotional shape.
+- The visit also quietly echoes an earlier family memory: years ago, when **Gamaliel Galvin and Klára were seven**, Patti Anne had taken them to the CN Tower and then to **The Spaghetti Factory**, but **Klára became very nervous while they were at the tower and was very nervous to eat at The Spaghetti Factory afterward**; the day took on a different emotional shape.
 - Patti Anne carries that memory privately on this outing. She does not burden the girls with it, but the reader can feel the long line: the grandmother returning with the next generation to the same city landmark under easier conditions.
 - Klárka is visibly excited by the height, the glass, the scale, and the city spread below.
 - Simonka is fascinated too, but she is more interested in the feeling of seeing a whole city from above — the pattern of streets, the tiny moving lives, the way distance changes proportion.
 - Patti Anne keeps the outing calm and unpressured. Nobody is forced onto any glass floor before they are ready.
 
 ### 3B — The Famous Spaghetti House
-- After the CN Tower, Patti Anne and Aleksander take the girls to the **famous spaghetti house in Toronto** that has already become part of family memory because of the earlier attempted outing with seven-year-old Gamaliel and Klára.
+- After the CN Tower, Patti Anne and Aleksander take the girls to **The Spaghetti Factory**, which has already become part of family memory because of the earlier outing with seven-year-old Gamaliel and Klára.
 - This time the meal is easy, warm, and successful.
 - Patti Anne notices the private sweetness of getting to complete, with the granddaughters, a Toronto family outing that had once been interrupted by a little girl's nervous system overwhelming her.
 - Klárka is enthusiastic and immediate about the food.
@@ -278,7 +278,7 @@ This is useful because it lets Simonka say something true before she has a whole
 - [x] Family-oriented naturist camp near Montreal — **La Pommerie**
 - [x] This trip becomes a recurring remembered childhood summer later in the Simonka or Klárka files
 - [ ] Exact year
-- [ ] Name / handling of the famous Toronto spaghetti house Patti Anne once tried to take seven-year-old Gamaliel and Klára to after the CN Tower
+- [ ] Name / handling of the restaurant resolved: **The Spaghetti Factory**, the restaurant connected to seven-year-old Klára being very nervous and eighteen-year-old Klárá later choosing it for her birthday
 
 ---
 

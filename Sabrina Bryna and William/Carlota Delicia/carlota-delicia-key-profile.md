@@ -21,6 +21,7 @@
 - **Traits:** [TBD]
 - **Relationship:** **Keith Holiday** — they **meet in their grade eight class** at Everest Academy, where they become friends. They **start dating at the end of their grade ten year**. On their tenth date, Carlota tells Keith the full truth about her kidnapping by Carlos — the forty-two months, the broken ASL, the exploitation in Tijuana. Keith listens. He doesn't flinch. He tells her that what happened to her doesn't define her. He stays. **Keith attends the same university as Carlota in Orlando, Florida, and takes the same major** (Hospitality Management at UCF's Rosen College) — they make the move together after high school with a shared plan to work for **Walt Disney Imagineering**.
 - **Residence (university):** Sabrina Bryna and William buy a **mansion in Orlando** for Carlota and Keith to live in while she attends university. Living in a dormitory would have been too emotionally difficult for Carlota after everything she endured — the noise, the unfamiliar faces, the lack of privacy and safety. The mansion gives her a quiet, secure home of her own. **Carlota and Keith live together in the Orlando mansion** throughout their university years — same school, same major, same home — **but they sleep in separate bedrooms.** Keith deeply respects Carlota and what she has survived. He has decided that he will never pressure her or come into her room — **if and when she is ready, she will come into his bedroom on her own terms.** That choice is hers alone.
+- **Daughter with Keith:** **Madeleine Jaycee Holiday Key**. Carlota Delicia and Keith are **twenty-four years old** when they have Madeleine Jaycee. She is six months old during Orin Lorin Junior's Christmas call and nine months old during her first Gulf of Mexico beach trip.
 - **Career Plan:** Both Carlota and Keith aim to work at **Walt Disney Imagineering** after graduation — the creative engine of The Walt Disney Company that designs and builds the parks, attractions, and resorts. The Rosen College program, combined with the **Disney College Program** and Imagineering internships, is one of the most direct pipelines into that division.
 
 ---
@@ -31,8 +32,12 @@
 |---|---|---|
 | **Carlota Delicia Key** | UCF student (Rosen College, Hospitality Management) | Her own bedroom |
 | **Keith Holiday** | UCF student (Rosen College, Hospitality Management) — Carlota's boyfriend (met in grade eight, dating since the end of grade ten) | His own bedroom |
+| **Adelisa** | Keith's stepsister. Lives with Carlota Delicia and Keith because she has **Juvenile Arthritis** and needs an accessible, safe household. | Accessible ground-floor suite / bedroom |
+| **Caesarius** | Adelisa's son. **Deaf too.** Lives with his mother in Carlota and Keith's Orlando mansion. | With Adelisa / child room near her |
 
 The mansion was purchased and furnished by **Sabrina Bryna Key and William** before Carlota and Keith arrived in Orlando. Carlota and Keith share the home but **sleep in separate bedrooms** — Keith's decision, out of respect for everything Carlota survived (see Keith's profile and the *University Years* section below).
+
+**Adelisa and Caesarius in the Orlando mansion:** Keith's stepsister, **Adelisa**, and her son **Caesarius** live with Carlota Delicia and Keith because Adelisa has **Juvenile Arthritis** and needs a safe, accessible household. Caesarius is **deaf too**, so the home also needs visual / signing access and a family culture that treats Deafness as ordinary rather than isolating.
 
 ---
 
@@ -46,7 +51,7 @@ Carlota Delicia has **five half-siblings** — Sabrina Bryna's children with Wil
 | 2 | Roberta Katherine Key | Biological child. Twin of William Timothy Junior. |
 | 3 | William Timothy Junior Key | Biological child. Twin of Roberta Katherine. |
 | 4 | Orin Lorin Junior | Nephew of William. Parents died in a house fire. |
-| 5 | Sun-Young "Liz" | Foster child. |
+| 5 | Sun-Young "Liz" | Former foster child; adopted daughter after Christmas Day adoption papers at age sixteen. |
 
 ---
 
@@ -129,7 +134,7 @@ The nights before the interviews, neither of them sleeps well. Keith stays in hi
 - **Taylor Raven:** Younger half-sister. Taylor is frightened of Carlota and avoids her, which deeply hurts Carlota.
 - **Roberta Katherine, William Timothy Junior, Orin Lorin Junior, Sun-Young "Liz":** Her other four siblings.
 - **Pandora Paige Key (Cousin):** The one who found her. Pandora did NOT introduce herself in Tijuana — she photographed Carlota secretly and sent the image to Sabrina.
-- **Devon Smythson:** The nanny. Carlota saw her father kissing Devon at age three and told her mother. Devon stayed on after the split.
+- **Devon Smythson:** The nanny. Carlota saw her father kissing Devon at age three and told her mother. Devon stayed on after the split. Devon has her own bedroom at Sabrina Bryna's Vaughan mansion and does not need to leave when the household needs overnight support.
 - **Keith Holiday:** Carlota's boyfriend. They meet in their **grade eight class** at Everest Academy and **start dating at the end of their grade ten year**. On their tenth date, she tells him everything about the kidnapping. He stays. **He attends the same university and same major as Carlota — UCF's Rosen College of Hospitality Management in Orlando. They live together in the Orlando mansion but sleep in separate bedrooms** out of his respect for her. They both pursue **Walt Disney Imagineering** internships after graduation. Keith's parents are both dentists. **See the KEITH HOLIDAY section below for his full profile.**
 
 ---
@@ -214,6 +219,9 @@ The night before the interviews, he barely sleeps. He stays in his bedroom. Acro
 ---
 
 ## OPEN ITEMS
+
+- [ ] **Adelisa / Caesarius details:** Adelisa is Keith's stepsister; she has Juvenile Arthritis and lives with Carlota Delicia and Keith with her son Caesarius. Caesarius is deaf too. Decide ages, full names, signing language, and how the Orlando household accommodates them.
+
 
 - [ ] Carlota Delicia's life during the forty-two months — schooling, hiding, what Carlos told her.
 - [ ] Her condition when found.

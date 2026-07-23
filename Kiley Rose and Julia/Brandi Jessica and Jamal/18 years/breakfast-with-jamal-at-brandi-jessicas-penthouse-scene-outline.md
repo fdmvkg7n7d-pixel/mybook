@@ -351,7 +351,7 @@ Breakfast is also the family’s final shared meal before everyone leaves Las Ve
 - **Interfaith development:** The couple begins learning how to share Catholic and Muslim lives without requiring constant participation from one another.
 - **Family development:** Kiley Rose moves from being willing to know Jamal to admitting that she is beginning to like him.
 - **Kiley Rose and Julia:** They fly from Las Vegas to **Panama City** that day.
-- **Pandora Paige:** She flies from Las Vegas to **Los Angeles** that day rather than returning directly to Abu Dhabi.
+- **Pandora Paige:** She flies from Las Vegas to **Los Angeles** that day rather than returning directly to Saudi Arabia.
 - **Brandi Jessica and Jamal:** Jamal takes Brandi to **Reno** to see his parents as soon as the airport goodbyes are complete.
 - **Immediate family thread:** Jamal’s parents know Brandi is coming but have not heard the full truth about Mohammed. Brandi and Jamal will tell them together in Reno.
 - **Next scene:** `jamal-takes-brandi-jessica-to-see-his-parents-in-reno-scene-outline.md`.

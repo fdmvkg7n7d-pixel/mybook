@@ -6,9 +6,9 @@
 - **Birth Year:** ~2055
 - **Parents:** Jessica Isabella Key (biological mother) and Emma Fritz (co-mother)
 - **Siblings:** Samira Chaka Key (older sister, twin to Sahara) and Sahara Hannan Key (older sister, twin to Samira)
-- **Donor:** Dr. Rémi Arsenault (Acadian-French Canadian neurosurgeon, chosen after a five-month arrangement that ended beautifully and firmly)
+- **Biological father / donor:** Dr. Rémi Arsenault (Acadian-French Canadian neurosurgeon, chosen after a five-month arrangement that ended beautifully and firmly). In the boys' later childhood/adolescent continuity, Rémi is referred to as their father and shows up for them as such.
 - **Location:** Halifax, Nova Scotia (South End, Key-Fritz mansion)
-- **School:** **Armbrae Academy** (Located on Oxford Street, adjacent to Dalhousie University, highly convenient for their mothers' surgical schedules. Mrs. Patterson is their beloved Junior Primary/Kindergarten teacher.)
+- **School:** Early childhood / Junior Primary at **Armbrae Academy** in Halifax (located on Oxford Street, adjacent to Dalhousie University, highly convenient for their mothers' surgical schedules; Mrs. Patterson is their beloved Junior Primary/Kindergarten teacher). By the sixteen-year-old Vancouver/Tokyo continuity, the twins attend **Saint George School** in Vancouver.
 
 ## The Twin Dynamic
 Eliot and Kalvin represent the "Twin Mirror." They grow up in a house where the most powerful bond they witness—before their mothers' marriage—is the bond between their older sisters, Samira and Sahara. Eliot and Kalvin absorb this twinship as an inheritance and a physical grammar.
@@ -34,3 +34,5 @@ Eliot and Kalvin represent the "Twin Mirror." They grow up in a house where the 
 
 ---
 *Note: Add further chronological beats here as the boys grow in the saga.*
+### Age 16 — Washington, DC Christmas with Samira / Tokyo New Year Visit
+- Eliot David and Kalvin LaMarcus travel with Jessica Isabella and Emma to visit Samira Chaka and Andrei in **Vladivostok for Christmas first**. After that Christmas visit, they fly through / stop in **Tokyo** for **New Year's Eve**. Their father, **Dr. Rémi Arsenault**, flies to Tokyo to be with his sons for **New Year's Day**; the boys stay in Tokyo with him for a week while Jessica Isabella and Emma fly back to Vancouver; on the seventh day, Rémi flies home with them on a same-day time-zone flight, leaving Tokyo at 10:00 p.m. and arriving in Vancouver at 2:45 p.m. the same day; the next day, Rémi leaves the twins with Jessica Isabella and Emma. The boys attend **Saint George School** in Vancouver. See `../18 years/jessica-emma-eliot-kalvin-vladivostok-christmas-tokyo-new-years-samira-family-visit-scene-outline.md`.

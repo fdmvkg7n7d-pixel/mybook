@@ -140,3 +140,43 @@
   - The botanical and landscaping challenge of restoring the Rose Garden, working alongside **Chloë (Chlo0235)** to source historic records, replant the iconic crabapple trees, and recreate the lush, vibrant floral designs of Bunny Mellon's original 1962 layout.
   - The emotional centerpiece: a grand, exclusive opening gala in the restored East Colonnade and the pristine, blooming Rose Garden hosted by **Chloë, Paris, and Brayden**, showcasing the family's dedication to preserving the cultural, architectural, and natural heritage of the nation's capital.
 - **Themes**: Historic preservation, national legacy, public service, botanical restoration, and the intersection of family artistry with the highest levels of federal prestige.
+
+### Ewing Sarcoma / Ewing's Sarcoma Medical Arc
+- **Concept:** A serious child / teen / young-adult cancer storyline involving **Ewing sarcoma** (often informally called **Ewing's Sarcoma**). This can be used for a character whose symptoms begin as bone pain, limping, swelling, chest/rib pain, or what first appears to be a sports / dance injury.
+- **Best character fit:** A child, teenager, dancer, athlete, or young adult. Ewing sarcoma is especially useful for a young character because it most commonly appears in children and adolescents.
+- **Possible locations in the body:** Pelvis, femur, tibia, ribs / chest wall, or soft tissue near bone. A rib / chest-wall tumor could connect strongly to breathing, dance, pain while moving, or fear around the torso.
+- **Narrative Arc:** What first looks like soreness, an injury, or a stubborn ache becomes a terrifying diagnosis. The family moves from practical concern to testing, imaging, biopsy, oncology consultation, chemotherapy, possible surgery and/or radiation, and the long disruption of school, ballet, sport, travel, or ordinary family life.
+- **Plot Points:**
+  - Persistent pain that does not resolve with rest.
+  - A parent or teacher noticing the child is compensating physically.
+  - Imaging and biopsy leading to the diagnosis.
+  - A family meeting with oncology where the treatment plan is explained.
+  - Chemotherapy cycles, hair loss / fatigue / infection precautions, and the emotional reality of hospital routines.
+  - Surgery and/or radiation depending on tumor location.
+  - School / academy accommodations, friends learning how to visit, and family members rotating hospital support.
+  - A recovery / remission milestone that is joyful but not simple.
+- **Medical tone notes:** Treat it as a serious, high-weight diagnosis. Do not make it a quick illness. Treatment is typically months long and emotionally exhausting, often involving chemotherapy plus local control with surgery and/or radiation.
+- **Themes:** Childhood vulnerability, the body as a site of fear and resilience, family caregiving, medical uncertainty, the interruption of talent / school / dance, and the way ordinary life reorganizes around hospital time.
+- **Open choices:** Which character receives the diagnosis; exact age; tumor location; whether the arc ends in remission, recurrence, disability / long-term limitation, or death; which parent / sibling becomes the primary hospital anchor; whether this belongs in an existing medical thread or a new branch.
+
+### Shark Bite / Ocean Injury Arc
+- **Concept:** A dramatic ocean-injury storyline involving a **shark bite** during a beach, surfing, snorkeling, diving, swimming, or wading scene. The bite can be minor, serious, or life-threatening depending on the character and the emotional weight needed.
+- **Best character fit:** A swimmer, surfer, diver, child on vacation, teen testing independence in the ocean, or adult with a meaningful water / beach connection.
+- **Possible settings:** A tropical vacation, Hawaii, Florida, Brazil, Australia, South Africa, the Gulf of Mexico, a Caribbean island, or any coastal location where shark encounters are plausible.
+- **Narrative Arc:** What begins as an ordinary beach or ocean day turns suddenly frightening. The family must react fast: getting the character out of the water, applying pressure to the wound, calling emergency services, handling shock and blood loss, and facing surgery / stitches / infection risk / long recovery if the bite is serious.
+- **Plot Points:**
+  - A calm beach day before the incident, making the violence of the bite feel sudden.
+  - The character feeling something wrong in the water before anyone understands what happened.
+  - Family / lifeguards / strangers rushing to help.
+  - Emergency pressure on the wound and fast transport to hospital.
+  - Surgery or wound cleaning, stitches, antibiotics, possible reconstruction, and scar care.
+  - Family members dealing with guilt: *Should we have noticed? Should we have kept them closer?*
+  - The character's recovery, including fear of returning to water.
+  - A later healing scene where the character returns to the ocean, a pool, or even just stands near water again.
+- **Severity options:**
+  - **Minor but terrifying:** shallow bite, stitches, panic, lasting fear.
+  - **Serious but survivable:** deep tissue damage, surgery, scars, physical therapy.
+  - **Life-threatening:** major blood loss, emergency surgery, possible amputation risk, trauma for the whole family.
+- **Medical / realism notes:** Shark bites are rare; many are test bites or mistaken-identity bites rather than prolonged attacks. Bleeding control, shock management, wound cleaning, antibiotics, and infection monitoring matter. Saltwater exposure increases infection concerns.
+- **Themes:** The fragility of ordinary vacation joy, family panic, body trauma, fear of water, scars as memory, survival, and the long emotional work of returning to something once loved.
+- **Open choices:** Which character is bitten; exact location; severity; who rescues them; whether the bite affects dancing / swimming / modelling / athletics; whether the character later returns to the water or avoids it permanently.

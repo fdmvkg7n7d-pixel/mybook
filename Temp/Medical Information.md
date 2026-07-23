@@ -14,12 +14,12 @@ This document tracks the specific medical conditions, disabilities, and rare dia
 - **Genetic Link:** Brandi carries a constitutional pathogenic *RB1* variant that current canon establishes arose after the twins separated embryologically and is not present in Pandora. Brandi’s biological children follow the relevant testing and screening protocol.
 - **Treatment:** Brandi required bilateral enucleation because of her aggressive disease.
 
-### Juvenile Breast Carcinoma (Secretory Carcinoma)
+### Leukemia
 - **Affected Characters:** Sun-Young "Liz" Key
-- **Description:** An exceptionally rare form of breast cancer occurring in children and adolescents. It represents less than 0.1% of all breast cancers.
-- **Clinical Presentation:** Typically a slow-growing, painless, firm mass.
-- **Prognosis:** High survival rate with proper surgical intervention, though extremely rare and frightening for the patient and family.
-- **Significance:** This diagnosis was the reason Sun-Young was hospitalized at SickKids when she met Taylor Raven.
+- **Description:** Sun-Young is a survivor of childhood Leukemia.
+- **Treatment / Care:** She was treated through SickKids oncology care as a child.
+- **Survivorship Needs:** Long-term follow-up after treatment, with careful attention to unexplained symptoms, including lumps / swollen lymph nodes, fatigue, bruising, fever, or other possible relapse warning signs.
+- **Significance:** Leukemia is the reason Sun-Young was hospitalized at SickKids when she met Taylor Raven. When Sun-Young is ten and William takes her and Taylor Raven to South Korea, **Sun-Young finds a lump / swollen lymph node** during the trip. They are in the girls' bedroom at Sabrina's Seoul apartment. William asks Sun-Young if he can check the lump; Taylor Raven is in the room holding Liz's right hand. The moment is **very emotional**: Sun-Young is very nervous that Sabrina Bryna and William will not want to be her foster parents anymore. After the check, **William hugs Sun-Young to calm her down** while Taylor stays close, and William reassures Sun-Young that he and Sabrina Bryna still want her to be their foster daughter because they love her so much. The scene creates a relapse-scare thread that William takes seriously: he quickly calls one of his colleagues on the **twentieth day of the South Korea trip** and routes the situation into medical follow-up. That night at the mansion, **Devon Smythson has her own bedroom at the mansion and does not need to leave**; **Taylor Raven and Sun-Young sleep together for comfort** after the medical scare. The next morning, **Devon Smythson watches the twins** at Sabrina Bryna and William's mansion while Sabrina Bryna and William take Taylor Raven and Sun-Young to **SickKids / Toronto Sick Children's Hospital**. At SickKids, the ultrasound looks bad, and William and his colleague have a conversation outside the examination room. William tells the family that Sun-Young is required to have surgery sooner than later; his colleague is checking the schedule.
 
 ---
 

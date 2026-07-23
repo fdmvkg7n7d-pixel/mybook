@@ -161,7 +161,42 @@
 - Armella is still away.
 - But Rachel has heard Armella’s voice, and Armella sounded stronger.
 
-### Beat 12: The Triplets Have Many Questions
+### Beat 12: Terri Anne Makes Mike’s Favorite Dessert
+
+- After the call ends, Terri Anne sees what the call has cost Armella emotionally.
+- Armella is stronger, but she is still carrying a lot.
+- Terri Anne does not make a speech.
+- She goes into the kitchen and makes Mike’s favorite dessert for Armella Beatrice.
+- She makes a banana split with chocolate mint ice cream.
+- The dessert carries Mike’s old rules: chocolate mint in the middle, vanilla and strawberry on the sides, cold chocolate sauce, whipped cream piled too tall, two cherries, and no nuts.
+- Terri Anne does not present it as a reward for being good.
+- She presents it as family comfort.
+- Armella understands that this dessert belonged to Mike and that Terri Anne is sharing something from the deep family kitchen with her.
+- The banana split gives Armella a sweet, ordinary place to put the feeling after hearing Rachel’s relief and Kella’s happiness.
+- Terri Anne sits with her while she eats.
+- The moment says that Armella is accountable, but she is also still loved and still fed.
+
+### Beat 13: Terri Anne Tells Armella About Her Grandfather
+
+- While Armella eats, Terri Anne tells her about Mike Key, her grandfather.
+- Terri Anne does not turn the story into a lecture.
+- She tells Armella that the banana split was Mike’s favorite because he liked pleasure to be specific and generous.
+- She tells Armella about his chocolate mint rule and the two cherries.
+- She tells Armella that Mike believed children deserved the truth in words they could carry.
+- She tells Armella that Mike did not throw children away when they were complicated.
+- He expected truth.
+- He expected responsibility.
+- He also made room at the table.
+- Terri Anne says this carefully because she does not want Armella to mistake comfort for permission to avoid consequences.
+- Armella listens while eating the dessert that belonged to a grandfather whose family rules are still holding her.
+- She understands that Terri Anne is telling her about Mike because Mike’s way of loving the family still matters.
+- The story gives Armella another inheritance: not money, not reputation, but the expectation that love and accountability can sit at the same kitchen table.
+- Armella will remember this dessert.
+- Years later, she will make Mike’s banana split for her own future children.
+- When she makes it for them, she will follow the same rules Terri Anne taught her: chocolate mint in the middle, vanilla and strawberry on the sides, cold chocolate sauce, whipped cream piled too tall, two cherries, and no nuts.
+- The dessert becomes a way Armella carries Mike and Terri Anne’s family table forward into her own motherhood.
+
+### Beat 14: The Triplets Have Many Questions
 
 - After the call, the triplets have many questions.
 - Melissa Lizette, Marcos Eduarte, and Annabella Nicki have been waiting in the emotional weather of the house even if they were not part of the call.
@@ -188,7 +223,7 @@
 - Their questions show that Armella’s absence is not only Kella’s wound or Rachel’s burden.
 - The whole sibling group is trying to understand the new shape of the family.
 
-### Beat 13: Final Image
+### Beat 15: Final Image
 
 - The final image is Rachel holding the phone after the call ends and sitting with the triplets’ questions around her.
 - She is tired, but relieved.
@@ -213,6 +248,9 @@
 - The triplets’ questions should show that Armella’s absence affects the whole sibling group.
 - Rachel should answer the triplets honestly without giving them more than they can carry.
 - The promise of visiting Armella and Terri Anne before French Woods should give the triplets a concrete next step.
+- Terri Anne making Mike’s banana split for Armella after the call should show family comfort without erasing accountability.
+- Terri Anne telling Armella about Mike Key should connect Armella to her grandfather’s family values: truth, responsibility, and room at the table.
+- Armella eventually making Mike’s banana split for her future children should show the dessert becoming an inherited family ritual.
 - The scene should show that protective distance can be loving.
 
 ---
@@ -224,10 +262,14 @@
 - Establishes that Armella tells Rachel Darcy how school goes at Gulliver Preparatory School.
 - Establishes that Rachel Darcy is deeply glad to hear Armella Beatrice’s voice.
 - Establishes that Kella Nakeisha is so happy too to hear that Armella is growing stronger.
+- Establishes that after the call, Terri Anne makes Mike’s favorite dessert, a banana split with chocolate mint ice cream, for Armella Beatrice.
+- Establishes that Terri Anne tells Armella Beatrice about her grandfather Mike Key while Armella eats the dessert.
+- Establishes that Armella will later make Mike’s banana split for her future children.
 - Establishes that the triplets have many questions after Rachel’s call with Armella.
 - Establishes that before the triplets go to French Woods, they will visit Armella Beatrice and their grandmother Terri Anne.
 - Shows Rachel recognizing that the transition plan is working.
 - Sets up later scenes where Armella and Kella slowly reconnect from a safer distance.
+- Leads into **../Armella Beatrice and Sebastian/armella-joins-cheerleader-team-at-gulliver-scene-outline.md**, where Armella chooses the cheerleader team as her extracurricular activity at Gulliver.
 - Leads into **armella-thanks-terri-anne-after-gulliver-transition-scene-outline.md**, where Armella thanks Terri Anne for taking her in and helping her grow stronger.
 
 ---
@@ -239,6 +281,9 @@
 - Armella tells Rachel Darcy how school goes at Gulliver Preparatory School.
 - Rachel is deeply glad and relieved.
 - Kella Nakeisha is so happy too to hear that Armella is growing stronger.
+- After the call, Terri Anne makes Mike’s favorite dessert for Armella Beatrice.
+- Terri Anne tells Armella Beatrice about her grandfather Mike Key.
+- Armella will later make Mike’s banana split for her future children.
 - The triplets have many questions after the call.
 - Rachel tells the triplets that before they go to French Woods, they will visit Armella Beatrice and their grandmother Terri Anne.
 - Armella sounds stronger, grounded, and present, but not magically fixed.

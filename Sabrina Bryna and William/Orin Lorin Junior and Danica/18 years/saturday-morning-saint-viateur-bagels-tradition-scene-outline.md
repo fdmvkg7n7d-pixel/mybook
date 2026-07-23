@@ -13,7 +13,7 @@
 - **Sibling Presence (Traveling Group from Vaughan):**
   - **Taylor Raven Key** (14), **Sun-Young "Liz" Key** (14), **Roberta Katherine Key** (8), and **William Timothy Junior Key** (8).
 - **Explicitly Absent Sibling:**
-  - **Carlota Delicia Key** (23) — living independently in Orlando with her partner Keith and their nine-month-old daughter Madeleine Jaycee Holiday Key.
+  - **Carlota Delicia Key** (24) — living independently in Orlando with her partner Keith and their nine-month-old daughter Madeleine Jaycee Holiday Key.
 - **Tone:** Warm, domestic, ordinary, and deeply restorative. The transition from survival into established ritual.
 
 ---
@@ -107,7 +107,7 @@ This scene establishes Orin and Danica's cherished Saturday morning tradition—
   - Orin is 19 (McGill pre-med second-year), Danica is 17 (b. Feb 14, 2057).
   - Taylor Raven and Sun-Young "Liz" are approximately 14 years old.
   - Roberta Katherine and William Timothy Jr. are approximately 8 years old.
-  - Carlota Delicia and Keith are 23 years old, living independently in Orlando with their nine-month-old daughter Madeleine Jaycee Holiday Key.
+  - Carlota Delicia and Keith are 24 years old, living independently in Orlando with their nine-month-old daughter Madeleine Jaycee Holiday Key.
 - **Physical & Disability Accommodations:**
   - Sabrina Bryna walks completely independently without any crutches, canes, or wheelchairs. 
   - Maintains her spastic diplegia CP presentation only through her labored, asymmetrical gait and her comfort in custom ergonomic chairs.

@@ -7,12 +7,12 @@
 ## BASIC INFORMATION
 
 - **Full Name:** Larissa Leola Key-d'Aboville
-- **Position in Family:** First-born of seven, children of **Rachel Darcy Key** and **Antoine**
+- **Position in Family:** First-born of seven; eldest twin of **Armando Cortez Junior**; children of **Rachel Darcy Key** and **Antoine**
 - **Biological Mother (egg):** **Jessica Isabella Key** (Rachel's identical twin sister, who donated her eggs — *"a wonderful gift between sisters"*)
 - **Biological Father:** **Antoine d'Aboville** (Rachel's partner)
 - **Mother (in every way that counts):** **Rachel Darcy Key** — who could not carry a pregnancy herself (the shared reproductive system went to Jessica at their separation), and who built her family through her sister's egg donation and surrogacy
 - **Carried by:** **Alexis** (one of the three surrogates — Alexis, Jackie, and Bleu)
-- **Born:** Born ~2048, when Rachel and Antoine are **28**.
+- **Born:** Twin of Armando Cortez Junior. Larissa and Armando are **twenty-six years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays. Exact birth year TBD.
 - **Education:** [TBD]
 - **Religion:** [TBD — the Key family is Catholic]
 - **Traits:** [TBD]
@@ -21,9 +21,9 @@
 
 ## BIRTH & ORIGINS
 
-Born ~2048, when Rachel and Antoine are **28**. The eldest of the twins.
+Larissa Leola is the eldest of the twins, born the same day as Armando Cortez Junior.
 
-**Larissa Leola is a singleton** — one of the two eldest children, born before the identical twins and triplets. [Individual personality — TBD.]
+**Larissa Leola is one of the eldest twins** — one of the first two children, born before the identical twins and triplets. She and Armando are **twenty-six years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays. [Individual personality — TBD.]
 
 **How Larissa Leola came to be — the gift between sisters:** Larissa Leola is one of the seven children Rachel Darcy and Antoine built through an extraordinary act of family love. Rachel could not conceive or carry on her own. Her identical twin sister, **Jessica**, donated her eggs; Antoine is the biological father; and **three surrogates** carried the seven children to term. Biologically, Larissa Leola is Jessica's and Antoine's — but **Rachel is Larissa Leola's mother**, fully and without qualification. This also makes Larissa Leola a **biological half-sibling** (and social cousin) to Jessica's own daughters, **Samira Chaka and Sahara Hannan**. (See `characters/rachel-and-antoine/rachel-darcy-key-profile.md` for the full account.)
 
@@ -41,14 +41,14 @@ Born ~2048, when Rachel and Antoine are **28**. The eldest of the twins.
 
 Larissa Leola attends **River Way Ranch Camp** (Sanger, California), the premier co-ed overnight summer camp in the foothills of Sequoia/Kings Canyon National Parks. Family tradition since 1967, ACA-accredited, ages 7–16, with over 75 activities. A few hours' drive from the family's LA home — close enough to feel like theirs, far enough to be its own world.
 
-Larissa attends alongside **Armando Cortez Junior**, **Kella Nakeisha**, and **Armella Beatrice** — the four eldest. The triplets (Melissa, Marcos, Annabella) are at French Woods in New York; the two singletons and the two twins are here, in their own territory, on the western edge of the Sierras.
+Larissa attends alongside **Armando Cortez Junior**, **Kella Nakeisha**, and **Armella Beatrice** — the four eldest. The triplets (Melissa, Marcos, Annabella) are at French Woods in New York; the two eldest twins and the two younger identical twins are here, in their own territory, on the western edge of the Sierras.
 
-Larissa and Armella Beatrice are paired as a camp pair — the eldest singleton and one of the younger identical twins, crossing birth-order lines in a way camp makes natural and home does not.
+Larissa and Armella Beatrice are paired as a camp pair — the eldest twin and one of the younger identical twins, crossing birth-order lines in a way camp makes natural and home does not.
 
 **Larissa's Majors (3): horseback riding (Western), waterskiing, ropes course**
 
 - **Horseback riding (Western)** — Trail riding, ranch style. Larissa is the eldest daughter of a dancer, the first child of seven, and she chooses the thing that is least like the indoor, studio-bound world of her mother. Wide trails, dust, the Sierras in the distance. A horse that answers to her. She shares riding with Kella (who takes English — the formal version, the discipline), but Larissa wants the horse that goes where she steers it, not the one that follows a prescribed pattern. Connection to aunt Fallon Glenda, the Key sister who rides.
-- **Waterskiing** — Speed on the lake. The first-born, the one who went first into everything, takes the sport that requires you to hold on and trust the boat. She shares this with Kella — the eldest singleton and one of the twins, cutting across the wake.
+- **Waterskiing** — Speed on the lake. The first-born, the one who went first into everything, takes the sport that requires you to hold on and trust the boat. She shares this with Kella — the eldest twin and one of the twins, cutting across the wake.
 - **Ropes course** — High ropes, zip line, the challenge course in the trees. Larissa at the top of the course, looking down, is the eldest child learning that being first doesn't always mean being in charge.
 
 **Larissa's Minors (3): swimming, photography, hiking overnights**
@@ -63,7 +63,7 @@ Larissa and Armella Beatrice are paired as a camp pair — the eldest singleton 
 
 ### River Way — The Eldest Four's Territory
 
-River Way is where the four eldest — Larissa Leola, Armando Cortez Junior, Kella Nakeisha, and Armella Beatrice — become their own unit. At home, the seven children divide naturally into birth groups: the two singletons (~18 months apart), the identical twins, the triplets. At River Way, those lines blur. Larissa is paired with Armella; Armando with Kella. The singletons and the twins, remixed.
+River Way is where the four eldest — Larissa Leola, Armando Cortez Junior, Kella Nakeisha, and Armella Beatrice — become their own unit. At home, the seven children divide naturally into birth groups: the eldest twins, the younger identical twins, and the triplets. At River Way, those lines blur. Larissa is paired with Armella; Armando with Kella. The eldest twins and the younger identical twins, remixed.
 
 At the same time, the triplets are across the country at French Woods — a different camp, a different coast, a different philosophy. The four eldest do not go to French Woods. The triplets do not go to River Way. This is deliberate on Rachel and Antoine's part: each group gets a summer place that is theirs, not shared, not divided, not negotiated among seven.
 
@@ -72,6 +72,12 @@ At the same time, the triplets are across the country at French Woods — a diff
 ---
 
 ## FAMILY RELATIONSHIPS
+
+### Partner / Child
+
+- **Christopher** — Kaitlyn Holly's father. Christopher and Larissa Leola are separated, but he is a real father to Kaitlyn Holly and remains meaningfully involved in her life.
+- **Shaun** — Larissa Leola's second partner. Shaun is part of Larissa's household. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.
+- **Kaitlyn Holly** — Larissa Leola's daughter with Christopher. Kaitlyn Holly is **two years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays.
 
 ### Parents
 
@@ -104,9 +110,10 @@ At the same time, the triplets are across the country at French Woods — a diff
 
 ## KEY EVENTS / TURNING POINTS
 
-- **Birth:** Born ~2052, when Rachel and Antoine are **27**. The eldest.
+- **Birth:** Born as Armando Cortez Junior’s twin. Larissa and Armando are **twenty-six years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays.
 - **River Way Ranch Camp — first summer:** Attends alongside Armando, Kella, and Armella. Paired with Armella Beatrice. [Age and year TBD.]
 - **Death of Antoine (~2062):** Larissa Leola is **~14** when her father dies. She is the eldest — old enough to understand the full weight, old enough to watch her mother grieve, old enough to step toward her younger siblings in the silence Antoine leaves behind. She is not a second parent. She is a fourteen-year-old girl whose father is gone. But she is the first-born, and she carries that differently from the others. [How she holds this, what she does with it, and what it costs her TBD.]
+- **Kaitlyn Holly:** Larissa Leola has a daughter named **Kaitlyn Holly** with Christopher. Kaitlyn Holly is **two years old** in the autumn when Marcos Eduarte signs with the Toronto Blue Jays. Christopher and Larissa are separated, but Christopher is a real father to Kaitlyn Holly and remains part of her life. Shaun is Larissa's second partner and part of the household. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.
 - [Further life events TBD.]
 
 ---
@@ -115,7 +122,7 @@ At the same time, the triplets are across the country at French Woods — a diff
 
 Larissa Leola is one of the seven children at the heart of the saga's most profound act of love — the gift Jessica gave Rachel so that Rachel could be a mother. Like everyone in this family, Larissa Leola is proof of the same conviction: that family is not defined by biology alone, that love is what makes a parent, and that *"no one in this family does anything alone."*
 
-She is also the first to arrive. The eldest. The one who went into every room before anyone else — including the room where grief lives. At fourteen, she loses her father and gains something she didn't ask for: the knowledge that she is the one the younger ones look to when the ground shifts. She will spend the rest of her life deciding what to do with that.
+She is also the first to arrive. The eldest twin. The one who went into every room before anyone else — including the room where grief lives. At fourteen, she loses her father and gains something she didn't ask for: the knowledge that she is the one the younger ones look to when the ground shifts. She will spend the rest of her life deciding what to do with that.
 
 [Arc to expand as the saga develops — including Larissa Leola's individual personality, which is currently undefined.]
 

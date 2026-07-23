@@ -13,7 +13,7 @@
   - Taylor Raven Key (older sister)
   - Roberta Katherine Key (twin sister)
   - Orin Lorin Junior (older brother, nephew of William, raised as their own)
-  - Sun-Young "Liz" [Surname TBD] (older sister, foster child)
+  - Sun-Young "Liz" [Surname TBD] (older sister; former foster child, adopted daughter)
 - **Half-Sibling:** Carlota Delicia Key (Sabrina's daughter with Carlos Reyes)
 - **Birth Timing:** Born when Sabrina Bryna Key is approximately **thirty-eight**. Twin of Roberta Katherine.
 - **Residence:** Sabrina Bryna's **Vaughan mansion** (Vaughan, Ontario, north of Toronto).
@@ -40,7 +40,7 @@ William Timothy Junior and Roberta Katherine are twins. [TBD — What is their b
 
 ## FAMILY CONTEXT
 
-William Timothy Junior grows up in the Vaughan mansion as part of a large blended household with three biological siblings, an adopted brother (Orin Lorin Junior, orphaned by a house fire), a foster sister (Sun-Young "Liz"), and a half-sister (Carlota Delicia).
+William Timothy Junior grows up in the Vaughan mansion as part of a large blended household with three biological siblings, an adopted brother (Orin Lorin Junior, orphaned by a house fire), an adopted sister (Sun-Young "Liz", first fostered), and a half-sister (Carlota Delicia).
 
 ---
 

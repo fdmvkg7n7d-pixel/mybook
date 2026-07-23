@@ -5,7 +5,7 @@
 **POV:** Primarily Rachel Darcy Key (with shifts to Kella Nakeisha, Armella Beatrice, Fallon Glenda, and the triplets)
 **Tone:** Joy meeting grief. The triplets are happy — they see their cousins, their aunt, their uncle. They do not understand why they are here. Kella and Armella are very emotional — the twins break their silence, hug each other, and cry. Rachel holds everything.
 **Location:** **San Francisco** — Fallon Glenda and Charlie's home. Then the **limousine** to **San Francisco International Airport (SFO)**. Then the flight to **Atlanta, Georgia**, where Armella will enter residential treatment at **Skyland Trail**.
-**Ages:** Rachel Darcy is **~48.** Kella Nakeisha and Armella Beatrice are **~15.** The triplets (Melissa Lizette, Marcos Eduarte, Annabella Nicki) are **~9.** Fallon Glenda is **~39.** Charlie is **~39** (same school year as Fallon Glenda; Charlie's birthday is in February, Fallon Glenda's is in December). Fallon and Charlie's daughters: **Lÿsa Mandy** (~26), **Rebecca Brazilia** (~15), **Charlie Janya** (~15), **Calida Dawn** (~10).
+**Ages:** Rachel Darcy is **~48.** Kella Nakeisha and Armella Beatrice are **~15.** The triplets (Melissa Lizette, Marcos Eduarte, Annabella Nicki) are **~9.** Fallon Glenda is **~39.** Charlie is **~39** (same school year as Fallon Glenda; Charlie's birthday is in February, Fallon Glenda's is in December). Fallon and Charlie's daughters: **Lÿsa Mandy** (~26), **Rebecca Brazilia** (~15), **Charlie Janya** (~15), **Calida Dawn** (~8).
 **Time in saga:** ~2072 — after the family meeting, after the treatment facility has been chosen.
 
 ---
@@ -41,7 +41,7 @@ This scene is the **departure** — Rachel driving her five children to San Fran
 - **Charlie welcomes them.** He is steady, warm, present. He high-fives Marcos. He hugs the girls. He looks at Rachel and nods — the quiet acknowledgment of a man who knows what his sister-in-law is carrying.
 - **The cousins:** Rebecca Brazilia and Charlie Janya — Fallon Glenda's identical twins, fifteen years old, the same age as Kella and Armella — are there. They are Kella and Armella's cousins, born the same year. They know something has happened (their parents have told them something, at the level they can hold, or they have not — the author will decide). They are here, and they are welcoming their cousins.
 - **Lÿsa Mandy** — Fallon Glenda's eldest, ~26 — is there. She is the big cousin, the one who can help with the younger ones.
-- **Calida Dawn** — Fallon Glenda's youngest, ~10 — is there. She is close to the triplets' age. She is excited to have playmates.
+- **Calida Dawn** — Fallon Glenda and Charlie's fourth daughter, ~8 — is there. She is close to the triplets' age. She is excited to have playmates.
 
 **Thematic note:** The triplets' joy is the first thing the reader sees in this scene. They are nine years old, and they are so happy to see their cousins, their aunt, their uncle. They do not totally understand why they are here, and they do not need to. They are happy. And that happiness is real, and it is good, and it is the thing that makes the separation that is coming feel even harder.
 
@@ -154,7 +154,7 @@ This scene is the **departure** — Rachel driving her five children to San Fran
 
 - While the women are talking — while Fallon Glenda, Kella, Rebecca Brazilia, and Charlie Janya are in the living room, being emotional, holding each other — Charlie does what Charlie does. He takes the younger children out.
 - **Charlie takes Melissa Lizette, Marcos Eduarte, and Annabella Nicki to a San Francisco Giants game.** The triplets. Nine years old. They do not understand why they are in San Francisco. They do not understand why Kella is crying. They do not understand why Armella and Rachel left in a limousine. But they understand baseball. They understand hot dogs. They understand Uncle Charlie and the Giants and a day at the ballpark.
-- **Calida Dawn goes too.** Calida Dawn — Fallon Glenda's youngest, ~10, close to the triplets' age — goes with them. She is the playmate, the cousin, the girl who is close enough in age to be their friend and old enough to help Charlie manage three excited nine-year-olds at a baseball game.
+- **Calida Dawn goes too.** Calida Dawn — Fallon Glenda and Charlie's fourth daughter, ~8, close to the triplets' age — goes with them. She is the playmate, the cousin, the girl who is close enough in age to be their friend and old enough to help Charlie manage three excited nine-year-olds at a baseball game.
 - **The triplets are so happy.** They are at a Giants game! They are with Uncle Charlie! They are with Calida Dawn! They are eating hot dogs and drinking soda and cheering for the Giants and they are nine years old and they are happy and they do not understand why they are here and they do not need to.
 - **Dialogue cue (Marcos, at the game, excited):** "Uncle Charlie! Look! A home run!"
 - **Dialogue cue (Charlie, steady, warm):** "I see it, buddy. I see it."

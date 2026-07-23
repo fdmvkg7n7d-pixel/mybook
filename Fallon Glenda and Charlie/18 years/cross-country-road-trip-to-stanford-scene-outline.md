@@ -2,7 +2,7 @@
 
 **Characters:** Fallon Glenda (17), Charlie (18), and Lÿsa Mandy (~5). Cameo: Rachel Darcy, Antoine, and their children in Los Angeles.
 **Setting:** The open road across North America — from the Carlisle/Burlington area of Ontario, down to Chicago, along **historic Route 66** to Los Angeles, then north to Stanford, California (the Bay Area).
-**Timeframe:** **Summer ~2050** — the Ontario → California relocation for university. Charlie has already turned eighteen (February birthday); Fallon Glenda is still seventeen until that December. This lands years *before* the twins (Fallon at 24) and Calida Dawn (Fallon at 29) — and, importantly, **comfortably before Antoine's death (~2055)**, so the Los Angeles stop is a reunion with Antoine alive and the household full of young cousins.
+**Timeframe:** **Summer ~2050** — the Ontario → California relocation for university. Charlie has already turned eighteen (February birthday); Fallon Glenda is still seventeen until that December. This lands years *before* the twins (Fallon at 24) and Calida Dawn (Fallon at 31) — and, importantly, **comfortably before Antoine's death (~2055)**, so the Los Angeles stop is a reunion with Antoine alive and the household full of young cousins.
 
 ## THE CONTEXT
 

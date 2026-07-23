@@ -13,7 +13,7 @@
 - **Mother (in every way that counts):** **Rachel Darcy Key** — who could not carry a pregnancy herself (the shared reproductive system went to Jessica at their separation), and who built her family through her sister's egg donation and surrogacy
 - **Carried by:** **Bleu** (one of the three surrogates — Alexis, Jackie, and Bleu)
 - **Born:** Born ~2060 (Rachel & Antoine ~35), alongside the other triplets.
-- **Education:** [TBD]
+- **Education:** **Temple University** — Annabella Nicki attends Temple University in the autumn when Marcos Eduarte signs with the Toronto Blue Jays. She stays in **Morgan Hall** with three other women. She is following Rachel Darcy’s footsteps through a serious university dance path, receiving Rachel’s dance inheritance in her own quiet way.
 - **Religion:** [TBD — the Key family is Catholic]
 - **Traits:** [TBD]
 
@@ -107,6 +107,7 @@ For Annabella Nicki — the youngest of seven, the baby of the family — French
 - **Birth:** Born ~2060 (Rachel & Antoine ~35), alongside the other triplets. The youngest. One of triplets.
 - **French Woods — first summer:** The triplets attend French Woods together for the first time. [Age and year TBD.]
 - **Death of Antoine (~2062):** Annabella Nicki is **~1** when her father dies. One is the age of first memories forming but not yet solidifying — she will have only fragments of him, sensations and impressions rather than full memories, all of them carried in her body before she had the words. She grows up knowing her father mostly through photographs, through stories, through the way her older siblings go quiet when his name comes up. The grief is real, but it is not a thing she can hold in her hands — it is a shape in the family, an absence where a man should be. [How she carries this, and how she comes to know her father through what others tell her, TBD.]
+- **Temple University:** Annabella Nicki attends Temple University and stays in **Morgan Hall** with three other women, following Rachel Darcy’s footsteps through dance. In the autumn when Marcos Eduarte signs with the Toronto Blue Jays, Rachel calls Annabella at Temple to tell her the news. (See `annabella-nicki-temple-university-autumn-marcos-blue-jays-signing-scene-outline.md`.)
 - [Further life events TBD.]
 
 ---
@@ -115,7 +116,7 @@ For Annabella Nicki — the youngest of seven, the baby of the family — French
 
 Annabella Nicki is one of the seven children at the heart of the saga's most profound act of love — the gift Jessica gave Rachel so that Rachel could be a mother. Like everyone in this family, Annabella Nicki is proof of the same conviction: that family is not defined by biology alone, that love is what makes a parent, and that *"no one in this family does anything alone."*
 
-She is also the youngest of them all — the baby of seven — who grows up knowing she belongs not just to Rachel and Antoine, but to Melissa and Marcos, the two who shared the womb with her and every summer after. At French Woods, in the Catskills, she learns who she is when she's not the youngest. She takes ballet beside her brother and sister in the same studio. She draws — alone, quietly, in a language no one else in the family speaks. She steps away from gymnastics, the family's most dominant physical language, and no one in her family asks her to explain it. The absence is enough. She is enough.
+She is also the youngest of them all — the baby of seven — who grows up knowing she belongs not just to Rachel and Antoine, but to Melissa and Marcos, the two who shared the womb with her and every summer after. As a Temple University student following Rachel Darcy’s footsteps through dance, she becomes the triplet whose adult life turns toward quiet movement, drawing, and embodied study. At French Woods, in the Catskills, she learns who she is when she's not the youngest. She takes ballet beside her brother and sister in the same studio. She draws — alone, quietly, in a language no one else in the family speaks. She steps away from gymnastics, the family's most dominant physical language, and no one in her family asks her to explain it. The absence is enough. She is enough.
 
 
 She is also the youngest — five years old when her father dies. She will remember almost nothing of him directly: a voice, a hand, a room she can no longer place. Her father will be, for her, a story other people tell. And yet the loss is no less real for being reconstructed. It is simply a different kind of grief: the grief of not knowing what you lost.

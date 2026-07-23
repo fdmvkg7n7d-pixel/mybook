@@ -72,7 +72,7 @@ In the Key family, love is demonstrated through tactile steadiness:
 
 ### Children with William
 
-Sabrina Bryna and William have **five children together** (three biological, one nephew they raise as their own, and one foster child):
+Sabrina Bryna and William have **five children together** (three biological, one nephew they raise as their own, and one daughter first fostered then adopted):
 
 | # | Name | Notes |
 |---|---|---|
@@ -80,11 +80,12 @@ Sabrina Bryna and William have **five children together** (three biological, one
 | 2 | **Roberta Katherine Key** | Biological child; born when Sabrina Bryna is approximately **thirty-eight**. **Twin of William Timothy Junior.** See [roberta-katherine-key-profile.md](Roberta%20Katherine/roberta-katherine-key-profile.md). |
 | 3 | **William Timothy Junior Key** | Biological child; born when Sabrina Bryna is approximately **thirty-eight**. Named after his father. **Twin of Roberta Katherine.** See [william-timothy-junior-key-profile.md](William%20Timothy%20Junior%20and%20Evangeline/william-timothy-junior-key-profile.md). |
 | 4 | **Orin Lorin Junior** | Nephew of William (son of William's brother, name TBD). His parents die in a **house fire** when he is fifteen. Sabrina Bryna and William take him in and raise him as their own — he is their fourth child. See [orin-lorin-junior-profile.md](orin-lorin-junior-profile.md). |
-| 5 | **Sun-Young** [Surname TBD], nickname **Liz** | Foster child. See [sun-young-liz-profile.md](sun-young-liz-profile.md). |
+| 5 | **Sun-Young** [Surname TBD], nickname **Liz** | Former foster child; **adopted daughter**. Adoption papers come through when she is sixteen and are given to her on Christmas Day in Sao Paulo. See [sun-young-liz-profile.md](Sun-Young%20and%20Cypress/sun-young-liz-profile.md). |
+| — | **South Korea trip** | When Taylor Raven and Sun-Young are **ten**, William takes them to **South Korea** on the **Key Corporation plane**. See `../Temp/Vacations/south-korea-trip-william-taylor-liz.md`. |
 
 ### Daughter (from Carlos)
 
-- **Carlota Delicia Key** — daughter with Carlos Reyes; born when Sabrina Bryna is twenty-three. **HIV-positive** — contracted during the forty-two months Carlos exploited her at the sleazy bar in Tijuana; managed with ART, viral load undetectable. See [carlota-delicia-key-profile.md](Carlota%20Delicia/carlota-delicia-key-profile.md).
+- **Carlota Delicia Key** — daughter with Carlos Reyes; born when Sabrina Bryna is twenty-three. **HIV-positive** — contracted during the forty-two months Carlos exploited her at the sleazy bar in Tijuana; managed with ART, viral load undetectable. Carlota Delicia and Keith are **twenty-four years old** when they have their daughter **Madeleine Jaycee Holiday Key**. See [carlota-delicia-key-profile.md](Carlota%20Delicia/carlota-delicia-key-profile.md).
   - **Partner: Keith Holiday** — Carlota's boyfriend. Met her in their grade eight class at Everest Academy; they started dating at the end of grade ten. Both attend UCF's Rosen College of Hospitality Management in Orlando in the same major, and live together (in separate bedrooms) in the Orlando mansion Sabrina Bryna and William purchased for them. Career goal: Walt Disney Imagineering. Parents are both dentists. *(Keith's full profile is folded into Carlota's file — see the **KEITH HOLIDAY** section of [carlota-delicia-key-profile.md](Carlota%20Delicia/carlota-delicia-key-profile.md).)*
 
 ---
@@ -169,6 +170,7 @@ Sabrina Bryna is twenty-six. Carlos is twenty-seven. Carlota Delicia is three.
 - **Full Name:** Devon Smythson
 - Sabrina Bryna does **not** fire Devon Smythson. She determines that the responsibility lies with Carlos, not with the nanny, and chooses not to punish Devon for Carlos's actions.
 - Devon **stays on as nanny** after the split. Sabrina holds no grudge.
+- Devon has **her own bedroom at Sabrina Bryna's Vaughan mansion**. She is part of the household support system and does **not** need to leave when the family needs overnight help.
 
 ### The Split
 
@@ -263,7 +265,7 @@ Sabrina Bryna and William have **five children together** (three biological, one
 - [Roberta Katherine Key](roberta-katherine-key-profile.md) — Biological child (#2), twin of William Timothy Junior
 - [William Timothy Junior Key](william-timothy-junior-key-profile.md) — Biological child (#3), twin of Roberta Katherine
 - [Orin Lorin Junior](orin-lorin-junior-profile.md) — Nephew (#4), parents died in a house fire
-- [Sun-Young "Liz"](sun-young-liz-profile.md) — Foster child (#5)
+- [Sun-Young "Liz"](Sun-Young%20and%20Cypress/sun-young-liz-profile.md) — Former foster child, adopted daughter (#5)
 - [Carlota Delicia Key](carlota-delicia-key-profile.md) — Daughter from Carlos (half-sister)
 
 ### Relationship Dynamics
@@ -284,10 +286,11 @@ Sabrina Bryna and William have **five children together** (three biological, one
 - [x] Visitation: Carlos gets visitation with Carlota Delicia. This is a very awful mistake — it enables the kidnapping.
 - [x] William: Sabrina Bryna meets William at the Toronto Sick Children's Hospital charity ball when she is twenty-seven. William does not know ASL.
 - [x] William learns ASL: William is willing to learn.
-- [x] Sabrina Bryna and William's children: five children — Taylor Raven, Roberta Katherine, William Timothy Junior (biological twins), Orin Lorin Junior (nephew, their 4th), Sun-Young "Liz" (foster, their 5th).
+- [x] Sabrina Bryna and William's children: five children — Taylor Raven, Roberta Katherine, William Timothy Junior (biological twins), Orin Lorin Junior (nephew, their 4th), Sun-Young "Liz" (former foster child, adopted daughter, their 5th).
 - [x] Roberta Katherine and William Timothy Junior are twins.
 - [x] Orin Lorin Junior: William's nephew. Parents die in a house fire when he is fifteen. Sabrina and William raise him as their fourth child.
-- [x] Sun-Young "Liz": foster child. Sabrina and William's fifth child.
+- [x] **South Korea trip:** when Taylor Raven and Sun-Young are **ten**, William takes them to South Korea on the Key Corporation plane. During the trip, **Sun-Young finds a lump / swollen lymph node**. They are in the girls' bedroom at Sabrina's Seoul apartment. William asks Sun-Young if he can check the lump; Taylor Raven is in the room and holds Liz's right hand. The scene is **very emotional** as William treats it as a serious relapse-scare thread because Sun-Young is a Leukemia survivor. Sun-Young is very nervous that Sabrina Bryna and William will not want to be her foster parents anymore. After the check, **William hugs Sun-Young to calm her down** while Taylor stays close to Liz, reassures Sun-Young that he and Sabrina Bryna still want her to be their foster daughter because they love her so much, then **quickly calls one of his colleagues on the twentieth day of the South Korea trip** for urgent medical guidance. That night at the mansion, **Devon Smythson has her own bedroom at the mansion and does not need to leave**; **Taylor Raven and Sun-Young sleep together for comfort** after the emotional medical scare. The next morning, **Devon Smythson watches the twins** while Sabrina Bryna and William take Taylor Raven and Sun-Young to **SickKids / Toronto Sick Children's Hospital** for follow-up. At SickKids, the ultrasound looks bad, and William and his colleague have a conversation outside the examination room. William tells the family that Sun-Young is required to have surgery sooner than later; his colleague is checking the schedule.
+- [x] Sun-Young "Liz": former foster child; adoption papers come through when she is sixteen and Sabrina Bryna and William give them to her on Christmas Day in Sao Paulo. Orin Lorin Junior (21) and Danica (18) accompany them to Sao Paulo. Adelisa, Carlota Delicia, Keith, Madeleine Jaycee, and Caesarius are present. Adelisa is Keith's stepsister, Caesarius is Adelisa's deaf son, and Adelisa and Caesarius live with Carlota Delicia and Keith because Adelisa has Juvenile Arthritis. Sabrina Bryna and William also ask Sun-Young if she noticed that they did not give the Canadian Border Service Agency a letter from her worker to cross the border; she says she did not notice. After opening presents, William and Keith take the children swimming in the Atlantic Ocean; the children can be shirtless while swimming. While they swim, Carlota Delicia, Sabrina Bryna, and Adelisa prepare Christmas dinner. Sabrina and William's fifth child / adopted daughter.
 - [x] **The Kidnapping:** Carlos Reyes kidnaps Carlota Delicia (age 9) during a visitation. Takes her to Mexico City. Exploits her at a sleazy bar in Tijuana. Gone 42 months, found at ~12-13. After William is in Sabrina's life. Carlos imprisoned in Mexico. He breaks her ASL.
 - [x] Pandora Paige is ~16-17 at the time of the kidnapping; ~20 when Carlota is found.
 - [x] Pandora Paige finds Carlota: She notices her cousin in the sleazy Tijuana bar. She does NOT approach or introduce herself. She secretly photographs Carlota and sends the image to Sabrina Bryna — the first proof in 42 months that Carlota is alive.
@@ -309,7 +312,7 @@ Sabrina Bryna and William have **five children together** (three biological, one
 - [x] Birth timing of biological children: Carlota Delicia when Sabrina Bryna is 23; Taylor Raven when Sabrina Bryna is 32; Roberta Katherine and William Timothy Junior when Sabrina Bryna is 38. Orin and Sun-Young are non-biological children raised in the household.
 - [ ] William's brother's name.
 - [x] How old Orin Lorin Junior is when his parents die: Fifteen years old.
-- [ ] Sun-Young's surname, background, age, and how she enters foster care.
+- [ ] Sun-Young's surname, background, age, and how she enters foster care. [Adoption resolved: papers at age sixteen on Christmas Day.]
 - [ ] How Carlota Delicia relates to her five half-siblings (Taylor Raven, Roberta Katherine, William Timothy Junior, Orin Lorin Junior, and Sun-Young).
 
 ---

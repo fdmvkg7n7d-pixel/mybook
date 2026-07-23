@@ -13,7 +13,7 @@
 - **Mother (in every way that counts):** **Rachel Darcy Key** — who could not carry a pregnancy herself (the shared reproductive system went to Jessica at their separation), and who built her family through her sister's egg donation and surrogacy
 - **Carried by:** **Bleu** (one of the three surrogates — Alexis, Jackie, and Bleu)
 - **Born:** Born ~2060 (Rachel & Antoine ~35), ~15 months after the identical twins.
-- **Education:** [TBD]
+- **Education:** **The University of Edinburgh** — **Linguistics and English Language MA (Hons)**. Melissa Lizette attends the University of Edinburgh in the autumn when Marcos Eduarte signs with the Toronto Blue Jays, placing her in Scotland while her triplet brother crosses into professional baseball in Toronto. She stays in **Baird House** with another woman.
 - **Religion:** [TBD — the Key family is Catholic]
 - **Traits:** [TBD]
 
@@ -70,7 +70,7 @@ French Woods is the triplets' territory — the place where, for a few weeks eac
 - **Swimming (all three, Minor).** The family constant. The water holds all three the way it held their mother and all her sisters.
 
 **Why it matters for the saga:**
-1. **The triplets, defined together.** In a family of seven children broken into singletons, twins, and triplets, French Woods is the one place where Melissa, Marcos, and Annabella are known as *the three who always come as a set*. It is where their bond as triplets — distinct from their roles as younger siblings to Larissa, Armando, Kella, and Armella — solidifies into something of its own.
+1. **The triplets, defined together.** In a family of seven children organized into eldest twins, younger identical twins, and triplets, French Woods is the one place where Melissa, Marcos, and Annabella are known as *the three who always come as a set*. It is where their bond as triplets — distinct from their roles as younger siblings to Larissa, Armando, Kella, and Armella — solidifies into something of its own.
 2. **A different kind of inheritance.** Unlike the twins Samira and Sahara, who were spotted by a Vaganova teacher and swept into the most elite training in the world, the triplets choose a broader, more exploratory path — the camp designed for kids to try everything, not specialize in one thing. Like their cousins, they live in their bodies. But at French Woods, they decide how.
 3. **Connection to the cousins.** Samira and Sahara train at Vaganova and the Bolshoi — Russia, the pinnacle of classical ballet. The triplets spend their summers in rural New York. The contrast is deliberate and rich: two different philosophies of art and childhood, two different answers to the same family question (*what do you do with a gift?*), both held within the same sprawling Key family.
 4. **A home away from LA.** If the family ultimately relocates east — toward Halifax, toward the original Key hub — French Woods is already there, already familiar, already an anchor.
@@ -116,6 +116,7 @@ French Woods is the triplets' territory — the place where, for a few weeks eac
 - **Birth:** Born ~2060 (Rachel & Antoine ~35), ~15 months after the identical twins. One of triplets.
 - **French Woods — first summer:** The triplets attend French Woods together for the first time. [Age and year TBD.]
 - **Death of Antoine (~2062):** Melissa Lizette is **~1** when her father dies. One is the age of first memories forming but not yet solidifying — she will have only fragments of him, sensations and impressions rather than full memories, all of them carried in her body before she had the words. She grows up knowing her father mostly through photographs, through stories, through the way her older siblings go quiet when his name comes up. The grief is real, but it is not a thing she can hold in her hands — it is a shape in the family, an absence where a man should be. [How she carries this, and how she comes to know her father through what others tell her, TBD.]
+- **The University of Edinburgh:** Melissa Lizette attends The University of Edinburgh for **Linguistics and English Language MA (Hons)** and stays in **Baird House** with another woman. In the autumn when Marcos Eduarte signs with the Toronto Blue Jays, Rachel Darcy calls Melissa in Edinburgh to tell her the news. Melissa’s study of language makes Marcos’s full **Key-d'Aboville** name on the contract feel especially meaningful. (See `melissa-lizette-university-of-edinburgh-autumn-marcos-blue-jays-signing-scene-outline.md`.)
 - [Further life events TBD.]
 
 ---
@@ -124,7 +125,7 @@ French Woods is the triplets' territory — the place where, for a few weeks eac
 
 Melissa Lizette is one of the seven children at the heart of the saga's most profound act of love — the gift Jessica gave Rachel so that Rachel could be a mother. Like everyone in this family, Melissa Lizette is proof of the same conviction: that family is not defined by biology alone, that love is what makes a parent, and that *"no one in this family does anything alone."*
 
-She is also one of the three — the performer, the one who climbs the silks and holds the stage, who dances beside her brother and her sister in the same studio every summer. At French Woods, Melissa is not the fifth-born or the middle triplet. She is a girl who chooses circus, who centers herself in yoga, who takes the Rachel Darcy inheritance of ballet and turns it toward the lights.
+She is also one of the three — the performer, the one who climbs the silks and holds the stage, who dances beside her brother and her sister in the same studio every summer. As a university student at Edinburgh studying Linguistics and English Language, she also becomes the triplet whose adult life turns toward words, names, and the structure of language. At French Woods, Melissa is not the fifth-born or the middle triplet. She is a girl who chooses circus, who centers herself in yoga, who takes the Rachel Darcy inheritance of ballet and turns it toward the lights.
 
 
 She is also the fifth-born — five years old when her father dies. She will remember almost nothing of him directly: a voice, a hand, a room she can no longer place. Her father will be, for her, a story other people tell. And yet the loss is no less real for being reconstructed. It is simply a different kind of grief: the grief of not knowing what you lost.

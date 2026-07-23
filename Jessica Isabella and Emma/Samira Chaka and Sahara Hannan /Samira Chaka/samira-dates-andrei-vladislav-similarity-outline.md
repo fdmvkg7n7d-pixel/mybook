@@ -70,3 +70,11 @@ How does Samira's new relationship with Andrei reveal that both twins, though li
 - `Jessica Isabella and Emma/samira-pavel-breakup-eighteen-months-outline.md`
 - `Jessica Isabella and Emma/grade-nine-freedom-fourteen-years-old.md`
 - `Temp/TIMELINE.md`
+
+
+---
+
+## Adult Continuity
+
+- **Samira Chaka marries Andrei.** They live in **Vladivostok** with their daughter **Caylee Brea** (age 4). Samira owns a **dance studio**.
+- **Sahara Hannan marries Vladislav.** They live in **Washington, DC** with their daughter **Shahira Hala** (age 5). Sahara works at the **Russian embassy as an intelligence officer**.

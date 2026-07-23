@@ -41,7 +41,7 @@ Crucially, **they are supposed to visit Antoine's family in France for the holid
 ### Beat 3: Reflecting on Bodily and Reproductive Asymmetry
 - Sitting together on the edge of the sofa in their Philadelphia living room, Rachel Darcy becomes incredibly reflective, sharing her deepest vulnerabilities with Antoine. 
 - She reflects on the profound asymmetry of their bodies: Kiley, who has Turner Syndrome and was supposed to be infertile, was blessed with this rare, miraculous spontaneous twin pregnancy, only for her children to face this brutal pediatric cancer.
-- Rachel, who began her life conjoined to Jessica Isabella and received none of the shared reproductive organs, looks at Antoine with wet eyes, reflecting on **their upcoming identical twins, Larissa Leola and Armando Cortez Junior, who will be carried by their surrogate Alexis**:
+- Rachel, who began her life conjoined to Jessica Isabella and received none of the shared reproductive organs, looks at Antoine with wet eyes, reflecting on **their upcoming twins, Larissa Leola and Armando Cortez Junior, who will be carried by their surrogate Alexis**:
 
 > “It is so unfair, Antoine. Kiley wasn't supposed to have children, and she was blessed with these beautiful twins, only for the world to try and take Brandi's sight. And here we are... living here in Philadelphia, unable to carry biologically, preparing for Alexis to carry our twins, **Larissa Leola and Armando Cortez Junior,** next year. It makes me realize how fragile and precious every single child is.”
 
@@ -67,7 +67,7 @@ Crucially, **they are supposed to visit Antoine's family in France for the holid
 
 - **Fits the Rachel Darcy and Antoine Branch:** Establishes a deeply intimate, romantic, and character-building moment between Rachel Darcy and Antoine d'Aboville (both twenty-five years old) before they have their first child Larissa via Alexis in 2052.
 - **Philadelphia Setting**: Accurately establishes that they are **now living in Philadelphia** during this period of their lives.
-- **Larissa Leola and Armando Cortez Junior as Twins**: Mentions their upcoming **identical twins, Larissa Leola and Armando Cortez Junior d'Aboville** (due next year in 2052), carried by their surrogate Alexis, correcting the singleton birth order.
+- **Larissa Leola and Armando Cortez Junior as Twins**: Mentions their upcoming **twins, Larissa Leola and Armando Cortez Junior d'Aboville** (due next year in 2052), carried by their surrogate Alexis, correcting the earlier mistaken singleton birth order.
 - **Supposed to Visit France**: Incorporates the planned holiday trip to France to visit Antoine's family.
 - **Antoine Flies to France Alone**: Shows Antoine's deep support and maturity, recognizing Rachel's need to be with her family during this crisis and flying to France alone while she heads to New York.
 - **The Timing (December 23, 2051):** Aligns perfectly with the timeline of Brandi's retinoblastoma diagnosis on the morning of December 23, showing the ripple effect of the news across the family.

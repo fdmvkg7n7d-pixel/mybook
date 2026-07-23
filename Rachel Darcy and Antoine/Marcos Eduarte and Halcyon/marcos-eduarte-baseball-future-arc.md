@@ -407,17 +407,35 @@ She realizes this dream is no longer safely childish.
 
 The family discusses whether Marcos should sign immediately after being drafted out of high school.
 
-This should include Rachel, Jessica, Emma, Melissa, Annabella, and possibly older siblings.
+This should include Rachel, Jessica, Emma, and possibly older siblings; Melissa Lizette is attending The University of Edinburgh that autumn and Annabella Nicki is attending Temple University, so both triplet sisters are reached by call/video.
 
 The issue is not college versus baseball anymore — Marcos is not attending university. The issue is adulthood, risk, money, education, professional pressure, distance from the triplets, and Antoine’s absence.
 
 
 
+
+### Rachel Calls Melissa Lizette in Edinburgh About the Contract
+
+In the autumn when Marcos signs his contract with the Toronto Blue Jays, Rachel calls **Melissa Lizette** at **The University of Edinburgh**, where Melissa is studying **Linguistics and English Language MA (Hons)**.
+
+Melissa is proud and emotional. She is also far away from the signing room, which makes the triplet separation feel real. Her study of language makes Marcos's full **Key-d'Aboville** name especially meaningful: she understands that the name on the contract is not only a label, but family history made public.
+
+This call should connect to `../Melissa Lizette and Sachairi/melissa-lizette-university-of-edinburgh-autumn-marcos-blue-jays-signing-scene-outline.md`.
+
+
+### Rachel Calls Annabella Nicki at Temple About the Contract
+
+When Marcos signs his contract with the Toronto Blue Jays, Rachel calls **Annabella Nicki** at **Temple University**, where Annabella is following Rachel Darcy’s footsteps through a serious university dance path.
+
+Annabella is proud and quiet. She is far from Toronto, but she understands the physical meaning of the moment: Marcos has chosen the mound the way Rachel once chose dance. She asks whether he kept the full **Key-d'Aboville** name, because she knows identity can live in posture, line, and refusal to shrink.
+
+This call should connect to `../Annabella Nicki and Franklin/annabella-nicki-temple-university-autumn-marcos-blue-jays-signing-scene-outline.md`.
+
 ### Rachel Calls Larissa, Kaitlyn Holly, and Shaun About the Contract
 
 When Marcos signs his contract with the Toronto Blue Jays, Rachel calls **Larissa Leola** in **Queensland**.
 
-Larissa is with **Kaitlyn Holly** and **Shaun** when the call comes. Kaitlyn Holly is Larissa's daughter with **Christopher**. Shaun is Larissa's second partner.
+Larissa is with **Kaitlyn Holly** and **Shaun** when the call comes. Kaitlyn Holly is Larissa's **two-year-old** daughter with **Christopher**. Christopher and Larissa are separated, but Christopher is a real father to Kaitlyn Holly. Shaun is Larissa's second partner and part of the household. He does not replace Christopher as a father figure in Kaitlyn Holly's life, but he loves her so much.
 
 Unlike the Armando call, this call is warm and alive. Larissa, Kaitlyn Holly, and Shaun are all very excited for Marcos Eduarte. The distance is real — Queensland is far from Toronto — but the emotional presence is immediate.
 
@@ -425,11 +443,11 @@ This beat establishes the contrast between the older siblings:
 
 - Larissa cannot easily travel to Marcos's first Blue Jays game because she is living in Queensland;
 - but she cares deeply and reacts with genuine joy;
-- Kaitlyn Holly gets to share in her uncle Marcos's milestone;
+- Kaitlyn Holly, at two years old, gets to share in her uncle Marcos's milestone in toddler-sized ways;
 - Shaun, though not Marcos's sibling, joins the family excitement and supports Larissa's joy;
 - Rachel feels the relief of calling someone who receives the news with love.
 
-Possible emotional image: Larissa repeating the words out loud — *"Marcos signed with Toronto"* — and Kaitlyn Holly reacting before Rachel can even finish explaining.
+Possible emotional image: Larissa repeating the words out loud — *"Marcos signed with Toronto"* — and two-year-old Kaitlyn Holly clapping, saying *ball*, or reaching for the phone before Rachel can even finish explaining.
 
 
 ### Rachel Calls Kella Nakeisha, Aesculapius, and Melissa Amanda About the Contract

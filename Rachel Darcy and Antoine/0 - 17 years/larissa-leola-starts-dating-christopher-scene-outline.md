@@ -16,7 +16,7 @@ This scene establishes:
 - **Larissa Leola's transition into young adulthood** — at 18, she is attending university in Perth and entering the dating world while her younger siblings are still in early childhood activities in Los Angeles.
 - **The geographical distance** — Larissa is an ocean away from her family, beginning adult milestones independently.
 - **The generational shift in the family** — the twins are 18 and living independently overseas, while the identical twins (13) and triplets (6) are still at home.
-- **Christopher as a new character** — the person Larissa begins dating (background, personality, and relationship to the family TBD).
+- **Christopher as a new character** — the person Larissa begins dating. Christopher and Larissa later separate, but he becomes a real father to their daughter, Kaitlyn Holly.
 - **Rachel's perspective as a mother** — watching from afar as her eldest child begins to date while her youngest children are still in ballet class.
 
 ---
@@ -136,7 +136,7 @@ The scene ends with Larissa and Christopher beginning their relationship in Pert
 
 - **Timeline**: Late August/September 2066, around the same time period as the triplets' first ballet lesson at LA Key
 - **Geography**: Larissa is living in Perth, Australia. The rest of the family is in Los Angeles.
-- **Family Structure**: Larissa (18) is the eldest of seven children. Her twin brother Armando is also 18 (location TBD). The identical twins (Kella and Armella) are 13. The triplets (Melissa, Marcos, Annabella) are 6.
+- **Family Structure**: Larissa (18) is the eldest twin of the seven children. Her twin brother Armando is also 18 (location TBD). The identical twins (Kella and Armella) are 13. The triplets (Melissa, Marcos, Annabella) are 6.
 - **Antoine's Death**: Antoine died ~2062, when Larissa was 14. She is now navigating young adulthood and dating without her father, far from home.
 - **Rachel's Role**: Rachel is both a mother to an 18-year-old dating in Perth and to six-year-olds taking ballet in LA. She is also the owner of LA Key ballet studio.
 
@@ -144,4 +144,4 @@ The scene ends with Larissa and Christopher beginning their relationship in Pert
 
 ## Status
 
-Scene outline created. Details about Christopher, the setting in Perth, and the specific dynamics of the relationship are TBD and can be developed as needed.
+Scene outline created. Details about Christopher, the setting in Perth, and the specific dynamics of the relationship are TBD and can be developed as needed. Future continuity: Christopher and Larissa later separate, but Christopher is a real father to Kaitlyn Holly.

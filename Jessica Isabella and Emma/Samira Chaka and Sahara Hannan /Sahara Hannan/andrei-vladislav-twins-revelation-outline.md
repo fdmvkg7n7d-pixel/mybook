@@ -50,3 +50,11 @@ How does the revelation of their boyfriends' shared identical twin origin mirror
 - `Jessica Isabella and Emma/samira-dates-andrei-vladislav-similarity-outline.md`
 - `Jessica Isabella and Emma/grade-nine-freedom-fourteen-years-old.md`
 - `Temp/TIMELINE.md`
+
+
+---
+
+## Adult Continuity
+
+- **Samira Chaka marries Andrei.** They live in **Vladivostok** with their daughter **Caylee Brea** (age 4). Samira owns a **dance studio**.
+- **Sahara Hannan marries Vladislav.** They live in **Washington, DC** with their daughter **Shahira Hala** (age 5). Sahara works at the **Russian embassy as an intelligence officer**.

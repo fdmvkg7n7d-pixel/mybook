@@ -16,7 +16,7 @@
 - **Father:** Lazaro da Silva (absent)
 - **Stepparent / Anchor:** Julia
 - **Education:** **Convent of the Sacred Heart**, New York City (91st Street, Upper East Side) — K–12; later studies **Dance** at the **University of Nevada, Las Vegas (UNLV)**
-- **Career Choice:** Professional choreographer
+- **Career Choice:** Professional choreographer; later works as a **choreographer for a mainstream cruise line without sight**
 - **Childhood Home:** New York City (raised with her twin, Pandora Paige)
 - **College Home:** **Las Vegas, Nevada** — Brandi lives in a **coeducational UNLV dormitory during her first year**, sharing a standard two-person bedroom with **Kassie Myller**, another female first-year student in the Dance program, on a mixed-gender floor. She does not need a specially accessible bedroom. After that year, Kiley Rose and Julia purchase her Las Vegas penthouse, where Brandi lives during her later university years and where **Jamal** later joins her once their relationship begins
 - **Post-College Residence:** **Undecided / TBD** — at twenty-one, Brandi Jessica does not know which city, company, or stage her choreography career will lead her to. She and Jamal have not chosen a post-UNLV home.
@@ -149,6 +149,8 @@ Her first composition assignments reveal that she enjoys making movement for oth
 
 During her UNLV years, Brandi Jessica decides that she wants to become a **professional choreographer**. The choice grows naturally from the ballet, gymnastics, aerial, music, and spatial training that shaped her childhood.
 
+In the adult Prince Ali Javan visit, Brandi can state the outcome plainly: she is a **choreographer for a mainstream cruise line without sight**. This is not framed as inspirational spectacle; it is her professional reality, built through rhythm, tactile stage maps, spatial memory, rehearsal systems, and trust in dancers' verbal/spatial feedback.
+
 Blindness changes her choreographic process without limiting her artistic authority:
 - She hears movement through footfalls, breathing, music, and counts.
 - She maps stages and studios through measured steps, tactile floor plans, and raised formation diagrams.
@@ -165,13 +167,13 @@ It is in Las Vegas that her relationship with **Jamal** begins (when she is twen
 
 During Brandi’s first visit to Jamal’s family in Reno, Jamal shows her one of the Catholic schools he attended as a child. Jamal explains that he did not participate in Catholic religious classes; his parents arranged separate study while his family and childhood imam provided his Muslim education. He then introduces Brandi to that imam at the Reno mosque. The imam is distinct from Imam Kareem in Las Vegas. These visits let Brandi understand the places and faith community that shaped Jamal before adulthood.
 
-What happens after the UNLV years remains open. Brandi Jessica intends to pursue professional choreography, but she and Jamal have not chosen where they will live. Pandora Paige remains based in **Abu Dhabi, United Arab Emirates** with Bassem, though her work continues to take her to cities such as Las Vegas and Los Angeles.
+What happens after the UNLV years remains open. Brandi Jessica intends to pursue professional choreography, but she and Jamal have not chosen where they will live. Pandora Paige remains based in **Saudi Arabia** with Bassem, though her work continues to take her to cities such as Las Vegas and Los Angeles.
 
 ---
 
 ## THE SHARED FAMILY — THE NEXT GENERATION
 
-> **Continuity note — author revision in progress:** Brandi Jessica and Jamal’s post-UNLV destination is currently undecided. Earlier Los Angeles and Manhattan placements are prior drafts, not fixed current canon. Pandora Paige remains based in Abu Dhabi with Bassem and Bahiyya.
+> **Continuity note — author revision in progress:** Brandi Jessica and Jamal’s post-UNLV destination is currently undecided. Earlier Los Angeles and Manhattan placements are prior drafts, not fixed current canon. Pandora Paige remains based in Saudi Arabia with Bassem and Bahiyya.
 
 In adulthood, Brandi Jessica and Pandora Paige build a deeply loving, synchronized joint family, raising **four children together**. The children are raised with co-mothers and are biological full siblings (sharing 100% of the twins' genetics).
 
@@ -223,8 +225,8 @@ Pandora remains Brandi’s trusted visual translator because they share childhoo
 - **Kiley Rose (Mother):** Kiley Rose is her rock. Having navigated her own medical challenges with Turner Syndrome, Kiley Rose brought a fierce, unsentimental strength to raising a blind child. She taught Brandi Jessica that her body belonged to her, sight or no sight, and stayed beside her through every night of the cancer ward. She and Julia are now the active, loving grandmothers to Brandi Jessica's three children and Pandora's daughter.
 - **Pandora Paige (Twin Sister):** They share a face, a voice, and a deep, intuitive identical twin language. They walk the halls of Sacred Heart and French Woods together. Pandora is Brandi Jessica's visual window to the world, translating the visual spectrum into rich descriptions.
   - Brandi is fiercely supportive of Pandora's professional career as **Violet** at **Key Porn Studios** — a career Pandora began at eighteen, following in the footsteps of their mothers Kiley Rose and Julia. Brandi never judges, never wavers.
-  - Brandi Jessica and Jamal’s post-UNLV home remains **undecided**. Brandi intends to follow her choreography opportunities without naming a destination yet; Pandora remains based in **Abu Dhabi, United Arab Emirates** with Bassem.
-  - The twins co-parent their joint family together — see **THE SHARED FAMILY** above (continuity note: Manhattan joint household currently under author revision to reflect the Los Angeles / Abu Dhabi geography).
+  - Brandi Jessica and Jamal’s post-UNLV home remains **undecided**. Brandi intends to follow her choreography opportunities without naming a destination yet; Pandora remains based in **Saudi Arabia** with Bassem.
+  - The twins co-parent their joint family together — see **THE SHARED FAMILY** above (continuity note: Manhattan joint household currently under author revision to reflect the Los Angeles / Saudi Arabia geography).
 - **Julia:** Julia enters her life at age seven, exactly when the cancer diagnosis hits. Patient, quiet, and deeply respectful of the twins' space, Julia built trust during the hospital stay. She learned Braille herself to connect with Brandi Jessica, and acts as her guide, partner-in-crime, and co-conspirator. Now, she is a proud grandmother, helping manage stroller routes and family dinners.
 - **Lazaro da Silva (Father):** Absent. He ran from Kiley's pregnancy and chose not to look back, missing the twins’ birth, Andrew’s kidnapping, Brandi’s cancer, her blindness, school, dance, and university milestones. Brandi has no memory of him, but his absence remains a sensitive wound. During the family’s final August 2062 vacation in Natal, she walks the beach with Burden and thinks about who Lazaro really is. When she returns to the vacation lodging, she becomes very emotional as the cumulative grief of Andrew’s kidnapping, her retinoblastoma and blindness, and Lazaro’s absence breaks open. She tells Kiley that she somehow misses a father she never knew and remains undecided about contact. When asked about the next vacation leg, Brandi says she does not want to miss Amazonat Jungle Lodge and refuses to let Lazaro, retinoblastoma, or Andrew control the next part of her life. The walk is integrated into `Kiley Rose and Julia/Pandora Paige and Bassem/pandora-paige-tells-kiley-rose-and-julia-she-wants-to-be-a-porn-star-scene-outline.md` as an intercut thread.
 - **Romantic Relationships (in order — all kept in this single file):**
@@ -296,7 +298,7 @@ The overlap ends when Mohammed catches Brandi Jessica and Jamal together in Bran
 
 After the break with Mohammed, Jamal and Brandi go together to tell **Imam Kareem** at their mosque what happened, taking accountability in person before the community gossip reaches him (see `brandi-jessica-and-jamal-tell-the-imam-scene-outline.md`).
 
-Brandi's identical twin sister **Pandora Paige Key** — performing as **Violet** for **Key Porn Studios**, living in Abu Dhabi with Bassem — visits Las Vegas for work and meets Jamal as Brandi's boyfriend. Pandora is supportive immediately, having witnessed how Diederik and Mohammed hurt Brandi. She gives the sister blessing (see `brandi-jessica-tells-pandora-paige-scene-outline.md`).
+Brandi's identical twin sister **Pandora Paige Key** — performing as **Violet** for **Key Porn Studios**, living in Saudi Arabia with Bassem — visits Las Vegas for work and meets Jamal as Brandi's boyfriend. Pandora is supportive immediately, having witnessed how Diederik and Mohammed hurt Brandi. She gives the sister blessing (see `brandi-jessica-tells-pandora-paige-scene-outline.md`).
 
 After Brandi ends her relationship with Mohammed, **Kiley Rose and Julia visit Brandi and Pandora in Las Vegas**. Brandi first tells her mothers about Jamal without him present. The following evening, Kiley Rose and Julia meet Jamal at Brandi's penthouse, question him directly about Mohammed, faith, honesty, and Brandi's independence, then invite him back for breakfast (see `kiley-rose-and-julia-meet-jamal-at-brandi-jessicas-penthouse-scene-outline.md`). At breakfast, they watch Brandi and Jamal resolve an ordinary scheduling disagreement without control or secrecy, giving Kiley the first reason to say she is beginning to like him (see `breakfast-with-jamal-at-brandi-jessicas-penthouse-scene-outline.md`).
 
@@ -304,7 +306,9 @@ That same day, Kiley Rose and Julia fly to Panama City, Pandora flies to Los Ang
 
 Brandi Jessica is a practicing Catholic; Jamal is Muslim. Their interfaith relationship is built on mutual respect — Brandi attended the mosque with Jamal to speak with Imam Kareem out of respect for Jamal's faith community, without converting.
 
-Following the UNLV years, Brandi Jessica and Jamal's destination remains **undecided**. Brandi intends to pursue professional choreography, but neither partner has chosen a city or company at this point. Pandora Paige remains based in **Abu Dhabi, United Arab Emirates** with Bassem.
+Following the UNLV years, Brandi Jessica and Jamal's destination remains **undecided**. Brandi intends to pursue professional choreography, but neither partner has chosen a city or company at this point. Pandora Paige remains based in **Saudi Arabia** with Bassem.
+
+**Visit to Prince Ali Javan (adult payoff):** Approximately twenty years after Prince Ali Javan helped Mike locate seven-year-old Brandi Jessica, Brandi Jessica and her husband Jamal visit him in the UAE. **Iyeshia Caesarea, Kiley Rose, and Julia accompany them.** Prince Ali Javan does not recognize Brandi at first because she is twenty years older, because **Brandi Jessica, Kiley Rose, and Julia are wearing Muslim Women's Full Face Niqab Veils**, and because Brandi is using her **white cane**. Brandi explains that they wore the veils to respect his household; Prince Ali Javan tells her he respects her, says what Shakib was doing was wrong, offers that they can get changed out of the veils, and asks respectfully about her white cane. Brandi tells him she is a choreographer for a mainstream cruise line without sight. Iyeshia Caesarea is crawling by this time and remains a happy baby in the room with Jamal and Prince Ali Javan while the women change; Prince Ali Javan orders his staff to cook a dinner to celebrate Brandi Jessica's safety and return. Brandi asks Jamal to call Pandora Paige and Bassem to tell them they will be coming over tomorrow morning, and she asks Prince Ali Javan if he does not mind that she will nurse Iyeshia Caesarea at the dining room table. See `18 years/brandi-jessica-jamal-visit-prince-ali-javan-scene-outline.md`.
 
 ---
 
@@ -328,7 +332,7 @@ Because Brandi Jessica carries a constitutional pathogenic *RB1* variant specifi
 
 - **Mohammed (Former Best Friend):** Jamal and Mohammed grew up together as temple brothers at the same mosque, best friends until the affair was discovered. Mohammed caught Jamal and Brandi together in Brandi's Las Vegas penthouse shower (~2065–2066). The friendship ended that night. Jamal does not deny or make excuses: *"It happened. It's real."* An eventual amends arc is left open in canon.
 
-- **Pandora Paige Key (Sister-in-law):** Identical twin sister of Brandi Jessica. Initially met Jamal as "Mohammed's best friend." After the overlap ends, Pandora meets Jamal properly over dinner at a Saudi restaurant in Las Vegas during her Key Porn Studios work trip from Abu Dhabi. She is supportive immediately, having witnessed how Diederik and Mohammed hurt Brandi. She gives the sister blessing: *"Is he good to you? Really good?"* → *"Then I'm good."* Pandora performs professionally as **Violet** for **Key Porn Studios**, following in the footsteps of Kiley Rose and Julia.
+- **Pandora Paige Key (Sister-in-law):** Identical twin sister of Brandi Jessica. Initially met Jamal as "Mohammed's best friend." After the overlap ends, Pandora meets Jamal properly over dinner at a Saudi restaurant in Las Vegas during her Key Porn Studios work trip from Saudi Arabia. She is supportive immediately, having witnessed how Diederik and Mohammed hurt Brandi. She gives the sister blessing: *"Is he good to you? Really good?"* → *"Then I'm good."* Pandora performs professionally as **Violet** for **Key Porn Studios**, following in the footsteps of Kiley Rose and Julia.
 
 - **Imam Kareem:** Religious leader at Jamal and Mohammed's mosque in Las Vegas. After the penthouse confrontation, Jamal and Brandi go to Imam Kareem together to take accountability in person. Imam Kareem counsels Jamal on brotherhood, accountability, and making amends to Mohammed when Mohammed is ready — *"You will carry what you did. Carry it honestly."*
 
@@ -338,7 +342,7 @@ Because Brandi Jessica carries a constitutional pathogenic *RB1* variant specifi
 
 - **Parents (Reno):** Jamal's Chinese Uyghur mother and Saudi father live in Reno, where Jamal was raised. Jamal takes Brandi and Burden to see them on the same day Kiley Rose and Julia fly to Panama City and Pandora flies to Los Angeles. Brandi voluntarily wears a scarf covering her hair, a long-sleeved blouse, an ankle-length skirt, and white tights. She removes her shoes at the doorway and places them in a cubbyhole. His parents dislike dogs but welcome Burden because they recognize that the guide dog is Brandi's eyes in an unfamiliar home. They are very impressed by her respect for their household, warmly welcome her as herself, and listen as Brandi explains her goal of becoming a professional choreographer. Brandi tells them she does not yet know where that career will take her. They hear the full truth about Mohammed and invite Brandi and Burden to return. Jamal's mother entrusts him with a family körpe worked on by his maternal grandmother. During the same Reno visit, Jamal shows Brandi one of his Catholic schools, explains that he did not participate in its religious classes, and introduces her to his childhood imam.
 
-- **Bassem (Partner of Sister-in-law):** Partner of Pandora Paige, father of Bahiyya Farrah Key (~2067). Lives with Pandora in Abu Dhabi, United Arab Emirates. Fully aware of and supportive of Pandora's professional career as Violet.
+- **Bassem (Partner of Sister-in-law):** Partner of Pandora Paige, father of Bahiyya Farrah Key (~2067). Lives with Pandora in Saudi Arabia. Fully aware of and supportive of Pandora's professional career as Violet.
 
 ---
 

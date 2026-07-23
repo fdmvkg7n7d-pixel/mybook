@@ -152,7 +152,7 @@ This is the "welcome to my world" beat that deepens Brandi and Jamal’s new int
   - No conversion in this scene — Brandi remains Catholic, consistent with canon
 - **Family geography at time of scene (~2065–2066, age 21):**
   - **Brandi Jessica & Jamal:** Las Vegas, Nevada — Brandi's later-university penthouse (purchased by Kiley Rose and Julia after her first year in a UNLV dormitory; not university housing). Their post-UNLV destination remains **undecided**; Brandi knows she wants to pursue choreography but does not yet know which city, company, or stage will become her future.
-  - **Pandora Paige / Violet:** Adult film performer, Key Porn Studios, professional name Violet (career start age 18). She flew from Las Vegas to **Los Angeles, California** after the family breakfast. Her home base remains Abu Dhabi with Bassem.
+  - **Pandora Paige / Violet:** Adult film performer, Key Porn Studios, professional name Violet (career start age 18). She flew from Las Vegas to **Los Angeles, California** after the family breakfast. Her home base remains Saudi Arabia with Bassem.
   - **Kiley Rose / Julia:** Mothers/anchor parents of the twins. Both former adult entertainment performers, Key Porn Studios. After meeting Jamal in Las Vegas, they flew to **Panama City**.
   - **Jamal’s parents:** At home in **Reno, Nevada** after telling Brandi they were very impressed by her respect for their household, welcoming both Brandi and Burden despite normally disliking dogs, hearing the complete truth about Mohammed, and entrusting Jamal with the family körpe.
   - **Mohammed:** Former boyfriend, temple brother of Jamal — relationship ended at the penthouse catch, offstage.

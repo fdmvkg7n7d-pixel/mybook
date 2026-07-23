@@ -15,7 +15,7 @@
 - **Father:** Lazaro da Silva (absent)
 - **Stepparent / Anchor:** Julia
 - **Education:** **Convent of the Sacred Heart**, New York City (91st Street, Upper East Side)
-- **Residence:** **Abu Dhabi, United Arab Emirates** — living with Bassem
+- **Residence:** **Saudi Arabia** — living with Bassem
 - **Religion:** Practicing Catholic
 - **Professional Name:** **Violet**
 - **Occupation:** Adult film performer
@@ -124,11 +124,11 @@ After turning eighteen on December 25, 2062, Pandora confirms that she still wan
 
 She works professionally as Violet while maintaining her personal life as Pandora Paige Key. The work allows her to travel to different cities for shoots, which is how she is in Las Vegas for work when she visits Brandi Jessica during the Mohammed/Jamal transition (~2065-2066, age 21).
 
-**Bassem** — her partner, with whom she lives in Abu Dhabi — is fully aware of her professional work and supports her unconditionally. He loves her regardless of her career.
+**Bassem** — her partner, with whom she lives in Saudi Arabia — is fully aware of her professional work and supports her unconditionally. He loves her regardless of her career.
 
 Pandora balances her adult entertainment career with her photography/artistic background, her Catholic faith, her role as Brandi Jessica's twin and visual translator, and later, motherhood to Bahiyya Farrah.
 
-Her twin sister Brandi Jessica and Jamal’s post-UNLV destination remains **undecided**. Brandi knows she wants to become a professional choreographer but does not yet know where that career will take her. Pandora remains based in **Abu Dhabi with Bassem** and travels for work, including to Los Angeles.
+Her twin sister Brandi Jessica and Jamal’s post-UNLV destination remains **undecided**. Brandi knows she wants to become a professional choreographer but does not yet know where that career will take her. Pandora remains based in **Saudi Arabia with Bassem** and travels for work, including to Los Angeles.
 
 ---
 
@@ -207,7 +207,7 @@ Pandora does not merely label colours or objects. She describes visual informati
 - **Lazaro da Silva (Father):** Absent. Pandora feels a quiet, cold anger toward the father who abandoned them before they were born and was nowhere to be found when her sister was losing her eyes in a hospital. She has no desire to ever meet him.
 - **Romantic Relationships (in order):**
   1. **Cohen** — first boyfriend. Pandora starts dating Cohen when she is fifteen. When she is nineteen, she becomes pregnant but loses the pregnancy. About four months after losing the pregnancy, Pandora Paige and Cohen decide they should break up.
-  2. **Bassem** — second relationship. She starts dating Bassem when she is twenty-one years old. They live together in **Abu Dhabi, United Arab Emirates**. Bassem is fully aware of Pandora's adult entertainment career as Violet and loves and supports her unconditionally. Their daughter **Bahiyya Farrah** is born ~2067, when Pandora is twenty-two.
+  2. **Bassem** — second relationship. She starts dating Bassem when she is twenty-one years old. They live together in **Saudi Arabia**. Bassem is fully aware of Pandora's adult entertainment career as Violet and loves and supports her unconditionally. Their daughter **Bahiyya Farrah** is born ~2067, when Pandora is twenty-two.
 
 ---
 

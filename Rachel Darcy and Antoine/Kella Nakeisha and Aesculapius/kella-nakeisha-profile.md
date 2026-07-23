@@ -40,7 +40,7 @@ Born ~2057 (Rachel & Antoine ~33), ~5 years after the twins Larissa Leola and Ar
 
 ### River Way Ranch Camp — Kella Nakeisha's Schedule
 
-Kella Nakeisha attends **River Way Ranch Camp** (Sanger, California), the premier co-ed overnight summer camp in the foothills of Sequoia/Kings Canyon National Parks, alongside **Larissa Leola**, **Armando Cortez Junior**, and **Armella Beatrice**. Kella and Armando are paired as a camp pair — the twin sister and the second-born singleton, crossing birth-order lines. At camp, she is known as Armando's little sister — and she is also, always, one of the identical twins, but not defined by it the way she is at home.
+Kella Nakeisha attends **River Way Ranch Camp** (Sanger, California), the premier co-ed overnight summer camp in the foothills of Sequoia/Kings Canyon National Parks, alongside **Larissa Leola**, **Armando Cortez Junior**, and **Armella Beatrice**. Kella and Armando are paired as a camp pair — the twin sister and the second-born twin, crossing birth-order lines. At camp, she is known as Armando's little sister — and she is also, always, one of the identical twins, but not defined by it the way she is at home.
 
 Kella and Armella attend River Way together — they are in the same camp, same session — but they are not paired with each other. This is deliberate: camp is where two girls who share a face learn to be separate.
 
@@ -48,7 +48,7 @@ Kella and Armella attend River Way together — they are in the same camp, same 
 
 - **Horseback riding (English)** — Form, discipline, precision. The English seat, the posting trot, the horse that moves through prescribed patterns — dressage, jumping, the arena. Kella shares riding with Larissa (who takes Western — trail, ranch, the open range), but the difference between them is the difference between form and freedom. Kella wants the discipline. She wants to be good at something that has rules. Connection to aunt Fallon Glenda.
 - **Theater / performing arts (Major)** — The stage. Kella is one of identical twins in a family full of them (Jessica & Rachel; Samira & Sahara), and theater is where she is not half of a pair — she is the one in the spotlight, alone, speaking words that are hers. She shares theater with Armella, but Kella majors in it — she takes the lead roles, the bigger risks, the thing that scares her and she does it anyway. Armella minors; Kella commits. This is one of the first places the twins individuate on purpose.
-- **Waterskiing (Major)** — Speed on the lake. Shared with Larissa. The eldest singleton and the elder twin (by minutes), cutting across the wake together.
+- **Waterskiing (Major)** — Speed on the lake. Shared with Larissa. The eldest twin and the elder twin (by minutes), cutting across the wake together.
 
 **Kella's Minors (3): swimming, gymnastics, arts & crafts**
 

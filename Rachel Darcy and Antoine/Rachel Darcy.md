@@ -61,8 +61,8 @@ This folder compiles the canonical profiles, timelines, and multi-child househol
 
 Rachel and Antoine have **seven children**, in birth order (ages below are theirs at each birth):
 
-1. **Larissa Leola** (~2052; Rachel & Antoine ~27). *(First of the "first two" singletons.)*
-2. **Armando Cortez Junior** **~18 months later** (~2053; Rachel & Antoine ~28). *(Second of the "first two" singletons.)*
+1. **Larissa Leola** (eldest twin; age **26** in the autumn when Marcos signs with the Toronto Blue Jays).
+2. **Armando Cortez Junior** (Larissa’s twin brother; age **26** in the autumn when Marcos signs with the Toronto Blue Jays).
 3. **Kella Nakeisha** **~6 years after Armando** (~2059; Rachel & Antoine ~34). *(Identical twin.)*
 4. **Armella Beatrice** same birth as Kella Nakeisha (~2059). *(Identical twin.)*
 5. **Melissa Lizette** **~15 months after the twins** (~2061; Rachel & Antoine ~36). *(Triplet.)*
@@ -76,7 +76,7 @@ Rachel and Antoine have **seven children**, in birth order (ages below are their
 At the twins' separation, the shared reproductive system went entirely to Jessica, leaving Rachel without the biological capacity to carry. So the family built these children the way it does everything: together, and on purpose.
 
 - **The eggs are Jessica's.** Jessica donated her eggs to Rachel as a profound offering. Because Rachel cannot carry, the family works with three surrogates across the years:
-  - **Alexis** carries the two singletons, **Larissa Leola** (~2052) and **Armando Cortez Junior** (~2053).
+  - **Alexis** carries the eldest twins, **Larissa Leola** and **Armando Cortez Junior**. They are the same age and are twenty-six in the autumn when Marcos signs with the Toronto Blue Jays.
   - **Jackie** carries the identical twins, **Kella Nakeisha** and **Armella Beatrice** (~2059).
   - **Bleu** carries the triplets, **Melissa Lizette**, **Marcos Eduarte**, and **Annabella Nicki** (~~2060).
 - **Rachel is unambiguously their mother**, in every way that the saga counts (love, intention, raising them).
@@ -113,7 +113,7 @@ This is not a simple gift. For Rachel Darcy it is:
 
 Antoine, Rachel's partner and the biological father of her seven children, dies in ~2066 when Rachel is ~41.
 
-This is the great rupture of Rachel's adult life. The man who stood beside her through the surrogacies, the egg offer, and the long Los Angeles years is gone. The children are still young: Larissa is 14, Armando is 13, Kella and Armella are 7, and the triplets are 5 years old. They will have only fragments of him. They will know their father mostly through what other people tell them.
+This is the great rupture of Rachel's adult life. The man who stood beside her through the surrogacies, the egg offer, and the long Los Angeles years is gone. The children are still young: Larissa and Armando are both about 14, Kella and Armella are 7, and the triplets are 5 years old. They will have only fragments of him. They will know their father mostly through what other people tell them.
 
 - Jessica Isabella is in Halifax, across the continent. The sister who was once joined to her is now separated by geography and circumstance.
 - But Mike, Terri Anne, the seven sisters, and the cousins close around them. Rachel, widowed at 41 with seven children, will not do this alone either.

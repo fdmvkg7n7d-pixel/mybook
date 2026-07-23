@@ -4,7 +4,7 @@
 
 This version is written specifically for **Orin Lorin Junior and Danica**, treated here as newlyweds.
 
-Danica is from Japan. The trip to Sapporo carries personal and cultural significance for her. Orin’s sister Sun-Young (from South Korea) is currently in the hospital with leukemia, adding emotional complexity to the honeymoon.
+Danica is from Japan. The trip to Sapporo carries personal and cultural significance for her. Orin’s sister Sun-Young (from South Korea) is a Leukemia survivor, adding emotional complexity to the honeymoon.
 
 ## Best Overall Structure
 
@@ -19,7 +19,7 @@ Danica is from Japan. The trip to Sapporo carries personal and cultural signific
 ## Key Emotional Context
 
 - Danica is Japanese — the trip has deeper meaning for her.
-- Orin is leaving while his sister Sun-Young is hospitalized with leukemia.
+- Orin is leaving while his sister Sun-Young is living with the aftermath and follow-up of Leukemia survival.
 - The honeymoon balances romance with quiet emotional weight.
 
 ## Hotels
