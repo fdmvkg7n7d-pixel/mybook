@@ -180,3 +180,87 @@
 - **Medical / realism notes:** Shark bites are rare; many are test bites or mistaken-identity bites rather than prolonged attacks. Bleeding control, shock management, wound cleaning, antibiotics, and infection monitoring matter. Saltwater exposure increases infection concerns.
 - **Themes:** The fragility of ordinary vacation joy, family panic, body trauma, fear of water, scars as memory, survival, and the long emotional work of returning to something once loved.
 - **Open choices:** Which character is bitten; exact location; severity; who rescues them; whether the bite affects dancing / swimming / modelling / athletics; whether the character later returns to the water or avoids it permanently.
+
+### Blended Family: Mother, Stepfather, and Two Sisters
+- **Concept:** A family structure set in **Brisbane, Queensland, Australia**, with a mother, her second partner / husband, and two daughters. The **first daughter** is from the mother's first relationship. The **second daughter** is from the mother's second relationship with the man who is the **stepfather of the first daughter**. The stepfather is mean to both daughters, but he is especially mean to the first daughter.
+- **Location:** **Brisbane, Queensland, Australia**.
+- **Family Structure:**
+  - Mother: [TBD]
+  - Stepfather / second partner: [TBD]
+  - First daughter: child of the mother and the mother's first relationship.
+  - Second daughter: child of the mother and the stepfather / second relationship.
+  - The two daughters are half-sisters through their mother.
+  - The stepfather is the biological father of the second daughter and the stepfather of the first daughter.
+- **Narrative Arc:** The family explores what happens when a household looks blended on paper but is emotionally unsafe inside. The stepfather is mean to both daughters, but he targets the first daughter more harshly because she is not his biological child. The first daughter may feel like an outsider in her own home, while the second daughter may grow up confused because her father is cruel to her sister and also unkind to her. The sisters' bond can become a refuge against the stepfather's behavior. This arc should be **very emotional**, especially around the first daughter's countdown to freedom, the betrayal of being trapped, the younger sister's fear when she realizes something is wrong, and the mother's eventual reckoning with what happened in her own home.
+- **Possible Emotional Beats:**
+  - The first daughter notices that the baby / younger sister has the stepfather’s last name, face, or family traits and wonders where that leaves her.
+  - The stepfather is mean to both girls, but especially to the first daughter, using her different father / origin as an emotional weapon.
+  - The first daughter learns to read the room before speaking because she expects criticism.
+  - The first daughter has a boyfriend and decides to sneak out to be with him at a beach party.
+  - The stepfather is furious with the first daughter when he finds out.
+  - His fury may be less about safety and more about control, ownership, and punishing her for acting independently.
+  - The beach party becomes a flashpoint: the first daughter wants ordinary teen freedom, while the stepfather treats it as proof that she is bad / disobedient / not really his.
+  - After the beach-party fallout, the first daughter tells the family that she will be moving out when she turns eighteen in **three weeks**.
+  - The announcement shifts the household from punishment to countdown: the first daughter has named an exit date out loud.
+  - The stepfather has a plan to stop her from moving out.
+  - He **never reveals his plan** to the daughter, the mother, or the younger sister.
+  - The stepfather has a **secret room in the basement**.
+  - The secret room has its own **bathroom** and **kitchen**.
+  - The basement room suggests premeditation: whatever he is planning is not impulsive.
+  - The day before her eighteenth birthday, the stepfather asks the first daughter to help him with something in the basement.
+  - She follows him because it sounds like an ordinary household request, even though she is only one day away from legal adulthood.
+  - When they reach the **secret room**, the stepfather pushes her down to the floor and runs out of the secret room.
+  - This is the moment his hidden plan becomes active: he is trying to stop her from reaching her eighteenth birthday and moving out on her own terms.
+  - Afterward, the stepfather tells the mother and his biological daughter / the daughter he treats as his “true daughter” that the first daughter must have run away.
+  - He argues that because the first daughter is eighteen years old, there is no hope / no point in looking for her.
+  - This lie is part of the plan: he uses her upcoming legal adulthood as a shield to discourage the family from searching.
+  - After she turns eighteen, the stepfather believes her legal adulthood will help him get away with what he is doing.
+  - His hidden plan may include sexually assaulting her in the secret basement room after her eighteenth birthday.
+  - The assault happens **more than four times**.
+  - This must be framed as abuse, coercive violence, and false imprisonment — **not** romance and **not** consent.
+  - The fact that she is eighteen does not make the situation consensual because he is her stepfather, he has trapped her, and the entire setup is coercive.
+  - She **becomes pregnant** as a result of what happened.
+  - The pregnancy becomes another devastating layer of the trauma: she has escaped / is trying to escape the house, but her body is now carrying evidence of what the stepfather did.
+  - Her pregnancy should be handled through survivor agency, emotional support, and careful family response — not medical care, punishment, romance, or destiny.
+  - This should be a **very emotional** sequence: the first daughter is one day from freedom, believes she is helping with an ordinary basement task, and suddenly realizes the person who was supposed to be an adult in the home has planned to erase her independence.
+  - The younger daughter may notice something wrong with his explanation, especially if she knows her older sister would not leave without saying goodbye.
+  - The other daughter / younger daughter is still missing her older sister after the stepfather claims she ran away.
+  - Her missing-her-sister grief becomes part of what keeps the older sister from being erased by the stepfather's lie.
+  - The younger daughter does **not** tell anyone her plan; she writes it only in her **diary**.
+  - In the diary, the younger daughter writes that when she turns **eighteen**, she wants to become a prostitute / sex worker so she can earn enough money to hire a private investigator to find her missing older sister.
+  - This plan should be framed as desperation, grief, and love for her older sister — not glamour.
+  - Because the storyline is set in **Brisbane, Queensland**, her diary plan should be tied to Queensland’s adult sex-work legal context. The plan is still emotionally desperate and risky, but she is specifically waiting until she is eighteen.
+  - **Four years later**, the day after the younger daughter’s eighteenth birthday, she leaves a note and runs away.
+  - The note can be brief and devastating: she is going to find her older sister, and she cannot stay in the house any longer.
+  - Her running away mirrors the stepfather’s earlier lie about the older sister, but this time the younger daughter is actually choosing flight because she believes no one else will search hard enough.
+  - After running away, she goes into a **brothel** in Brisbane.
+  - She is not there for glamour or rebellion; she is there because she believes sex work may be the fastest way to earn enough money to hire a private investigator to find her missing older sister.
+  - The brothel starts her working on her **first evening**.
+  - When a customer comes in, the women line up.
+  - The lineup should feel transactional and emotionally jarring to her, especially because she is there out of grief and desperation rather than confidence.
+  - The customer chooses her.
+  - She takes him to her bedroom / assigned room at the brothel.
+  - This should be written through her emotional state and purpose: she is thinking about earning enough money to hire a private investigator to find her missing older sister.
+  - The brothel scene should carry grief, fear, determination, and the legal / adult threshold of her being eighteen.
+  - The younger daughter's realization can be very emotional too: she may be scared of her father, terrified for her sister, missing her older sister intensely, and forced to decide whether to believe the official story or trust what she knows about her sister.
+  - If the younger daughter learns what her father did to her older sister, she would be **crushed**.
+  - The devastation is doubled because he is her biological father and because the person he hurt is the sister she still misses and loves.
+  - His hidden plan should reveal the controlling core of the relationship through his behavior: he is not simply angry that she sneaked out; he wants to prevent her independence.
+  - The tension comes from the fact that he has been planning something privately while the first daughter believes she only has to survive until her eighteenth birthday and moving-out day.
+  - The second daughter notices the unfairness and may become protective of her older sister.
+  - The mother has to confront whether she is protecting her daughters or enabling the stepfather’s cruelty.
+  - The second daughter grows up assuming the first daughter is simply her sister, while the adults understand the relationship is more complicated on paper.
+  - A school form, doctor visit, birthday, family photo, or last-name question exposes the stepfamily structure.
+  - The first daughter may become fiercely protective of the younger sister even while privately struggling with feeling outside the new father-daughter bond.
+- **Possible Key Family Tie-In:**
+  - **Roberta Katherine** and **William Timothy Junior** eventually move to **Australia** to attend different universities there.
+  - This gives the Sabrina Bryna / William branch a future Australia connection that can naturally intersect with the Brisbane storyline.
+  - The adult male who visits the same Brisbane brothel is **Sabrina Bryna and William's great-grandson**.
+  - The adult male is **Roberta Katherine and William Timothy Junior's grandson, too**.
+  - His visit to that brothel can become the first accidental Key-family contact with the younger daughter.
+  - He may notice that she is not there for glamour or ordinary work, but because she is desperate to find her missing older sister.
+  - This can become the bridge from the brothel storyline into the main Key family: Sabrina Bryna and William's great-grandson tells his family, and the wider Key network may eventually help investigate the missing older sister.
+  - The great-grandson must be written as an adult; keep the encounter focused on recognition, concern, and the discovery of the hidden missing-sister story rather than explicit detail.
+
+- **Themes:** Blended family harm, emotional favoritism, step-parent cruelty, coercive control, false imprisonment, sexual abuse / assault, pregnancy after assault, survivor agency, Brisbane / Queensland legal context, very emotional sisterly fear and loyalty, desperate plans for money, private diaries, half-sister bonds, fear of replacement, motherly responsibility, teen independence, names and legal ties, and the difference between biology and daily care.
+- **Open Choices:** Names; ages between the sisters; whether the first father is absent, dead, unsafe, or still present; what exactly the younger daughter writes in her diary about becoming a prostitute / sex worker at eighteen in Brisbane to hire a private investigator; what note the younger daughter leaves when she runs away the day after her eighteenth birthday; which Brisbane brothel she goes into first; who she meets there; whether the brothel staff believe her, exploit her desperation, or warn her about the risks; whether anyone ever finds the diary and realizes she told no one her plan; whether the stepfather secretly reads the younger daughter’s diary or learns her plan another way; how Queensland’s adult sex-work context affects her thinking; how the stepfather built / hides the secret basement room with its bathroom and kitchen; whether he locks the secret room after running out; how long she is trapped; how convincing his “she ran away because she is eighteen” lie is; who discovers what happened; whether the younger sister, mother, boyfriend, or first father figure realizes she is missing; how the repeated assaults are discovered / documented; when she realizes / discovers she is pregnant; what choices and support she receives around the pregnancy; whether the pregnancy becomes legal evidence; whether the stepfather’s cruelty is emotional, verbal, controlling, neglectful, or escalates further; whether the mother leaves him; whether the sisters stay close or have a painful rivalry phase; the adult male being Sabrina Bryna and William's great-grandson and Roberta Katherine and William Timothy Junior's grandson too; which Australian university Roberta Katherine and William Timothy Junior each attend; and exactly how the great-grandson's brothel visit exposes the younger daughter's search for her missing sister.

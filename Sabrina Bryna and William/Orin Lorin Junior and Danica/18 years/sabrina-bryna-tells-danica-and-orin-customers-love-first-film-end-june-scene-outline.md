@@ -25,7 +25,7 @@
 
 1. Mark the emotional overlap between Danica’s graduation from high school and her first clear professional validation as an adult performer.
 2. Let Sabrina Bryna tell Danica, plainly and warmly, that Key Porn Studios customers love Danica’s first film.
-3. Keep the feedback professional and non-explicit: audience response, respectful messages, and the film’s strong reception rather than sexual detail or performance description.
+3. Keep the feedback professional: audience response, respectful messages, and the film’s strong reception rather than sexual detail or performance description.
 4. Show Sabrina separating Danica’s worth from the film’s popularity: good customer response is affirmation, not a debt or an obligation to make another film.
 5. Let Danica receive praise without immediately turning it into shame, fear, or pressure.
 6. Have Sabrina bring Orin Lorin Junior into the conversation by mentioning that he and Danica are taking a vacation in Paris.
@@ -121,7 +121,7 @@ Orin enters the conversation when Sabrina mentions that he and Danica are taking
 
 > **Sabrina:** The customers love your first film, Danica.
 
-- She explains the response in non-explicit professional terms:
+- She explains the response in professional terms:
   - strong initial viewing and repeat-viewing interest;
   - respectful, vetted feedback about Danica’s screen presence;
   - praise for her confidence, emotional openness, and authenticity on camera;
@@ -190,11 +190,25 @@ Orin enters the conversation when Sabrina mentions that he and Danica are taking
 - Sabrina tells Danica that she knows Danica and Orin Lorin Junior are taking a vacation in Paris.
 - This is where Orin comes into the conversation.
 - Sabrina asks Danica to speak with Orin about traveling to Budapest after Paris.
-- Key Porn Studios is desperate to find a young, beautiful adult woman who may voluntarily want to make a movie with a group of ten adult men.
+- Key Porn Studios has confirmed the Budapest movie with Danica as the voluntary adult star and a group of ten adult men.
+- **The movie is voluntary.**
+- **The film is a go.**
 - Danica tells Sabrina that she will be the star of the movie.
-- Sabrina tells Danica that she will send Danica and Orin the Budapest details.
-- Later, when Danica tells Orin about the Budapest proposal, Orin tells her that he will back her up whatever she decides because he loves her so much.
+- Sabrina tells Danica that she will send Danica and Orin the Budapest details, including that **Day 13 is for Danica’s film**.
+- Sabrina also tells Danica that **Pandora Paige will be there to help Danica out**.
+- Orin Lorin Junior already knows that Danica wants to be the star of the movie.
+- Later, when Danica and Orin talk through the Budapest details Sabrina sends, including the Day 13 film schedule, Orin tells her that he will back her up because he loves her so much.
 - Danica tells Orin that she loves him so much too.
+- Danica wears a **black dress and nude nylons** for the Budapest film day.
+- Danica’s father is there on the Budapest film day too because of his Key Porn Studios contract.
+- Before the film, Danica’s father sees Orin Lorin Junior and Danica in the foyer.
+- In the foyer before the film, Danica’s father tells Orin Lorin Junior and Danica, **“She is a fucking whore who is adopted.”**
+- Danica becomes very emotional because she did not know that she is adopted.
+- Danica runs away from them and runs into a bathroom.
+- Pandora Paige suggests to Orin Lorin Junior that he should go after Danica.
+- Orin Lorin Junior goes after Danica when she runs into the bathroom.
+- Pandora Paige makes an **executive decision to cancel the movie shoot** before filming begins.
+- Pandora Paige cancels the shoot because Danica is emotionally devastated after the insult and adoption revelation.
 - Danica tells Sabrina that her father is a hypocrite because he does not like Orin because Orin is Black.
 
 **Key dialogue:**
@@ -252,17 +266,31 @@ Orin enters the conversation when Sabrina mentions that he and Danica are taking
 1. The scene takes place at the end of June 2077, a couple of days after Danica’s BCS graduation ceremony.
 2. Danica is eighteen and has completed high school.
 3. Sabrina tells Danica personally that Key Porn Studios customers love Danica’s first adult film.
-4. The customer response is handled through a vetted, non-explicit professional summary rather than raw comments or explicit description.
+4. The customer response is handled through a vetted, professional summary rather than raw comments or explicit description.
 5. In the middle of their conversation, Sabrina tells Danica that her father has signed a one-year contract with Key Porn Studios as a porn star.
 6. Danica becomes very emotional and calls her father a hypocrite because he does not like Orin Lorin Junior because Orin is Black.
 7. Sabrina makes clear that popularity does not obligate Danica to make another film or alter her boundaries.
-8. Danica’s emotional response centers on being respected as an artist and adult, not on graphic detail or commercial metrics.
+8. Danica’s emotional response centers on being respected as an artist and adult, not on commercial metrics.
 9. Sabrina brings Orin into the conversation by mentioning the Paris vacation he and Danica are taking.
-10. Sabrina asks Danica and Orin to travel to Budapest after Paris because Key Porn Studios is desperate to find a young, beautiful adult woman for a movie with a group of ten adult men.
-11. Danica tells Sabrina that she will be the star of the movie.
-12. Sabrina tells Danica that she will send Danica and Orin the Budapest details.
-13. Orin later tells Danica that he will back her up whatever she decides because he loves her so much; Danica tells Orin that she loves him so much too.
-14. Taylor Raven, Sun-Young, Roberta Katherine, and William Timothy Junior come into the pool room at the end of the conversation.
+10. Sabrina asks Danica and Orin to travel to Budapest after Paris because Key Porn Studios has confirmed the Budapest movie with Danica as the voluntary adult star and a group of ten adult men.
+11. **The movie is voluntary.**
+12. **The film is a go.**
+13. Danica tells Sabrina that she will be the star of the movie.
+14. Sabrina tells Danica that she will send Danica and Orin the Budapest details, including that **Day 13 is for Danica’s film**.
+15. Pandora Paige will be there to help Danica out on Day 13.
+16. Danica wears a **black dress and nude nylons** for the Budapest film day.
+17. Orin Lorin Junior already knows that Danica wants to be the star of the movie.
+18. Danica’s father is there on Day 13 too because of his Key Porn Studios contract.
+19. Before the film, Danica’s father sees Orin Lorin Junior and Danica in the foyer.
+20. In the foyer, Danica’s father tells Orin Lorin Junior and Danica, **“She is a fucking whore who is adopted.”**
+21. Danica becomes very emotional because she did not know that she is adopted.
+22. Danica runs away from them and runs into a bathroom.
+23. Pandora Paige suggests to Orin Lorin Junior that he should go after Danica.
+24. Orin Lorin Junior goes after Danica when she runs into the bathroom.
+25. Pandora Paige makes an **executive decision to cancel the movie shoot** before filming begins.
+26. Pandora Paige cancels the shoot because Danica is emotionally devastated after the insult and adoption revelation.
+27. Orin later tells Danica that he will back her up because he loves her so much; Danica tells Orin that she loves him so much too.
+28. Taylor Raven, Sun-Young, Roberta Katherine, and William Timothy Junior come into the pool room at the end of the conversation.
 
 ---
 
@@ -270,8 +298,16 @@ Orin enters the conversation when Sabrina mentions that he and Danica are taking
 
 - Place this after Danica’s BCS graduation ceremony in late June 2077.
 - Danica’s first adult film occurred only after she turned eighteen.
-- Maintain the saga’s non-explicit handling standard for adult-entertainment scenes: focus on work, consent, career choice, and emotional consequence rather than sexual content.
+- Maintain the saga’s adult-entertainment handling standard: focus on work, consent, career choice, and emotional consequence rather than sexual content.
 - Sabrina’s ASL communication and any established accessibility support should be respected in the eventual prose version.
 - Avoid turning customer feedback into a measure of Danica’s worth or a mandate for future performance.
-- Sabrina’s Budapest request is for a voluntary adult casting search; Danica and Orin are free to accept or decline it.
-- This can lead into a later, separate conversation in which Danica and Orin decide whether to go to Budapest after Paris.
+- Sabrina’s Budapest request is now tied to a confirmed voluntary adult film: **the movie is voluntary** and **the film is a go**, with Danica as the adult star.
+- Pandora Paige is there to help Danica out on Day 13.
+- Danica wears a **black dress and nude nylons** for the Budapest film day.
+- Danica’s father is also there on Day 13 because of his Key Porn Studios contract.
+- Before the film, Danica’s father sees Orin Lorin Junior and Danica in the foyer.
+- Danica’s father reveals that Danica is adopted by calling her “a fucking whore who is adopted” in the foyer; Danica did not know she was adopted, becomes very emotional, runs away from them, and runs into a bathroom.
+- Pandora Paige suggests to Orin Lorin Junior that he should go after Danica, and Orin goes after her.
+- Pandora Paige makes an executive decision to cancel the movie shoot before filming begins because Danica is emotionally devastated by the insult and adoption revelation.
+- Sabrina Bryna and William process the Budapest crisis in the kitchen at **Carlota Delicia and Keith’s mansion** in `sabrina-bryna-william-conversation-about-danica-budapest-crisis-scene-outline.md`; Sabrina feels guilty that she sent Danica into a lion's den, and Roberta Katherine and William Timothy Junior come into the kitchen arguing like they do.
+- This can lead into a later, separate conversation in which Danica and Orin talk through the confirmed Budapest details, including the Day 13 film schedule and eventual cancellation, before leaving Paris for Budapest.
