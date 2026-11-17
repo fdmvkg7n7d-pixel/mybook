@@ -1398,6 +1398,123 @@ This file collects distinctive vacation destinations that may be used in the nov
 - Support and recovery for Roberta Katherine
 - How Roberta Katherine and Jordan Lily rebuild their lives after returning home
 
+## Vacation 28 — William Timothy Junior and Evangeline Eyre in Barcelona
+
+### Destination
+
+**Barcelona, Catalonia, Spain**
+
+### Established Travellers
+
+- William Timothy Junior
+- Evangeline Eyre
+
+### Established Story Event
+
+- Haley Alexis goes to live in Barcelona with Joaquin while studying law at the Universitat de Barcelona.
+- Because Haley Alexis goes to live in Barcelona, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their visit, their sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
+
+### Planning Details to Decide Later
+
+- Length and dates of stay
+- Accommodation in Barcelona
+
+## Vacation 29 — Laith Miller, Charlie Kasey, Aurora Chase, and Aquila Octavio in Barcelona
+
+### Destination
+
+**Barcelona, Catalonia, Spain**
+
+### Established Travellers
+
+- Laith Miller
+- Charlie Kasey
+- Aurora Chase
+- Aquila Octavio
+
+### Established Story Event
+
+- Because of Zoey Chantal's polymorphic light eruption, Laith tries to ensure his other children as well as Charlie Kasey receive special attention and dedicated experiences.
+- While Charlie Janya and Zoey Chantal travel to London on a nighttime train ride, Laith takes Charlie Kasey and the twins, Aurora Chase and Aquila Octavio, on a trip to Barcelona.
+- Charlie Kasey does not like the trip to Barcelona because Charlie Janya does not come along.
+- Charlie Kasey is very jealous of the special attention Zoey Chantal receives from Charlie Janya and Laith.
+- Charlie Kasey does not want to help Laith with the twins on the trip to Barcelona.
+- While ten-year-old twins Aurora Chase and Aquila Octavio are building sand castles on the beach in Barcelona, Laith and Charlie Kasey have a conversation about the trip and her siblings.
+- Charlie Kasey tells him the half truth that she does not like visiting Shane in London.
+- Laith does not push her to ask for the reason.
+- Thirteen years later, Laith feels deep guilt for not having pushed Charlie Kasey for the reason; he confesses the conversation to Charlie Janya and asks if she wants to get a divorce, but Charlie Janya tells him that she had also missed the clues Charlie Kasey had been giving them, such as her running in Barcelona and playing her Double Bass constantly for seven hours after returning home to avoid thinking about what she did with Luther's boss and his young women. In Charlie Janya and Laith's conversation about the poker games, Charlie Janya asks Laith whether she could do better and notice the signs, telling Laith that she already knew the signs because of Fallon Glenda's swimming teacher and her pregnancy with Lÿsa Mandy when she was twelve years old, and she tells Laith that she is thanking God that Charlie Kasey didn't get pregnant with Luther or Shane's mates at the poker games; Laith tells Charlie Janya that it isn't her fault to miss the warning signs because Shane fooled all of us. In the middle of their conversation, Zoey Chantal comes into the kitchen and asks them whether, if she wasn't born, Shane wouldn't do these awful things to Charlie Kasey. Charlie Kasey walks into the kitchen when Zoey Chantal asks Charlie Kasey and Victor her question and tells Zoey Chantal that she shouldn't be questioning herself because Shane was a very awful father who was in debt for poker games. Charlie Kasey asks them whether they can forgive her for what she did to their family, and Charlie Janya, Laith, and Zoey Chantal immediately hug Charlie Kasey. Following this, Charlie Janya calls Fallon Glenda because one of her granddaughters needs to see her; Charlie Janya explains to Fallon Glenda everything about Shane and the poker games, and Fallon Glenda tells Charlie Janya that Charlie and she will visit the family during Christmas, which is five months away.
+- While visiting Barcelona, Charlie Kasey likes taking runs around the city to think about Shane, her siblings, Laith, Charlie Janya, and the poker games, agonizing over how she can get out of visiting Shane and doing nasty things with Shane's mate.
+- Inquisitive twins Aurora Chase and Aquila Octavio ask Laith many questions about Charlie Kasey's running.
+- After her runs, Charlie Kasey takes a hot shower and cries while the water runs; once, Aurora Chase needs the bathroom and hears Charlie Kasey's cries through the frosted glass. When Aurora asks if she is okay, Charlie Kasey quickly stops crying, says she is okay, and asks Aurora to keep it a secret. Aurora Chase tells Aquila Octavio about the crying in the shower; Aquila Octavio is concerned about Charlie Kasey and asks Laith about her, as the twins love Charlie Kasey so much.
+- Aurora Chase cannot keep the secret and tells Charlie Janya everything in Aberdeen; Charlie Janya dismisses it as a teenager sometimes being very sad for no reason.
+- Thirteen years later, Aurora Chase asks Charlie Janya whether she is guilty for not pushing Charlie Kasey to tell the truth, and Charlie Janya tells her she was not guilty because she was only ten years old; when Aquila Octavio learns what happened to Charlie Kasey thirteen years later, he starts crying and his girlfriend Abigale helps him.
+- Because of Laith's passion for footie and Aurora Chase's love of the sport, Laith takes Aurora Chase and Aquila Octavio on a Camp Nou stadium and museum tour, buying both twins FC Barcelona jerseys as well as buying a jersey for Charlie Kasey; Charlie Kasey joins them on the outing but sits quietly and detached in the stands, absorbed in her own heavy thoughts.
+- During the trip, Laith asks a passerby to take a family photograph of the four of them; Charlie Kasey wears a strained, tight smile that Laith later looks back on thirteen years later as another painful warning sign he failed to recognize at the time.
+- During an outdoor terrace tapas dinner where the twins eagerly eat patatas bravas and croquetas, Charlie Kasey barely touches her food and deflects Laith's gentle concern by claiming she was merely tired from running.
+- In Barcelona, Laith buys Charlie Kasey a Spanish mosaic figurine as a souvenir.
+- On their final night in Barcelona, Laith reflects on the trip from the balcony and feels satisfied that he gave the children a special holiday, texting Charlie Janya in London, while Charlie Kasey lies awake in bed dreading her upcoming drop-off in London.
+- Following their time in Barcelona, Laith travels with the children to London to drop Charlie Kasey off at Shane's West End apartment for her scheduled custody visit before taking the twins back home to Aberdeen.
+- Upon returning home to Aberdeen and reuniting with Charlie Janya and Zoey Chantal, the twins hug Charlie Janya and Zoey Chantal, the children go away together discussing their individual trips, and Charlie Janya and Laith have a conversation, too.
+- When Shane sees the FC Barcelona jersey Laith bought for Charlie Kasey, Shane starts laughing at the jersey and tells Charlie Kasey that no one will help her out with helping him out with his gambling debts and Luther; Shane also tells Charlie Kasey that he wants her to wear that jersey as a dress because his mates, especially Luther Tucer, will go crazy.
+- Charlie Kasey tells Shane okay while thinking to herself how awful Shane really is, after which Shane tells her that Luther will take her for a couple of days and she will be visiting Manchester; Shane does not know that Luther is in the mob based in Manchester.
+- During her visit at Shane's apartment, Shane holds another poker game with his gambling mates; when Shane's gambling mate, Luther Tucer, takes Charlie Kasey to her bedroom in connection with Shane's gambling debt, Luther Tucer sees the Spanish mosaic figurine from Barcelona and starts laughing at it mockingly.
+- Charlie Kasey is fifteen years old when she visits Manchester. After taking Charlie Kasey to her bedroom, Luther Tucer drives fifteen-year-old Charlie Kasey to Manchester for a couple of days and tells her everything about his mob boss; Charlie Kasey meets Luther's boss, who lives outside of Manchester and has ten young women who service him for anything he would like to. Luther's boss likes Charlie Kasey so he pays Luther twenty thousand Pounds to take her off his hands; Luther knows how awful his boss could be, but he is offering twenty thousand Pounds to have Charlie Kasey, and Luther accepts the twenty thousand Pounds. When Charlie Kasey returns back to Charlie Janya and Laith's house, she plays her Double Bass constantly for seven hours to not think what she did with Luther's boss and his young women. Charlie Kasey later shares this intelligence with Victor Mayfyeld, creating Luther's downfall.
+
+### Planning Details to Decide Later
+
+- Length and dates of stay
+- Itinerary and activities in Barcelona
+- Accommodation in Barcelona
+
+## Vacation 30 — Charlie Janya and Zoey Chantal in London
+
+### Destination
+
+**London, England**
+
+### Established Travellers
+
+- Charlie Janya
+- Zoey Chantal (five years old)
+
+### Established Story Events
+
+- When Zoey Chantal is five years old, Charlie Janya takes her on a midnight train ride from Aberdeen to London to give her a wonderful, safe nighttime adventure adapted to her polymorphic light eruption.
+- During their London trip, Charlie Janya takes Zoey Chantal to an indoor performance of the Peter and the Wolf ballet in the East End; Charlie Janya gets backstage passes so Zoey Chantal can meet the cast and dancers.
+- Charlie Janya takes Zoey Chantal to Primrose Hill for a midnight picnic on the grass overlooking the illuminated London skyline.
+- Two London police officers on foot patrol question them about having a picnic with a young child at midnight.
+- Charlie Janya explains Zoey Chantal's polymorphic light eruption and sunlight allergy.
+- The female officer recognizes Charlie Janya from The Bunny Ranch, and Charlie Janya recognizes her as well; the officer's partner knows she is bisexual, and she explains that she knows Charlie Janya from her past.
+- When the officers express sympathy, five-year-old Zoey Chantal firmly declares they do not need to feel sorry for her because her parents give her a wonderful life.
+- After the officers leave, Charlie Janya kisses Zoey Chantal on the head, explaining the kiss is to show how proud she is.
+- Charlie Janya asks Sabrina Bryna about riding the London Eye; Sabrina Bryna grants the request and calls someone in the government to arrange for Charlie Janya and Zoey Chantal to ride the London Eye around midnight.
+- On the day of the London Eye ride, while Charlie Janya gives Zoey Chantal a bath treatment for her polymorphic light eruption, she tells Zoey Chantal about the midnight outing.
+- Zoey Chantal jumps out of the bathtub with immense excitement and enjoyment at getting to see the whole city of London.
+- When the bath is finished, they go downstairs to the restaurant as usual and order a typical breakfast.
+- Another family at the restaurant complains that Charlie Janya and Zoey Chantal are eating breakfast at dinner.
+- The restaurant manager explains to the complaining parents that Charlie Janya has made special arrangements for her daughter.
+- During the midnight London Eye flight, Zoey Chantal is amazed to see all of the lights across the London skyline.
+- Sabrina Bryna asks the government to stop the wheel in the sky for ten minutes so Zoey Chantal can take in the view.
+- Charlie Janya takes many photographs of Zoey Chantal and sends them to Laith in Barcelona and Sabrina Bryna, sending Sabrina Bryna big thanks.
+- On the nighttime return train ride from London to Aberdeen, Zoey Chantal asks Charlie Janya whether she can take ballet lessons, explaining that she wants to dance and perform grand jetés like the dancers in Peter and the Wolf.
+- Charlie Janya promises Zoey Chantal—saying, “Cross my heart and hope to die, stick a needle in my eye”—that she will look for a ballet teacher who is willing to teach in the nighttime to accommodate her polymorphic light eruption.
+
+### Planning Details to Decide Later
+
+- Length of stay in London
+- Specific East End theatre venue
+- Accommodation in London
+
 ## Luis and Merissa Carolynn Fernández — Free Cruise Vacations
 
 - Luis works for a cruise line and can take Merissa Carolynn Fernández on cruises for free.
@@ -1405,4 +1522,25 @@ This file collects distinctive vacation destinations that may be used in the nov
 - They are authorized to see every area of each ship.
 - For routine contact, Luis travels from Fort Lauderdale to Davis every other weekend and on holidays; Merissa Carolynn Fernández does not make that routine journey.
 - Specific cruise routes and destinations remain to be selected.
+
+## Vacation 31 — Fallon Glenda and Charlie's Family Trip to Orlando
+
+- **Location:** Orlando, Florida, United States
+- **Timing:** In the summer between Lysa Mandy's grade eleven and grade twelve, after giving Lysa Mandy the tours of the three universities (Guelph, Madison, and Corvallis).
+- **Participants:** Fallon Glenda, Charlie, Lysa Mandy, Charlie Janya, Rebecca Brazilia, and Calida Dawn.
+- **Activities and Highlights:**
+  - The family visits Terri Anne, who lives in Cypress Cove permanently.
+  - They visit different fun parks across Orlando, including Walt Disney World and Discovery Cove.
+
+## Vacation 32 — Fallon Glenda and Charlie Take Calida Dawn to Hawaii and Australia
+
+- **Location:** Hawaii, United States, and Sydney, Queensland, and Melbourne, Australia
+- **Timing:** Christmas break
+- **Participants:** Fallon Glenda, Charlie, and Calida Dawn
+- **Activities and Highlights:**
+  - En route to Australia, they visit Lysa Mandy and Samantha's family, where they live in Hawaii.
+  - In Australia, Fallon Glenda and Charlie take Calida Dawn to tour the three universities she has chosen: Sydney, Queensland, and Melbourne.
+  - Calida Dawn wants to attend university in Australia and become a doctor like Fallon Glenda.
+
+
 

@@ -17,3 +17,4 @@
 - Greg Fields is sixty when he begins coaching them.
 - Greg Fields has thirty years of coaching experience.
 - Morgan Marino remains an important lifelong mentor and family friend.
+- Greg Fields coaches Madeleine Jaycee Key and Caesarius Lavigne when they return to the senior ISU Grand Prix of Figure Skating circuit from ages twenty to twenty-three following the birth of their twin daughters, Carlota Morgan Lavigne and Marianne Celeste Lavigne. Under his coaching in Brisbane, their mature, romantic on-ice style achieves further international acclaim at Skate Canada International and Skate America, where they win multiple Grand Prix event titles and achieve the gold medal at the ISU Grand Prix of Figure Skating Final.

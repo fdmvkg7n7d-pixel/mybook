@@ -1,18 +1,18 @@
 # Rebecca Brazilia and Patrick
 
-## Questions to Answer Later
-
-1. How and when do Rebecca Brazilia and Patrick meet?
-2. What is the nature of Rebecca Brazilia and Patrick’s relationship?
-3. When are Desiree Arissa and Riley Leah born?
-4. How do Rebecca Brazilia and Patrick divide parenting responsibilities?
-5. Does Patrick travel to Las Vegas when Rebecca Brazilia goes to support Charlie Janya?
-
 ## Confirmed Facts
 
+- Rebecca Brazilia and Patrick meet at her Key Davis clinic when he begins working there as a veterinary technician.
+- Their relationship is strictly professional at the beginning; in the sixth month of his employment, their relationship changes and becomes romantic.
+- Rebecca Brazilia and Patrick divide parenting responsibilities equally.
+- Patrick travels to Las Vegas with Rebecca Brazilia and the children when Rebecca Brazilia goes to support Charlie Janya and Charlie Kasey.
+- Identical twins Vera Sophie and Desiree Arissa are born on July 31. Riley Leah is born as a singleton on August 4.
 - Rebecca Brazilia’s will gives the Key Davis veterinary clinic to Patrick and names Patrick as guardian responsible for Merissa Carolynn Fernández, Vera Sophie, Desiree Arissa, and Riley Leah after Rebecca Brazilia’s death. Patrick is already the biological father of the three younger girls. The will formally allows Merissa Carolynn Fernández to remain with Patrick and her sisters, with Luis’s agreement.
 - Rebecca Brazilia’s veterinary clinic at the Davis farm is named Key Davis.
 - Luis lives in Fort Lauderdale and travels to Davis to visit Merissa Carolynn Fernández every other weekend and on holidays, rather than requiring Merissa Carolynn Fernández to travel for routine visits. Rebecca Brazilia, Luis, and Patrick explain the living arrangement only to Merissa Carolynn Fernández because it directly affects her; Vera Sophie, Desiree Arissa, and Riley Leah are too young. Rebecca Brazilia receives end-of-life care at the Davis farm she shares with Patrick. Rebecca Brazilia’s veterinary clinic is located on the farm. Rebecca Brazilia gives the clinic to Patrick, who continues working there as a veterinary technician.
+- Four other veterinarians work at the Key Davis veterinary clinic, ensuring veterinary medical care continues after Rebecca Brazilia’s death.
+- Patrick wants to remain a veterinary technician rather than training to become a veterinarian because of his children, especially Riley Leah.
+- Rebecca Brazilia and Patrick have a business manager who handles the clinic’s business operations.
 - Rebecca Brazilia dies at home with thirteen-year-old Merissa Carolynn Fernández beside her. At the time, identical twins Vera Sophie and Desiree Arissa are seven years and six months old, and Riley Leah is six months old. The family holds a memorial. Charlie Janya attends the memorial alone because Zoey Chantal’s polymorphic light eruption prevents Zoey Chantal from attending and Charlie Janya’s other children are attending school. Merissa Carolynn Fernández begins living with Patrick and her younger sisters immediately after Rebecca Brazilia’s death.
 - Rebecca Brazilia dies from breast cancer on February 4, six months after Riley Leah’s birth. This places Riley Leah’s birthday on August 4. Riley Leah is still an infant when Rebecca Brazilia dies.
 - Merissa Carolynn Fernández is told immediately when Rebecca Brazilia’s breast cancer becomes terminal. Merissa Carolynn Fernández feels both sad and happy: she misses Rebecca Brazilia deeply while Rebecca Brazilia is dying, and she is comforted by the plan for her to remain with Vera Sophie, Desiree Arissa, and Riley Leah.

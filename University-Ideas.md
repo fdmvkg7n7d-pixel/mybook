@@ -8,7 +8,7 @@ This file keeps possible universities for characters and future storylines in on
 
 - **Location:** Madison, Wisconsin
 - **Type:** Public research university
-- **Character or storyline:** To be decided
+- **Character or storyline:** One of three universities Lysa Mandy chooses to visit; in the summer between grade eleven and grade twelve, Fallon Glenda and Charlie take the family to Madison, Wisconsin, along with Guelph, Ontario, and Corvallis, Oregon. Lysa Mandy ultimately chooses Oregon State University in Corvallis.
 
 ### 2. University of Iowa
 
@@ -139,8 +139,8 @@ This file keeps possible universities for characters and future storylines in on
 
 - Charlie Janya and Rebecca Brazilia share a bedroom while growing up.
 - Their shared-bedroom arrangement ends when they begin attending two different universities.
-- Charlie Janya’s university remains to be selected in light of Charlie Janya’s interests in dance and gymnastics.
-- Rebecca Brazilia’s university remains to be selected in light of Rebecca Brazilia’s interests in gymnastics and animals.
+- Charlie Janya attends the University of Nevada, Las Vegas (UNLV), pursuing dance.
+- Rebecca Brazilia attends the University of California, Davis (UC Davis), earning her veterinary medicine degree.
 
 ## Rebecca Brazilia and Luis
 
@@ -153,4 +153,46 @@ This file keeps possible universities for characters and future storylines in on
 
 - Merissa Carolynn Fernández wants to become a veterinarian like Rebecca Brazilia.
 - She plans to attend the University of California, Davis, the same university Rebecca Brazilia attended.
+
+## United States Service Academies — Rebecca Brazilia and Patrick Hegsmith's Daughters
+
+- **Vera Sophie:** Wants to attend the United States Military Academy at West Point.
+- **Desiree Arissa:** Wants to attend the United States Air Force Academy.
+- **Riley Leah:** Attends the United States Coast Guard Academy.
+
+## Aquila Octavio — University in London
+
+- Aquila Octavio moves to London and attends Queen Mary University of London, studying English Literature and Linguistics.
+- Aquila Octavio aspires to be a speech-language pathologist.
+- Upon moving to London for university, Aquila Octavio joins a new Capoeira studio instructed by Cirk McMarden.
+- Through Cirk McMarden's studio, Aquila Octavio meets Cirk's daughter, Abigale, who attends The Royal Ballet School, and they become a couple.
+
+## Lysa Mandy and Samantha — Oregon State University
+
+- In the summer between grade eleven and grade twelve, Fallon Glenda and Charlie take the family to three cities—Guelph, Ontario; Madison, Wisconsin; and Corvallis, Oregon—because Lysa Mandy has chosen three different universities to attend, with Lysa Mandy ultimately selecting Oregon State University in Corvallis.
+- After giving Lysa Mandy the tours of the three different universities, Fallon Glenda and Charlie take the family to Orlando to visit Terri Anne (who lives in Cypress Cove permanently) and enjoy different fun parks like Walt Disney World and Discovery Cove.
+- Lysa Mandy and Samantha attend Oregon State University.
+- Lysa Mandy studies Zoology.
+- When Lysa Mandy is leaving home to attend Oregon State, her sisters Charlie Janya, Rebecca Brazilia, and Calida Dawn are upset because she is leaving their home. Fallon Glenda and Charlie try to calm Charlie Janya, Rebecca Brazilia, and Calida Dawn down, but they cannot calm the rest of their daughters down, so Lysa Mandy decides that they should come along with Fallon Glenda and her to Oregon State.
+- Samantha studies Women, Gender, and Sexuality Studies (The Women, Gender, and Sexuality).
+- Samantha's birthplace is Bend, Oregon, and her birthday is October thirty-first.
+- Samantha attended West High School, where she played on the volleyball team; she hopes to join the Oregon State volleyball team.
+- Lysa Mandy attended Sacred Heart School; she likes taking gymnastics and playing on drums.
+- Lysa Mandy and Samantha meet each other when they are five years old.
+- They meet each other again when they are attending Oregon State University and become girlfriends.
+- Lysa Mandy and Samantha share a dormitory room; that is why Lysa Mandy sees Samantha's birthmark on her right bottom cheek.
+- Lysa Mandy and Samantha don't know that they knew each other until Lysa Mandy sees Samantha's birthmark.
+- They immediately start talking about their lives.
+- They are invited to a Halloween house party but decide they should stay at their dormitory room and sleep together for their first time.
+
+## Calida Dawn — Medical Universities in Australia
+
+- Calida Dawn wants to be a doctor like Fallon Glenda.
+- Calida Dawn wants to attend a university in Australia.
+- The three universities Calida Dawn has chosen to tour are Sydney, Queensland, and Melbourne.
+- Fallon Glenda and Charlie take Calida Dawn to Australia during Christmas break to tour the three universities.
+- During the trip to Australia, Fallon Glenda, Charlie, and Calida Dawn visit Lysa Mandy and Samantha's family, where they live in Hawaii.
+
+
+
 

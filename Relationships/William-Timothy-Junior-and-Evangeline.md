@@ -32,6 +32,17 @@
 - Six months after the Henley Beach meeting, William Timothy Junior and Evangeline Eyre become a couple.
 - Twenty-four years after Candice hides her pregnancy, William Timothy Junior and Evangeline Eyre visit MacKenzi Bree at her Royal Australian Navy location. Abby, who also serves in the Royal Australian Navy at the same location, sees William Timothy Junior and recognizes him as her father from a photograph she has of Candice and William Timothy Junior together. Abby quietly asks William Timothy Junior and Evangeline Eyre to speak privately, shows them the photograph, and reveals that William Timothy Junior is her father.
 - Evangeline Eyre attends Adelaide University and follows the veterinarian-qualification pathway through the Bachelor of Science (Veterinary Bioscience) and Doctor of Veterinary Medicine before focusing on small-animal care.
+- When their daughter Haley Alexis goes to live in Barcelona to study law at the Universitat de Barcelona and live with Joaquin, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their visit to Barcelona, William Timothy Junior and Evangeline Eyre's sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
 
 ## Seventy-Five-Year Partnership
 
@@ -70,3 +81,19 @@
 - Evangeline Eyre is then a grade-six student at Somerville House.
 - William Timothy Junior and Evangeline Eyre are merely in the same city; neither knows the other exists.
 - Their future meeting remains to be established.
+
+## Barcelona Visit While Haley Alexis Lives in Barcelona
+
+- Haley Alexis moves to Barcelona to study law at the Universitat de Barcelona and live with Joaquin.
+- Because Haley Alexis goes to live in Barcelona, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their time in Barcelona, William Timothy Junior and Evangeline Eyre's sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
+
