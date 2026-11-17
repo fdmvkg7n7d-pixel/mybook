@@ -36,6 +36,17 @@
 - Evangeline Eyre’s parents divorce, and their divorce shapes Evangeline Eyre’s decision not to marry.
 - William Timothy Junior and Evangeline Eyre never marry, but they remain a committed couple for seventy-five years.
 - William Timothy Junior and Evangeline Eyre have two daughters, MacKenzi Bree and Haley Alexis.
+- When Haley Alexis goes to live in Barcelona to study law at the Universitat de Barcelona and live with Joaquin, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their visit to Barcelona, William Timothy Junior and Evangeline Eyre's sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
 
 ## Parents’ Divorce and Visits to Darwin
 
@@ -65,3 +76,19 @@
 - Evangeline Eyre attends Adelaide University.
 - She studies Veterinary Bioscience before progressing to the Doctor of Veterinary Medicine.
 - Evangeline Eyre focuses professionally on small animals; her exact workplace and career events remain to be decided.
+
+## Barcelona Visit While Haley Alexis Lives in Barcelona
+
+- Haley Alexis moves to Barcelona to study law at the Universitat de Barcelona and live with Joaquin.
+- Because Haley Alexis goes to live in Barcelona, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their time in Barcelona, William Timothy Junior and Evangeline Eyre's sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
+

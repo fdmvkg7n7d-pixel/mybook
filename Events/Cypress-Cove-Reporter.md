@@ -14,6 +14,7 @@
 - The reporter is Anthony Zimmerman, who has worked for the Tampa Bay Sun for twenty-five years. Anthony Zimmerman does not take or publish a photograph of Madeleine Jaycee Key and Caesarius Lavigne. He publishes the internet article through the Tampa Bay Sun. Andrea Jennifer knows nothing about the article before it appears because she does not run the daily stories across Key Corporation’s newspapers. Andrea Jennifer cannot fire Anthony Zimmerman because of his twenty-five-year tenure and because Madeleine Jaycee Key and Caesarius Lavigne are public figures.
 - Carlota Delicia calls her aunt, Andrea Jennifer, after the internet article appears. Andrea Jennifer is in charge of the internet newspaper that publishes the story about seeing fourteen-year-old Madeleine Jaycee Key and Caesarius Lavigne leave Cypress Cove.
 - Carlota Delicia, Keith, and Adelisa have two trailers at Cypress Cove.
+- Terri Anne lives in Cypress Cove permanently.
 - The three adults teach Madeleine Jaycee Key and Caesarius Lavigne to accept and feel comfortable with their bodies.
 - Anthony Zimmerman is driving down the road when he sees Madeleine Jaycee Key and Caesarius Lavigne leaving Cypress Cove.
 - Anthony Zimmerman writes an internet article about seeing the two fourteen-year-olds leave the resort.

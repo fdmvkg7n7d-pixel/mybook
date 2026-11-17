@@ -1,9 +1,5 @@
 # Rebecca Brazilia Dies of Breast Cancer
 
-## Questions to Answer Later
-
-
-
 ## Confirmed Facts
 
 - Rebecca Brazilia’s will gives the Key Davis veterinary clinic to Patrick and names Patrick as guardian responsible for Merissa Carolynn Fernández, Vera Sophie, Desiree Arissa, and Riley Leah after Rebecca Brazilia’s death. Patrick is already the biological father of the three younger girls. The will formally allows Merissa Carolynn Fernández to remain with Patrick and her sisters, with Luis’s agreement.

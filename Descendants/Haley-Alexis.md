@@ -25,6 +25,7 @@
 - Haley Alexis is sixteen and Joaquin is eighteen when they first meet in Barcelona.
 - Haley Alexis and Joaquin become a couple. When Haley Alexis is twenty and Joaquin is twenty-two, they visit the Alhambra together. During the visit, Joaquin asks Haley Alexis to move in with him. Haley Alexis accepts, and they begin living together in Barcelona after the trip.
 - Haley Alexis attends the Universitat de Barcelona to study law and become a lawyer.
+- When Haley Alexis goes to live in Barcelona, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her and enjoy a sightseeing itinerary that includes Sagrada Familia, Barcelona Aquarium, Montjuic Cable Car, Montjuic Castle, Parc Guell, Barcelona Zoo, Ciutadella Park and the Arc de Triomf, eating tapas, and swimming in the Mediterranean Sea.
 
 ## Childhood Bed-Wetting Period
 

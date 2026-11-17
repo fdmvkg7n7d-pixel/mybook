@@ -13,7 +13,8 @@
 - Lysa Mandy is conceived through the swimming teacher's abuse of Fallon Glenda's trust. The abuse is never Fallon Glenda's fault and does not diminish Lysa Mandy's worth.
 - Lysa Mandy is born two months prematurely and remains in the hospital for a couple of months for neonatal care.
 - Fallon Glenda affectionately calls her “my little giraffe.”
-- Fallon Glenda later chooses Sacred Heart School in San Francisco for Lysa Mandy.
+- Fallon Glenda later chooses Sacred Heart School in San Francisco for Lysa Mandy; Lysa Mandy attended Sacred Heart School, as do all of Fallon Glenda and Charlie's daughters.
+- Lysa Mandy likes taking gymnastics and playing on drums.
 
 ## Lysa Mandy Discovers the Violin
 
@@ -102,3 +103,39 @@
 - Fallon Glenda and Charlie have a deeply emotional conversation about the police encounter and Lysa Mandy's hospital stay as a newborn.
 - Fallon Glenda explains that the false accusation revived the pain of being prevented by a doctor from seeing Lysa Mandy during her neonatal hospital stay.
 - Both experiences forced Fallon Glenda to defend her place as Lysa Mandy's mother.
+
+## Lysa Mandy's Children and Grandchildren
+
+- Lysa Mandy has a son named Malcom Jacoby when she is twenty-three years old.
+- Lysa Mandy has a daughter named Stephanie Maddison when she is twenty-eight years old.
+- Malcom Jacoby and Stephanie Maddison are born in Honolulu.
+- Malcom Jacoby's birthday is on June twenty-third.
+- Stephanie Maddison's birthday is on September fourteenth.
+- Malcom Jacoby and Stephanie Maddison attend Hanalani Schools.
+- Stephanie Maddison attends a house party when she is twelve years old; that is where she becomes pregnant.
+- Stephanie Maddison has identical twins when she is thirteen years old.
+- Lysa Mandy is a grandmother because Stephanie Maddison has identical twins when she is thirteen years old.
+
+## Higher Education and Relationship with Samantha
+
+- In the summer between grade eleven and grade twelve, Fallon Glenda and Charlie take the family to three cities—Guelph, Ontario; Madison, Wisconsin; and Corvallis, Oregon—because Lysa Mandy has chosen three different universities to attend.
+- After giving Lysa Mandy the tours of the three different universities, Fallon Glenda and Charlie take their family to Orlando, where they visit Terri Anne (who lives in Cypress Cove permanently) and visit different fun parks like Walt Disney World and Discovery Cove.
+- Lysa Mandy chooses Oregon State University in Corvallis and studies Zoology.
+- Lysa Mandy's sisters (Charlie Janya, Rebecca Brazilia, and Calida Dawn) are upset because she is leaving their home to attend Oregon State.
+- Fallon Glenda and Charlie try to calm Charlie Janya, Rebecca Brazilia, and Calida Dawn down.
+- However, Fallon Glenda and Charlie cannot calm the rest of their daughters down, so Lysa Mandy decides that they should come along with Fallon Glenda and her to Oregon State.
+- Samantha is Lysa Mandy's girlfriend.
+- Samantha's birthplace is Bend, Oregon.
+- Samantha's birthday is October thirty-first.
+- Samantha attended West High School.
+- Samantha was on West High School's volleyball team, so she hopes she can join the Oregon State volleyball team.
+- Lysa Mandy attended Sacred Heart School; she likes taking gymnastics and playing on drums.
+- Lysa Mandy and Samantha meet each other when they are five years old.
+- Lysa Mandy and Samantha meet each other again when they are attending Oregon State University.
+- Lysa Mandy and Samantha share a dormitory room; that is why Lysa Mandy sees Samantha's birthmark on her right bottom cheek.
+- Lysa Mandy and Samantha don't know that they knew each other until Lysa Mandy sees Samantha's birthmark.
+- They immediately start talking about their lives.
+- They are invited to a Halloween house party but decide they should stay at their dormitory room and sleep together for their first time.
+- Samantha attends Oregon State University and studies Women, Gender, and Sexuality Studies (The Women, Gender, and Sexuality).
+- Lysa Mandy and Samantha's family live in Hawaii.
+- During their Christmas break trip to Australia, Fallon Glenda, Charlie, and Calida Dawn visit Lysa Mandy and Samantha's family in Hawaii.

@@ -1,13 +1,10 @@
 # Rebecca Brazilia’s End-of-Life Request for Merissa Carolynn Fernández
 
-## Questions to Answer Later
-
-1. How old is Merissa Carolynn Fernández when Rebecca Brazilia’s breast cancer becomes terminal?
-2. How old are Vera Sophie, Desiree Arissa, and Riley Leah at that time?
-3. How does Patrick help all four sisters grieve and remain together?
-
 ## Confirmed Facts
 
+- Merissa Carolynn Fernández is thirteen years old when Rebecca Brazilia’s breast cancer becomes terminal.
+- Identical twins Vera Sophie and Desiree Arissa are seven years and six months old, and Riley Leah is six months old when Rebecca Brazilia’s illness becomes terminal and she passes away.
+- Patrick helps all four sisters grieve and remain together by telling them that Rebecca Brazilia loves them so much and keeping them securely together in their home on the Davis farm.
 - Rebecca Brazilia’s will gives the Key Davis veterinary clinic to Patrick and names Patrick as guardian responsible for Merissa Carolynn Fernández, Vera Sophie, Desiree Arissa, and Riley Leah after Rebecca Brazilia’s death. Patrick is already the biological father of the three younger girls. The will formally allows Merissa Carolynn Fernández to remain with Patrick and her sisters, with Luis’s agreement.
 - Luis lives in Fort Lauderdale and travels to Davis to visit Merissa Carolynn Fernández every other weekend and on holidays, rather than requiring Merissa Carolynn Fernández to travel for routine visits. Rebecca Brazilia, Luis, and Patrick explain the living arrangement only to Merissa Carolynn Fernández because it directly affects her; Vera Sophie, Desiree Arissa, and Riley Leah are too young. Rebecca Brazilia receives end-of-life care at the Davis farm she shares with Patrick. Rebecca Brazilia’s veterinary clinic is located on the farm. Rebecca Brazilia gives the clinic to Patrick, who continues working there as a veterinary technician.
 - Because Luis works for a cruise line, he can take Merissa Carolynn Fernández on cruises for free. Luis gives her tours of the ships, and they are authorized to see every area of each cruise ship.

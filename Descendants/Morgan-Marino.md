@@ -63,3 +63,4 @@
 - Morgan Marino arranges swimming lessons and ballet training for Madeleine Jaycee Key and Caesarius Lavigne to strengthen the skills that support their pair skating.
 - They train at RDV Sportsplex Ice Den Pro.
 - Morgan Marino coaches Madeleine Jaycee Key and Caesarius Lavigne through their second Winter Olympic Games and remains an important lifelong mentor and family friend afterward.
+- Morgan Marino coaches Madeleine Jaycee Key and Caesarius Lavigne on the senior ISU Grand Prix of Figure Skating circuit from ages fifteen to nineteen, guiding them as they represent Canada at Skate Canada International and Skate America, where they establish themselves as beloved national icons for Canadian fans, overcome past United States selection discrimination, win multiple Grand Prix event titles, and achieve the gold medal at the ISU Grand Prix of Figure Skating Final.

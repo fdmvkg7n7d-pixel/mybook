@@ -115,8 +115,8 @@
 
 1. **Larissa Leola** — Armando Cortez Junior's twin. She is eleven when Antoine dies.
 2. **Armando Cortez Junior** — Larissa's twin. He is eleven when Antoine dies.
-3. **Kella Nakeisha** — Armella Beatrice's identical twin. She is five when Antoine dies.
-4. **Armella Beatrice** — Kella's identical twin. She is five when Antoine dies.
+3. **Kella Nakeisha** — Armella Beatrice's identical twin. She is five when Antoine dies. Armella Beatrice later blows up her sister relationship with Kella Nakeisha.
+4. **Armella Beatrice** — Kella Nakeisha's identical twin. She is five when Antoine dies. Armella Beatrice later blows up her sister relationship with Kella Nakeisha.
 5. **Melissa Lizette** — One of the infant triplets and Annabella Nicki's identical twin. Antoine is her father.
 6. **Marcos Eduarte** — One of the infant triplets. Antoine is his father.
 7. **Annabella Nicki** — One of the infant triplets and Melissa's identical twin. Antoine is her father.

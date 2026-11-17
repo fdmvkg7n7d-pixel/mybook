@@ -1,17 +1,23 @@
 # Vera Sophie
 
-## Questions to Answer Later
-
-1. Is Vera Sophie her complete legal name?
-2. What is Vera Sophie’s birthday and birthplace?
-3. Is Vera Sophie or Desiree Arissa the firstborn twin?
-4. What are Vera Sophie’s personality, interests, education, and ambitions?
-5. What relationship does Vera Sophie have with Patrick?
-6. What relationship does Vera Sophie have with Merissa Carolynn Fernández and Riley Leah?
-7. What relationship does Vera Sophie develop with Charlie Kasey?
-
 ## Confirmed Facts
 
+- **Full legal name:** Vera Sophie Hegsmith
+- **Birthday:** July 31
+- **Birthplace:** Davis, California
+- Vera Sophie is the firstborn twin, and Desiree Arissa is born second.
+- Vera Sophie and Desiree Arissa are identical twin daughters of Rebecca Brazilia and Patrick Hegsmith, born on July 31 in Davis, California.
+- Vera Sophie has a very great relationship with Patrick Hegsmith because he is a single parent raising them.
+- Charlie Kasey does not have a relationship with her cousins (Merissa Carolynn Fernández, Vera Sophie Hegsmith, Desiree Arissa Hegsmith, and Riley Leah Hegsmith) because Charlie Kasey lives in England.
+- Vera Sophie wants to attend West Point (United States Military Academy).
+- Vera Sophie and Desiree Arissa love doing Capoeira and playing violins.
+- Vera Sophie and Desiree Arissa share a bedroom and share clothes while growing up.
+- Vera Sophie and Desiree Arissa are close to their older maternal half-sister, Merissa Carolynn Fernández, because Merissa Carolynn knows Rebecca Brazilia better.
+- Riley Leah is a follower who follows the twins everywhere.
+- Rebecca Brazilia and Patrick divide parenting responsibilities equally.
+- Luis and Patrick must father Merissa Carolynn Fernández together, sharing parenting responsibility for her.
+- Patrick travels to Las Vegas with Rebecca Brazilia, Merissa Carolynn Fernández, and eighteen-month-old twins Vera Sophie and Desiree Arissa to support Charlie Janya and Charlie Kasey.
+- Vera Sophie and Desiree Arissa are eighteen-month-old toddlers during the Las Vegas visit, too young to understand the family crisis or form complex responses to the trip.
 - Rebecca Brazilia’s will gives the Key Davis veterinary clinic to Patrick and names Patrick as guardian responsible for Merissa Carolynn Fernández, Vera Sophie, Desiree Arissa, and Riley Leah after Rebecca Brazilia’s death. Patrick is already the biological father of the three younger girls. The will formally allows Merissa Carolynn Fernández to remain with Patrick and her sisters, with Luis’s agreement.
 - Luis lives in Fort Lauderdale and travels to Davis to visit Merissa Carolynn Fernández every other weekend and on holidays, rather than requiring Merissa Carolynn Fernández to travel for routine visits. Rebecca Brazilia, Luis, and Patrick explain the living arrangement only to Merissa Carolynn Fernández because it directly affects her; Vera Sophie, Desiree Arissa, and Riley Leah are too young. Rebecca Brazilia receives end-of-life care at the Davis farm she shares with Patrick. Rebecca Brazilia’s veterinary clinic is located on the farm. Rebecca Brazilia gives the clinic to Patrick, who continues working there as a veterinary technician.
 - As their big sister, Merissa Carolynn Fernández supports Vera Sophie, Desiree Arissa, and Riley Leah because they are too young to fully understand Rebecca Brazilia’s death.

@@ -49,6 +49,17 @@
 - William Timothy Junior and Evangeline Eyre eventually become a couple and have two daughters: [MacKenzi Bree](MacKenzi-Bree.md) and [Haley Alexis](Haley-Alexis.md).
 - MacKenzi Bree and Haley Alexis are both born in Sydney, New South Wales.
 - MacKenzi Bree is fourteen months older than Haley Alexis.
+- When Haley Alexis goes to live in Barcelona to study law at the Universitat de Barcelona and live with Joaquin, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their visit to Barcelona, William Timothy Junior and Evangeline Eyre's sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
 
 ## Australian Journey Before University
 
@@ -70,4 +81,20 @@
 - For realism, William Timothy Junior is employed by a resident performing-arts company rather than directly by the building itself.
 - William Timothy Junior regularly rehearses and performs at the Sydney Opera House.
 - The specific resident company and productions remain to be selected.
+
+## Barcelona Visit While Haley Alexis Lives in Barcelona
+
+- Haley Alexis moves to Barcelona to study law at the Universitat de Barcelona and live with Joaquin.
+- Because Haley Alexis goes to live in Barcelona, William Timothy Junior and Evangeline Eyre travel to Barcelona to visit her.
+- During their time in Barcelona, William Timothy Junior and Evangeline Eyre's sightseeing and activities include:
+  - Sagrada Familia
+  - Barcelona Aquarium
+  - Montjuic Cable Car
+  - Montjuic Castle
+  - Parc Guell
+  - Barcelona Zoo
+  - Ciutadella Park and the Arc de Triomf
+  - Eating tapas
+  - Swimming in the Mediterranean Sea
+
 

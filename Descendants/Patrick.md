@@ -1,22 +1,26 @@
 # Patrick
 
-## Questions to Answer Later
-
-1. What is Patrick’s complete legal name?
-2. What are Patrick’s birthday, birthplace, and nationality?
-3. How does Patrick meet Rebecca Brazilia?
-4. What is the nature of Patrick and Rebecca Brazilia’s relationship?
-5. Where does Patrick train as a veterinary technician?
-6. What relationship does Patrick have with Desiree Arissa and Riley Leah?
-7. Does Patrick travel to Las Vegas with Rebecca Brazilia and the children?
-8. How does Patrick support all four sisters during Rebecca Brazilia’s terminal illness?
-9. Who works as the veterinarian at the farm clinic after Rebecca Brazilia dies?
-
 ## Confirmed Facts
 
+- **Full name:** Patrick Hegsmith
+- **Birthday:** August 24
+- **Birthplace:** Los Angeles, California
+- **Nationality:** United States of America (American citizen)
+- Vera Sophie Hegsmith, Desiree Arissa Hegsmith, and Riley Leah Hegsmith share Patrick Hegsmith's surname.
+- Vera Sophie, Desiree Arissa, and Riley Leah have a very great relationship with Patrick because he is a single parent devoted to raising them.
+- Patrick supports all four sisters during Rebecca Brazilia’s terminal illness by reassuring them and telling them that Rebecca Brazilia loves them so much.
+- Patrick trained as a veterinary technician at the University of California, Davis.
+- Rebecca Brazilia and Patrick meet at her Key Davis clinic when he begins working there as a veterinary technician.
+- Their relationship is strictly professional at the beginning; in the sixth month of his employment, their relationship changes and becomes romantic.
+- Rebecca Brazilia and Patrick divide parenting responsibilities equally.
+- Luis and Patrick must father Merissa Carolynn Fernández together, sharing parenting responsibility for her.
+- Patrick travels to Las Vegas with Rebecca Brazilia and the children when she goes to support Charlie Janya and Charlie Kasey.
 - Rebecca Brazilia’s will gives the Key Davis veterinary clinic to Patrick and names Patrick as guardian responsible for Merissa Carolynn Fernández, Vera Sophie, Desiree Arissa, and Riley Leah after Rebecca Brazilia’s death. Patrick is already the biological father of the three younger girls. The will formally allows Merissa Carolynn Fernández to remain with Patrick and her sisters, with Luis’s agreement.
 - Rebecca Brazilia’s veterinary clinic at the Davis farm is named Key Davis.
 - Luis lives in Fort Lauderdale and travels to Davis to visit Merissa Carolynn Fernández every other weekend and on holidays, rather than requiring Merissa Carolynn Fernández to travel for routine visits. Rebecca Brazilia, Luis, and Patrick explain the living arrangement only to Merissa Carolynn Fernández because it directly affects her; Vera Sophie, Desiree Arissa, and Riley Leah are too young. Rebecca Brazilia receives end-of-life care at the Davis farm she shares with Patrick. Rebecca Brazilia’s veterinary clinic is located on the farm. Rebecca Brazilia gives the clinic to Patrick, who continues working there as a veterinary technician.
+- Four other veterinarians work at the Key Davis veterinary clinic, ensuring veterinary medical care continues after Rebecca Brazilia’s death.
+- Patrick wants to remain a veterinary technician rather than training to become a veterinarian because of his children, especially Riley Leah.
+- Rebecca Brazilia and Patrick have a business manager who handles the clinic’s business operations.
 - As their big sister, Merissa Carolynn Fernández supports Vera Sophie, Desiree Arissa, and Riley Leah because they are too young to fully understand Rebecca Brazilia’s death.
 - Rebecca Brazilia dies at home with thirteen-year-old Merissa Carolynn Fernández beside her. At the time, identical twins Vera Sophie and Desiree Arissa are seven years and six months old, and Riley Leah is six months old. The family holds a memorial. Charlie Janya attends the memorial alone because Zoey Chantal’s polymorphic light eruption prevents Zoey Chantal from attending and Charlie Janya’s other children are attending school. Merissa Carolynn Fernández begins living with Patrick and her younger sisters immediately after Rebecca Brazilia’s death.
 - Rebecca Brazilia dies from breast cancer on February 4, six months after Riley Leah’s birth. This places Riley Leah’s birthday on August 4. Riley Leah is still an infant when Rebecca Brazilia dies.
