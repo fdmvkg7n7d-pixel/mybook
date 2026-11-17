@@ -2,11 +2,12 @@
 
 Each character has an individual folder linking to their profile, relationships, and major events. The original source files remain separately editable.
 
-**Current total: 67 individual folders.**
+**Current total: 68 individual folders.**
 
 ## All Individual Folders
 
 - [Abby](Abby/OPEN-ME.md)
+- [Abigale](Abigale/OPEN-ME.md)
 - [Adelisa](Adelisa/OPEN-ME.md)
 - [Adranuch Chaisee](Adranuch-Chaisee/OPEN-ME.md)
 - [Akilina Dadeshkeliani](Akilina/OPEN-ME.md)
@@ -20,6 +21,7 @@ Each character has an individual folder linking to their profile, relationships,
 - [Binita Souparnika](Binita-Souparnika/OPEN-ME.md)
 - [Brandi Jessica](Brandi-Jessica/OPEN-ME.md)
 - [Caesarius Lavigne](Caesarius-Lavigne/OPEN-ME.md)
+- [Calida Dawn](Calida-Dawn/OPEN-ME.md)
 - [Cam Jamie](Cam-Jamie/OPEN-ME.md)
 - [Cam Little](Cam-Little/OPEN-ME.md)
 - [Carlota Delicia](Carlota-Delicia/OPEN-ME.md)
@@ -48,6 +50,7 @@ Each character has an individual folder linking to their profile, relationships,
 - [Luis](Luis/OPEN-ME.md)
 - [Luther Tucer](Luther-Tucer/OPEN-ME.md)
 - [Lysa Mandy](Lysa-Mandy/OPEN-ME.md)
+- [Malcom Jacoby](Malcom-Jacoby/OPEN-ME.md)
 - [MacKenzi Bree](MacKenzi-Bree/OPEN-ME.md)
 - [Madeleine Jaycee Key](Madeleine-Jaycee-Key/OPEN-ME.md)
 - [Marianne Celeste Lavigne](Marianne-Celeste-Lavigne/OPEN-ME.md)
@@ -63,8 +66,10 @@ Each character has an individual folder linking to their profile, relationships,
 - [Roberta Katherine](Roberta-Katherine/OPEN-ME.md)
 - [Sabrina Bryna](Sabrina-Bryna/OPEN-ME.md)
 - [Salena Sarai](Salena-Sarai/OPEN-ME.md)
+- [Samantha](Samantha/OPEN-ME.md)
 - [Shane](Shane/OPEN-ME.md)
 - [Simonka Káta](Simonka-Kata/OPEN-ME.md)
+- [Stephanie Maddison](Stephanie-Maddison/OPEN-ME.md)
 - [Sun-Young](Sun-Young/OPEN-ME.md)
 - [Taylor Raven](Taylor-Raven/OPEN-ME.md)
 - [Thiang Manya-Phathon](Thiang-Manya-Phathon/OPEN-ME.md)

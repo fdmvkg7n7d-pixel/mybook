@@ -19,7 +19,7 @@ This folder provides one accessible place for this character’s profile, relati
 - [Charlie Janya and Laith Move Their Family to Scotland](../../Events/Charlie-Janya-and-Laith-Move-Family-to-Scotland.md)
 - [Judge Orders Charlie Janya to Pay Shane an Allowance](../../Events/Judge-Orders-Charlie-Janya-to-Pay-Shane-Allowance.md)
 - [Loan Sharks Scare Charlie Kasey at Home](../../Events/Loan-Sharks-Scare-Charlie-Kasey.md)
-- [Rebecca Brazilia Flies to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Flies-to-Las-Vegas-to-Support-Charlie-Janya.md)
+- [Rebecca Brazilia Drives to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Drives-to-Las-Vegas-to-Support-Charlie-Janya.md)
 - [Shane — Gambling Problem and Charlie Janya’s Money](../../Events/Shane-Gambling-Problem.md)
 - [Shane Moves to London](../../Events/Shane-Moves-to-London.md)
 - [Shane’s Gambling Mate Takes Charlie Kasey](../../Events/Shanes-Gambling-Mate-Takes-Charlie-Kasey.md)

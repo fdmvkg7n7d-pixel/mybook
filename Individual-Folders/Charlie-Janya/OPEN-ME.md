@@ -24,7 +24,7 @@ This folder provides one accessible place for this character’s profile, relati
 - [Judge Orders Charlie Janya to Pay Shane an Allowance](../../Events/Judge-Orders-Charlie-Janya-to-Pay-Shane-Allowance.md)
 - [Loan Sharks Scare Charlie Kasey at Home](../../Events/Loan-Sharks-Scare-Charlie-Kasey.md)
 - [Rebecca Brazilia Dies of Breast Cancer](../../Events/Rebecca-Brazilia-Dies-of-Breast-Cancer.md)
-- [Rebecca Brazilia Flies to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Flies-to-Las-Vegas-to-Support-Charlie-Janya.md)
+- [Rebecca Brazilia Drives to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Drives-to-Las-Vegas-to-Support-Charlie-Janya.md)
 - [Rebecca Brazilia — Stage Three Breast Cancer Diagnosis](../../Events/Rebecca-Brazilia-Stage-Three-Breast-Cancer-Diagnosis.md)
 - [Rebecca Brazilia’s End-of-Life Request for Merissa Carolynn Fernández](../../Events/Rebecca-Brazilias-End-of-Life-Request-for-Merissa-Carolynn.md)
 - [Rival Mob Orders Victor Mayfyeld’s Assassination](../../Events/Rival-Mob-Orders-Victor-Mayfyelds-Assassination.md)

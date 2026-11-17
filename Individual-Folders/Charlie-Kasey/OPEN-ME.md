@@ -21,7 +21,7 @@ This folder provides one accessible place for this character’s profile, relati
 - [Charlie Janya Meets Shane at Caesars Palace](../../Events/Charlie-Janya-Meets-Shane.md)
 - [Charlie Janya and Laith Move Their Family to Scotland](../../Events/Charlie-Janya-and-Laith-Move-Family-to-Scotland.md)
 - [Loan Sharks Scare Charlie Kasey at Home](../../Events/Loan-Sharks-Scare-Charlie-Kasey.md)
-- [Rebecca Brazilia Flies to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Flies-to-Las-Vegas-to-Support-Charlie-Janya.md)
+- [Rebecca Brazilia Drives to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Drives-to-Las-Vegas-to-Support-Charlie-Janya.md)
 - [Rival Mob Orders Victor Mayfyeld’s Assassination](../../Events/Rival-Mob-Orders-Victor-Mayfyelds-Assassination.md)
 - [Shane — Gambling Problem and Charlie Janya’s Money](../../Events/Shane-Gambling-Problem.md)
 - [Shane Moves to London](../../Events/Shane-Moves-to-London.md)

@@ -8,6 +8,7 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Related Relationships
 
+- [Aquila Octavio and Abigale — Relationship Working File](../../Relationships/Aquila-Octavio-and-Abigale.md)
 - [Charlie Janya and Laith](../../Relationships/Charlie-Janya-and-Laith.md)
 - [Charlie Janya and Rebecca Brazilia — Identical Twin Sisters](../../Relationships/Charlie-Janya-and-Rebecca-Brazilia.md)
 - [Charlie Janya and Shane — Relationship Working File](../../Relationships/Charlie-Janya-and-Shane.md)

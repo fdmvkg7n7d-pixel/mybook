@@ -8,6 +8,8 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Related Relationships
 
+- [Lysa Mandy and Samantha — Relationship Working File](../../Relationships/Lysa-Mandy-and-Samantha.md)
+- [Samantha](../../Descendants/Samantha.md)
 - [Charlie Janya and Rebecca Brazilia — Identical Twin Sisters](../../Relationships/Charlie-Janya-and-Rebecca-Brazilia.md)
 
 ## Related Major Events

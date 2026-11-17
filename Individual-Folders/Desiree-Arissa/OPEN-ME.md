@@ -20,7 +20,7 @@ This folder provides one accessible place for this character’s profile, relati
 
 - [Loan Sharks Scare Charlie Kasey at Home](../../Events/Loan-Sharks-Scare-Charlie-Kasey.md)
 - [Rebecca Brazilia Dies of Breast Cancer](../../Events/Rebecca-Brazilia-Dies-of-Breast-Cancer.md)
-- [Rebecca Brazilia Flies to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Flies-to-Las-Vegas-to-Support-Charlie-Janya.md)
+- [Rebecca Brazilia Drives to Las Vegas to Support Charlie Janya](../../Events/Rebecca-Brazilia-Drives-to-Las-Vegas-to-Support-Charlie-Janya.md)
 - [Rebecca Brazilia Gives Her Veterinary Clinic to Patrick](../../Events/Rebecca-Brazilia-Gives-Her-Veterinary-Clinic-to-Patrick.md)
 - [Rebecca Brazilia — Stage Three Breast Cancer Diagnosis](../../Events/Rebecca-Brazilia-Stage-Three-Breast-Cancer-Diagnosis.md)
 - [Rebecca Brazilia’s End-of-Life Request for Merissa Carolynn Fernández](../../Events/Rebecca-Brazilias-End-of-Life-Request-for-Merissa-Carolynn.md)

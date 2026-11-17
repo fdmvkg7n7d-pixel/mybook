@@ -183,6 +183,14 @@
 
 ### [Lysa Mandy](Descendants/Lysa-Mandy.md)
 
+### [Malcom Jacoby](Descendants/Malcom-Jacoby.md)
+
+### [Stephanie Maddison](Descendants/Stephanie-Maddison.md)
+
+### [Samantha](Descendants/Samantha.md)
+
+### [Lysa Mandy and Samantha](Relationships/Lysa-Mandy-and-Samantha.md)
+
 ### [Carlota Delicia](Descendants/Carlota-Delicia.md)
 
 ### [Taylor Raven](Descendants/Taylor-Raven.md)
@@ -218,6 +226,8 @@
 ### [Charlie Janya](Descendants/Charlie-Janya.md)
 
 ### [Rebecca Brazilia](Descendants/Rebecca-Brazilia.md)
+
+### [Calida Dawn](Descendants/Calida-Dawn.md)
 
 ### [Charlie Kasey](Descendants/Charlie-Kasey.md)
 
@@ -356,9 +366,13 @@ All chapter files are stored in the **Chapters** folder. The filenames are kept 
 
 ### [Aquila Octavio](Descendants/Aquila-Octavio.md)
 
+### [Abigale](Descendants/Abigale.md)
+
 ### [Zoey Chantal](Descendants/Zoey-Chantal.md)
 
 ### [Charlie Janya and Laith](Relationships/Charlie-Janya-and-Laith.md)
+
+### [Aquila Octavio and Abigale](Relationships/Aquila-Octavio-and-Abigale.md)
 
 ### [Charlie Janya and Laith Move Their Family to Scotland](Events/Charlie-Janya-and-Laith-Move-Family-to-Scotland.md)
 
@@ -384,7 +398,7 @@ All chapter files are stored in the **Chapters** folder. The filenames are kept 
 
 ### [Rebecca Brazilia’s Children](Relationships/Rebecca-Brazilias-Children.md)
 
-### [Rebecca Brazilia Flies to Las Vegas to Support Charlie Janya](Events/Rebecca-Brazilia-Flies-to-Las-Vegas-to-Support-Charlie-Janya.md)
+### [Rebecca Brazilia Drives to Las Vegas to Support Charlie Janya](Events/Rebecca-Brazilia-Drives-to-Las-Vegas-to-Support-Charlie-Janya.md)
 
 ### [Rebecca Brazilia — Stage Three Breast Cancer Diagnosis](Events/Rebecca-Brazilia-Stage-Three-Breast-Cancer-Diagnosis.md)
 
