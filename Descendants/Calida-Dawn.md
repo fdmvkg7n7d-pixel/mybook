@@ -17,4 +17,9 @@
 - During the trip to Australia, Fallon Glenda, Charlie, and Calida Dawn visit Lysa Mandy and Samantha's family, where they live in Hawaii.
 - In the summer between Lysa Mandy's grade eleven and grade twelve, Fallon Glenda and Charlie take the family, including Calida Dawn, to three cities—Guelph, Ontario; Madison, Wisconsin; and Corvallis, Oregon—because Lysa Mandy has chosen three different universities to attend.
 - After the university tours, Fallon Glenda and Charlie take the family, including Calida Dawn, to Orlando to visit Terri Anne (who lives in Cypress Cove permanently) and enjoy different fun parks like Walt Disney World and Discovery Cove.
+- After Orlando, the family travels to La Jenny and Cap d'Agde in France. Calida Dawn's older sisters Lysa Mandy, Charlie Janya, and Rebecca Brazilia enter the Beauty Junior Contest at both destinations.
+- The four sisters enjoy swimming and beach snorkelling during the France portion of the trip.
+- Calida Dawn is upset that she cannot enter the contests at La Jenny and Cap d'Agde.
+- While her older sisters compete, Charlie takes Calida Dawn swimming nearby.
+- On the evening before each contest, Fallon Glenda attends a mother-daughter dinner with Calida Dawn and her sisters.
 - When Lysa Mandy is leaving their home to attend Oregon State, Calida Dawn and her sisters Charlie Janya and Rebecca Brazilia are upset; Fallon Glenda and Charlie try to calm Charlie Janya, Rebecca Brazilia, and Calida Dawn down, but they cannot calm the rest of their daughters down, so Lysa Mandy decides that they should come along with Fallon Glenda and her to Oregon State.

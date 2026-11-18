@@ -304,6 +304,8 @@
 
 ### [Chairat Seni Junior, Karolina Dadeshkeliani, and Akilina Dadeshkeliani](Relationships/Chairat-Seni-Junior-Karolina-and-Akilina.md)
 
+### [Merissa Carolynn Fernández and Delilah Hamilton](Relationships/Merissa-Carolynn-Fernandez-and-Delilah.md)
+
 ## Book Information
 
 ### [Open the master book outline and character list](Book-Outline.md)

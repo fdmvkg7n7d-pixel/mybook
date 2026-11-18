@@ -1523,14 +1523,20 @@ This file collects distinctive vacation destinations that may be used in the nov
 - For routine contact, Luis travels from Fort Lauderdale to Davis every other weekend and on holidays; Merissa Carolynn Fernández does not make that routine journey.
 - Specific cruise routes and destinations remain to be selected.
 
-## Vacation 31 — Fallon Glenda and Charlie's Family Trip to Orlando
+## Vacation 31 — Fallon Glenda and Charlie's Family Trip to Orlando and France
 
-- **Location:** Orlando, Florida, United States
+- **Location:** Orlando, Florida, United States, followed by La Jenny and Cap d'Agde, France
 - **Timing:** In the summer between Lysa Mandy's grade eleven and grade twelve, after giving Lysa Mandy the tours of the three universities (Guelph, Madison, and Corvallis).
 - **Participants:** Fallon Glenda, Charlie, Lysa Mandy, Charlie Janya, Rebecca Brazilia, and Calida Dawn.
 - **Activities and Highlights:**
   - The family visits Terri Anne, who lives in Cypress Cove permanently.
   - They visit different fun parks across Orlando, including Walt Disney World and Discovery Cove.
+  - After Orlando, Fallon Glenda and Charlie take their daughters to France, visiting La Jenny and Cap d'Agde.
+  - At each stop, the older three daughters—Lysa Mandy, Charlie Janya, and Rebecca Brazilia—enter the Beauty Junior Contest.
+  - The four daughters enjoy swimming and beach snorkelling during the France portion of the trip.
+  - Calida Dawn is upset that she cannot enter the contests at La Jenny and Cap d'Agde.
+  - While the older three girls compete, Charlie takes Calida Dawn swimming nearby.
+  - On the evening before each contest, Fallon Glenda attends a mother-daughter dinner with the girls.
 
 ## Vacation 32 — Fallon Glenda and Charlie Take Calida Dawn to Hawaii and Australia
 
@@ -1541,6 +1547,27 @@ This file collects distinctive vacation destinations that may be used in the nov
   - En route to Australia, they visit Lysa Mandy and Samantha's family, where they live in Hawaii.
   - In Australia, Fallon Glenda and Charlie take Calida Dawn to tour the three universities she has chosen: Sydney, Queensland, and Melbourne.
   - Calida Dawn wants to attend university in Australia and become a doctor like Fallon Glenda.
+
+## Vacation 33 — Luis and Merissa Carolynn's Trip to La Jenny and Cap d'Agde
+
+- **Location:** La Jenny and Cap d'Agde, France
+- **Timing:** When Merissa Carolynn Fernández is fifteen years old
+- **Participants:** Luis and Merissa Carolynn Fernández
+- **Activities and Highlights:**
+  - Luis takes Merissa Carolynn to the same French resorts Rebecca Brazilia previously visited: La Jenny and Cap d'Agde.
+  - Merissa Carolynn asks to enter the Beauty Junior Contest at both resorts.
+  - Luis agrees to her request.
+  - Delilah Hamilton is the daughter of David Hamilton and Hadas Hamilton.
+  - Merissa Carolynn and Delilah Hamilton have been best girlfriends since Senior Kindergarten at Grace Valley Christian Academy.
+  - Before their trips, the girls do not know that both their families are naturists.
+  - Luis takes Merissa to the mother-daughter dinners held before the contests. Several other mothers and daughters complain about Luis's presence, but Delilah and her mother Hadas do not because Merissa and Delilah are best girlfriends.
+  - Merissa and Delilah are surprised to see each other at both La Jenny and Cap d'Agde.
+  - At the end of the contest at La Jenny, Merissa and Delilah hold hands and tell their parents they are officially a couple.
+  - David and Hadas tell the girls that they and Luis have known for eighteen months. When Merissa and Delilah ask how, their parents explain that they have heard the girls talking about each other over that time.
+  - The girls apologize to their parents for not telling them sooner about their feelings. They become emotional, fearing they would be in trouble for being lesbians.
+  - Luis, David, and Hadas hug them and promise to support them without a single doubt, whether they choose to love each other or someone else.
+  - Merissa asks Luis whether Patrick would support her too; Luis reassures her that Patrick would support her without a single doubt.
+  - David and Luis ask if they want to play the pool game called chicken. The girls say yes and change into their swimsuits before entering the pool; Merissa sits on David's shoulders, Delilah sits on Luis's, and they try to push each other into the water.
 
 
 

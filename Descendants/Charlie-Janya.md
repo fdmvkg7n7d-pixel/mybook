@@ -61,6 +61,10 @@
 - Lysa Mandy is Charlie Janya’s older maternal half-sister.
 - In the summer between Lysa Mandy's grade eleven and grade twelve, Fallon Glenda and Charlie take the family to three cities—Guelph, Ontario; Madison, Wisconsin; and Corvallis, Oregon—because Lysa Mandy has chosen three different universities to attend.
 - After giving Lysa Mandy the university tours, Fallon Glenda and Charlie take the family to Orlando to visit Terri Anne (who lives in Cypress Cove permanently) and enjoy different fun parks like Walt Disney World and Discovery Cove.
+- After Orlando, the family travels to La Jenny and Cap d'Agde in France. Charlie Janya, Rebecca Brazilia, and their older half-sister Lysa Mandy—the older three daughters—enter the Beauty Junior Contest at both destinations.
+- The four sisters enjoy swimming and beach snorkelling during the France portion of the trip.
+- Calida Dawn is upset that she cannot enter either contest, so Charlie takes her swimming nearby while the older three compete.
+- On the evening before each contest, Fallon Glenda attends a mother-daughter dinner with the girls.
 - When Lysa Mandy is leaving their home to attend Oregon State, Charlie Janya, Rebecca Brazilia, and Calida Dawn are upset; Fallon Glenda and Charlie try to calm Charlie Janya, Rebecca Brazilia, and Calida Dawn down, but they cannot calm the rest of their daughters down, so Lysa Mandy decides that they should come along with Fallon Glenda and her to Oregon State.
 - Shane is Charlie Janya’s partner and Charlie Kasey’s father.
 - Charlie Janya and Shane have a daughter named Charlie Kasey.

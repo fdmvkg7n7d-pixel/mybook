@@ -120,6 +120,10 @@
 
 - In the summer between grade eleven and grade twelve, Fallon Glenda and Charlie take the family to three cities—Guelph, Ontario; Madison, Wisconsin; and Corvallis, Oregon—because Lysa Mandy has chosen three different universities to attend.
 - After giving Lysa Mandy the tours of the three different universities, Fallon Glenda and Charlie take their family to Orlando, where they visit Terri Anne (who lives in Cypress Cove permanently) and visit different fun parks like Walt Disney World and Discovery Cove.
+- After the Orlando visit, Fallon Glenda and Charlie take the family to France to visit La Jenny and Cap d'Agde. Lysa Mandy, Charlie Janya, and Rebecca Brazilia—the older three daughters—enter the Beauty Junior Contest at both destinations.
+- The four sisters enjoy swimming and beach snorkelling during the France portion of the trip.
+- Calida Dawn is upset that she cannot enter either contest, so Charlie takes her swimming nearby while the older three compete.
+- On the evening before each contest, Fallon Glenda attends a mother-daughter dinner with the girls.
 - Lysa Mandy chooses Oregon State University in Corvallis and studies Zoology.
 - Lysa Mandy's sisters (Charlie Janya, Rebecca Brazilia, and Calida Dawn) are upset because she is leaving their home to attend Oregon State.
 - Fallon Glenda and Charlie try to calm Charlie Janya, Rebecca Brazilia, and Calida Dawn down.
