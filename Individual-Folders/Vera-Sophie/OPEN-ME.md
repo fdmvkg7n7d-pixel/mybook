@@ -4,7 +4,8 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Individual Profile
 
-- [Open Vera Sophie’s profile](../../Descendants/Vera-Sophie.md)
+- [Open the folder copy of Vera Sophie’s profile](Vera-Sophie.md)
+- [Open the source profile](../../Descendants/Vera-Sophie.md)
 
 ## Related Relationships
 

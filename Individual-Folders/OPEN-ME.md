@@ -2,7 +2,7 @@
 
 Each character has an individual folder linking to their profile, relationships, and major events. The original source files remain separately editable.
 
-**Current total: 68 individual folders.**
+**Current total: 70 individual folders.**
 
 ## All Individual Folders
 
@@ -56,6 +56,7 @@ Each character has an individual folder linking to their profile, relationships,
 - [Marianne Celeste Lavigne](Marianne-Celeste-Lavigne/OPEN-ME.md)
 - [Merissa Carolynn Fernández](Merissa-Carolynn-Fernandez/OPEN-ME.md)
 - [Morgan Marino](Morgan-Marino/OPEN-ME.md)
+- [Orin Lorin Junior](Orin-Lorin-Junior/OPEN-ME.md)
 - [Palmer Peter](Palmer-Peter/OPEN-ME.md)
 - [Patrick](Patrick/OPEN-ME.md)
 - [Patti Anne](Patti-Anne/OPEN-ME.md)
@@ -77,6 +78,7 @@ Each character has an individual folder linking to their profile, relationships,
 - [Vera Sophie](Vera-Sophie/OPEN-ME.md)
 - [Victor Mayfyeld](Victor-Mayfyeld/OPEN-ME.md)
 - [William Timothy Junior](William-Timothy-Junior/OPEN-ME.md)
+- [Xochitl Takahashi (Danica)](Xochitl-Takahashi/OPEN-ME.md)
 - [Zoey Chantal](Zoey-Chantal/OPEN-ME.md)
 
 ## Main Navigation

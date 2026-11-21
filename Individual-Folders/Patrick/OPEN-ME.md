@@ -4,7 +4,8 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Individual Profile
 
-- [Open Patrick’s profile](../../Descendants/Patrick.md)
+- [Open the folder copy of Patrick’s profile](Patrick.md)
+- [Open the source profile](../../Descendants/Patrick.md)
 
 ## Related Relationships
 

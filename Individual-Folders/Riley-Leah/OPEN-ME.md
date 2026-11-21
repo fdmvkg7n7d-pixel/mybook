@@ -4,7 +4,8 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Individual Profile
 
-- [Open Riley Leah’s profile](../../Descendants/Riley-Leah.md)
+- [Open the folder copy of Riley Leah’s profile](Riley-Leah.md)
+- [Open the source profile](../../Descendants/Riley-Leah.md)
 
 ## Related Relationships
 

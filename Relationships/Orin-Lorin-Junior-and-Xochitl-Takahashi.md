@@ -1,14 +1,5 @@
 # Orin Lorin Junior and Xochitl Takahashi — Relationship Working File
 
-## Questions to Answer Later
-
-1. What first attracts Xochitl Takahashi to Orin Lorin Junior after their difficult first conversation?
-2. Who are the three girlfriends Xochitl Takahashi is waiting to meet?
-3. What are the names of Xochitl Takahashi's parents?
-4. Do Xochitl Takahashi's parents try to contact Xochitl Takahashi after Xochitl Takahashi leaves?
-5. Are Sabrina Bryna and William at La Ferme Key when Orin Lorin Junior and Xochitl Takahashi arrive?
-6. How do Sabrina Bryna and William respond to the friendship and the racist incident?
-
 ## Confirmed Identities and Ages
 
 - Orin Lorin Junior is nineteen when Orin Lorin Junior meets Xochitl Takahashi.
@@ -20,6 +11,7 @@
 - Xochitl Takahashi's personal nickname is **Danica**.
 - The nickname begins when one of Xochitl Takahashi's girlfriends cannot pronounce “Xochitl,” so Xochitl Takahashi uses Danica instead.
 - Xochitl Takahashi was born in Tokyo and raised in Kyoto.
+- Xochitl Takahashi's parents are Hiro and Sui.
 
 ## Orin Lorin Junior's Family
 
@@ -27,6 +19,7 @@
 - William is the brother of Orin Lorin Junior's biological father and is therefore Orin Lorin Junior's paternal uncle.
 - After the deaths of Orin Lorin Junior's parents, Orin Lorin Junior becomes the son of Sabrina Bryna and William.
 - Orin Lorin Junior belongs to Sabrina Bryna and William's six-child family.
+- Sabrina Bryna and William live in Vaughan with Taylor Raven, Sun-Young, Roberta Katherine, and William Timothy Junior. They are not at La Ferme Key when Orin Lorin Junior and Danica arrive.
 
 ## Education, McGill University, and La Ferme Key
 
@@ -53,6 +46,7 @@
 - Orin Lorin Junior tells Xochitl Takahashi that Orin Lorin Junior began falling in love with Xochitl Takahashi during their first meeting in Montreal's Underground City, when Orin Lorin Junior stole Xochitl Takahashi's french fries.
 - Orin Lorin Junior initially maintains clear boundaries because Xochitl Takahashi is sixteen and Orin Lorin Junior is nineteen.
 - Their connection begins as a nonsexual, age-appropriate friendship.
+- Danica likes Orin Lorin Junior's soft voice and the color of his skin.
 
 ## Dinner with Xochitl Takahashi's Family
 
@@ -145,6 +139,13 @@
 - The temporary permission continues until the required DYP interviews are completed.
 - The supervising adult and any additional conditions attached to the interim order remain to be established.
 
+## Danica's Father Appears at School After Christmas
+
+- On the first day back at school after the Christmas holidays, Danica sees her father standing on the sidewalk as she is leaving.
+- Danica quickly turns around and goes back inside the school.
+- Danica asks the school secretary to call the police.
+- The police speak with Danica's father and ask him not to contact her anymore.
+
 ## First Formal DYP Interview
 
 - The first formal DYP interview of Orin Lorin Junior and Xochitl Takahashi takes place at the end of January.
@@ -155,6 +156,48 @@
 - Xochitl Takahashi's guidance teacher is **Geneviève Beaulieu**.
 - The DYP approves Geneviève Beaulieu as the responsible adult for Xochitl Takahashi's longer-term placement.
 - A condition of the approved placement is that Xochitl Takahashi must perform well in Xochitl Takahashi's schoolwork at Bishop's College School.
+
+## Danica's Eighteenth Birthday Weekend — Planning
+
+- Xochitl Takahashi turns eighteen on February 14, Valentine's Day. The Quebec City trip begins on Friday, February 13; Danica is still seventeen when Orin picks her up and turns eighteen at midnight.
+- Orin Lorin Junior plans a romantic weekend in Quebec City for Danica's eighteenth birthday. They will stay at Fairmont Le Château Frontenac.
+- On Monday, Orin Lorin Junior tells Danica to pack a bag for the weekend. He tells her he will pick her up from school on Friday and drive her to Quebec City.
+- Danica asks whether Orin Lorin Junior has class on Friday afternoon. He says that he does, but her eighteenth birthday comes once in a lifetime, and he wants to make it very special. They have a playful argument about his McGill University schooling: Danica teases him about missing class, and he jokingly insists that making her birthday special is worth rearranging his Friday plans. Their mock disagreement is affectionate and lighthearted.
+- Danica asks whether she can keep wearing her School Uniform Number One because she has to wear it. Orin Lorin Junior tells her that she can.
+- Every day, Danica asks where they are going, but Orin Lorin Junior keeps the destination secret.
+- In the kitchen, Danica puts her arms around Orin Lorin Junior's shoulders and makes one last attempt to find out. He touches his finger and thumb to his lips and mimes zipping them shut.
+- Danica stands and walks out of the kitchen in a huff. Orin Lorin Junior calls after her that he loves her very much. He hears the front door open and close, then quickly goes to the front door and sees Danica's weekend backpack there. He smiles, understanding that she still wants to go to Quebec City.
+- On the morning of February 13, Danica gets down on her knees and begs Orin Lorin Junior to tell her where they are going. He says it is a surprise and she will have to wait.
+- Orin Lorin Junior quickly gets down on his knees and asks whether Danica trusts him after moving into La Ferme Key. She says she trusts him without a single doubt because he has never pressured her to sleep in the same bed with him.
+- Orin Lorin Junior tells Danica he has been completely truthful with her about his sexual history. She agrees and recalls that he had a high-school girlfriend named Alaina Collins, whose birthday is January 31.
+- Danica's school girlfriends are Camille Leblanc and Élodie Leblanc, identical twin sisters, and Amélie Jėgou. At school on February 13, they wish her a happy birthday before the weekend trip. Danica tells them about the little argument with Orin Lorin Junior. They say he wants to surprise her for her eighteenth birthday. Danica asks whether they know where he is taking her; they swear they do not, saying, “Cross our hearts and hope to die, stick a needle in our eyes—we don't know where he's taking you!” Danica promises to text them when she arrives.
+- At the end of the school day on February 13, Orin Lorin Junior picks Danica up. When she gets into his truck, they kiss. He asks whether she is angry, and she says she is a little bit angry.
+- Orin Lorin Junior reveals that they are going to Quebec City. Danica lets out several excited screams. He tells her they will stay at Fairmont Le Château Frontenac, and she screams again with excitement.
+- At the hotel, they register and go to the presidential suite, arranged through Sabrina Bryna's connection. After arriving, Danica texts her girlfriends to let them know she has arrived and sends Sabrina Bryna a gracious thank-you text for the hotel arrangement.
+- Danica goes to the hotel restaurant wearing her school uniform. Orin Lorin Junior stays in the suite to prepare the bed as a special surprise for after their meal.
+- A restaurant manager stops Danica from taking a table because of her school uniform, and she becomes upset. Orin Lorin Junior comes down, sees that she is upset, and becomes very angry when he learns the manager refused to seat her because of what she is wearing.
+- The manager apologizes to Orin Lorin Junior and immediately escorts him and Danica to the restaurant's best table.
+- For dinner, they share a warm goat-cheese and roasted-beet salad. Danica orders pan-seared Québec trout with maple-Dijon glaze and roasted vegetables; Orin Lorin Junior orders beef tenderloin with potato gratin. They share maple crème brûlée for dessert.
+- They choose non-alcoholic drinks: Danica has a cranberry-lime spritz made without alcohol, and Orin Lorin Junior has sparkling apple juice. They avoid alcohol in consideration of Orin Lorin Junior's father's allergy.
+- After dinner, Danica and Orin Lorin Junior take a nighttime walk through Quebec City to see the lights, talking sweet nothings to each other along the way.
+- They return to their hotel room, where Orin Lorin Junior has decorated with candles and pink rose petals. Danica is surprised by the romantic display.
+- Orin Lorin Junior waits until midnight, when February 14 begins and Danica turns eighteen, before initiating any further intimate touch. They had shared a kiss earlier when he picked her up from school.
+- The following morning, Danica cries softly. Orin Lorin Junior asks whether he hurt her. She reassures him that he did not hurt her at all and tells him she is happy that she is no longer a virgin.
+
+## March Break and Meeting Sabrina Bryna and William
+
+- Sabrina Bryna and William take Key Corporation's jet to Montreal.
+- From Montreal, the family travels by limousine to the farmhouse. The children jump out and run to the barn to see the horses as the limousine pulls up at the farmhouse.
+- Sabrina Bryna and William enter the farmhouse and notice two pairs of boots on the shoe rack; the other pair appears to be women's boots.
+- They ask Orin Lorin Junior whether he has a guest. He says yes and explains everything about Danica, including how nervous she is to meet them. He tells them that Danica is in the kitchen.
+- Sabrina Bryna and William do not know that Orin Lorin Junior has a house guest until March Break.
+- Danica's March Break takes place one week earlier than the March Break of Taylor Raven, Sun-Young, Roberta Katherine, and William Timothy Junior.
+- Danica is very nervous about meeting Sabrina Bryna and William. She is especially unsure how she will communicate with Sabrina Bryna.
+- Orin Lorin Junior reassures Danica that they can translate American Sign Language for communication.
+- Sabrina Bryna asks Orin Lorin Junior why he did not go to Orlando for Christmas. He confirms that Danica's parents told each other that he was a “black monkey.”
+- Sabrina Bryna immediately goes into the kitchen and introduces herself to Danica. William and Orin Lorin Junior follow her in, and Orin translates Sabrina Bryna's words for Danica.
+- Sabrina Bryna and William welcome Danica into their family.
+- Sabrina Bryna and William feel sick about the racist incident with Danica's parents. They recognize that Danica is her own person and that she likes Orin Lorin Junior.
 
 ## Alice Springs Christmas Surprise
 

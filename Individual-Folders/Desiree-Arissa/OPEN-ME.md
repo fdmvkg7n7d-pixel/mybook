@@ -4,7 +4,8 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Individual Profile
 
-- [Open Desiree Arissa’s profile](../../Descendants/Desiree-Arissa.md)
+- [Open the folder copy of Desiree Arissa’s profile](Desiree-Arissa.md)
+- [Open the source profile](../../Descendants/Desiree-Arissa.md)
 
 ## Related Relationships
 

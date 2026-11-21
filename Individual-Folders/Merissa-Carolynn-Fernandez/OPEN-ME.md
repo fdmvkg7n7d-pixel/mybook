@@ -4,7 +4,8 @@ This folder provides one accessible place for this character’s profile, relati
 
 ## Individual Profile
 
-- [Open Merissa Carolynn Fernández’s profile](../../Descendants/Merissa-Carolynn-Fernandez.md)
+- [Open the folder copy of Merissa Carolynn Fernández’s profile](Merissa-Carolynn-Fernandez.md)
+- [Open the source profile](../../Descendants/Merissa-Carolynn-Fernandez.md)
 
 ## Related Relationships
 

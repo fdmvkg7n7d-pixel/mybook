@@ -1,0 +1,35 @@
+# Patrick
+
+## Confirmed Facts
+
+- **Full name:** Patrick Hegsmith
+- **Birthday:** August 24
+- **Birthplace:** Los Angeles, California
+- **Nationality:** United States of America (American citizen)
+- Vera Sophie Hegsmith, Desiree Arissa Hegsmith, and Riley Leah Hegsmith share Patrick Hegsmith's surname.
+- Vera Sophie, Desiree Arissa, and Riley Leah have a very great relationship with Patrick because he is a single parent devoted to raising them.
+- Patrick takes his daughter Riley Leah to Walt Disney World for a week.
+- When Vera Sophie and Desiree Arissa attend River Way Ranch Camp in the Buckaroos Program, Patrick asks the camp to put the identical twins in the same cabin. He also asks the girls whether they can do something different with their hair so their counselors can tell them apart; they agree.
+- Patrick supports all four sisters during Rebecca Brazilia’s terminal illness by reassuring them and telling them that Rebecca Brazilia loves them so much.
+- Patrick trained as a veterinary technician at the University of California, Davis.
+- Rebecca Brazilia and Patrick meet at her Key Davis clinic when he begins working there as a veterinary technician.
+- Their relationship is strictly professional at the beginning; in the sixth month of his employment, their relationship changes and becomes romantic.
+- Rebecca Brazilia and Patrick divide parenting responsibilities equally.
+- Luis and Patrick must father Merissa Carolynn Fernández together, sharing parenting responsibility for her.
+- Patrick travels to Las Vegas with Rebecca Brazilia and the children when she goes to support Charlie Janya and Charlie Kasey.
+- Rebecca Brazilia’s will gives the Key Davis veterinary clinic to Patrick and names Patrick as guardian responsible for Merissa Carolynn Fernández, Vera Sophie, Desiree Arissa, and Riley Leah after Rebecca Brazilia’s death. Patrick is already the biological father of the three younger girls. The will formally allows Merissa Carolynn Fernández to remain with Patrick and her sisters, with Luis’s agreement.
+- Rebecca Brazilia’s veterinary clinic at the Davis farm is named Key Davis.
+- Luis lives in Fort Lauderdale and travels to Davis to visit Merissa Carolynn Fernández every other weekend and on holidays, rather than requiring Merissa Carolynn Fernández to travel for routine visits. Rebecca Brazilia, Luis, and Patrick explain the living arrangement only to Merissa Carolynn Fernández because it directly affects her; Vera Sophie, Desiree Arissa, and Riley Leah are too young. Rebecca Brazilia receives end-of-life care at the Davis farm she shares with Patrick. Rebecca Brazilia’s veterinary clinic is located on the farm. Rebecca Brazilia gives the clinic to Patrick, who continues working there as a veterinary technician.
+- Four other veterinarians work at the Key Davis veterinary clinic, ensuring veterinary medical care continues after Rebecca Brazilia’s death.
+- Patrick wants to remain a veterinary technician rather than training to become a veterinarian because of his children, especially Riley Leah.
+- Rebecca Brazilia and Patrick have a business manager who handles the clinic’s business operations.
+- As their big sister, Merissa Carolynn Fernández supports Vera Sophie, Desiree Arissa, and Riley Leah because they are too young to fully understand Rebecca Brazilia’s death.
+- Rebecca Brazilia dies at home with thirteen-year-old Merissa Carolynn Fernández beside her. At the time, identical twins Vera Sophie and Desiree Arissa are seven years and six months old, and Riley Leah is six months old. The family holds a memorial. Charlie Janya attends the memorial alone because Zoey Chantal’s polymorphic light eruption prevents Zoey Chantal from attending and Charlie Janya’s other children are attending school. Merissa Carolynn Fernández begins living with Patrick and her younger sisters immediately after Rebecca Brazilia’s death.
+- Rebecca Brazilia dies from breast cancer on February 4, six months after Riley Leah’s birth. This places Riley Leah’s birthday on August 4. Riley Leah is still an infant when Rebecca Brazilia dies.
+- Merissa Carolynn Fernández is told immediately when Rebecca Brazilia’s breast cancer becomes terminal. Merissa Carolynn Fernández feels both sad and happy: she misses Rebecca Brazilia deeply while Rebecca Brazilia is dying, and she is comforted by the plan for her to remain with Vera Sophie, Desiree Arissa, and Riley Leah.
+- Rebecca Brazilia’s stage three breast cancer eventually becomes terminal, and she is dying from the disease. Rebecca Brazilia asks Luis whether Merissa Carolynn Fernández can remain with Patrick and her younger sisters, Vera Sophie, Desiree Arissa, and Riley Leah. Luis agrees because he does not want to disrupt Merissa Carolynn Fernández’s schooling or friendships. Luis trusts Patrick without hesitation and knows he can continue visiting Merissa Carolynn Fernández and taking her on many vacations.
+- Vera Sophie and Desiree Arissa are identical twin daughters of Rebecca Brazilia and Patrick. Both twins are eighteen months old when Rebecca Brazilia takes them and Merissa Carolynn Fernández to Las Vegas. Riley Leah is not yet born at the time of the visit and is later born as a singleton. Merissa Carolynn Fernández is seven years old during the trip.
+- Merissa Carolynn Fernández is thirteen years old when Rebecca Brazilia is pregnant with the singleton Riley Leah and is diagnosed with stage three breast cancer. Rebecca Brazilia is thirty-six years old at the time, based on being twenty-three when Merissa Carolynn Fernández is born.
+- Merissa Carolynn Fernández wants to become a veterinarian like Rebecca Brazilia, who works as a veterinarian.
+- Patrick is a veterinary technician who works for Rebecca Brazilia.
+- Patrick and Rebecca Brazilia have identical twin daughters named Vera Sophie and Desiree Arissa. They also have a singleton daughter named Riley Leah.
