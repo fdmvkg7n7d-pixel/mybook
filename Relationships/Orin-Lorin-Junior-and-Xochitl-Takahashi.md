@@ -157,6 +157,44 @@
 - The DYP approves Geneviève Beaulieu as the responsible adult for Xochitl Takahashi's longer-term placement.
 - A condition of the approved placement is that Xochitl Takahashi must perform well in Xochitl Takahashi's schoolwork at Bishop's College School.
 
+## March Break and Meeting Sabrina Bryna and William
+
+- Sabrina Bryna and William take Key Corporation's jet to Montreal. They bring no luggage because they have kept some of the children's clothes at the farmhouse.
+- From Montreal, the family travels by limousine to the farmhouse. The children jump out and run to the barn to see the horses as the limousine pulls up at the farmhouse.
+- Sabrina Bryna and William enter the farmhouse and notice two pairs of boots on the shoe rack; the other pair appears to be women's boots.
+- They ask Orin Lorin Junior whether he has a guest. He says yes and explains everything about Danica, including how nervous she is to meet them. He tells them that Danica is in the kitchen.
+- Sabrina Bryna and William do not know that Orin Lorin Junior has a house guest until March Break.
+- Danica's March Break takes place one week earlier than the March Break of Taylor Raven, Sun-Young, Roberta Katherine, and William Timothy Junior.
+- Danica is very nervous about meeting Sabrina Bryna and William. She is especially unsure how she will communicate with Sabrina Bryna.
+- Orin Lorin Junior reassures Danica that they can translate American Sign Language for communication.
+- Sabrina Bryna asks Orin Lorin Junior why he did not go to Orlando for Christmas. He confirms that Danica's parents told each other that he was a “black monkey.”
+- Sabrina Bryna immediately goes into the kitchen and introduces herself to Danica. William and Orin Lorin Junior follow her in, and Orin translates Sabrina Bryna's words for Danica.
+- Sabrina Bryna and William welcome Danica into their family.
+- Sabrina Bryna and William feel sick about the racist incident with Danica's parents. They recognize that Danica is her own person and that she likes Orin Lorin Junior.
+- Sabrina Bryna and William hug Danica and ask whether she is okay living at La Ferme Key with Orin Lorin Junior.
+- Danica says Orin Lorin Junior is a very great roommate and that she has her own bedroom, which he insisted she have when she moved in.
+- Danica asks Sabrina Bryna and William whether they would like Japanese tea. Before they can answer, four children covered in poop enter the farmhouse. Danica yells, “Stop!” and the four children stop in their tracks. Sabrina tells them, “Get undressed here in the kitchen; your shoes and pants are covered with poop, and we need to keep it from spreading through the farmhouse.”
+- Danica offers to help Sabrina Bryna and William give the children a shower in the swimming-pool bathroom. They accept her kind offer and introduce her to the children, who are surprised to see Danica in the kitchen.
+- Orin Lorin Junior asks Danica whether she is certain she wants to help with the kids, since he knows what a handful they can be. Danica says she is happy because she does not have any siblings. The twins put their hands on their hips and object to being called a handful.
+- Sabrina Bryna tells Danica that Orin Lorin Junior is right about the twins.
+- William tells the twins to be nice to Orin Lorin Junior's girlfriend, or else.
+- Taylor Raven and Sun-Young are happy to get help from Danica.
+- Sabrina Bryna offers to help Danica with the twins, then tells Orin Lorin Junior and William to order pizzas for dinner.
+- Orin Lorin Junior orders the pizzas. William gets the children's pyjamas from their bedrooms.
+- Danica does not want to get her dress wet in the shower, so she asks Sabrina Bryna whether she can take it off. Sabrina agrees.
+- After the children's shower, they go to the home theatre to eat the pizzas and watch a movie.
+- The next morning, Orin Lorin Junior drives to Saint-Viateur Bagels to buy bagels for the family's breakfast. Buying bagels is Orin Lorin Junior and Danica's Saturday-morning tradition.
+- Taylor Raven and Sun-Young ask Sabrina Bryna whether Orin Lorin Junior and Danica are dating each other. Sabrina confirms that Danica is Orin Lorin Junior's new girlfriend.
+- The twins tell Danica they hope she will not hurt Orin Lorin Junior the way Alaina did. Danica kneels to meet their deep blue eyes and promises she will not hurt him like Alaina did.
+- On Saturday evening, Sabrina Bryna and William take the family to one of Montreal's top Japanese restaurants to welcome Danica into their family.
+- Danica's parents, Hiro and Sui, arrive at the same restaurant and see Danica, Orin Lorin Junior, and his family. They do not know who Sabrina Bryna is and try to speak with Danica and the children.
+- The twins are especially frightened by Danica's parents.
+- William calls the restaurant manager over. Orin Lorin Junior explains what is happening to the manager in Japanese.
+- The manager is shocked and firmly tells Danica's parents to leave Danica alone or leave the restaurant.
+- On Sunday afternoon, Danica puts her books into her backpack. The children ask what she is doing, and she explains that she is getting ready for school, which starts Monday morning because March Break in Ontario and Quebec falls on different weeks.
+- William walks into the family room and kitchen and tells the children that the swimming pool is waiting for four fishes.
+- Danica asks the children whether they would like some company in the swimming pool. They scream yes and run out of the family room and kitchen. Danica and William follow them.
+
 ## Danica's Eighteenth Birthday Weekend — Planning
 
 - Xochitl Takahashi turns eighteen on February 14, Valentine's Day. The Quebec City trip begins on Friday, February 13; Danica is still seventeen when Orin picks her up and turns eighteen at midnight.
@@ -184,20 +222,42 @@
 - Orin Lorin Junior waits until midnight, when February 14 begins and Danica turns eighteen, before initiating any further intimate touch. They had shared a kiss earlier when he picked her up from school.
 - The following morning, Danica cries softly. Orin Lorin Junior asks whether he hurt her. She reassures him that he did not hurt her at all and tells him she is happy that she is no longer a virgin.
 
-## March Break and Meeting Sabrina Bryna and William
+## Danica's First Job
 
-- Sabrina Bryna and William take Key Corporation's jet to Montreal.
-- From Montreal, the family travels by limousine to the farmhouse. The children jump out and run to the barn to see the horses as the limousine pulls up at the farmhouse.
-- Sabrina Bryna and William enter the farmhouse and notice two pairs of boots on the shoe rack; the other pair appears to be women's boots.
-- They ask Orin Lorin Junior whether he has a guest. He says yes and explains everything about Danica, including how nervous she is to meet them. He tells them that Danica is in the kitchen.
-- Sabrina Bryna and William do not know that Orin Lorin Junior has a house guest until March Break.
-- Danica's March Break takes place one week earlier than the March Break of Taylor Raven, Sun-Young, Roberta Katherine, and William Timothy Junior.
-- Danica is very nervous about meeting Sabrina Bryna and William. She is especially unsure how she will communicate with Sabrina Bryna.
-- Orin Lorin Junior reassures Danica that they can translate American Sign Language for communication.
-- Sabrina Bryna asks Orin Lorin Junior why he did not go to Orlando for Christmas. He confirms that Danica's parents told each other that he was a “black monkey.”
-- Sabrina Bryna immediately goes into the kitchen and introduces herself to Danica. William and Orin Lorin Junior follow her in, and Orin translates Sabrina Bryna's words for Danica.
-- Sabrina Bryna and William welcome Danica into their family.
-- Sabrina Bryna and William feel sick about the racist incident with Danica's parents. They recognize that Danica is her own person and that she likes Orin Lorin Junior.
+- After her eighteenth birthday, Sabrina Bryna asks Danica to work as a receptionist at Key Porn Studios. Danica is happy to accept because she needs some practice with this type of work.
+- Danica will work on weekends and holidays, including March Break.
+- Before starting, Danica tells her girlfriends Camille Leblanc, Élodie Leblanc, and Amélie Jėgou about her new job.
+
+### First-Day Outline (Draft)
+
+- Before Danica's first Saturday shift, Orin Lorin Junior takes her to Saint-Viateur Bagels to keep their Saturday-morning tradition.
+- Orin Lorin Junior then takes Danica to Key Porn Studios. The vice president for Montreal operations welcomes her and shows her the reception area.
+- The vice president explains the front-desk routines, confidentiality expectations, visitor check-in, phone etiquette, and how to direct questions to the appropriate staff.
+- After Danica arrives at the studio, Orin Lorin Junior goes to the McGill University library to study with his study group.
+- Danica shadows the vice president through the first part of the shift, then practices greeting visitors, answering routine calls, and taking messages with the vice president nearby.
+- Danica handles a straightforward reception task on her own, gaining confidence and useful practice.
+- At the end of the shift, the vice president checks in with Danica about what went well and what she would like to practice next time.
+- After her first day at work, Danica has a second conversation with her girlfriends about her new job.
+
+### Following Saturday
+
+- Orin Lorin Junior and Danica repeat their Saturday-morning routine, stopping at Saint-Viateur Bagels before he takes her to Key Porn Studios. He then goes to the McGill University library to study with his study group.
+- Danica works on her own at the reception desk, meeting porn stars and directing them to their studios.
+- At the end of the day, the vice president of operations asks Danica whether she is free to work on Monday. Danica says yes because it is March Break.
+
+### Monday Shift
+
+- Orin Lorin Junior is happy to take Danica to Key Porn Studios for her Monday shift. They stop at Saint-Viateur Bagels before driving to the studio, then continue to McGill University.
+- When Orin Lorin Junior starts his iPad at McGill, another student looks over his shoulder, sees a photo of Danica wearing her school uniform, and asks whether she is Orin's hot girlfriend.
+- Orin Lorin Junior tells the student, “Xochitl is my lovely girlfriend.” While Orin Lorin Junior and the student talk about their girlfriends, Danica is working at the reception desk.
+- A director is waiting for a porn star who does not arrive for her shoot. He has a sudden idea to cast Danica in the porn movie, and she accepts without calling Sabrina Bryna or Orin Lorin Junior. Sabrina Bryna is in Kyoto, and Orin Lorin Junior is taking an exam.
+- After the shoot, Danica runs out of the studio to Orin Lorin Junior's truck and tells him everything.
+- Orin Lorin Junior tells Danica that he is proud of her for doing the porn movie.
+- Danica asks whether he is certain, explaining that she had to have sex with another man for the film.
+- Orin Lorin Junior reassures her that no matter what she does at the studio, he will still love her very much.
+- While Sabrina Bryna is in Kyoto, someone calls to tell her about a new porn star who did not audition and identifies her as Xochitl.
+- Sabrina Bryna is angry with the director, who knew better, and calls the team to address and fix the problems with Danica's first porn movie.
+- A member of the team watches Danica's unedited movie as part of the review.
 
 ## Alice Springs Christmas Surprise
 
